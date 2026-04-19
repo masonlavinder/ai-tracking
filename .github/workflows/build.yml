@@ -1,0 +1,99 @@
+name: build
+
+# Runs the analysis pipeline, commits processed artifacts back to main,
+# then builds and deploys the static site to GitHub Pages.
+#
+# Trigger on raw-data pushes (including those from scrape.yml) and any
+# change to the analysis or frontend code. Pushes that only touch
+# data/processed/ are NOT listed in `paths` — otherwise this workflow's
+# own commit-back step would re-trigger it.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/raw/**"
+      - "analysis/**"
+      - "frontend/**"
+      - ".github/workflows/build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+          cache-dependency-glob: "analysis/uv.lock"
+
+      - name: Run analysis pipeline
+        working-directory: analysis
+        run: |
+          uv sync --frozen --extra dev
+          uv run python -m analysis.main
+
+      - name: Commit processed data changes
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          git add data/processed
+          if git diff --cached --quiet; then
+            echo "No processed data changes to commit."
+            exit 0
+          fi
+          git pull --rebase --autostash
+          git commit -m "build: refresh processed data"
+          git push
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend deps
+        working-directory: frontend
+        run: npm ci
+
+      - name: Build frontend
+        working-directory: frontend
+        run: npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

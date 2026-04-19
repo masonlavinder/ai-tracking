@@ -46,6 +46,29 @@ npm ci
 npm run dev
 ```
 
+## Automation
+
+Three GitHub Actions workflows live under `.github/workflows/`:
+
+- `scrape.yml` — scheduled daily (06:00 UTC) and manual. Runs every
+  scheduled scraper source (policies, SEC, regulatory, news) and commits
+  new snapshots to `data/raw/`.
+- `build.yml` — triggered by pushes to `data/raw/**`, `analysis/**`, or
+  `frontend/**`. Runs the analysis pipeline, commits `data/processed/`,
+  builds the Vite site, and deploys to GitHub Pages.
+- `backfill.yml` — manual-only. Runs the Wayback Machine backfill for
+  all or selected companies.
+
+### One-time GitHub Pages setup
+
+1. Push `main` to GitHub.
+2. In the repository settings, open **Pages** and set **Source** to
+   **GitHub Actions**.
+3. Trigger `build.yml` from the Actions tab (`workflow_dispatch`) to
+   produce the first deployment.
+
+Subsequent daily scrapes will flow through `build.yml` automatically.
+
 ## Documentation
 
 - [METHODOLOGY.md](./METHODOLOGY.md) — how classification and scoring work

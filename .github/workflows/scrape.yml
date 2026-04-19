@@ -1,0 +1,66 @@
+name: scrape
+
+# Scheduled + manual-dispatch job that pulls fresh data from every scraper
+# and commits anything new under data/raw/ back to main. The follow-up
+# build+deploy workflow is triggered automatically by the resulting push
+# (its path filter watches data/raw/**).
+
+on:
+  schedule:
+    # 06:00 UTC daily (avoids peak US traffic; EDGAR is less busy then).
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Serialize anything that pushes to main so rebases don't fight.
+  group: data-write
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+          cache-dependency-glob: "scrapers/uv.lock"
+
+      - name: Sync scrapers env
+        working-directory: scrapers
+        run: uv sync --frozen --extra dev
+
+      - name: Run scrapers
+        working-directory: scrapers
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          uv run python -m scrapers.main --source policies
+          uv run python -m scrapers.main --source sec --sec-limit 5
+          uv run python -m scrapers.main --source regulatory
+          uv run python -m scrapers.main --source news --news-timespan 7d
+
+      - name: Commit raw data changes
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          git add data/raw
+          if git diff --cached --quiet; then
+            echo "No raw data changes to commit."
+            exit 0
+          fi
+          # Rebase onto latest main in case anything else landed while we ran.
+          git pull --rebase --autostash
+          git commit -m "scrape: update raw data"
+          git push
