@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>FTC Press Releases</title>
+<link>https://www.ftc.gov/news-events/news/press-releases</link>
+<description>Press releases</description>
+<item>
+<title>FTC Announces Enforcement Action Against AI Chatbot Company for Privacy Violations</title>
+<link>https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-ai-chatbot-enforcement</link>
+<pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
+<description>&lt;p&gt;The Federal Trade Commission today announced a settlement with an artificial intelligence chatbot company over alleged violations of consumer privacy and deceptive data practices.&lt;/p&gt;</description>
+</item>
+<item>
+<title>FTC Approves Merger in Grocery Sector</title>
+<link>https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-grocery-merger</link>
+<pubDate>Mon, 03 Mar 2026 09:00:00 -0500</pubDate>
+<description>&lt;p&gt;The Commission approved a merger between two regional grocery chains.&lt;/p&gt;</description>
+</item>
+<item>
+<title>FTC Warns Companies About Biometric Data Collection Practices</title>
+<link>https://www.ftc.gov/news-events/news/press-releases/2026/02/biometric-warning</link>
+<pubDate>Fri, 28 Feb 2026 15:30:00 -0500</pubDate>
+<description>&lt;p&gt;The agency issued new guidance concerning biometric identifiers and facial recognition technology.&lt;/p&gt;</description>
+</item>
+</channel>
+</rss>

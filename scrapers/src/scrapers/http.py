@@ -120,7 +120,12 @@ class PoliteClient:
         host = urlsplit(url).netloc
         self._last_fetch_at[host] = time.monotonic()
 
-    def get(self, url: str) -> httpx.Response:
+    def get(
+        self,
+        url: str,
+        *,
+        params: dict[str, str] | None = None,
+    ) -> httpx.Response:
         """Fetch a URL politely. Raises for robots disallow and HTTP errors."""
         assert self._client is not None, "Use PoliteClient as a context manager"
 
@@ -131,7 +136,7 @@ class PoliteClient:
         for attempt in range(self.max_retries + 1):
             self._wait_for_host(url)
             try:
-                resp = self._client.get(url)
+                resp = self._client.get(url, params=params)
             except httpx.HTTPError as err:
                 last_exc = err
                 self._record_fetch(url)

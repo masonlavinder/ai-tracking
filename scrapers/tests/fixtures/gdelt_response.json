@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "url": "https://www.example.com/meta-ai-privacy-news",
+      "url_mobile": "",
+      "title": "Meta updates privacy policy for generative AI training data",
+      "seendate": "20260315120000",
+      "socialimage": "",
+      "domain": "example.com",
+      "language": "English",
+      "sourcecountry": "United States",
+      "tone": "-1.5"
+    },
+    {
+      "url": "https://www.news2.example.org/facebook-ai-regulation",
+      "url_mobile": "",
+      "title": "Facebook faces new AI regulation in Europe",
+      "seendate": "20260314150000",
+      "domain": "news2.example.org",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "tone": "-3.2"
+    },
+    {
+      "url": "",
+      "title": "Malformed record",
+      "seendate": "20260313"
+    }
+  ]
+}

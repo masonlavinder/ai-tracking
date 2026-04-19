@@ -125,6 +125,75 @@ def _write_snapshot(
     return html_path
 
 
+def save_snapshot_if_changed(
+    *,
+    company: Company,
+    policy: PolicyURL,
+    html_bytes: bytes,
+    date_str: str,
+    root: Path = POLICIES_ROOT,
+    extra_meta: dict[str, object] | None = None,
+) -> SnapshotResult:
+    """Write a snapshot for (company, policy) at `date_str` if content is new.
+
+    Shared by live fetches and Wayback backfill. Deduplicates by comparing
+    the sha256 of `html_bytes` against the most recent prior snapshot (by
+    filename, which sorts chronologically). Also skips if a snapshot file
+    for `date_str` already exists.
+    """
+    url = str(policy.url)
+    policy_dir = root / company.slug / _policy_id(policy)
+
+    if (policy_dir / f"{date_str}.html").exists():
+        return SnapshotResult(
+            company_slug=company.slug,
+            policy_kind=policy.kind,
+            url=url,
+            snapshot_path=None,
+            status="unchanged",
+            detail=f"snapshot for {date_str} already exists",
+        )
+
+    sha256 = _sha256_bytes(html_bytes)
+    prior_hash = _latest_prior_hash(policy_dir)
+    if prior_hash == sha256:
+        return SnapshotResult(
+            company_slug=company.slug,
+            policy_kind=policy.kind,
+            url=url,
+            snapshot_path=None,
+            status="unchanged",
+            detail=f"sha256 matches prior snapshot {prior_hash[:12]}",
+        )
+
+    html = html_bytes.decode("utf-8", errors="replace")
+    text = _extract_text(html)
+    meta: dict[str, object] = {
+        "company_slug": company.slug,
+        "policy_kind": policy.kind,
+        "policy_label": policy.label,
+        "policy_region": policy.region,
+        "url": url,
+        "snapshot_date": date_str,
+        "fetched_at": datetime.now(UTC).isoformat(),
+        "sha256": sha256,
+        "byte_length": len(html_bytes),
+        "text_length": len(text),
+    }
+    if extra_meta:
+        meta.update(extra_meta)
+    path = _write_snapshot(policy_dir, date_str, html_bytes, text, meta)
+    log.info("Wrote snapshot %s", path)
+    return SnapshotResult(
+        company_slug=company.slug,
+        policy_kind=policy.kind,
+        url=url,
+        snapshot_path=path,
+        status="written",
+        detail=f"sha256 {sha256[:12]}",
+    )
+
+
 def fetch_policy(
     client: PoliteClient,
     company: Company,
@@ -140,7 +209,6 @@ def fetch_policy(
     continue with the next policy.
     """
     url = str(policy.url)
-    policy_dir = root / company.slug / _policy_id(policy)
     date_str = (now or datetime.now(UTC)).strftime("%Y-%m-%d")
 
     try:
@@ -166,44 +234,17 @@ def fetch_policy(
             detail=str(err),
         )
 
-    html_bytes = resp.content
-    sha256 = _sha256_bytes(html_bytes)
-    prior_hash = _latest_prior_hash(policy_dir)
-    if prior_hash == sha256:
-        log.info("No change for %s/%s (sha256 match)", company.slug, policy.kind)
-        return SnapshotResult(
-            company_slug=company.slug,
-            policy_kind=policy.kind,
-            url=url,
-            snapshot_path=None,
-            status="unchanged",
-            detail=f"sha256 matches prior snapshot {prior_hash[:12]}",
-        )
-
-    html = html_bytes.decode(resp.encoding or "utf-8", errors="replace")
-    text = _extract_text(html)
-    meta: dict[str, object] = {
-        "company_slug": company.slug,
-        "policy_kind": policy.kind,
-        "policy_label": policy.label,
-        "policy_region": policy.region,
-        "url": url,
-        "fetched_at": datetime.now(UTC).isoformat(),
-        "http_status": resp.status_code,
-        "content_type": resp.headers.get("content-type"),
-        "sha256": sha256,
-        "byte_length": len(html_bytes),
-        "text_length": len(text),
-    }
-    path = _write_snapshot(policy_dir, date_str, html_bytes, text, meta)
-    log.info("Wrote snapshot %s", path)
-    return SnapshotResult(
-        company_slug=company.slug,
-        policy_kind=policy.kind,
-        url=url,
-        snapshot_path=path,
-        status="written",
-        detail=f"sha256 {sha256[:12]}",
+    return save_snapshot_if_changed(
+        company=company,
+        policy=policy,
+        html_bytes=resp.content,
+        date_str=date_str,
+        root=root,
+        extra_meta={
+            "http_status": resp.status_code,
+            "content_type": resp.headers.get("content-type"),
+            "source": "live",
+        },
     )
 
 

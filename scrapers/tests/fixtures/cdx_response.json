@@ -1,0 +1,6 @@
+[
+  ["urlkey", "timestamp", "original", "mimetype", "statuscode", "digest", "length"],
+  ["com,example)/privacy", "20240115120000", "https://example.com/privacy", "text/html", "200", "ABCDE12345", "1024"],
+  ["com,example)/privacy", "20240215090000", "https://example.com/privacy", "text/html", "200", "FGHIJ67890", "1050"],
+  ["com,example)/privacy", "20240315100000", "https://example.com/privacy", "text/html", "200", "ABCDE12345", "1024"]
+]
