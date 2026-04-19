@@ -81,6 +81,12 @@ def _resolve_slugs(raw: str | None) -> list[str] | None:
 
 
 def _run_policies(slugs: list[str] | None) -> int:
+    """Policies run. Individual URL failures are logged, not fatal.
+
+    Returns non-zero only when every URL we tried failed — that suggests a
+    systemic problem (network, auth) worth failing the workflow on. One 403
+    on a Cloudflare-guarded page should not stop the rest.
+    """
     results = fetch_all_policies(slugs)
     written = sum(1 for r in results if r.status == "written")
     unchanged = sum(1 for r in results if r.status == "unchanged")
@@ -93,7 +99,9 @@ def _run_policies(slugs: list[str] | None) -> int:
     for r in results:
         if r.status in ("error", "skipped"):
             print(f"  {r.status} {r.company_slug}/{r.policy_kind}: {r.detail}")
-    return 1 if errors else 0
+    if results and errors == len(results):
+        return 1
+    return 0
 
 
 def _run_sec(slugs: list[str] | None, limit: int | None) -> int:

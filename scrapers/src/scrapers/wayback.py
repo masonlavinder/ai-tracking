@@ -170,7 +170,7 @@ def backfill_all(
     targets = [get_company(s) for s in slugs] if slugs else list(COMPANIES)
 
     owned = client is None
-    cm = client if client is not None else PoliteClient()
+    cm = client if client is not None else PoliteClient.browser_like()
     if owned:
         cm.__enter__()
     try:

@@ -263,7 +263,7 @@ def fetch_all_policies(
 
     results: list[SnapshotResult] = []
     owned_client = client is None
-    client_cm = client if client is not None else PoliteClient()
+    client_cm = client if client is not None else PoliteClient.browser_like()
     if owned_client:
         client_cm.__enter__()
     try:

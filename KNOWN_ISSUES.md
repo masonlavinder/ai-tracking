@@ -32,8 +32,15 @@ Sources and assumptions that are known to be fragile.
 
 ## Privacy policies
 
-- Some policy pages (Instagram / Meta regional variants, Google consent
-  walls) may return bot-wall HTML or 403 on direct fetch. When that happens
-  the snapshot record still contains the wall HTML, which is useless for
-  diffs. If a particular URL is consistently blocked, remove it from the
-  registry and rely on Wayback backfill until a workaround exists.
+- OpenAI, Anthropic, and some Meta pages sit behind Cloudflare and
+  routinely 403 any non-browser User-Agent. The scrapers mitigate this by
+  fetching policy and Wayback URLs with a Chrome-like UA and a full set
+  of typical browser headers (`PoliteClient.browser_like()` in
+  `scrapers/http.py`). EDGAR intentionally keeps the project UA because
+  the SEC requires identifying contact info.
+- A URL that *still* gets blocked (bot walls with JS challenges, IP
+  reputation gating, etc.) will fail with an `error` status in that run.
+  `scrapers.main` logs the failure but exits 0 as long as any URL
+  succeeded. If a URL is consistently blocked, remove it from the
+  registry and rely on Wayback backfill, which is less sensitive to live
+  bot walls because captures come from the Internet Archive.

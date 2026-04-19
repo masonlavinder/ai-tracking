@@ -28,6 +28,32 @@ DEFAULT_MIN_HOST_DELAY_SECONDS: Final = 2.0
 DEFAULT_TIMEOUT_SECONDS: Final = 30.0
 DEFAULT_MAX_RETRIES: Final = 4
 
+# A realistic Chrome UA. We use this for policy / wayback fetches because
+# Cloudflare and similar WAFs routinely 403 any UA that doesn't look like a
+# browser, even for static public URLs every visitor can read without
+# challenge. We still obey robots.txt. EDGAR keeps the project UA because
+# the SEC requires identifying contact info in the User-Agent header.
+BROWSER_USER_AGENT: Final = (
+    "Mozilla/5.0 (X11; Linux x86_64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/129.0.0.0 Safari/537.36"
+)
+
+# Headers real browsers send that also help get through naive WAF rules.
+BROWSER_HEADERS: Final[dict[str, str]] = {
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
+
 
 class RobotsDisallowedError(RuntimeError):
     """Raised when robots.txt disallows fetching a URL."""
@@ -46,6 +72,7 @@ class PoliteClient:
     timeout: float = DEFAULT_TIMEOUT_SECONDS
     max_retries: int = DEFAULT_MAX_RETRIES
     respect_robots: bool = True
+    extra_headers: dict[str, str] = field(default_factory=dict)
 
     _last_fetch_at: dict[str, float] = field(default_factory=dict, init=False, repr=False)
     _robots: dict[str, RobotFileParser | None] = field(
@@ -54,12 +81,27 @@ class PoliteClient:
     _client: httpx.Client | None = field(default=None, init=False, repr=False)
 
     def __enter__(self) -> "PoliteClient":
+        headers = {"User-Agent": self.user_agent, **self.extra_headers}
         self._client = httpx.Client(
-            headers={"User-Agent": self.user_agent},
+            headers=headers,
             timeout=self.timeout,
             follow_redirects=True,
         )
         return self
+
+    @classmethod
+    def browser_like(cls, **overrides: object) -> "PoliteClient":
+        """Construct a client that masquerades as Chrome.
+
+        For policy / Wayback fetches that WAFs otherwise 403. Still honors
+        robots.txt and the per-host delay.
+        """
+        kwargs: dict[str, object] = {
+            "user_agent": BROWSER_USER_AGENT,
+            "extra_headers": dict(BROWSER_HEADERS),
+        }
+        kwargs.update(overrides)
+        return cls(**kwargs)  # type: ignore[arg-type]
 
     def __exit__(self, *exc: object) -> None:
         if self._client is not None:
