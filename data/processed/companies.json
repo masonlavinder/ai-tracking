@@ -1,0 +1,55 @@
+{
+  "companies": [
+    {
+      "latest_snapshot_date": null,
+      "name": "Meta",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0001326801",
+      "slug": "meta",
+      "ticker": "META",
+      "total_changes": 0
+    },
+    {
+      "latest_snapshot_date": null,
+      "name": "OpenAI",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": null,
+      "slug": "openai",
+      "ticker": null,
+      "total_changes": 0
+    },
+    {
+      "latest_snapshot_date": null,
+      "name": "Anthropic",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": null,
+      "slug": "anthropic",
+      "ticker": null,
+      "total_changes": 0
+    },
+    {
+      "latest_snapshot_date": null,
+      "name": "Google",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0001652044",
+      "slug": "google",
+      "ticker": "GOOGL",
+      "total_changes": 0
+    },
+    {
+      "latest_snapshot_date": null,
+      "name": "Microsoft",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0000789019",
+      "slug": "microsoft",
+      "ticker": "MSFT",
+      "total_changes": 0
+    }
+  ],
+  "generated_at": "2026-04-19T22:09:47.006150+00:00"
+}

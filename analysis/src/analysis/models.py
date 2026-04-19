@@ -1,0 +1,104 @@
+"""Pydantic models that cross module boundaries.
+
+These are the canonical shapes the aggregator writes and the frontend
+reads. Keep them explicit and versioned — adding optional fields is fine,
+renaming existing ones is a breaking change.
+"""
+
+from __future__ import annotations
+
+from typing import Literal
+
+from pydantic import BaseModel, Field
+
+SourceType = Literal["policy"]
+
+
+class ParagraphChange(BaseModel):
+    """A single modified paragraph with its before and after text."""
+
+    before: str
+    after: str
+
+
+class ChangeRecord(BaseModel):
+    """One detected change between two policy snapshots."""
+
+    id: str = Field(
+        ...,
+        description="Stable slug: <company>-<policy_id>-<from_date>-<to_date>.",
+    )
+    company_slug: str
+    company_name: str
+    source_type: SourceType
+    policy_kind: str
+    policy_label: str
+    url: str
+    from_date: str  # YYYY-MM-DD
+    to_date: str  # YYYY-MM-DD
+    date: str  # == to_date, kept for easier sorting on the frontend
+    tags: list[str] = Field(default_factory=list)
+    score: int = 0
+    added_paragraphs: list[str] = Field(default_factory=list)
+    removed_paragraphs: list[str] = Field(default_factory=list)
+    modified_paragraphs: list[ParagraphChange] = Field(default_factory=list)
+
+    def summary(self) -> dict[str, int]:
+        return {
+            "added": len(self.added_paragraphs),
+            "removed": len(self.removed_paragraphs),
+            "modified": len(self.modified_paragraphs),
+        }
+
+
+class ChangeSummary(BaseModel):
+    """Lean view of a ChangeRecord for list pages (no full paragraphs)."""
+
+    id: str
+    company_slug: str
+    company_name: str
+    source_type: SourceType
+    policy_kind: str
+    policy_label: str
+    url: str
+    from_date: str
+    to_date: str
+    date: str
+    tags: list[str]
+    score: int
+    added_count: int
+    removed_count: int
+    modified_count: int
+
+    @classmethod
+    def from_change(cls, c: ChangeRecord) -> "ChangeSummary":
+        return cls(
+            id=c.id,
+            company_slug=c.company_slug,
+            company_name=c.company_name,
+            source_type=c.source_type,
+            policy_kind=c.policy_kind,
+            policy_label=c.policy_label,
+            url=c.url,
+            from_date=c.from_date,
+            to_date=c.to_date,
+            date=c.date,
+            tags=list(c.tags),
+            score=c.score,
+            added_count=len(c.added_paragraphs),
+            removed_count=len(c.removed_paragraphs),
+            modified_count=len(c.modified_paragraphs),
+        )
+
+
+class CompanySummary(BaseModel):
+    """Per-company entry in companies.json."""
+
+    slug: str
+    name: str
+    ticker: str | None
+    sec_cik: str | None
+    latest_snapshot_date: str | None
+    total_changes: int
+    recent_change_ids: list[str] = Field(default_factory=list)
+    policies: list[dict[str, str]] = Field(default_factory=list)

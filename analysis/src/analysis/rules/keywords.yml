@@ -1,0 +1,108 @@
+# Rule-based classification dictionary for the AI Privacy Tracker.
+#
+# Each rule emits one tag when any of its regex patterns matches the change
+# text. `require_nearby` adds a co-occurrence check: at least one of the
+# listed terms must also appear in the same paragraph as the pattern match.
+# Used for ambiguous keywords (e.g. "training" is only interesting when it's
+# AI / model training, not employee training).
+#
+# Patterns use Python regex, matched case-insensitively and with word
+# boundaries applied by the classifier.
+
+rules:
+  - tag: ai-training-expansion
+    description: New language permitting data use for AI / model training.
+    require_nearby:
+      - AI
+      - artificial intelligence
+      - model
+      - generative
+      - machine learning
+      - LLM
+    patterns:
+      - "train(?:ing|ed)?"
+      - "to train (?:our|the)"
+      - "improve (?:our|the) (?:models?|AI|systems?)"
+      - "foundation models?"
+      - "large language models?"
+
+  - tag: ai-training-restriction
+    description: New opt-out or restriction on AI training uses.
+    patterns:
+      - "opt[- ]?out of (?:AI|model|generative|training)"
+      - "(?:will not|do not) use.*(?:to train|for training)"
+      - "restrict.*(?:AI|generative|training)"
+      - "exclude.*(?:from training|from model)"
+
+  - tag: data-retention-change
+    description: Mentions of retention periods or data deletion windows.
+    patterns:
+      - "retain(?:ed|ing)?.{0,60}(?:\\d+\\s*(?:days?|weeks?|months?|years?))"
+      - "retention period"
+      - "delete(?:d)?.{0,40}(?:\\d+\\s*(?:days?|months?|years?))"
+      - "(?:keep|store).{0,40}(?:\\d+\\s*(?:days?|months?|years?))"
+
+  - tag: third-party-sharing
+    description: Changes to third-party sharing language.
+    patterns:
+      - "third[- ]part(?:y|ies)"
+      - "(?:share|disclose|sell).{0,40}(?:partners?|advertisers?|affiliates?)"
+      - "service providers?"
+
+  - tag: regional-carveout
+    description: EU / California / other jurisdiction-specific language.
+    patterns:
+      - "European (?:Union|Economic Area)"
+      - "\\bEU\\b"
+      - "\\bEEA\\b"
+      - "\\bGDPR\\b"
+      - "California (?:Consumer|residents?)"
+      - "\\bCCPA\\b"
+      - "\\bCPRA\\b"
+      - "United Kingdom"
+      - "\\bUK\\s+GDPR"
+      - "\\bLGPD\\b"
+
+  - tag: dm-private-content
+    description: Private messages, DMs, or private content mentions.
+    patterns:
+      - "direct messages?"
+      - "\\bDMs?\\b"
+      - "private (?:message|content|conversation)s?"
+      - "one[- ]to[- ]one chats?"
+
+  - tag: biometric-facial
+    description: Biometric identifiers or facial recognition.
+    patterns:
+      - "biometric"
+      - "facial recognition"
+      - "face (?:recognition|template|embedding|scan)"
+      - "voice ?prints?"
+      - "fingerprints?"
+
+  - tag: minors
+    description: Child / minor / age-gated language.
+    patterns:
+      - "\\bminors?\\b"
+      - "children"
+      - "\\bteens?\\b"
+      - "under\\s+(?:13|16|18)"
+      - "\\bCOPPA\\b"
+      - "age[- ]appropriate"
+
+  - tag: opt-out-mechanism
+    description: Introduction of or changes to opt-out controls.
+    patterns:
+      - "opt[- ]?out"
+      - "unsubscribe"
+      - "turn off.{0,40}(?:settings|personalization|AI)"
+      - "you can (?:disable|turn off|manage)"
+      - "privacy controls?"
+
+  - tag: encryption-change
+    description: Encryption / end-to-end encryption language changes.
+    patterns:
+      - "end[- ]to[- ]end (?:encrypt|encryption)"
+      - "\\bE2EE\\b"
+      - "encrypt(?:ed|ion) at rest"
+      - "encrypt(?:ed|ion) in transit"
