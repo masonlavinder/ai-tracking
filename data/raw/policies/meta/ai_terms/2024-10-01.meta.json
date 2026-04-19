@@ -1,0 +1,17 @@
+{
+  "byte_length": 387452,
+  "company_slug": "meta",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:21:17.285529+00:00",
+  "http_status": 200,
+  "policy_kind": "ai_terms",
+  "policy_label": "Meta Generative AI Terms",
+  "policy_region": null,
+  "sha256": "6f4b0e69d010f57f82e153b0b3dd320ac820f4770a3c714b4a9a3ce3c67ea9b6",
+  "snapshot_date": "2024-10-01",
+  "source": "wayback",
+  "text_length": 929,
+  "url": "https://www.facebook.com/privacy/genai/",
+  "wayback_digest": "7SIEUFZGOTGHQAORSIZAC5XKZSNBBPSU",
+  "wayback_timestamp": "20241001165509"
+}

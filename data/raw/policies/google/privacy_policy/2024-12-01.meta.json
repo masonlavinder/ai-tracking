@@ -1,0 +1,17 @@
+{
+  "byte_length": 306838,
+  "company_slug": "google",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:27:54.434638+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Google Privacy Policy",
+  "policy_region": null,
+  "sha256": "9c37a24f2c976a332d5dfb19f2d332731669fdcf58b04de313bdf1fd017bbcf2",
+  "snapshot_date": "2024-12-01",
+  "source": "wayback",
+  "text_length": 61167,
+  "url": "https://policies.google.com/privacy",
+  "wayback_digest": "UVO6ZSQPMODEJCCFSZR35EF3CEIMKH2R",
+  "wayback_timestamp": "20241201000607"
+}

@@ -1,0 +1,17 @@
+{
+  "byte_length": 281119,
+  "company_slug": "microsoft",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:31:31.705521+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "Microsoft Services Agreement",
+  "policy_region": null,
+  "sha256": "43d81d247d55dc08762c3df72a5e2e25aec12e76391ccc11d5e138b15d951e89",
+  "snapshot_date": "2025-04-01",
+  "source": "wayback",
+  "text_length": 113542,
+  "url": "https://www.microsoft.com/en-us/servicesagreement",
+  "wayback_digest": "INMQS3SUYOZKLMJIWBNU6HMOLQBNBJLP",
+  "wayback_timestamp": "20250401005052"
+}

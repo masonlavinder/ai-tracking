@@ -1,0 +1,17 @@
+{
+  "byte_length": 503905,
+  "company_slug": "google",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:29:55.434984+00:00",
+  "http_status": 200,
+  "policy_kind": "ai_terms",
+  "policy_label": "Google Generative AI Additional Terms",
+  "policy_region": null,
+  "sha256": "35309b5cd5c174072022cab1d6f43d5e7d948b0d0c44aea5d1e8591ef969ee3b",
+  "snapshot_date": "2025-12-01",
+  "source": "wayback",
+  "text_length": 2063,
+  "url": "https://policies.google.com/terms/generative-ai",
+  "wayback_digest": "IBEH3WZLOSFW5IR6OOFTZCZ4WO6JPYDH",
+  "wayback_timestamp": "20251201000403"
+}

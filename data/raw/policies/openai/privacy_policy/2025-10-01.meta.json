@@ -1,0 +1,17 @@
+{
+  "byte_length": 317245,
+  "company_slug": "openai",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:22:53.425267+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "OpenAI Privacy Policy",
+  "policy_region": null,
+  "sha256": "d35288ddfa4c512fbefb3af8ad9ad200ed5413ac97aace6188a72596048c85a4",
+  "snapshot_date": "2025-10-01",
+  "source": "wayback",
+  "text_length": 16730,
+  "url": "https://openai.com/policies/row-privacy-policy/",
+  "wayback_digest": "HBCLMYA24F7PUFSD37YDQBG7MUETI63D",
+  "wayback_timestamp": "20251001074525"
+}

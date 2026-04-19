@@ -1,0 +1,17 @@
+{
+  "byte_length": 1746311,
+  "company_slug": "meta",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:20:17.853081+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Meta Privacy Policy",
+  "policy_region": null,
+  "sha256": "d776608aaca6e3ae62f7d671947dd25e20030481d9b5c969d4ec10c00c2fb9b7",
+  "snapshot_date": "2025-04-01",
+  "source": "wayback",
+  "text_length": 27904,
+  "url": "https://www.facebook.com/privacy/policy/",
+  "wayback_digest": "KSQRNT6QD3JVYNLV3SDZLQEOTSSI5VKG",
+  "wayback_timestamp": "20250401173350"
+}

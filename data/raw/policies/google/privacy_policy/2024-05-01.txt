@@ -1,0 +1,385 @@
+Zásady ochrany soukromí Google
+Když používáte naše služby, svěřujete nám své údaje. Chápeme, že se jedná o velkou zodpovědnost, a usilovně pracujeme na tom, abychom vaše údaje ochránili a umožnili vám je spravovat.
+V těchto zásadách ochrany soukromí zjistíte, jaké údaje shromažďujeme, proč je shromažďujeme a jak je můžete aktualizovat, spravovat, exportovat a vymazat.
+Obsah
+Vytváříme škálu služeb, které denně pomáhají milionům lidí novým způsobem prozkoumat celý svět a komunikovat s ním. Mezi naše služby patří:
+- aplikace, weby a zařízení Google, jako je Vyhledávání, YouTube a Google Home,
+- platformy jako prohlížeč Chrome nebo operační systém Android,
+- Služby integrované do aplikací a webů třetích stran, jako například reklamy, analytické služby nebo vložené Mapy Google
+Pomocí našich služeb můžete své soukromí spravovat různými způsoby. Například pokud chcete vytvářet a spravovat obsah, jako jsou e-maily a fotky, nebo zobrazovat relevantnější výsledky vyhledávání, můžete si založit účet Google. Řadu služeb Google, jako je vyhledávání na Googlu nebo sledování videí YouTube, můžete používat i při odhlášení nebo když účet vůbec nemáte. Můžete také procházet internet soukromě, například v anonymním režimu Chrome, aby se ostatní uživatelé vašeho zařízení nedozvěděli, co si prohlížíte. V našich službách můžete nastavit ochranu soukromí a určit, jaké typy dat budeme shromažďovat a jak je budeme moci využívat.
+Abychom vše co nejsrozumitelněji vysvětlili, přidali jsme příklady, vysvětlující videa a definice nejdůležitějších výrazů. Budete-li k těmto zásadám ochrany soukromí mít jakékoli dotazy, kontaktujte nás.
+Jaké údaje Google shromažďuje
+Chceme, abyste věděli, jaké typy informací shromažďujeme, když naše služby používáte
+Informace shromažďujeme proto, abychom mohli všem našim uživatelům poskytovat lepší služby – od určení jednoduchých věcí, jako je jazyk, kterým mluvíte, až po věci složitější, například reklamy, které pro vás budou nejužitečnější, lidé, o které se na webu nejvíce zajímáte, nebo která videa YouTube by se vám mohla líbit. Informace, které Google shromažďuje, a způsob jejich využití závisí na tom, jak naše služby využíváte a jakým způsobem spravujete nastavení ochrany soukromí.
+Když nejste přihlášeni k účtu Google, shromažďované údaje ukládáme za pomoci unikátních identifikátorů spojených s prohlížečem, aplikací nebo zařízením, které používáte. Pomocí nich dokážeme například uložit vaše předvolby pro účely dalších návštěv, například preferovaný jazyk nebo to, zda se vám mají zobrazovat relevantnější výsledky vyhledávání či reklamy založené na vaší aktivitě.
+Když jste přihlášeni, shromažďujeme také informace, které ukládáme do vašeho účtu Google a se kterými nakládáme jako s osobními údaji.
+Věci, které vytváříte nebo nám poskytujete
+Když si vytvoříte účet Google, poskytnete nám své osobní údaje, které zahrnují vaše jméno a heslo. Do účtu můžete zadat také telefonní číslo nebo platební údaje. I když k účtu Google nejste přihlášeni, můžete se rozhodnout nám poskytnout informace, jako je e-mailová adresa, pomocí které budete s Googlem komunikovat nebo na kterou vám budeme zasílat aktuální informace o našich službách.
+Shromažďujeme také obsah, který při používání našich služeb vytvoříte, nahrajete nebo obdržíte od ostatních. Patří sem například napsané nebo obdržené e-maily, uložené fotky a videa, vytvořené dokumenty a tabulky nebo komentáře přidané k videím na YouTube.
+Informace, které shromažďujeme, když používáte naše služby
+Vaše aplikace, prohlížeče a zařízení
+Shromažďujeme informace o aplikacích, prohlížečích a zařízeních, ve kterých používáte služby Google. Na základě těchto informací vám totiž poskytujeme funkce jako automatické aktualizace služeb nebo ztlumení obrazovky, když vám dochází baterie.
+Mezi shromažďované informace patří unikátní identifikátory, typ a nastavení prohlížeče, typ a nastavení zařízení, operační systém, údaje o mobilní síti včetně názvu operátora a telefonního čísla a také číslo verze aplikace. Také shromažďujeme informace o interakci vašich aplikací, prohlížečů a zařízení s našimi službami, včetně IP adresy, zpráv o selhání, aktivity systému a data, času a URL odkazujícího zdroje vašeho požadavku.
+Tyto informace shromažďujeme, když služba Google ve vašem zařízení kontaktuje naše servery, tedy například, když nainstalujete aplikaci z Obchodu Play nebo když služba kontroluje dostupnost automatických aktualizací. Pokud používáte zařízení Android s aplikacemi Google, vaše zařízení pravidelně kontaktuje servery Google a poskytuje informace o zařízení a připojení k našim službám. Mezi tyto informace patří typ zařízení, název operátora, zprávy o selhání a nainstalované aplikace. V závislosti na nastavení zařízení mohou být zahrnuty také další informace, jak zařízení Android používáte.
+Vaše aktivita
+Informace o aktivitě v našich službách shromažďujeme, abychom vám mohli například doporučit video YouTube, které by se vám mohlo líbit. Mezi shromažďované informace o aktivitě patří tyto:
+- vyhledávané dotazy,
+- přehraná videa,
+- zobrazení obsahu a reklam a interakce s nimi,
+- Informace o hlasu a zvuku
+- aktivita při nákupech,
+- lidé, se kterými komunikujete nebo sdílíte obsah,
+- aktivita na webech a aplikacích třetích stran, které využívají naše služby,
+- historie prohlížení Chromu, kterou jste synchronizovali se svým účtem Google.
+Pokud pomocí našich služeb uskutečňujete a přijímáte hovory nebo odesíláte a přijímáte zprávy, můžeme shromažďovat informace z protokolu telefonování a zpráv, jako je vaše telefonní číslo, číslo volajícího, číslo volaného, čísla přesměrování, e-mailové adresy odesílatele a příjemce, čas a datum hovorů a zpráv, trvání hovorů, údaje o směrování a typy a počty hovorů a zpráv.
+Informace o aktivitě ukládané do vašeho účtu naleznete ve svém účtu Google, kde je můžete také spravovat.
+Informace o vaší poloze
+Informace o vaší poloze shromažďujeme, když používáte naše služby. Na základě těchto informací vám poskytujeme funkce, jako je trasa jízdy, výsledky vyhledávání věcí ve vašem okolí a reklamy založené na vaší poloze.
+V závislosti na produktech, které používáte, a na nastaveních, která jste zvolili, může společnost Google používat různé typy informací o poloze, aby vám pomohla zvýšit užitečnost některých služeb a produktů, které používáte. Patří mezi ně:
+- GPS a další data senzorů z vašeho zařízení
+- IP adresa
+- Aktivita ve službách Google, jako je vyhledávání a místa označená jako domov nebo práce
+- informace o objektech poblíž vašeho zařízení, například přístupových bodech Wi-Fi, vysílačích mobilní sítě nebo zařízeních s aktivovaným rozhraním Bluetooth.
+Typy shromažďovaných údajů o poloze a délka jejich uložení závisí částečně také na nastavení zařízení a účtu. Například pomocí aplikace Nastavení v zařízení Android můžete zapnout nebo vypnout zjišťování polohy zařízení. Chcete-li vytvářet soukromou mapu míst, která jste navštívili, když jste byli přihlášeni ve svých zařízeních, můžete zapnout také Historii polohy. Pokud je zapnutá Aktivita na webu a v aplikacích, do vašeho účtu Google se ukládá také vaše vyhledávání a další aktivita ze služeb Google, která může zahrnovat i informace poloze, Přečtěte si další informace o tom, jak používáme údaje o poloze.
+Za určitých okolností o vás Google shromažďuje údaje z veřejně přístupných zdrojů. Pokud se například vaše jméno objeví v místních novinách, vyhledávač Googlu může příslušný článek indexovat a zobrazit ostatním uživatelům, kteří budou vyhledávat vaše jméno. Informace o vás můžeme shromažďovat také od důvěryhodných partnerů, například od katalogových služeb, které nám poskytují informace o firmách, jež se zobrazují ve službách společnosti Google, od marketingových partnerů, kteří nám poskytují informace o potenciálních zákaznících našich obchodních služeb, a bezpečnostních partnerů, kteří nám poskytují informace za účelem ochrany před zneužitím. Informace dostáváme také od partnerů, abychom jejich jménem mohli poskytovat reklamní a výzkumné služby.
+Ke shromažďování a ukládání informací používáme různé technologie, včetně souborů cookie, pixelových značek, místního úložiště, jako je webové úložiště prohlížeče nebo mezipaměti dat aplikací, databází a protokolů serverů.
+Proč Google údaje shromažďuje
+Údaje využíváme ke zdokonalování služeb
+Informace, které shromažďujeme ze všech našich služeb, používáme k těmto účelům:
+Poskytování služeb
+Vaše informace využíváme k poskytování služeb, jako je zpracování vyhledávaných dotazů za účelem zobrazení výsledků nebo pomoc se sdílením obsahu tím, že navrhujeme příjemce z vašeho seznamu kontaktů.
+Údržba a zdokonalování služeb
+Na základě vašich informací také zajišťujeme, aby naše služby fungovaly, jak mají, například sledujeme výpadky nebo odstraňujeme problémy, které nám nahlásíte. Vaše informace navíc využíváme k vylepšování služeb – například když zjistíme, které vyhledávací dotazy nejčastěji obsahují překlepy, můžeme zdokonalit funkce kontroly pravopisu používané v našich službách.
+Vývoj nových služeb
+Informace, které shromažďujeme v rámci stávajících služeb, nám pomáhají s vývojem nových služeb. Například s navržením a spuštěním služby Fotky Google nám pomohlo, když jsme zjistili, jak si uživatelé uspořádávají fotky v aplikaci Picasa, což byla první aplikace od Googlu pro správu fotek.
+Poskytování personalizovaných služeb, včetně obsahu a reklam
+Shromažďované informace používáme k přizpůsobení služeb vašim potřebám, včetně poskytování doporučení, personalizovaného obsahu a přizpůsobených výsledků vyhledávání. Například Kontrola zabezpečení přináší bezpečnostní tipy přizpůsobené tomu, jak používáte služby Google. Služba Google Play vám na základě informací, jako jsou aplikace, které máte nainstalovány, nebo videa, která jste sledovali na YouTube, navrhuje nové aplikace, které by se vám mohly líbit.
+V závislosti na nastavení se vám také mohou zobrazovat personalizované reklamy, které vychází z vašich zájmů a aktivity ve službách Google. Například pokud zadáte dotaz „horská kola“, může se vám zobrazit reklama na sportovní vybavení na YouTube. Informace, na základě kterých vám reklamy zobrazujeme, můžete upravit v nastavení reklam v Mém centru reklam.
+- Personalizované reklamy nezobrazujeme na základě citlivých kategorií, jako je rasa, náboženství, sexuální orientace nebo zdravotní stav.
+- Nezobrazujeme personalizované reklamy na základě vašeho obsahu na Disku, v Gmailu nebo ve Fotkách.
+- Pokud nás o to nepožádáte, nebudeme s inzerenty sdílet informace, které umožňují zjištění totožnosti, jako je vaše jméno nebo e-mail. Například pokud se vám zobrazí reklama na blízké květinářství a vyberete tlačítko „volání klepnutím“, zařídíme spojení hovoru a můžeme s květinářstvím sdílet vaše telefonní číslo.
+Měření výkonu
+Data používáme pro účely statistik a měření, abychom pochopili, jak jsou naše služby využívány. Například analyzujeme údaje o vašich návštěvách našich webů za účelem aktivit, jako je optimalizace vzhledu služeb. Využíváme také údaje o reklamách, na které reagujete (včetně související aktivity ve Vyhledávání Google), abychom inzerentům pomohli zjistit, jak si jejich reklamní kampaně vedou. Pro tyto účely používáme nejrůznější nástroje včetně služby Google Analytics. Když navštívíte web nebo použijete aplikaci využívající Google Analytics, zákazník Google Analytics může Googlu povolit propojení údajů o vaší aktivitě na daném webu nebo v aplikaci s aktivitou z jiných webů nebo aplikací, které používají naše reklamní služby.
+Komunikace s vámi
+Informace, které shromažďujeme, například e-mailovou adresu, používáme, abychom vás mohli přímo kontaktovat. Například vám můžeme odeslat oznámení, když zjistíme podezřelou aktivitu, jako je přihlášení k vašemu účtu Google z neobvyklého místa. Případně vás můžeme informovat o připravovaných změnách a vylepšeních našich služeb. A když kontaktujete společnost Google, ponecháme si záznam o vašem požadavku, abychom vám byli schopni pomoci při řešení jakýchkoli případných problémů.
+Ochrana Googlu, našich uživatelů i veřejnosti
+Na základě shromažďovaných osobních údajů vylepšujeme zabezpečení a spolehlivost našich služeb. Patří sem odhalování, prevence a reagování na podvody, zneužití, bezpečnostní rizika a technické problémy, které by mohly poškodit Google, naše uživatele nebo veřejnost.
+Ke zpracování informací za těmito účely používáme různé technologie. Pomocí automatizovaných systémů analyzujeme obsah, abychom vám mohli poskytovat například výsledky vyhledávání, personalizované reklamy nebo další funkce, které se přizpůsobují podle toho, jakým způsobem používáte naše služby. Obsah také analyzujeme za účelem zjišťování zneužití, jako je spam, malware a nelegální obsah. Využíváme také algoritmy, pomocí kterých v datech rozpoznáváme vzory. Například Překladač Google pomáhá uživatelům komunikovat v různých jazycích tím, že ve slovních obratech, které chcete přeložit, zjišťuje obvyklé vzory daného jazyka.
+Informace, které shromáždíme, můžeme používat pro účely popsané výše v našich službách a ve vašich zařízeních. Například pokud na YouTube sledujete videa kytaristů, v závislosti na nastavení se vám může zobrazit reklama na lekci hry na kytaru z webu, který používá naše reklamní služby. V závislosti na nastavení vašeho účtu může být k vašim osobním údajům přidružena vaše aktivita na jiných webech a v jiných aplikacích, která pak může být používána ke zlepšování služeb Google a reklam zobrazovaných společností Google.
+Pokud již ostatní uživatelé mají vaši e-mailovou adresu nebo jiné údaje, které vás identifikují, můžeme jim zobrazit vaše veřejně viditelné údaje z účtu Google, jako je jméno nebo fotografie. Tím jim pomůžeme například rozpoznat e-mail, který jste jim poslali.
+Před použitím informací za účelem, který není uveden v těchto zásadách ochrany osobních údajů, vás vždy požádáme o souhlas.
+Nastavení ochrany soukromí
+Nad typem shromažďovaných informací a způsobem jejich využití máte kontrolu
+Tato sekce popisuje hlavní ovládací prvky, kterými lze v našich službách spravovat ochranu soukromí. Můžete také přejít na stránku Kontrola ochrany soukromí, kde je možné důležitá nastavení ochrany soukromí zkontrolovat a upravit. Kromě těchto nástrojů nabízíme v jednotlivých službách také konkrétní nastavení ochrany soukromí – další informace naleznete v Průvodci ochranou soukromí ve službách Google.
+Správa, kontrola a aktualizace vašich údajů
+Když jste přihlášeni, můžete informace kdykoli zkontrolovat a aktualizovat ve službách, které používáte. Například Fotky a Disk vám mají pomáhat se správou konkrétního typu obsahu, který si na Google uložíte.
+Vytvořili jsme také místo, kde můžete kontrolovat a nastavit informace uložené do vašeho účtu Google. Účet Google zahrnuje tato nastavení:
+Nastavení ochrany soukromí
+Ovládací prvky aktivity
+Rozhodněte, které typy aktivity chcete do účtu ukládat. Například pokud máte zapnutou historii YouTube, sledovaná videa a vyhledávané položky se ukládají do účtu, abyste mohli dostávat lepší doporučení a pokračovat od místa, kde jste přestali. Pokud je zapnutá Aktivita na webu a v aplikacích, do účtu Google se ukládá také vaše vyhledávání a další aktivita ze služeb Google, abychom vám mohli poskytovat více personalizované služby, jako je rychlejší vyhledávání a užitečnější doporučení aplikací a obsahu. Aktivita na webu a v aplikacích má také dílčí ovládání, které umožňuje určit, zda se budou do účtu Google ukládat údaje o vaší aktivitě na webech, v aplikacích a v zařízeních třetích stran, které využívají služby Google (například v aplikacích, které nainstalujete a používáte v zařízení se systémem Android), a zda se tyto údaje budou moci používat k vylepšování služeb Google.
+Nastavení reklam
+Spravujte, jak vám mají být zobrazovány reklamy na Googlu a na dalších webech a v aplikacích, které jsou partnery Googlu. Můžete si upravit zájmy, zvolit, zda vám budou reklamy přizpůsobovány na základě osobních údajů, a zapnout či vypnout konkrétní reklamní služby.
+Weby a aplikace, které využívají služby Google
+Spravujte údaje, které mohou sdílet s Googlem weby a aplikace využívající služby Google, například Google Analytics, když navštívíte jejich služby nebo s nimi komunikujete.
+Způsoby kontroly a aktualizace údajů
+Moje aktivita
+Stránka Moje aktivita umožňuje zkontrolovat a spravovat data, která se ukládají do vašeho účtu Google, když jste přihlášeni a používáte služby Google, například zadané vyhledávací dotazy nebo návštěvy služby Google Play. Aktivitu můžete procházet podle data nebo tématu a částečně či úplně ji smazat.
+Když jste odhlášeni, můžete spravovat údaje přidružené k vašemu prohlížeči nebo zařízení, včetně těchto:
+- Personalizace vyhledávání při odhlášení: Zvolte, zda bude vaše vyhledávací aktivita sloužit k poskytování relevantnějších výsledků a doporučení.
+- Nastavení YouTube: Pozastavte a smažte svou historii vyhledávání YouTube a historii sledování YouTube.
+- Nastavení reklam: Spravujte, jak vám mají být zobrazovány reklamy na Googlu a na dalších webech a v aplikacích, které jsou partnery Googlu.
+Export, odstranění a smazání informací
+Chcete-li svá data zálohovat nebo je použít s jinou službou mimo Google, můžete kopii obsahu ze svého účtu Google exportovat.
+Chcete-li informace smazat, máte tyto možnosti:
+- Smazat obsah z konkrétních služeb Google.
+- Vyhledat konkrétní položky a poté je z účtu vymazat pomocí stránky Moje aktivita.
+- Smazat konkrétní služby Google, včetně vašich informací přidružených k těmto službám.
+- Smazat celý účet Google.
+Správce neaktivních účtů umožňuje udělit určité osobě přístup k částem vašeho účtu Google pro případ, že byste účet neočekávaně nebyli schopni použít.
+Také můžete na základě příslušného právního předpisu nebo našich zásad požádat o odstranění obsahu z konkrétních služeb Google.
+Informace, které Google shromažďuje, když jste k účtu Google přihlášeni nebo z něj odhlášeni, lze spravovat také dalšími způsoby včetně těchto:
+- Nastavení prohlížeče: Prohlížeč můžete nakonfigurovat například tak, aby hlásil, když Google v prohlížeči nastaví soubor cookie. Prohlížeč můžete nakonfigurovat také tak, aby blokoval všechny soubory cookie z konkrétní domény nebo ze všech domén. Připomínáme však, že naše služby ke správnému fungování potřebují soubory cookie, například k zapamatování jazykových nastavení.
+- Nastavení na úrovni zařízení: Vaše zařízení může obsahovat ovládací prvky, které určují, jaké informace budeme shromažďovat. Například v zařízení Android můžete upravit nastavení polohy.
+Sdílení vašich údajů
+Kdy sdílíte své informace
+Mnoho našich služeb vám umožňuje sdílet informace s ostatními a nad sdíleným obsahem máte kontrolu. Například videa na YouTube můžete sdílet veřejně nebo je nastavit jako soukromá. Připomínáme, že když sdílíte informace veřejně, obsah může být dostupný prostřednictvím vyhledávačů, včetně Vyhledávání Google.
+Když jste přihlášeni a pracujete s určitými službami Google, například napíšete komentáře k videu na YouTube nebo napíšete recenzi k aplikaci ve službě Play, vedle příslušné aktivity se zobrazí vaše jméno a fotka. V závislosti na nastavení sdílených doporučení můžeme tyto informace zobrazovat také v reklamách.
+Kdy Google sdílí vaše informace
+Osobní údaje nesdílíme se společnostmi, organizacemi ani jednotlivci mimo společnost Google, pokud nedojde k jednomu z následujících případů:
+S vaším souhlasem
+Osobní údaje budeme sdílet mimo společnost Google, jen když k tomu budeme mít váš souhlas. Například když pomocí služby Google Home vytvoříte rezervaci u některé rezervační služby, vyžádáme si váš souhlas před tím, než budeme s restaurací sdílet vaše jméno nebo telefonní číslo. Nabízíme také ovládací prvky pro kontrolu a správu aplikací a webů třetích stran, kterým jste udělili přístup k údajům ve svém účtu Google. Požádáme vás o výslovný souhlas se sdílením jakýchkoli zvláštních kategorií osobních údajů.
+S administrátory domén
+Pokud jste student nebo pracujete pro organizaci, která využívá služby Google, k vašemu účtu Google bude mít přístup administrátor domény a distributoři, kteří váš účet spravují. Mohou provádět následující činnosti:
+- Zobrazovat a uchovávat informace uložené ve vašem účtu, například e-mail.
+- Zobrazovat statistiky týkající se účtu, například kolik aplikací nainstalujete.
+- Změnit heslo vašeho účtu.
+- Pozastavit nebo ukončit vám přístup do účtu.
+- Získat informace o vašem účtu za účelem dodržení platného zákona, nařízení, právního řízení nebo vymahatelné žádosti státní správy.
+- Omezit vám možnost vymazání či úpravy informací nebo nastavení ochrany soukromí.
+Za účelem externího zpracování
+Osobní údaje poskytujeme spřízněným subjektům nebo jiným důvěryhodným firmám či osobám, aby je pro nás mohli zpracovat na základě našich pokynů a v souladu s našimi zásadami ochrany soukromí a dalšími příslušnými opatřeními ohledně důvěrnosti a zabezpečení. Poskytovatelé služeb nám například pomáhají se správou datových center, distribucí produktů a služeb, vylepšováním interních podnikových procesů a poskytováním podpory zákazníkům a uživatelům. Poskytovatelé služeb nám dále pomáhají s kontrolou videoobsahu YouTube s cílem zajistit bezpečné prostředí pro veřejnost a s analýzou a poslechem ukázek uložených zvukových záznamů od uživatelů za účelem vylepšování technologií rozpoznávání zvuku Google.
+Z právních důvodů
+Osobní údaje sdílíme mimo společnost Google, pokud jsme v dobré víře přesvědčeni, že je to rozumně nutné za účelem:
+- Dodržování platných a účinných zákonů či nařízení, projednávání právního řízení nebo vymahatelných žádostí orgánů veřejné moci. Informace o počtu a typech žádostí, které dostáváme od orgánů veřejné moci, sdílíme v naší službě Transparency Report.
+- Uplatnění příslušných smluvních podmínek včetně vyšetření jejich možného porušení.
+- Zjištění, zabránění nebo jiného postupu proti podvodu, technickým potížím či bezpečnostním problémům.
+- Ochrany před poškozením práv, majetku nebo bezpečnosti společnosti Google, našich uživatelů nebo veřejnosti.
+Údaje, které neumožňují zjištění totožnosti, můžeme sdílet veřejně i se svými partnery – například s majiteli stránek, inzerenty, vývojáři nebo vlastníky práv. Údaje veřejně sdílíme například za účelem zobrazení trendů souvisejících s obecným používáním našich služeb. Konkrétním partnerům také umožňujeme shromažďovat údaje z prohlížeče nebo zařízení za účelem inzerce a měření pomocí vlastních souborů cookie nebo podobných technologií.
+Pokud se společnost Google zúčastní fúze či akvizice nebo prodá svůj majetek, zajistíme i následně důvěrnost všech osobních údajů a předtím, než budou osobní údaje přeneseny nebo se na ně začnou vztahovat jiné zásady ochrany osobních údajů, tuto skutečnost dotyčným uživatelům oznámíme.
+Zabezpečení vašich údajů
+Naše služby obsahují zabezpečení, kterými chráníme vaše údaje
+Všechny služby Google mají integrované bezpečnostní funkce, které vaše údaje nepřetržitě chrání. Statistiky, které získáváme při správě služeb, nám pomáhají zjišťovat a automaticky blokovat bezpečností hrozby, aby se k vám vůbec nedostaly. Pokud odhalíme něco nebezpečného, o čem byste podle nás měli vědět, informujeme vás o tom a pomůžeme vám zajistit lepší ochranu.
+Usilovně pracujeme na tom, abychom vás i Google ochránili před neoprávněným přístupem, pozměňováním, zveřejněním nebo zničením informací, které uchováváme. Zejména:
+- Pomocí šifrování uchováváme vaše data během přenosu v soukromí.
+- Nabízíme celou řadu bezpečnostních funkcí, jako je Bezpečné prohlížení, Kontrola zabezpečení a dvoufázové ověření, které vám pomáhají s ochranou účtu.
+- Procesy shromažďování, ukládání a zpracovávání informací včetně fyzického zabezpečení pečlivě kontrolujeme, abychom předešli neoprávněnému přístupu do našich systémů.
+- Přístup k osobním údajům omezujeme pouze na zaměstnance společnosti Google, smluvní partnery a zástupce, kteří tyto údaje potřebují znát, aby je pro nás mohli zpracovat. Osoby s tímto přístupem jsou smluvně vázány přísnými povinnostmi zachovávat důvěrnost a v případě porušení tohoto závazku může dojít k jejich potrestání či k ukončení spolupráce.
+Export a vymazání vašich údajů
+Kdykoli můžete kopii svých údajů exportovat nebo údaje z účtu Google smazat
+Chcete-li svá data zálohovat nebo je použít s jinou službou mimo Google, můžete kopii obsahu ze svého účtu Google exportovat.
+Chcete-li informace smazat, máte tyto možnosti:
+- Smazat obsah z konkrétních služeb Google.
+- Vyhledat konkrétní položky a poté je z účtu vymazat pomocí stránky Moje aktivita.
+- Smazat konkrétní služby Google, včetně vašich informací přidružených k těmto službám.
+- Smazat celý účet Google.
+Uchování vašich dat
+Uchováváme data shromážděná za různá období v závislosti na typu dat, způsobu využití a konfigurace nastavení:
+- Některá data můžete kdykoli smazat, například vaše osobní údaje nebo obsah, který vytvoříte nebo nahrajete, například fotky a dokumenty. Můžete také smazat údaje o aktivitě uložené v účtu, případně je nechat smazat automaticky po uplynutí určité doby. Tato data ve vašem účtu Google ponecháme, dokud je neodstraníte nebo dokud se je nerozhodnete nechat odstranit.
+- Jiná data se po uplynutí určité doby smažou nebo anonymizují automaticky (např. reklamní data v protokolech serverů).
+- Některá data uchováváme, dokud nesmažete svůj účet Google, např. údaje o četnosti využívání našich služeb.
+- Některá data uchováváme déle, pokud je to nutné z legitimních obchodních nebo právních důvodů, jako je zabezpečení, předcházení podvodům, zneužití anebo z důvodů uchovávání finančních záznamů.
+Při mazání dat postupujeme v souladu s procesem mazání, abychom zajistili, že budou bezpečně a zcela odstraněna z našich serverů nebo uchována pouze v anonymizované formě. Snažíme se zajistit, aby naše služby chránily informace před náhodným nebo záměrně škodlivým vymazáním. Z tohoto důvodu může docházet k prodlevám mezi okamžikem, kdy něco smažete, a okamžikem, kdy budou kopie smazány z našich aktivních a záložních systémů.
+Můžete si přečíst další informace o době uchování dat v Googlu, včetně doby mazání údajů.
+Dodržování zásad a spolupráce s regulačními orgány
+Tyto zásady ochrany soukromí pravidelně kontrolujeme a zajišťujeme, aby zpracování vašich informací probíhalo v souladu s těmito zásadami.
+Přenosy dat
+Provozujeme servery po celém světě a vaše data mohou být zpracovávána na serverech umístěných mimo zemi, ve které žijete. Právní předpisy na ochranu dat se v různých zemích liší, přičemž některé poskytují větší ochranu než jiné. Bez ohledu na to, kde se vaše informace zpracovávají, používáme stejnou ochranu popsanou v těchto zásadách. Také dodržujeme určité právní rámce související s předáváním osobních údajů.
+Když obdržíme formální písemnou stížnost, budeme osobu, která ji podala, kontaktovat. K vyřešení všech stížností ohledně přenosu dat, které nelze vyřešit přímo s vámi, budeme spolupracovat s příslušnými regulačními orgány včetně místních orgánů pro ochranu osobních údajů.
+Požadavky právních předpisů USA
+Některé zákony na ochranu soukromí na úrovni jednotlivých států USA vyžadují konkrétní zveřejnění.
+Tyto zásady ochrany soukromí popisují, jak Google zpracovává vaše údaje:
+- V sekci Údaje, které Google shromažďuje popisujeme kategorie shromažďovaných údajů a jejich původ.
+- V sekci Proč Google údaje shromažďuje vysvětlujeme, k jakým účelům shromažďujeme a využíváme údaje.
+- V sekci Sdílení vašich údajů popisujeme, za jakých okolností můžeme údaje sdílet. Google vaše osobní údaje neprodává. Google rovněž nesdílí osobní údaje dle definice podle Zákona o ochraně soukromí spotřebitelů v Kalifornii (CCPA).
+- V sekci Uchování vašich dat vysvětlujeme, jak společnost Google uchovává údaje. Přečtěte si také další informace o tom, jak Google anonymizuje data. Jak je uvedeno, když Google anonymizuje data v zájmu ochrany vašeho soukromí, dodržuje zásady a technická opatření, aby nemohlo dojít ke zpětné identifikaci osoby podle údajů.
+Zákony na ochranu soukromí na úrovni jednotlivých států USA také stanoví právo požadovat informace o tom, jak Google shromažďuje, využívá a zveřejňuje vaše údaje. Zároveň vám dávají právo na přístup k vašim údajům a jejich opravu a možnost požádat Google o jejich smazání. Údaje někdy mohou být k dispozici v přenositelném formátu. Mnoho těchto zákonů poskytuje právo na odhlášení od určitých forem profilování a cílené reklamy. Dávají vám také právo nebýt za uplatňování svých práv jakkoli diskriminováni. Zákon CCPA považuje některé typy údajů za citlivé (např. zdravotní údaje). Když uživatelé tyto údaje poskytnou, Google je bude používat pouze pro účely povolené zákonem CCPA, jako je poskytování služeb vyžádaných a očekávaných uživateli.
+V sekci Vaše nastavení ochrany soukromí popisujeme vaše možnosti při správě soukromí a svých údajů ve službách Google. Nástroje umožňují informace zkontrolovat, aktualizovat a smazat, případně si exportovat a stáhnout kopii. Informace, na základě kterých vám reklamy zobrazujeme, můžete spravovat v sekci Moje centrum reklam, kde lze také vypnout personalizované reklamy.
+Když tyto nástroje použijete, žádost ověříme na základě toho, zda jste přihlášeni k účtu Google. Pokud máte otázky nebo požadavky související s vašimi právy dle zákonů na ochranu soukromí na úrovni jednotlivých států USA, vy nebo váš oprávněný zástupce nás můžete kontaktovat. Pokud s rozhodnutím ohledně své žádosti nesouhlasíte, můžete Google požádat o přehodnocení odpovězením na náš e-mail.
+Poskytujeme také další informace o tom, jak Google nakládá se žádostmi na základě zákona CCPA.
+Některé zákony na ochranu soukromí na úrovni jednotlivých států USA vyžadují popis způsobu nakládání s daty v souladu s konkrétními kategoriemi. V této tabulce uvádíme, jak jsou pomocí těchto kategorií uspořádané údaje v těchto zásadách ochrany soukromí.
+Kategorie shromažďovaných údajů
+Identifikátory a podobné údaje, jako je jméno a heslo, telefonní číslo a adresa, případně jedinečné identifikátory spojené s prohlížečem, aplikací nebo zařízením, které používáte. Některé služby Google, například Studio YouTube, umožňují odeslat platný průkaz totožnosti (například cestovní pas nebo řidičský průkaz) za účelem ověření totožnosti, abyste mohli používat další funkce.
+Demografické informace, např. váš věk, pohlaví a jazyk. Pokud se rozhodnete používat volitelné funkce, jako jsou demografické údaje o autorovi YouTube, můžete také poskytnout další informace, jako je vaše genderová identita nebo rasa a etnická příslušnost.
+Obchodní informace, např. platební údaje a historii nákupů uskutečněných ve službách Google.
+Biometrické informace (pokud se je rozhodnete poskytnout), např. otisky prstů ve studiích pro účely vývoje služeb Google.
+Informace o internetu, síti a další aktivitě, např. vyhledávací dotazy, zobrazení a interakce s obsahem a reklamami, historie prohlížení v Chromu synchronizovaná s účtem Google, údaje o interakcích vašich aplikací, prohlížečů a zařízení s našimi službami (jako je IP adresa, přehledy selhání a aktivita systému) a vaše aktivita na webech a v aplikacích třetích stran, které využívají naše služby. Údaje o aktivitě uložené ve vašem účtu Google můžete zobrazit a spravovat na stránce Moje aktivita.
+Geolokační údaje, např. údaje zjištěné na základě GPS nebo IP adresy a data ze senzorů v zařízení a jeho okolí (částečně závisí na nastavení zařízení a účtu). V závislosti na těchto nastaveních to může zahrnovat přesnou polohu, například data GPS pro funkce Androidu, jako je navigace nebo nalezení telefonu. Přečtěte si další informace o tom, jak Google využívá údaje o poloze.
+Zvukové, elektronické, vizuální a podobné informace, např. hlasové a zvukové informace.
+Data komunikace, jako jsou e‐maily, pokud k odesílání a přijímání zpráv používáte naše služby.
+Zdravotní informace (pokud se rozhodnete je poskytnout) získané během používání služeb Google souvisejících se zdravím, jako je aplikace Google Health Studies. Týká se to informací, jako je anamnéza, životní funkce a zdravotní metriky (např. úrovně krevního cukru) a další údaje související s fyzickým a mentálním zdravím.
+Informace o vzdělání, zaměstnání a profesionálním životě, např. údaje, které zadáte nebo které jsou spravovány prostřednictvím organizace, v níž pracujete nebo studujete a která používá služby Google.
+Další informace, které vytvoříte nebo zadáte, např. vytvořený, nahraný nebo přijatý obsah (jako jsou fotky, videa, e-maily, dokumenty a tabulky). Hlavní panel Google umožňuje spravovat údaje přidružené ke konkrétním službám.
+Odvozené údaje vytvořené na základě výše uvedených informací, např. zájmové kategorie v rámci reklam.
+Obchodní účely pro využití nebo zveřejnění těchto údajů
+Ochrana proti bezpečnostním hrozbám, zneužití a nezákonným aktivitám: Google využívá a může zveřejnit informace za účelem odhalení bezpečnostních incidentů, jejich zabránění nebo reakce na ně a za účelem ochrany proti škodlivé, podvodné nebo nezákonné aktivitě. K ochraně našich služeb např. můžeme přijmout nebo zveřejnit informace o IP adresách napadených útočníky.
+Audity a měření: Google využívá informace pro analytické účely a měření, k porozumění způsobu využívání služeb a k plnění závazků vůči našim partnerům, jako jsou vydavatelé, inzerenti, vývojáři a držitelé práv. Údaje, které neumožňují zjištění totožnosti, můžeme zveřejnit nebo předat našim partnerům, a to i pro účely provádění auditů.
+Správa služeb: Google na základě informací zajišťuje, aby služby fungovaly tak, jak mají – např. sledujeme výpadky nebo odstraňujeme problémy, které nám nahlásíte.
+Výzkum a vývoj: Google používá informace k vylepšování svých služeb a vývoji nových produktů, funkcí a technologií, které budou prospívat uživatelům i veřejnosti. Např. pomocí veřejně dostupných informací učíme naše modely AI a vytváříme služby a funkce jako Překladač Google, aplikace Gemini a možnosti AI v cloudu.
+Využívání poskytovatelů služeb: Google sdílí v souladu se svými zásadami ochrany soukromí a dalšími opatřeními k zajištění důvěrnosti a bezpečnosti informace s poskytovateli služeb, aby jménem společnosti Google poskytovali služby. Poskytovatelé služeb nám např. mohou pomáhat s poskytováním zákaznické podpory.
+Reklamy: Google zpracovává údaje za účelem poskytování reklam, včetně online identifikátorů, aktivity prohlížení a vyhledávání a údajů o vaší poloze a interakcí s reklamami. Služby Google a mnoho dalších webů a služeb díky tomu můžete používat bez dalších poplatků. Informace, na základě kterých vám reklamy zobrazujeme, můžete upravit v sekci Moje centrum reklam.
+Právní důvody: Google využívá informace také pro účely dodržování platných právních předpisů a nařízení a informace zveřejňuje na základě právního řízení nebo vynutitelných žádostí orgánů státní správy, včetně orgánů činných v trestním řízení. Informace o počtu a typech žádostí, které dostáváme od orgánů státní správy, sdílíme v naší službě Transparency Report.
+Strany, kterým mohou být údaje zveřejněny
+Lidé, se kterými se vy sami rozhodnete sdílet údaje, např. dokumenty a fotky nebo videa a komentáře na YouTube.
+Třetí strany s vaším souhlasem, například služby propojené se službami Google. Aplikace a weby s přístupem k údajům ve vašem účtu Google můžete zobrazit a spravovat.
+Poskytovatelé služeb, důvěryhodné firmy a osoby, které zpracovávají údaje pro Google na základě našich pokynů a v souladu s našimi zásadami ochrany soukromí a dalšími příslušnými opatřeními ohledně důvěrnosti a zabezpečení.
+Administrátoři domén, pokud pracujete nebo studujete v organizaci, která používá služby Google.
+Orgány činné v trestním řízení a další třetí strany z právních důvodů popsaných v sekci Sdílení vašich údajů.
+Informace o těchto zásadách
+Kdy tyto zásady platí
+Tyto zásady ochrany soukromí se vztahují na všechny služby nabízené společností Google LLC a jejími spřízněnými subjekty, včetně služby YouTube, systému Android a služeb nabízených na webech třetích stran, jako jsou například reklamní služby. Tyto zásady ochrany soukromí se nevztahují na služby s vlastními zásadami ochrany soukromí, které tyto zásady nezahrnují.
+Tyto zásady ochrany soukromí se nevztahují na:
+- Postupy týkající se nakládaní s údaji jinými společnostmi či organizací, které inzerují naše služby.
+- Služby nabízené jinými společnostmi nebo jednotlivci, včetně produktů nebo webů, které mohou zahrnovat služby Google (na které se vztahují zásady), nebo produkty a weby zobrazené v našich výsledcích vyhledávání nebo propojené z našich služeb.
+Změny těchto zásad
+Znění těchto zásad ochrany soukromí čas od času měníme. Vaše práva vyplývající z těchto zásad ochrany soukromí bez vašeho výslovného souhlasu neomezíme. Vždy uvádíme datum zveřejnění posledních změn a také poskytujeme přístup k archivovaným verzím, které si můžete přečíst. V případě podstatných změn bude upozornění markantnější (od některých služeb dostanete o změně zásad ochrany soukromí e-mailové oznámení).
+Související postupy v oblasti ochrany soukromí
+Konkrétní služby Google
+Následující upozornění ve věci ochrany soukromí obsahují další informace o určitých službách Google:
+- Payments
+- Fiber
+- Google Fi
+- Google Workspace for Education
+- Read Along
+- YouTube pro děti
+- Účty Google spravované ve službě Family Link pro děti mladší 13 let (nebo příslušného věku ve tvojí zemi)
+- Průvodce ochranou soukromí služby Family Link pro děti a teenagery
+- Shromažďování hlasu a zvuku z funkcí pro děti v Asistentovi Google
+Pokud jste členy organizace, která používá Google Workspace nebo Google Cloud Platform, informace o tom, jak tyto služby shromažďují a využívají vaše osobní údaje, naleznete v upozornění ve věci ochrany soukromí platformy Google Cloud.
+Další užitečné zdroje
+Následující odkazy obsahují užitečné zdroje, kde naleznete další informace o postupech a nastavení ochrany soukromí.
+- Účet Google je sídlo mnoha nastavení, pomocí kterých můžete účet spravovat.
+- Kontrola ochrany soukromí vás provede nejdůležitějším nastavením ochrany soukromí v účtu Google.
+- Centrum bezpečnosti Googlu vám pomůže najít informace o vestavěných funkcích zabezpečení, nastavení ochrany soukromí a nástrojích, které umožňují nastavit základní pravidla pro rodinu na internetu
+- Průvodce ochranou soukromí pro teenagery nabízí odpovědi na časté dotazy, které Google dostává ohledně ochrany soukromí
+- Ochrana soukromí a smluvní podmínky přináší širší kontext ohledně těchto zásad ochrany soukromí a našich smluvních podmínek.
+- Technologie obsahují další informace o těchto tématech:
+- Jak Google využívá soubory cookie
+- Technologie používané pro účely zobrazování reklam.
+- Jak Google používá informace z webu nebo aplikací, které používají naše služby
+Klíčové pojmy
+Affiliate partneři
+Spřízněný subjekt je subjekt, který patří do skupiny společností Google včetně následujících společností, které poskytují spotřebitelské služby v EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp a Google Dialer Inc. Viz další informace o společnostech, které poskytují obchodní služby v EU.
+Algoritmus
+Proces nebo sada pravidel, podle nichž počítač postupuje při řešení problémů.
+Citlivé osobní údaje
+Toto je zvláštní kategorie osobních údajů, které souvisejí s tématy, jako jsou důvěrné zdravotní informace, rasový či etnický původ, politické či náboženské přesvědčení nebo sexualita.
+Informace, které neumožňují osobní identifikaci
+Toto jsou informace, které jsou o uživatelích zaznamenány tak, aby již nepředstavovaly jednotlivě identifikovatelné uživatele ani na ně neodkazovaly.
+IP adresa
+Každé zařízení připojené k internetu má přidělené jedinečné číslo, které se nazývá IP adresa. Tato čísla jsou obvykle přidělována v blocích podle zemí. IP adresu lze často použít k identifikaci místa, ze kterého se zařízení připojuje k internetu. Přečtěte si další informace o tom, jak používáme údaje o poloze.
+Jedinečné identifikátory
+Jedinečný identifikátor je řetězec znaků, který lze použít k jedinečné identifikaci prohlížeče, aplikace nebo zařízení. Různé identifikátory zařízení se liší podle toho, jak jsou trvalé, zda je mohou uživatelé resetovat a jak k nim lze získat přístup.
+Jedinečné identifikátory lze použít k různým účelům, například k zabezpečení, zjišťování podvodů, synchronizaci služeb, jako je doručená e-mailová pošta, nebo k uchování nastavení uživatele a poskytování relevantních reklam. Jedinečné identifikátory uložené v souborech cookie webům například pomáhají zobrazovat v prohlížeči obsah ve vámi preferovaném jazyce. Prohlížeč můžete nakonfigurovat tak, aby všechny soubory cookie odmítal nebo aby hlásil, když se vám soubor cookie někdo pokusí zaslat. Další informace o tom, jak Google využívá soubory cookie.
+Na jiných platformách, než jsou prohlížeče, se jedinečné identifikátory používají k rozpoznání konkrétního zařízení nebo aplikace na zařízení. Jedinečný identifikátor, jako je například inzertní ID, se používá k poskytování relevantní inzerce na zařízeních Android a lze jej spravovat v nastavení zařízení. Jedinečné identifikátory může do zařízení zakódovat také výrobce. Takové identifikátory se někdy nazývají „univerzálně jedinečné ID“ (zkratka UUID) a patří mezi ně například číslo IMEI mobilního telefonu. Jedinečný identifikátor zařízení můžeme použít k přizpůsobení služby na zařízení nebo k analýze problémů se službami na zařízení.
+Mezipaměť dat aplikací
+Mezipaměť dat aplikací je archiv dat v zařízení. Může například umožňovat, aby webová aplikace mohla být spuštěna bez připojení k internetu, nebo vylepšovat výkon aplikace díky rychlejšímu načítání obsahu.
+Osobní údaje
+Údaje, které nám poskytnete a které vás osobně identifikují. Jedná se například o jméno, e-mailovou adresu, fakturační údaje nebo další údaje, které může společnost Google k takovýmto údajům přiměřeně logicky přiřadit, například informace, které propojujeme s účtem Google.
+Pixelová značka
+Pixelová značka je technologie umístěná na webu nebo v textu e-mailu za účelem měření určité aktivity, jako je například zobrazení webu nebo otevření e-mailu. Pixelové značky se často používají společně se soubory cookie.
+Protokoly serveru
+Když navštívíte naše webové stránky, naše servery (stejně jako většina webových stránek) automaticky zaznamenávají požadavky na stránky. Tyto protokoly serveru obvykle obsahují informace, jako je váš webový požadavek, IP adresa, typ prohlížeče, jazyk prohlížeče, datum a čas požadavku a jeden nebo více souborů cookie, které jednoznačně identifikují váš prohlížeč.
+Typický záznam v protokolu pro hledání slova „cars“ vypadá takto:
+123.45.67.89 - 25/Mar/2003 10:15:32 -
+http://www.google.com/search?q=cars -
+Chrome 112; OS X 10.15.7 -
+740674ce2123e969
+123.45.67.89
+je IP adresa, kterou uživateli přidělil poskytovatel připojení k internetu (ISP). V závislosti na typu služby může poskytovatel služeb uživateli při každém připojení k internetu přidělit jinou adresu.25/Mar/2003 10:15:32
+je datum a čas dotazu.http://www.google.com/search?q=cars
+je požadovaná adresa URL včetně vyhledávacího dotazu.Chrome 112; OS X 10.15.7
+je použitý prohlížeč a operační systém.740674ce2123a969
+je jedinečný identifikátor souboru cookie, který byl tomuto konkrétnímu počítači přidělen při první návštěvě webu Google. (Uživatelé mohou soubory cookie smazat. Pokud uživatel od poslední návštěvy webu Google soubor cookie smazal, bude se jednat o jedinečný identifikátor souboru cookie, který bude zařízení přidělen při další návštěvě webu Google z tohoto konkrétního zařízení.)
+Soubory cookie
+Soubor cookie je malý soubor obsahující řetězec znaků, který je při návštěvě webové stránky odeslán do vašeho počítače. Při další návštěvě soubor cookie webu umožní rozpoznat váš prohlížeč. Pomocí souborů cookie lze uložit uživatelská nastavení a další údaje. Prohlížeč můžete nakonfigurovat tak, aby všechny soubory cookie odmítal nebo aby hlásil, když se vám soubor cookie někdo pokusí zaslat. Některé funkce nebo služby na webových stránkách však bez souborů cookie nemusí fungovat správně. Přečtěte si, jak Google využívá soubory cookie a jak využívá data (včetně souborů cookie), když používáte weby nebo aplikace našich partnerů.
+Účet Google
+K přístupu k některým našim službám je třeba si zaregistrovat účet Google a poskytnout nám několik osobních údajů (obvykle jméno, e-mailovou adresu a heslo). Tyto informace o účtu se používají k ověření při přístupu ke službám Google a chrání váš účet před neoprávněným přístupem jiných uživatelů. Svůj účet můžete prostřednictvím nastavení účtu Google kdykoli upravit nebo smazat.
+URL odkazujícího zdroje
+URL (Uniform Resource Locator) odkazujícího zdroje je informace, kterou cílové webové stránce odešle webový prohlížeč, obvykle po kliknutí na odkaz na stránku. URL odkazujícího zdroje obsahuje adresu URL poslední webové stránky, která byla v prohlížeči navštívena.
+Webové úložiště prohlížeče
+Webové úložiště prohlížeče umožňuje webovým stránkám ukládat data do prohlížeče v zařízení. Při použití v režimu „místní úložiště“ umožňuje ukládání dat mezi relacemi. Data je tak možné načíst i po zavření a opětovném otevření prohlížeče. Jednou z technologií, které používání webového úložiště usnadňují, je HTML5.
+Zařízení
+Zařízení je počítač, jehož prostřednictvím lze používat služby Google. Za zařízení jsou považovány například stolní počítače, tablety, chytré reproduktory a chytré telefony.
+Další kontext
+aktivita na webech a v aplikacích třetích stran, které využívají naše služby
+Weby a aplikace, které integrují služby Google jako reklamy a analytické služby, s námi sdílí informace.
+Tyto informace se shromažďují bez ohledu na prohlížeč nebo režim prohlížeče. Například i když anonymní režim Chromu zajišťuje soukromí vašeho prohlížení před ostatními uživateli vašeho zařízení, použité aplikace a weby třetích stran, které integrují naše služby, mohou při vaší návštěvě sdílet data s Googlem.
+Můžete si přečíst další informace o tom, jak můžete ovládat, co se bude sdílet při návštěvě nebo interakci s weby nebo aplikacemi, které používají služby Google.
+Aktivita ve službách Google
+Pokud jste přihlášeni k účtu Google a máte zapnutou Aktivitu na webu a v aplikacích, do Aktivity na webu a v aplikacích se mohou ukládat údaje o aktivitě na webech, v aplikacích a ve službách od Googlu. Některá aktivita může zahrnovat údaje o obecné oblasti, ve které jste službu od Googlu používali. Když něco vyhledáte na základě obecné oblasti, vyhledávání pokryje oblast alespoň 3 km², případně se rozšíří na oblast, ve které žije alespoň 1000 lidí. Chráníme tím vaše soukromí.
+V některých případech se k odhadu oblasti relevantní pro vaše vyhledávání mohou použít oblasti, ze kterých jste vyhledávali dříve. Například pokud jste vyhledávali kavárny v Plzni, Google může u příštích vyhledávání zahrnout výsledky pro Plzeň.
+Aktivitu na webu a v aplikacích můžete zobrazit a spravovat v sekci Moje aktivita.
+citlivých kategorií
+Při zobrazování personalizovaných reklam využíváme témata, o kterých se na základě vaší aktivity domníváme, že vás mohou zajímat. Například se vám mohou zobrazovat reklamy z kategorií „Vaření a recepty“ nebo „Letecká doprava“. Nepoužíváme témata ani nezobrazujeme personalizované reklamy na základě citlivých kategorií, jako je rasa, náboženství, sexuální orientace nebo zdravotní stav. A to samé vyžadujeme od inzerentů využívajících naše služby.
+data senzorů z vašeho zařízení,
+Vaše zařízení může obsahovat senzory, které lze použít k lepšímu zjištění vaší polohy a pohybu. Například pomocí akcelerometru lze zjistit rychlost a pomocí gyroskopu lze určit směr pohybu. Přečtěte si další informace o tom, jak používáme údaje o poloze.
+Informace o hlasu a zvuku
+Můžete například určit, zda chcete ukládat zvukové nahrávky z interakcí s Vyhledáváním, Asistentem a Mapami Google do účtu Google. Když zařízení zaznamená příkaz k aktivaci zvukových funkcí, jako je „Ok Google“, Google nahraje váš hlas a zvuk plus několik sekund před aktivací. Další informace
+informace o objektech poblíž vašeho zařízení
+Když v zařízení Android budete používat služby určování polohy Google, můžeme zdokonalit výkonnost aplikací, které využívají vaši polohu, například Mapy Google. Pokud používáte služby určování polohy Google, vaše zařízení společnosti Google odesílá informace o své poloze, senzorech (jako je akcelerometr) a vysílačích mobilních sítí a přístupových bodech sítí Wi-Fi (jako je adresa MAC a síla signálu) v okolí. Všechny tyto prvky pomáhají určit vaši polohu. Služby určování polohy Google můžete aktivovat v nastavení zařízení. Další informace
+inzertní a výzkumné služby
+Obchodníci mohou například nahrávat data ze svých programů věrnostních karet, aby mohli zahrnout informace o věrnostních programech do výsledků vyhledávání vyhledávání nebo nakupování nebo aby mohli lépe porozumět výkonnosti svých reklamních kampaní. Inzerentům poskytujeme jen souhrnné přehledy, které neobsahují informace o jednotlivcích.
+ke správnému fungování potřebují soubory cookie
+Používáme například soubor cookie s označením lbcs, který umožňuje otevřít několik Dokumentů Google v jednom prohlížeči. Pokud tento soubor cookie zablokujete, Dokumenty Google nebudou fungovat podle očekávání. Další informace
+konkrétních služeb Google
+Například můžete z Bloggeru vymazat svůj blog nebo z Webů Google web Google, jehož jste majitelem. Smazat můžete také recenze, které jste uvedli u aplikací, her a dalšího obsahu v Obchodu Play.
+Konkrétním partnerům
+Autorům videí na YouTube a inzerentům například umožňujeme spolupracovat s externími poskytovateli měření s cílem získat prostřednictvím souborů cookie nebo podobných technologií informace o publiku svých videí YouTube nebo reklam. Dalším příkladem jsou obchodníci na našich nákupních stránkách, kteří pomocí souborů cookie zjišťují, kolik různých lidí vidělo záznamy jejich produktů. Přečtěte si další informace o těchto partnerech a o tom, jak tyto informace využívají.
+lidé, o které se na webu nejvíce zajímáte
+Když píšete e-mail a do pole Komu, Kopie nebo Skrytá kopie zadáte adresu, Gmail zobrazí návrhy adres na základě toho, které lidi kontaktujete nejčastěji.
+Místa, která označíte jako domov a práci
+Do účtu Google si můžete uložit důležitá místa, jako je domov nebo práce. Když si nastavíte adresu domů a do práce, usnadní vám to akce jako vyhledávání trasy nebo výsledků v okolí a budou se vám zobrazovat užitečnější reklamy.
+Adresu domů a do práce můžete kdykoli upravit nebo smazat v účtu Google.
+našich uživatelů
+Například za účelem předcházení zneužití a zvýšení transparentnosti a odpovědnosti ohledně postupů moderování online obsahu sdílí Google data o žádostech o odstranění obsahu ze svých služeb se službou Lumen, která tyto žádosti shromažďuje a analyzuje, aby uživatelům internetu pomohla porozumět jejich právům. Další informace
+ochrany před zneužitím
+Díky informacím o bezpečnostních hrozbách vás například můžeme upozornit, že váš účet mohl být napaden, a pomoci vám znovu jej ochránit.
+partnery Googlu
+Se společností Google spolupracuje za účelem zobrazování reklam více než dva miliony webů a aplikací, které nepatří Googlu. Další informace
+personalizované reklamy
+Personalizované reklamy se vám mohou zobrazovat také na základě informací od inzerenta. Pokud jste například nakupovali na webu některého inzerenta, může vám poté zobrazovat reklamy na základě informací o vaší návštěvě. Další informace
+platební údaje
+Pokud například do účtu Google přidáte platební kartu nebo jinou platební metodu, můžete pomocí ní nakupovat položky v našich službách, jako jsou aplikace v Obchodu Play. Za účelem snazšího zpracování platby vás můžeme požádat také o další informace, například DIČ firmy. V některých případech také potřebujeme ověřit vaši totožnost a můžeme vás požádat o poskytnutí informací k tomuto účelu.
+Pomocí platebních údajů také můžeme ověřovat, zda dosahujete požadovaného věku, například když zadáte chybné datum narození, podle kterého nesplňujete minimální věk k založení účtu Google. Další informace
+poskytování služeb
+Příklady, jak na základě vašich informací poskytujeme služby:
+- Na základě IP adresy přiřazené k vašemu zařízení vám odesíláme požadovaná data, například při načítání videa YouTube.
+- Identifikátory uložené v souborech cookie ve vašem zařízení nám pomáhají ověřit vás jako osobu, která se smí přihlásit k vašemu účtu Google.
+- Fotky a videa, která nahrajete do Fotek Google, vám usnadní vytvořit alba, animace a další výtvory, které poté můžete sdílet. Další informace
+- E-mail s potvrzením letu, který dostanete, může sloužit k vytvoření tlačítka odbavení, které se vám zobrazí v Gmailu.
+- Když od nás zakoupíte služby nebo fyzické zboží, můžete nám poskytnout údaje, jako je dodací adresa nebo pokyny pro doručení. Tyto údaje využíváme například ke zpracování, plnění a doručení objednávky nebo k poskytování podpory v souvislosti se zakoupeným produktem nebo službou.
+propojit informace
+Služba Google Analytics využívá soubory cookie první strany, což jsou cookies nastavené zákazníkem služby Google Analytics. Pomocí našich systémů může zákazník služby Google Analytics nebo společnost Google propojit data vygenerovaná prostřednictvím služby Google Analytics se soubory cookie třetí strany souvisejícími s návštěvami jiných webů. Například inzerent může chtít pomocí dat ze služby Google Analytics vytvořit relevantnější reklamy nebo hlouběji analyzovat návštěvnost. Další informace
+přizpůsobených výsledků vyhledávání
+Například když jste přihlášeni k účtu Google a máte aktivovaný ovládací prvek Aktivita na webu a v aplikacích, získáte relevantnější výsledky vyhledávání založené na vašich předchozích vyhledávacích dotazech a aktivitě v ostatních službách Google. Další informace naleznete zde. Také se vám mohou zobrazovat přizpůsobené výsledky vyhledávání, i když budete odhlášeni. Pokud vyhledávání takto přizpůsobovat nechcete, můžete vyhledávat a prohlížet web anonymně nebo vypnout personalizaci vyhledávání při odhlášení.
+reklamy, které pro vás budou nejužitečnější
+Pokud na YouTube často sledujete videa o pečení, může se vám zobrazovat více reklam na toto téma. Na základě vaší IP adresy také určujeme vaši přibližnou polohu. Proto pokud vyhledáte slovo „pizza“, zobrazíme vám reklamy na nejbližší rozvozy pizzy. Přečtěte si další informace o reklamách Google a proč se vám konkrétní reklamy mohou zobrazovat.
+servery po celém světě
+Například po celém světě provozujeme datová centra, která pomáhají poskytovat uživatelům naše služby nepřetržitě.
+služeb uskutečňujete a přijímáte hovory nebo odesíláte a přijímáte SMS
+Příklady těchto služeb zahrnují:
+- Google Voice k uskutečňování a příjmu hovorů, odesílání textových zpráv a správě hlasové schránky,
+- Google Meet k uskutečňování a příjmu videohovorů,
+- Gmail k odesílání a příjmu e-mailů,
+- Google Chat k odesílání a příjmu zpráv,
+- Google Duo k uskutečňování a příjmu videohovorů a odesílání a příjmu zpráv,
+- Google Fi pro telefonní tarif
+soudního řízení nebo vymahatelných žádostí státní správy
+Stejně jako jiné technologické a komunikační společnosti dostává Google pravidelně žádosti od státních úřadů a soudů z celého světa o zpřístupnění údajů o uživatelích. Náš přístup ke splnění těchto právních žádostí je založen na respektování soukromí a bezpečnosti dat, která u Googlu máte uložená. Náš právní tým přezkoumává každou žádost, bez ohledu na její typ, a často se proti ní odvoláme, pokud se nám zdá, že je příliš obecná nebo nesplňuje předepsané náležitosti. Další informace naleznete ve službě Transparency Report.
+synchronizovali se svým účtem Google
+Historie prohlížení Chromu se vám do účtu ukládá jen v případě, že jste aktivovali synchronizaci Chromu se svým účtem Google. Další informace
+telefonní číslo
+Pokud do účtu zadáte své telefonní číslo, může být v závislosti na vašich nastaveních používáno k různým účelům napříč službami Google. Telefonní číslo můžeme použít například, abychom vám pomohli přihlásit se k účtu, pokud zapomenete heslo, abychom pomohli ostatním vás najít a kontaktovat nebo abychom vám mohli zobrazovat relevantnější reklamy. Další informace
+třetích stran
+Vaše informace zpracováváme, například abychom vlastníkům práv mohli nahlásit statistiky využití jejich obsahu v našich službách. Informace můžeme shromažďovat také v případě, kdy lidé vyhledávají vaše jméno a my zobrazujeme výsledky vyhledávání na webech, které o vás obsahují veřejné dostupné informace.
+vaše aktivita na ostatních webech a v ostatních aplikacích
+Tato aktivita může pocházet z používání služeb Google, jako je synchronizace účtu s Chromem, nebo z webů a aplikací, které jsou se společností Google v partnerském vztahu. Mnoho webů a aplikací vstupuje se společností Google do partnerského vztahu za účelem zlepšení nabízeného obsahu a služeb. Například webová stránka může používat naše reklamní služby (jako AdSense) nebo analytické nástroje (jako Google Analytics) nebo může vkládat další obsah (například videa z YouTube). Tyto služby sdílejí informace o vaší aktivitě se společností Google. V závislosti na nastavení účtu a používaných službách (například když některý partner používá službu Google Analytics společně s reklamními službami) tato data mohou být přiřazena k vašim osobním údajům.
+Přečtěte si další informace o tom, jak Google využívá data, když používáte weby a aplikace našich partnerů.
+veřejně dostupných zdrojů
+Můžeme například shromažďovat údaje, které jsou veřejně dostupné na webu nebo z jiných veřejných zdrojů za účelem vylepšení modelů umělé inteligence Google a vytváření služeb a funkcí, jako je Překladač Google, aplikace Gemini a možnosti AI v cloudu. Případně pokud se informace o vaší firmě zobrazí na nějakém webu, můžeme ji indexovat a zobrazit ve službách Google.
+veřejnost
+Například zpracováváme informace o žádostech o odstranění obsahu z našich služeb na základě zásad společnosti Google pro odstraňování obsahu nebo příslušných právních předpisů, abychom žádost mohli posoudit a zajistit transparentnost, zlepšit odpovědnost a zabránit zneužití a podvodům.
+vylepšování
+Například pomocí souborů cookie analyzujeme interakci uživatelů s našimi službami. A tato analýza nám může pomoci vytvářet kvalitnější služby. Díky ní například dokážeme zjistit, že dokončení určitého úkolu trvá uživatelům příliš dlouho, nebo že mají problém postup vůbec dokončit. Příslušnou funkci poté můžeme předělat a zdokonalit tak službu pro všechny uživatele.
+využíváme
+Několik příkladů, jak využíváme informace shromážděné z našich služeb (v závislosti na nastavení):
+- Když jste přihlášeni k účtu Google a vyhledáváte na Googlu, mohou se vám zobrazit výsledky z veřejných webů společně s relevantními informacemi z obsahu, který máte v ostatních službách Google, například v Gmailu nebo Kalendáři Google. Mezi ně může patřit například stav nadcházejících letů, rezervace v restauracích nebo hotelech nebo vaše fotky. Další informace
+- Pokud jste s nějakým uživatelem už komunikovali prostřednictvím Gmailu a chcete jej přidat do Dokumentu Google nebo do události v Kalendáři Google, Google vám to usnadní – když začnete psát jeho jméno, Google automaticky doplní jeho e-mailovou adresu. Tato funkce usnadňuje sdílení obsahu se známými. Další informace
+- Aplikace Google vám může v závislosti na nastavení zobrazovat personalizovaný obsah na základě dat, která jste uložili v jiných službách Google. Například pokud máte v Aktivitě na webu a v aplikacích uložena vyhledávání, aplikace Google vám může na základě vaší aktivity zobrazovat články a ostatní informace o vašich zájmech, například sportovních výsledcích.
+- Pokud svůj účet Google propojíte se službou Google Home, můžete spravovat své informace a provádět akce prostřednictvím Asistenta Google. Například si můžete přidat události do Kalendáře Google nebo zjistit plán dne, požádat o aktuální informace o stavu nadcházejícího letu nebo odesílat do telefonu informace, jako jsou trasy jízdy. Další informace
+- Pokud jste uživatel v EU, vaše rozhodnutí ohledně propojení služeb bude mít vliv na to, jak určité služby Google mohou využívat data v našich službách.
+zabezpečení a spolehlivost
+Příklady, jak na základě vašich informací zajišťujeme zabezpečení a spolehlivost našich služeb:
+- Shromažďování a analyzování údajů o IP adresách a souborech cookie za účelem ochrany před automatizovaným zneužitím. Toto zneužití může mít mnoho podob, například odesílání spamu uživatelům Gmailu, krádeže peněz inzerentů prostřednictvím podvodných kliknutí na reklamy nebo cenzurování obsahu pomocí útoku technikou distribuovaného odmítnutí služeb (DDoS).
+- Funkce Poslední aktivita účtu v Gmailu vám pomůže zjistit, zda a kdy se bez vašeho vědomí někdo přihlásil k vašemu e-mailu. Tato funkce zobrazuje informace o nedávné aktivitě v Gmailu, například IP adresy, ze kterých byl e-mail navštíven, a související místo, datum a čas návštěvy. Další informace
+zajišťovat a zdokonalovat
+Například analyzujeme interakce lidí s reklamami, abychom vylepšili výkonnost reklam.
+zajišťujeme, aby naše služby fungovaly, jak mají
+Například nepřetržitě sledujeme své systémy a hledáme problémy. A pokud v konkrétní funkci zjistíme nějaký problém, díky kontrole informací o aktivitě shromážděných před vznikem problému dokážeme problém rychleji vyřešit.
+Zákony na ochranu soukromí na úrovni jednotlivých států USA
+Tyto zákony zahrnují:
+- Zákon o ochraně soukromí spotřebitelů v Kalifornii (CCPA)
+- Zákon o ochraně osobních údajů spotřebitelů ve Virginii (VCDPA)
+- Zákon o ochraně soukromí v Coloradu (CPA)
+- Zákon o ochraně osobních údajů a sledování online v Connecticutu (CTDPA)
+- Zákon o ochraně soukromí spotřebitelů v Utahu (UCPA)
+zařízení Android s aplikacemi Google
+Mezi zařízení Android s aplikacemi Google patří zařízení prodávaná společností Google nebo některým z našich partnerů a zahrnují telefony, fotoaparáty, vozidla, nositelná zařízení a televize. Tato zařízení využívají Služby Google Play a další předinstalované aplikace zahrnující služby jako Gmail, Mapy, fotoaparát a vytáčení telefonu, převod textu na řeč, zadávání pomocí klávesnice a bezpečnostní funkce. Další informace o Službách Google Play
+zařízeních
+Informace z vašeho zařízení můžeme používat například, abychom vám pomohli rozhodnout, pomocí kterého zařízení chcete nainstalovat aplikaci nebo přehrát film zakoupený na Google Play. Tyto informace nám pomáhají také chránit váš účet.
+zjišťování zneužití
+Pokud v našich systémech zjistíme spam, malware, nezákonný obsah (včetně materiálu, který zobrazuje sexuální zneužívání nebo využívání dětí) nebo jinou formu zneužití, která porušuje naše zásady, můžeme váš účet deaktivovat nebo podniknout jiné vhodné kroky. V určitých případech můžeme porušení nahlásit příslušným úřadům.
+zobrazení obsahu a reklam a interakce s nimi,
+Shromažďujeme například informace o zobrazeních a interakcích s reklamami, abychom mohli inzerentům poskytovat souhrnné přehledy, například je informovat, zda jsme na určité stránce zobrazili jejich reklamu, a zda reklamu divák pravděpodobně viděl. Sledujeme také další formy interakce, například jak pohybujete kurzorem nad reklamou nebo zda komunikujete se stránkou, na které se reklama zobrazuje.
+zobrazení trendů
+Když nějakou věc začne vyhledávat mnoho lidí, může to být užitečná informace o trendu doby. Služba Trendy Google na základě vzorků vyhledávání Google na webu odhaduje oblíbenost vyhledávacích dotazů v určitém období a tyto souhrnné výsledky veřejně sdílí. Další informace

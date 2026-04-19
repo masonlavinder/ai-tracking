@@ -1,0 +1,17 @@
+{
+  "byte_length": 317658,
+  "company_slug": "openai",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:24:09.592837+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "policy_region": null,
+  "sha256": "2b083f39e5bd0f6e76790d8c93b6947e0e68543d616597a3ca496ff97a294014",
+  "snapshot_date": "2025-12-09",
+  "source": "wayback",
+  "text_length": 20282,
+  "url": "https://openai.com/policies/row-terms-of-use/",
+  "wayback_digest": "EH342XHUYAXLBTI7P74T2YC4MH6RXULX",
+  "wayback_timestamp": "20251209105319"
+}

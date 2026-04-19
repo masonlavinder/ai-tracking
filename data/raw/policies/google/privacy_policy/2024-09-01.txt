@@ -1,0 +1,388 @@
+Polityka prywatności Google
+Korzystając z naszych usług, powierzasz nam swoje dane. Zdajemy sobie sprawę, że to wielka odpowiedzialność i bardzo się staramy zapewnić ich bezpieczeństwo oraz umożliwić Ci kontrolę nad nimi.
+Z tej Polityki prywatności dowiesz się, jakie dane zbieramy i w jakim celu, a także jak możesz je aktualizować, eksportować i usuwać oraz nimi zarządzać.
+Spis treści
+Tworzymy wiele usług, które codziennie pomagają milionom ludzi poznawać świat i wchodzić z nim w interakcje na nowe sposoby. Usługi te obejmują:
+- Aplikacje, witryny i urządzenia Google, takie jak wyszukiwarka, YouTube i Google Home
+- Platformy takie jak przeglądarka Chrome i system operacyjny Android
+- Produkty zintegrowane w aplikacjach i witrynach innych firm, takie jak reklamy, analityka i osadzone Mapy Google
+Aby zarządzać swoją prywatnością, możesz korzystać z naszych usług na różne sposoby. Jeśli na przykład chcesz tworzyć takie treści jak e-maile czy zdjęcia i nimi zarządzać lub chcesz uzyskiwać trafniejsze wyniki wyszukiwania, możesz założyć konto Google. Wielu usług Google możesz używać bez logowania się, a nawet bez konieczności tworzenia konta. Dotyczy to na przykład wyszukiwania w Google czy oglądania filmów w YouTube. Możesz też przeglądać internet w trybie prywatnym, takim jak tryb incognito w Chrome. Dzięki temu treści, które przeglądasz, nie są widoczne dla innych osób korzystających z Twojego urządzenia. Poza tym w różnych naszych usługach możesz dostosować ustawienia prywatności, od których zależy to, czy możemy zbierać określone typy danych i jak możemy z nich korzystać.
+Aby jak najlepiej wyjaśnić różne kwestie, dodaliśmy przykłady, filmy z objaśnieniami i definicje głównych terminów. Jeśli masz jakiekolwiek pytania dotyczące tej Polityki prywatności, skontaktuj się z nami.
+Informacje zbierane przez Google
+Chcemy Cię poinformować, jakie rodzaje informacji zbieramy, gdy korzystasz z naszych usług
+Aby oferować wszystkim użytkownikom lepsze usługi, zbieramy różnorodne informacje – od podstawowych, takich jak określenie, jakim językiem się posługujesz, aż po te bardziej złożone, np. ustalenie najbardziej przydatnych reklam, najbliższych internetowych znajomych lub jakie filmy w YouTube mogłyby Ci się spodobać. Informacje, jakie zbieramy, oraz sposób, w jaki je wykorzystujemy, zależą od tego, jak korzystasz z naszych usług i jak masz skonfigurowane ustawienia prywatności.
+Jeśli nie logujesz się na konto Google, zbierane informacje przechowujemy przy użyciu unikalnych identyfikatorów powiązanych z używaną przez Ciebie przeglądarką, aplikacją lub urządzeniem. Dzięki temu możemy na przykład stosować Twoje preferencje podczas różnych sesji przeglądania. Dotyczy to kwestii takich jak preferowany język albo wyświetlanie trafniejszych wyników wyszukiwania lub reklam na podstawie Twojej aktywności.
+Jeśli się zalogujesz, zbieramy też informacje, które zapisujemy na Twoim koncie Google i które traktujemy jak dane osobowe.
+Rzeczy, które tworzysz lub przekazujesz Google
+Podczas tworzenia konta Google przekazujesz nam swoje dane osobowe, które obejmują Twoje imię, nazwisko i hasło. Możesz też dodać do konta numer telefonu lub dane do płatności. Swoje dane możesz nam przekazywać nawet bez logowania się na konto Google – na przykład gdy podajesz adres e-mail, aby się z nami kontaktować lub otrzymywać informacje o naszych usługach.
+Gromadzimy także treści, które tworzysz, przesyłasz, a nawet otrzymujesz od innych osób podczas korzystania z naszych usług. Obejmują one takie elementy, jak pisane i odbierane e-maile, zapisywane zdjęcia i filmy, tworzone dokumenty i arkusze kalkulacyjne oraz komentarze do filmów w YouTube.
+Informacje, które zbieramy, gdy korzystasz z naszych usług
+Twoje aplikacje, przeglądarki i urządzenia
+Zbieramy informacje o aplikacjach, przeglądarkach i urządzeniach, przy użyciu których korzystasz z usług Google. Pomaga to nam udostępniać Ci takie funkcje jak automatyczne aktualizacje usług czy przyciemnianie ekranu, gdy spada poziom baterii.
+Gromadzone przez nas informacje obejmują unikalne identyfikatory, typ i ustawienia przeglądarki, typ i ustawienia urządzenia, system operacyjny, dane sieci komórkowej, w tym nazwę operatora i numer telefonu, oraz numer wersji aplikacji. Zbieramy też informacje o interakcjach Twoich aplikacji, przeglądarek i urządzeń z naszymi usługami, w tym adres IP, raporty o awariach, dane o aktywności systemu oraz datę, godzinę i adres URL strony odsyłającej żądania.
+Informacje te zbieramy, gdy usługa Google na urządzeniu kontaktuje się z naszymi serwerami – na przykład gdy instalujesz aplikację ze Sklepu Play lub gdy usługa sprawdza dostępność automatycznych aktualizacji. Jeśli używasz urządzenia z Androidem i aplikacjami Google, kontaktuje się ono okresowo z serwerami Google, aby przekazać informacje o urządzeniu i połączeniu z naszymi usługami. Obejmują one takie dane jak typ urządzenia, nazwa operatora komórkowego, raporty o awariach i zainstalowane aplikacje oraz (w zależności od ustawień) inne informacje o tym, jak korzystasz z urządzenia z Androidem.
+Twoja aktywność
+Zbieramy informacje o Twojej aktywności w naszych usługach, na podstawie których na przykład polecamy Ci w YouTube filmy, które mogą Ci się spodobać. Gromadzone przez nas informacje o aktywności mogą obejmować:
+- Wyszukiwane hasła
+- Oglądane filmy
+- Wyświetlenia reklam i treści oraz interakcja z nimi
+- Informacje związane z głosem i dźwiękiem
+- Zakupy
+- Osoby, z którymi się kontaktujesz lub którym udostępniasz materiały
+- Aktywność w witrynach i aplikacjach innych firm, które korzystają z naszych usług
+- Historię przeglądania w Chrome synchronizowaną z kontem Google
+Jeśli używasz naszych usług do nawiązywania i odbierania połączeń lub wysyłania i odbierania wiadomości, możemy zbierać dane z dziennika połączeń telefonicznych i wiadomości, w tym Twój numer telefonu, numer osoby dzwoniącej, numer rozmówcy, do którego dzwonisz, numery przekierowania, adresy e-mail nadawcy i odbiorcy, daty i godziny połączeń i wiadomości, czasy trwania rozmów, ustawienia przesyłania oraz liczbę i typy połączeń i wiadomości.
+Informacje o aktywności są zapisane na Twoim koncie Google. Możesz je tam znaleźć i nimi zarządzać.
+Informacje o lokalizacji
+Gdy korzystasz z naszych usług, zbieramy informacje o Twojej lokalizacji. Dzięki temu możemy udostępniać Ci takie funkcje jak wskazówki dojazdu, wyniki wyszukiwania dotyczące miejsc w pobliżu czy reklamy na podstawie Twojej lokalizacji.
+W zależności od używanych usług i wybranych przez Ciebie ustawień Google może korzystać z różnych typów informacji o lokalizacji, żeby zwiększyć przydatność niektórych używanych przez Ciebie usług i produktów, które obejmują m.in.:
+- GPS i inne dane z czujników urządzenia
+- Adres IP
+- Aktywność w usługach Google, na przykład wyszukiwania lub miejsca oznaczone jako dom lub praca.
+- Informacji o rzeczach w pobliżu urządzenia, na przykład punktów dostępu do sieci Wi-Fi, stacji bazowych sieci komórkowych i urządzeń z włączoną obsługą Bluetooth
+Rodzaje zbieranych przez nas danych o lokalizacji i czas ich przechowywania zależą częściowo od ustawień urządzenia i konta. Możesz na przykład włączyć lub wyłączyć lokalizację urządzenia z Androidem w aplikacji z jego ustawieniami. Możesz też włączyć historię lokalizacji, aby utworzyć prywatną mapę miejsc odwiedzanych z urządzeniami, na których się zalogujesz. Jeśli masz włączone ustawienie Aktywność w internecie i aplikacjach, na Twoim koncie Google są zapisywane Twoje wyszukiwania i inna aktywność w usługach Google (może to też obejmować informacje o lokalizacji). Dowiedz się więcej o tym, jak używamy informacji o lokalizacji.
+W pewnych okolicznościach Google zbiera też informacje o Tobie ze źródeł dostępnych publicznie. Jeśli na przykład Twoje imię i nazwisko pojawi się w lokalnej gazecie, wyszukiwarka Google może zindeksować dany artykuł i wyświetlać go osobom, które będą Cię wyszukiwać. Informacje o Tobie możemy też zbierać od zaufanych partnerów, takich jak dostawcy usług katalogowych, którzy dostarczają nam informacje o firmach do wyświetlania w usługach Google, partnerzy marketingowi, którzy przekazują nam informacje o potencjalnych klientach naszych usług biznesowych, oraz partnerzy w zakresie bezpieczeństwa, którzy przekazują nam informacje w celu ochrony przed naruszeniami. Otrzymujemy też informacje od partnerów, które pozwalają nam wyświetlać reklamy oraz świadczyć usługi analityczne w ich imieniu.
+Do zbierania i przechowywania informacji używamy różnych technologii, w tym plików cookie, tagów pikselowych, pamięci lokalnej, na przykład pamięci przeglądarki lub pamięci podręcznej aplikacji, baz danych i dzienników serwera.
+Po co Google gromadzi dane
+Dzięki danym możemy tworzyć lepsze usługi
+Informacji gromadzonych we wszystkich naszych usługach używamy do tych celów:
+Świadczenie usług
+Korzystamy z Twoich danych do świadczenia usług, na przykład by przetwarzać wyszukiwane hasła w celu zwrócenia wyników lub ułatwiać Ci udostępnianie treści przez sugerowanie odbiorców z listy kontaktów.
+Utrzymywanie i ulepszanie usług
+Twoich danych używamy też do zapewniania odpowiedniego działania usług, na przykład do śledzenia awarii lub rozwiązywania zgłaszanych problemów. Poza tym używamy ich do wprowadzania ulepszeń w naszych usługach – na przykład informacje o tym, które wyszukiwane hasła są najczęściej wpisywane z błędami, pomagają nam udoskonalać funkcje sprawdzania pisowni stosowane w różnych naszych usługach.
+Opracowywanie nowych usług
+Informacji zbieranych w istniejących usługach używamy do opracowywania nowych. Gdy na przykład dowiedzieliśmy się, w jaki sposób użytkownicy porządkują swoje zdjęcia w Picasie – pierwszej aplikacji do obsługi zdjęć Google – pomogło nam to zaprojektować i uruchomić Zdjęcia Google.
+Zapewnianie spersonalizowanych usług, w tym treści i reklam
+Zbieranych informacji używamy, aby dostosować nasze usługi do Twoich potrzeb – w tym dostarczać Ci rekomendacje, spersonalizowane treści i dostosowane wyniki wyszukiwania. Na przykład funkcja Sprawdzanie zabezpieczeń udostępnia wskazówki dotyczące zabezpieczeń opracowane z myślą o tym, jak korzystasz z usług Google. W zależności ustawień, do których masz dostęp, i na podstawie zainstalowanych aplikacji oraz filmów obejrzanych w YouTube usługa Google Play może proponować Ci nowe aplikacje, które mogą Cię zainteresować.
+W zależności od Twoich ustawień możemy też wyświetlać reklamy spersonalizowane w oparciu o Twoje zainteresowania i aktywność w innych usługach Google. Jeśli na przykład wyszukasz „rowery górskie”, możesz zobaczyć w YouTube reklamy sprzętu sportowego. Informacje, na podstawie których wybieramy dla Ciebie reklamy, możesz kontrolować w ustawieniach reklam w Moim centrum reklam.
+- Nie pokazujemy reklam spersonalizowanych na podstawie kategorii o charakterze wrażliwym, takich jak rasa, religia, orientacja seksualna czy stan zdrowia.
+- Nie pokazujemy reklam spersonalizowanych na podstawie Twoich treści z Dysku, Gmaila ani Zdjęć.
+- Nie udostępniamy reklamodawcom informacji umożliwiających identyfikację konkretnej osoby, takich jak imię i nazwisko czy adres e-mail, chyba że nas o to poprosisz. Jeśli na przykład klikniesz przycisk „Dotknij, by zadzwonić” w reklamie pobliskiej kwiaciarni, nawiążemy połączenie i możemy przekazać tej firmie Twój numer telefonu.
+Pomiar wyników
+Wykorzystujemy dane do analiz i pomiarów, aby dowiedzieć się, w jaki sposób użytkownicy korzystają z naszych usług. Analizujemy na przykład dane o Twoich wizytach w naszych witrynach, żeby optymalizować wygląd produktów. Korzystamy też z danych o reklamach, z którymi wchodzisz w interakcję, w tym o powiązanej aktywności związanej z wyszukiwaniem, aby pomagać reklamodawcom sprawdzać skuteczność kampanii reklamowych. Używamy do tego różnych narzędzi – na przykład Google Analytics. Gdy odwiedzasz witryny lub używasz aplikacji, które korzystają z Google Analytics, klienci używający tej usługi mogą zezwolić Google na łączenie informacji o Twojej aktywności w ich witrynie lub aplikacji z informacjami o aktywności w innych witrynach lub aplikacjach korzystających z naszych usług reklamowych.
+Kontakt z Tobą
+Zbierane informacje, takie jak adres e-mail, pozwalają nam kontaktować się z Tobą bezpośrednio. Możemy na przykład wysłać Ci powiadomienie, jeśli wykryjemy podejrzaną aktywność, taką jak próbę zalogowania się na konto Google z nietypowej lokalizacji. Możemy też informować Cię o nadchodzących zmianach lub ulepszeniach naszych usług. Jeśli skontaktujesz się z Google, zachowamy Twoją prośbę, by pomóc Ci rozwiązać wszelkie napotkane problemy.
+Ochrona Google, naszych użytkowników i pozostałych osób
+Używamy informacji, aby zwiększać bezpieczeństwo i niezawodność naszych usług. Obejmuje to wykrywanie oszustw, nadużyć, zagrożeń bezpieczeństwa i problemów technicznych, które mogłyby wyrządzić szkodę Google, naszym użytkownikom lub innym osobom, reagowanie na te oszustwa, nadużycia, zagrożenia i problemy oraz zapobieganie im.
+Aby zrealizować te cele, do przetwarzania Twoich danych używamy różnych technologii. Korzystamy z automatycznych systemów, które analizują Twoje treści, by dostarczać Ci na przykład dostosowane wyniki wyszukiwania, spersonalizowane reklamy i inne funkcje dopasowane do tego, jak korzystasz z naszych usług. Poza tym analizujemy Twoje treści w celu wykrywania naruszeń, na przykład spamu, złośliwego oprogramowania i materiałów niezgodnych z prawem. Stosujemy też algorytmy, które pozwalają nam rozpoznawać wzorce w danych. Tłumacz Google na przykład pomaga ludziom komunikować się w różnych językach, wykrywając częste wzorce językowe w wyrażeniach, które chcesz przetłumaczyć.
+W celach opisanych powyżej możemy używać gromadzonych przez nas informacji w naszych usługach i na Twoich różnych urządzeniach. Jeśli na przykład obejrzysz w YouTube nagrania gitarzystów, to, w zależności od dostępnych ustawień, na stronie korzystającej z naszych usług reklamowych możesz zobaczyć reklamę kursu gry na gitarze. W zależności od ustawień Twojego konta możemy powiązać działania, które wykonujesz na innych stronach i w aplikacjach, z Twoimi danymi. Pomaga nam to optymalizować usługi Google i wyświetlać trafniejsze reklamy.
+Osoby, które znają Twój adres e-mail lub inne informacje, które umożliwiają identyfikację Twojej tożsamości, mogą zobaczyć publicznie dostępne dane z Twojego profilu Google, takie jak imię i nazwisko oraz zdjęcie. Pozwala im to na przykład rozpoznawać e-maile jako wysyłane przez Ciebie.
+Przed wykorzystaniem informacji w celu, który nie został uwzględniony w tej Polityce prywatności, poprosimy Cię o zgodę.
+Ustawienia prywatności
+Możesz określić, jakie informacje możemy gromadzić i jak możemy z nich korzystać
+Ta sekcja zawiera opis głównych ustawień pozwalających zarządzać prywatnością w naszych usługach. Możesz też zajrzeć do Ustawień prywatności, który pozwala sprawdzić i zmienić ważne ustawienia prywatności. Poza tym w naszych produktach udostępniamy także specjalne ustawienia prywatności. Więcej informacji znajdziesz w Przewodniku po zasadach prywatności w usługach Google.
+Sprawdzanie i aktualizowanie Twoich danych oraz zarządzanie nimi
+Po zalogowaniu się na konto możesz zawsze sprawdzić i zaktualizować swoje dane w usługach, z których korzystasz. Na przykład Zdjęcia i Dysk zostały opracowane tak, by pomagać Ci w zarządzaniu konkretnymi typami treści zapisanych na serwerach Google.
+Utworzyliśmy także miejsce, w którym możesz sprawdzać i kontrolować informacje zapisane na Twoim koncie Google. Konto Google udostępnia:
+Ustawienia prywatności
+Zarządzanie aktywnością
+Możesz zdecydować, jakie typy aktywności chcesz zapisywać na swoim koncie. Jeśli na przykład masz włączoną historię w YouTube, oglądane filmy i wyszukiwane hasła są zapisywane na Twoim koncie, dzięki czemu możesz otrzymywać trafniejsze rekomendacje i zapamiętać miejsce, w którym przerwano oglądanie. Z kolei jeśli masz włączoną Aktywność w internecie i aplikacjach, Twoje wyszukiwania i aktywność w innych usługach Google są zapisywane na Twoim koncie. Dzięki temu usługi te są dopasowywane do Ciebie – np. wyniki wyszukiwania pojawiają się szybciej, a Ty otrzymujesz przydatniejsze rekomendacje dotyczące aplikacji i treści. W ramach Aktywności w internecie i aplikacjach dostępne jest też ustawienie, które pozwala kontrolować, czy informacje o aktywności w innych witrynach i aplikacjach oraz na innych urządzeniach korzystających z usług Google (np. w aplikacjach instalowanych i używanych na Androidzie) mają być zapisywane na Twoim koncie Google i wykorzystywane do ulepszania usług Google.
+Ustawienia reklam
+Pozwalają zarządzać preferencjami dotyczącymi reklam wyświetlanych w Google oraz w witrynach i aplikacjach współpracujących z Google w celu wyświetlania reklam. Możesz zmieniać swoje zainteresowania, decydować, czy chcesz, by Twoje dane były używane do pokazywania Ci trafniejszych reklam, a nawet włączać lub wyłączać określone usługi reklamowe.
+Rekomendacje społecznościowe
+Możesz określić, czy obok informacji o Twojej aktywności – takich jak opinie i rekomendacje – wyświetlanych w reklamach mają pojawiać się Twoje imię i nazwisko oraz zdjęcie.
+Witryny i aplikacje, które używają usług Google
+Zarządzaj informacjami, które strony i aplikacje używające usług Google, np. Google Analytics, mogą udostępniać Google, gdy z nich korzystasz.
+Sposoby sprawdzania i aktualizowania informacji
+Moja aktywność
+Strona Moja aktywność pozwala sprawdzać i kontrolować dane, które są zapisywane na Twoim koncie Google, gdy jesteś zalogowany i używasz usług Google. Mogą to być na przykład wyszukiwane hasła czy informacje o Twoich wizytach w Google Play. Możesz je przeglądać według daty lub tematu, a także usuwać swoją aktywność w całości lub części.
+Bez logowania się możesz zarządzać informacjami powiązanymi z przeglądarką lub urządzeniem, które obejmują:
+- Personalizację wyszukiwania bez logowania się: możesz określić, czy Twoja aktywność w wyszukiwarce ma być używana do wybierania dla Ciebie trafniejszych wyników wyszukiwania i rekomendacji.
+- Ustawienia YouTube: możesz wstrzymywać i usuwać swoją Historię wyszukiwania w YouTube oraz Historię oglądania w YouTube.
+- Ustawienia reklam: możesz zarządzać swoimi preferencjami dotyczącymi reklam wyświetlanych w Google oraz w witrynach i aplikacjach, które współpracują z Google w celu wyświetlania reklam.
+Eksportowanie i usuwanie informacji
+Możesz wyeksportować kopię treści zapisane na Twoim koncie Google, by utworzyć ich kopię zapasową lub użyć ich w usłudze innej niż Google.
+Aby usunąć swoje dane, możesz:
+- Usunąć swoje treści z konkretnych usług Google
+- Wyszukać na stronie Moja aktywność i usunąć z konta konkretne elementy
+- Usunąć konkretne usługi Google wraz z Twoimi danymi, które są z nimi powiązane
+- Usunąć całe swoje konto Google
+Za pomocą Menedżera nieaktywnych kont możesz udzielić innej osobie dostępu do części Twojego konta Google na wypadek niespodziewanej niemożliwości skorzystania z niego.
+Poza tym możesz też zażądać usunięcia treści z konkretnych usług Google na podstawie obowiązujących przepisów lub naszych zasad.
+Są jeszcze inne sposoby kontrolowania informacji gromadzonych przez Google, z których możesz skorzystać niezależnie od tego, czy logujesz się na konto Google czy pracujesz bez logowania się. Są to między innymi:
+- Ustawienia przeglądarki: możesz na przykład skonfigurować przeglądarkę tak, by informowała, gdy Google zapisze w niej plik cookie. Możesz też ustawić w przeglądarce blokowanie wszystkich plików cookie z określonej domeny lub ze wszystkich domen. Pamiętaj jednak, że poprawne działanie naszych usług zależy od plików cookie – na przykład w takich aspektach jak ustawienia językowe.
+- Ustawienia na poziomie urządzenia: urządzenie może udostępniać ustawienia, przy użyciu których możesz kontrolować zbierane przez nas informacje. Możesz na przykład zmodyfikować ustawienia lokalizacji na urządzeniu z Androidem.
+Udostępnianie informacji
+Kiedy udostępniasz swoje informacje
+Wiele naszych usług umożliwia udostępnianie informacji innym osobom i daje Ci kontrolę nad sposobem takiego udostępniania. Możesz na przykład udostępniać publicznie filmy w YouTube lub zachować je tylko dla siebie. Pamiętaj, że gdy udostępniasz informacje publicznie, mogą się one stać dostępne w wyszukiwarkach, w tym także w wyszukiwarce Google.
+Jeśli po zalogowaniu się wejdziesz w interakcję z pewnymi usługami Google, na przykład napiszesz komentarz pod filmem w YouTube lub zrecenzujesz aplikację w Google Play, obok Twojej aktywności pojawi się Twoje imię i nazwisko oraz zdjęcie. W zależności od ustawienia rekomendacji społecznościowych możemy też wyświetlać te informacje w reklamach.
+Kiedy Google udostępnia Twoje dane
+Nie udostępniamy Twoich danych osobowych przedsiębiorstwom, organizacjom ani osobom prywatnym spoza Google z wyjątkiem tych przypadków:
+Użytkownik wyraził zgodę
+Twoje dane osobowe będziemy udostępniać osobom spoza Google tylko za Twoją zgodą. Jeśli na przykład użyjesz Google Home, aby zarezerwować stolik w usłudze rezerwacji, zapytamy o Twoją zgodę, zanim podamy restauracji Twoje imię i nazwisko lub numer telefonu. Udostępniamy Ci też narzędzia do sprawdzania aplikacji i stron innych firm, które otrzymały od Ciebie dostęp do danych na Twoim koncie Google, oraz do zarządzania nimi. Będziemy prosić o Twoją wyraźną zgodę na udostępnienie jakichkolwiek wrażliwych danych osobowych.
+Odbiorcą jest administrator domeny
+Jeśli uczysz się lub pracujesz w organizacji, która korzysta z usług Google, do Twojego konta Google dostęp ma administrator domeny i sprzedawcy zarządzający kontem. Mogą oni:
+- Uzyskiwać dostęp do informacji zapisanych na koncie, na przykład do poczty e-mail, oraz zachowywać te informacje.
+- Wyświetlać statystyki konta, na przykład informacje o liczbie instalowanych aplikacji.
+- Zmienić hasło do konta.
+- Zawiesić lub zablokować dostęp do konta.
+- Pobrać informacje o koncie, by zapewnić zgodność z obowiązującym prawem, procesem prawnym lub prawomocnym żądaniem instytucji państwowych.
+- Ograniczyć Ci możliwość usuwania lub edytowania informacji lub ustawień prywatności
+Dane są przetwarzane przez podmiot zewnętrzny
+Dane osobowe przekazujemy podmiotom stowarzyszonym i innym zaufanym firmom lub osobom, które przetwarzają je na potrzeby Google zgodnie z naszymi instrukcjami i Polityką prywatności oraz przy zastosowaniu wszelkich odpowiednich środków ochrony poufności i bezpieczeństwa informacji. Dostawcy usług pomagają nam na przykład w obsłudze naszych centrów danych, dostarczaniu naszych produktów i usług, ulepszaniu naszych wewnętrznych procesów biznesowych oraz oferowaniu klientom i użytkownikom dodatkowego wsparcia. Korzystamy też z usług dostawców, którzy pomagają nam sprawdzać filmy w YouTube pod kątem bezpieczeństwa publicznego oraz analizować i odsłuchiwać próbki zapisanych nagrań dźwiękowych w celu ulepszenia opracowanych przez Google technologii rozpoznawania głosu.
+Istnieją przyczyny prawne
+Udostępniamy dane osobowe poza Google, jeśli w dobrej wierze uznamy, że ujawnienie danych jest uzasadnione w celu:
+- Spełnienia wymogów obowiązującego prawa, przepisów, procedur prawnych lub wiążących żądań organów władz publicznych. Informacje o liczbie i typach wniosków otrzymywanych od organów państwowych udostępniamy w Raporcie przejrzystości.
+- Egzekwowania obowiązujących Warunków korzystania z usług, w tym badania potencjalnych naruszeń.
+- Wykrywania oszustw i zapobiegania im, a także rozwiązywania innych problemów dotyczących oszustw, bezpieczeństwa i kwestii technicznych.
+- Ochrony praw, własności lub bezpieczeństwa firmy Google, użytkowników jej usług oraz innych osób.
+Informacje, które nie umożliwiają identyfikacji konkretnej osoby możemy udostępniać zarówno publicznie, jak i naszym partnerom, na przykład wydawcom, reklamodawcom, programistom czy właścicielom praw. Możemy na przykład udostępnić informacje publicznie, by pokazać trendy w ogólnym korzystaniu z naszych usług. Zezwalamy też konkretnym partnerom na zbieranie informacji z Twojej przeglądarki w celach reklamowych i pomiarowych przy użyciu plików cookie lub podobnych technologii.
+W przypadku fuzji lub przejęcia firmy Google bądź sprzedaży jej aktywów zapewnimy poufność wszelkich danych osobowych oraz powiadomimy odpowiednich użytkowników, zanim ich dane osobowe zostaną przeniesione lub objęte inną polityką prywatności.
+Ochrona Twoich danych
+W celu ochrony Twoich danych wyposażamy nasze usługi w zabezpieczenia
+Wszystkie usługi Google mają wbudowane zaawansowane funkcje zabezpieczeń, które nieustannie chronią Twoje dane. Dane uzyskane w trakcie utrzymywania naszych usług pozwalają nam wykrywać i automatycznie blokować potencjalne zagrożenia bezpieczeństwa. Jeśli wykryjemy coś podejrzanego, o czym naszym zdaniem musisz się dowiedzieć, poinformujemy Cię o tym i pomożemy wykonać odpowiednie czynności w celu zwiększenia ochrony.
+Dokładamy wszelkich starań, by chronić Ciebie i firmę Google przed nieuprawnionym dostępem do przechowywanych przez nas informacji, ich modyfikacją, ujawnieniem lub zniszczeniem. Nasze działania obejmują:
+- Szyfrowanie zapewniające prywatność danych podczas ich przesyłania.
+- Szereg funkcji zabezpieczeń, takich jak Bezpieczne przeglądanie, Sprawdzanie zabezpieczeń i Weryfikacja dwuetapowa, pomagających w ochronie konta.
+- Kontrolę procedur zbierania, przechowywania i przetwarzania informacji, w tym fizyczne środki bezpieczeństwa zapobiegające nieupoważnionemu dostępowi do naszych systemów.
+- Ograniczenie dostępu do danych osobowych. Mają go tylko pracownicy, kontrahenci i przedstawiciele Google, którzy ich potrzebują w celu ich przetworzenia. Każda osoba mająca taki dostęp jest zobowiązana do zachowania ścisłej poufności, a w przypadku niewypełnienia tych zobowiązań może ponieść konsekwencje, łącznie z zakończeniem współpracy.
+Eksportowanie i usuwanie informacji
+W dowolnym momencie możesz wyeksportować kopię swoich danych lub usunąć je z konta Google
+Możesz wyeksportować kopię treści zapisane na Twoim koncie Google, by utworzyć ich kopię zapasową lub użyć ich w usłudze innej niż Google.
+Aby usunąć swoje dane, możesz:
+- Usunąć swoje treści z konkretnych usług Google
+- Wyszukać na stronie Moja aktywność i usunąć z konta konkretne elementy
+- Usunąć konkretne usługi Google wraz z Twoimi danymi, które są z nimi powiązane
+- Usunąć całe swoje konto Google
+Przechowywanie Twoich informacji
+Dane, które zbieramy, przechowujemy przez różne okresy zależnie od ich zawartości, sposobu ich wykorzystania oraz Twoich skonfigurowanych ustawień:
+- Niektóre dane możesz usunąć w dowolnej chwili. Dotyczy to na przykład danych osobowych albo treści, które tworzysz lub przesyłasz, takich jak zdjęcia czy dokumenty. Możesz też usunąć informacje o aktywności zapisane na Twoim koncie albo ustawić okres, po którym będą one automatycznie usuwane. Będziemy przechowywać te dane na Twoim koncie Google, dopóki ich nie usuniesz lub nie zdecydujesz się na ich automatyczne usunięcie.
+- Inne dane, na przykład te dotyczące reklam w dziennikach serwerów, są usuwane lub automatycznie anonimizowane po określonym czasie.
+- Niektóre dane, na przykład informacje o częstości korzystania z naszych usług, przechowujemy do czasu usunięcia konta Google.
+- Niektóre dane przechowujemy przez dłuższy okres, gdy jest to niezbędne z uzasadnionych powodów biznesowych lub prawnych, na przykład w celu zapewnienia bezpieczeństwa, zapobiegania oszustwom i nadużyciom czy prowadzenia dokumentacji finansowej.
+Gdy usuwasz dane, przestrzegamy naszych zasad w tym zakresie, by mieć pewność, że Twoje dane są w bezpieczny sposób całkowicie usuwane z naszych serwerów lub są przechowywane wyłącznie w postaci anonimowej. Dokładamy starań, by nasze usługi chroniły informacje przed przypadkowym lub złośliwym usunięciem. Dlatego mogą występować opóźnienia między momentem, gdy coś usuniesz, a momentem usunięcia kopii danego elementu z naszych systemów aktywnych i zapasowych.
+Możesz dowiedzieć się więcej o okresach przechowywania danych przez Google, w tym o czasie, po którym usuwamy Twoje informacje.
+Zgodność z przepisami i współpraca z organami nadzorczymi
+Regularnie weryfikujemy tę Politykę prywatności i pilnujemy, by Twoje informacje były przetwarzane w sposób z nią zgodny.
+Transfer danych
+Utrzymujemy serwery na całym świecie, więc Twoje dane mogą być przetwarzane na serwerach znajdujących się poza krajem Twojego zamieszkania. Przepisy dotyczące ochrony danych są różne w różnych krajach. W niektórych są bardziej restrykcyjne niż w innych. Bez względu na miejsce przetwarzania danych stosujemy te same zabezpieczenia opisane w tej polityce. Przestrzegamy też określonych przepisów prawnych dotyczących przesyłania danych.
+Po otrzymaniu formalnej skargi na piśmie kontaktujemy się z osobą, która ją złożyła. Współpracujemy z odpowiednimi organami nadzorczymi, w tym z lokalnymi organami ochrony danych, w celu rozstrzygania wszelkich skarg dotyczących transferu danych osobowych, których nie możemy rozstrzygnąć bezpośrednio z Tobą.
+Wymagania amerykańskiego prawa stanowego
+Niektóre amerykańskie przepisy stanowe o ochronie prywatności wymagają udostępnienia określonych informacji.
+Z tej Polityki prywatności dowiesz się, jak Google postępuje z Twoimi danymi:
+- W sekcji Informacje zbierane przez Google znajdziesz objaśnienie kategorii i źródeł danych, które gromadzimy.
+- W sekcji Po co Google gromadzi dane wyjaśniamy, w jakim celu Google zbiera i wykorzystuje informacje.
+- W sekcji Udostępnianie informacji wyjaśniamy, kiedy Google może ujawnić Twoje dane. Google nie sprzedaje nikomu Twoich danych osobowych. Google nie „udostępnia” też Twoich danych osobowych w rozumieniu przepisów kalifornijskiej ustawy o ochronie prywatności konsumentów (California Consumer Privacy Act, CCPA).
+- W sekcji Przechowywanie Twoich informacji wyjaśniamy, jak Google przechowuje informacje. Możesz też dowiedzieć się więcej o tym, jak Google anonimizuje dane. Gdy anonimizujemy dane, aby chronić Twoją prywatność, przestrzegamy określonych zasad i stosujemy odpowiednie środki techniczne zapobiegające ponownej identyfikacji danych.
+Amerykańskie przepisy stanowe o ochronie prywatności dają Ci również prawo do żądania informacji o tym, w jaki sposób Google zbiera, wykorzystuje i ujawnia Twoje dane. Na podstawie tych ustaw masz też prawo dostępu do swoich danych, czasem w formacie umożliwiającym przenoszenie, i poprawiania ich, a także żądania usunięcia tych informacji przez Google. Wiele z tych przepisów zapewnia też prawo do rezygnacji z określonych form profilowania i reklam kierowanych. Ponadto zapewniają prawo do uniknięcia dyskryminacji ze względu na korzystanie z takich praw związanych z prywatnością. Oprócz tego ustawa CCPA traktuje niektóre rodzaje informacji (np. dane dotyczące zdrowia) jako poufne. Gdy użytkownicy podają te informacje, Google wykorzystuje je wyłącznie w celach dozwolonych przez ustawę CCPA, na przykład aby świadczyć usługi, których żądają i oczekują użytkownicy.
+Ustawa My Health My Data obowiązująca w stanie Waszyngton oraz ustawa senacka nr 370 obowiązująca w Nevadzie gwarantują dodatkowe prawa, które mają zastosowanie do informacji zdrowotnych. Gdy podasz te informacje, Google przetwarza je tylko za Twoją zgodą (którą możesz wycofać).
+W sekcji Ustawienia prywatności opisujemy dostępne ustawienia, które umożliwiają Ci zarządzanie swoją prywatnością i danymi w usługach Google. Dzięki tym narzędziom możesz uzyskać dostęp do swoich danych, przeglądać je, zaktualizować lub usunąć, a także wyeksportować i pobrać ich kopię. Informacje, na podstawie których wybieramy dla Ciebie reklamy, możesz kontrolować w Moim centrum reklam. Możesz tam też wyłączyć reklamy spersonalizowane.
+Zanim użyjesz tych narzędzi, zweryfikujemy Twój wniosek, sprawdzając, czy jesteś zalogowany/zalogowana na swoim koncie Google. Pytania i wnioski dotyczące praw wynikających z amerykańskich przepisów stanowych o ochronie prywatności możesz przekazać Google (osobiście lub przez upoważnionego przedstawiciela). Jeśli nie zgadzasz się z decyzją w sprawie swojego wniosku, możesz poprosić Google o ponowne jego rozpatrzenie. Aby to zrobić, odpisz na naszego e-maila.
+Udostępniamy też dodatkowe informacje o tym, jak Google obsługuje wnioski związane z ustawą CCPA.
+Niektóre amerykańskie przepisy stanowe o ochronie prywatności wymagają również opisania sposobu przetwarzania danych według określonych kategorii. Użyliśmy tych kategorii w poniższej tabeli, aby uporządkować informacje zawarte w tej Polityce prywatności.
+Kategorie danych, które zbieramy
+Dane identyfikacyjne i podobne informacje, takie jak imię i nazwisko, hasło, numer telefonu i adres, a także unikalne identyfikatory powiązane z przeglądarką, aplikacją lub urządzeniem, którego używasz. Niektóre usługi Google, takie jak YouTube Studio, umożliwiają przesłanie ważnego dokumentu tożsamości (np. paszportu lub prawa jazdy) w celu potwierdzenia Twojej tożsamości i udostępnienia dodatkowych funkcji.
+Dane demograficzne, takie jak wiek, płeć i język. Jeśli zdecydujesz się korzystać z opcjonalnych funkcji, takich jak Dane demograficzne twórców YouTube, możesz podać dodatkowe informacje na swój temat, na przykład tożsamość płciową lub rasę i przynależność etniczną.
+Dane handlowe, takie jak dane karty i historia zakupów, które robisz w usługach Google.
+Dane biometryczne, jeśli zdecydujesz się je przekazać, na przykład odciski palców na potrzeby rozwijania usług Google.
+Dane dotyczące aktywności w internecie i sieci oraz innych działań, między innymi wyszukiwane hasła, wyświetlane treści i reklamy oraz interakcje z nimi czy historia przeglądania w Chrome zsynchronizowana z Twoim kontem Google. Zbieramy też informacje o interakcjach Twoich aplikacji, przeglądarek i urządzeń z naszymi usługami (w tym adres IP, raporty o awariach i dane o aktywności systemu), a także dane dotyczące aktywności w zewnętrznych witrynach i aplikacjach, które korzystają z naszych usług. Dane o aktywności możesz przeglądać na stronie Moja aktywność na swoim koncie Google. Możesz tam również nimi zarządzać.
+Dane geolokalizacyjne, które mogą być określane na podstawie współrzędnych GPS czy adresu IP, a także inne dane z czujników w urządzeniu lub wokół niego (zależy to częściowo od ustawień urządzenia i konta). W zależności od tych ustawień mogą być to również dokładne dane o lokalizacji, na przykład dane GPS wykorzystywane przez funkcje Androida, takie jak nawigacja lub znajdowanie telefonu. Dowiedz się więcej o korzystaniu przez Google z danych o lokalizacji.
+Dane dźwiękowe, elektroniczne, wizualne itp., w tym informacje związane z głosem i dźwiękiem.
+Dane komunikacyjne, takie jak e-maile, jeśli używasz naszych usług do wysyłania i odbierania wiadomości.
+Informacje zdrowotne, takie jak historia chorób, parametry życiowe i wskaźniki zdrowotne (np. poziom glukozy we krwi) oraz inne informacje dotyczące Twojego zdrowia fizycznego lub psychicznego, jeśli zdecydujesz się je podać w trakcie korzystania z usług Google oferujących funkcje związane ze zdrowiem, na przykład aplikacji Google Health Studies, usługi Fitbit czy urządzeń Pixel.
+Informacje dotyczące kariery zawodowej, zatrudnienia i wykształcenia, w tym informacje podane przez Ciebie i dane przechowywane przez organizację korzystającą z usług Google, w której się uczysz lub pracujesz.
+Inne dane, które tworzysz lub udostępniasz, na przykład treści tworzone, przesyłane i otrzymywane przez Ciebie (w tym zdjęcia, filmy, e-maile, dokumenty i arkusze kalkulacyjne). Informacjami powiązanymi z konkretnymi usługami możesz zarządzać w Panelu Google.
+Dane pośrednie uzyskane na podstawie wymienionych powyżej informacji, na przykład kategorie zainteresowań na potrzeby reklam.
+Cele biznesowe związane z używaniem i ujawnianiem informacji
+Ochrona przed zagrożeniami, nadużyciami i nielegalną działalnością: Google wykorzystuje i może ujawniać dane w celu wykrywania incydentów związanych z bezpieczeństwem, zapobiegania im oraz reagowania na nie, a także w celu ochrony przed innymi złośliwymi, wprowadzającymi w błąd, oszukańczymi i nielegalnymi działaniami. Na przykład w celu ochrony swoich usług Google może uzyskiwać lub ujawniać informacje o adresach IP przejętych przez szkodliwe podmioty.
+Kontrola i pomiary: Google wykorzystuje dane do analizy i pomiarów, by poznać sposób użytkowania swoich usług, a także wypełnić swoje zobowiązania względem partnerów takich jak wydawcy, reklamodawcy, deweloperzy i właściciele praw. Możemy ujawniać tym partnerom, a także publicznie, informacje, które nie umożliwiają identyfikacji osoby, między innymi w celach kontroli.
+Zapewnianie odpowiedniego działania usług: Google wykorzystuje dane do zapewniania odpowiedniego działania usług, na przykład do śledzenia awarii, rozwiązywania zgłaszanych problemów czy usuwania błędów.
+Badania i rozwój: Google wykorzystuje informacje do ulepszania swoich usług oraz tworzenia nowych produktów, funkcji i technologii z korzyścią dla użytkowników Google i całego społeczeństwa. Na przykład wykorzystujemy publicznie dostępne informacje do ulepszania modeli sztucznej inteligencji Google i opracowywania usług i funkcji, takich jak Tłumacz Google, aplikacje z Gemini czy rozwiązania sztucznej inteligencji dostarczanej przez Google Cloud.
+Wykorzystanie usług innych dostawców: Google udostępnia dane dostawcom, by umożliwić im świadczenie usług w imieniu Google, zgodnie z Polityką prywatności Google i przy zastosowaniu wszelkich odpowiednich środków bezpieczeństwa i zachowania poufności. Na przykład dostawcy ci mogą oferować obsługę klienta w imieniu Google.
+Reklamy: aby wyświetlać reklamy, Google przetwarza między innymi identyfikatory online, aktywność związaną z przeglądaniem i wyszukiwaniem oraz dane o Twojej lokalizacji i interakcjach z reklamami. Dzięki temu wiele naszych witryn i usług jest dostępnych dla użytkowników bezpłatnie. Informacje, na podstawie których wybieramy dla Ciebie reklamy, możesz kontrolować w ustawieniach reklam w Moim centrum reklam.
+Przyczyny prawne: Google wykorzystuje informacje również w celu spełnienia wymogów obowiązującego prawa i przepisów, a także ujawnia informacje w odpowiedzi na procesy sądowe i wnioski urzędowe. Obejmuje to między innymi ujawnianie informacji organom ścigania. Informacje o liczbie i rodzajach otrzymywanych wniosków urzędowych przedstawiamy w Raporcie przejrzystości.
+Podmioty, którym możemy ujawniać informacje
+Inne osoby, którym udostępniasz dane takie jak dokumenty, zdjęcia, filmy czy komentarze w YouTube, a także informacje zdrowotne udostępniane w funkcjach społecznościowych Fitbita lub aplikacjach innych firm.
+Inne podmioty za Twoją zgodą, np. usługi zintegrowane z usługami Google. Witrynami i aplikacjami innych firm, które mają dostęp do Twoich danych, możesz zarządzać na swoim koncie Google. Dowiedz się, kiedy Google udostępnia Twoje dane.
+Dostawcy usług, zaufane firmy i osoby, które przetwarzają dane w imieniu Google zgodnie z naszymi wytycznymi i Polityką prywatności oraz przy zastosowaniu wszelkich odpowiednich środków ochrony poufności i bezpieczeństwa informacji.
+Administratorzy domen, jeśli pracujesz lub uczysz się w organizacji, która korzysta z usług Google.
+Organy ścigania i inne podmioty, gdy występują przyczyny prawne opisane w sekcji Udostępnianie informacji.
+Informacje o tej polityce
+Zakres obowiązywania
+Ta Polityka prywatności obowiązuje w odniesieniu do wszystkich usług oferowanych przez Google LLC i jej podmioty stowarzyszone, w tym usług w serwisie YouTube, usług na urządzeniach z Androidem, a także usług oferowanych w witrynach innych firm (na przykład usługi reklamowe). Nie ma ona zastosowania do usług, które mają odrębną politykę prywatności, niezawierającą tej Polityki prywatności.
+Ta Polityka prywatności nie obowiązuje w odniesieniu do:
+- Metod obsługi informacji stosowanych przez inne firmy i organizacje, które reklamują nasze usługi.
+- Usług oferowanych przez inne firmy lub osoby fizyczne, w tym ich produktów lub witryn, które mogą zawierać usługi Google objęte tymi zasadami, mogą pojawiać się w wynikach wyszukiwania, albo do których linki mogą być umieszczone w naszych usługach.
+Zmiany w tej polityce
+Od czasu do czasu zmieniamy tę Politykę prywatności. Twoje prawa wynikające z tej Polityki prywatności nie zostaną ograniczone bez Twojej wyraźnej zgody. Zawsze wskazujemy datę opublikowania ostatnich zmian oraz zapewniamy dostęp do wersji archiwalnych. Jeśli zmiany są znaczne, powiadamiamy o nich w bardziej wyraźny sposób (w przypadku niektórych usług powiadomienie o zmianach w Polityce prywatności wysyłamy e-mailem).
+Powiązane procedury ochrony prywatności
+Konkretne usługi Google
+Poniższe informacje na temat ochrony prywatności zawierają dodatkowe informacje o niektórych usługach Google:
+- Payments
+- Fiber
+- Google Fi
+- Google Workspace for Education
+- Read Along
+- YouTube Kids
+- Konta Google zarządzane za pomocą Family Link należące do dzieci poniżej 13 roku życia (lub wieku obowiązującego w Twoim kraju)
+- Przewodnik dla dzieci i nastolatków na temat ochrony prywatności w Family Link
+- Zbieranie danych głosowych i innych danych dźwiękowych przez funkcje Asystenta Google przeznaczone dla dzieci.
+Jeśli należysz do organizacji, która korzysta z Google Workspace lub Google Cloud Platform, możesz zapoznać się z Informacjami na temat ochrony prywatności w Google Cloud, aby dowiedzieć się, jak te usługi gromadzą i wykorzystują Twoje dane osobowe.
+Inne przydatne zasoby
+Poniżej znajdziesz linki do przydatnych zasobów, które zawierają więcej informacji o naszych procedurach i ustawieniach prywatności.
+- Wiele ustawień, przy użyciu których możesz zarządzać kontem, dostosujesz na swoim koncie Google
+- Przez najważniejsze punkty w konfiguracji prywatności konta Google przeprowadzą Cię Ustawienia prywatności
+- Więcej informacji o zabezpieczeniach wbudowanych w nasze usługi, dostępnych ustawieniach prywatności oraz narzędziach, które pomogą Ci ustanowić obowiązujące w Twojej rodzinie reguły korzystania z urządzeń cyfrowych, znajdziesz w Centrum bezpieczeństwa Google
+- Przewodnik Google dla nastolatków na temat prywatności zawiera odpowiedzi na niektóre z najczęstszych pytań dotyczących prywatności
+- Szerszy kontekst tej Polityki prywatności i Warunków korzystania z usług przedstawiamy w Prywatności i warunkach
+- W Technologiach dowiesz się więcej na temat:
+Kluczowe terminy
+Adres IP
+Każde urządzenie podłączone do internetu ma przypisany numer, tak zwany adres protokołu internetowego (IP). Numery te są z reguły przypisywane w blokach dla regionu geograficznego. Na podstawie adresu IP często można zidentyfikować miejsce, z którego urządzenie łączy się z internetem. Dowiedz się więcej o tym, jak używamy informacji o lokalizacji.
+Algorytm
+Procedura lub zestaw reguł, którym podlegają operacje związane z rozwiązywaniem problemów przez komputer.
+Dane nieumożliwiające identyfikacji konkretnej osoby
+Są to zarejestrowane przez nas informacje o użytkownikach, które nie odnoszą się już do konkretnego użytkownika ani nie umożliwiają jego identyfikacji.
+Dane osobowe
+Są to dostarczane przez użytkownika informacje umożliwiające Google jego identyfikację, takie jak imię i nazwisko, adres e-mail, informacje rozliczeniowe lub inne dane, które możemy skojarzyć z użytkownikiem w racjonalny sposób, takie jak informacje powiązane z kontem Google użytkownika.
+Dzienniki serwerów
+Podobnie jak większość witryn internetowych, nasze serwery automatycznie zapisują żądania stron wysyłane, gdy użytkownicy odwiedzają nasze witryny. Te „dzienniki serwerów” zazwyczaj zawierają żądanie strony wysłane przez użytkownika, adres IP, typ przeglądarki, język przeglądarki, datę i godzinę żądania oraz co najmniej jeden plik cookie, który może jednoznacznie identyfikować przeglądarkę użytkownika.
+Typowy wpis dziennika dotycząca wyszukiwania hasła „cars” (samochody) wygląda tak:
+123.45.67.89 - 25/Mar/2003 10:15:32 -
+http://www.google.com/search?q=cars -
+Chrome 112; OS X 10.15.7 -
+740674ce2123e969
+123.45.67.89
+jest adresem IP przypisanym do użytkownika przez dostawcę usług internetowych. W zależności od tego, z jakiego rodzaju usługi korzysta użytkownik, adres przypisany przez dostawcę usług podczas nawiązywania połączenia z internetem może być za każdym razem inny.25/Mar/2003 10:15:32
+oznacza datę i godzinę zapytania.http://www.google.com/search?q=cars
+jest żądanym adresem URL, zawierającym wyszukiwane hasło.Chrome 112; OS X 10.15.7
+oznacza przeglądarkę i system operacyjny, z których korzysta użytkownik.740674ce2123a969
+jest unikalnym identyfikatorem pliku cookie przypisanym do tego konkretnego komputera podczas pierwszej wizyty w witrynie Google. (Użytkownicy mogą usuwać pliki cookie. Jeśli użytkownik usunął plik cookie z komputera od czasu ostatniego przeglądania witryny Google, to podczas następnego przejścia do witryny Google z tego konkretnego komputera do użytkownika zostanie przypisany unikalny identyfikator pliku cookie).
+Konto Google
+Dostęp do niektórych naszych usług można uzyskać po założeniu konta Google i podaniu określonych danych osobowych (zazwyczaj imienia i nazwiska, adresu e-mail oraz hasła). Danych konta używa się do identyfikacji użytkownika, gdy chce on uzyskać dostęp do usług Google, oraz w celu ochrony konta przed dostępem osób nieupoważnionych. Użytkownik może w każdej chwili zmienić dane konta lub usunąć konto w ustawieniach konta Google.
+Pamięć podręczna aplikacji
+Pamięć podręczna aplikacji pełni rolę repozytorium danych urządzenia. Może na przykład umożliwiać aplikacjom internetowym pracę offline i poprawiać ich wydajność, przyspieszając ładowanie treści.
+Pamięć podręczna przeglądarki
+Pamięć podręczna przeglądarki umożliwia witrynom przechowywanie danych w przeglądarce zainstalowanej na urządzeniu. W trybie „pamięci lokalnej” umożliwia ona przechowywanie danych pomiędzy sesjami. Dzięki temu można odzyskać dane nawet po wyłączeniu i ponownym uruchomieniu przeglądarki. Jedną z technologii obsługujących pamięć podręczną przeglądarki jest język HTML 5.
+Pliki cookie
+Plik cookie jest niewielkim plikiem zawierającym ciąg znaków, który jest wysyłany do komputera użytkownika podczas odwiedzania przez niego witryny internetowej. Podczas ponownej wizyty w witrynie plik cookie umożliwia witrynie rozpoznanie przeglądarki. Pliki cookie przechowują między innymi dane na temat preferencji użytkownika. W przeglądarce można skonfigurować odrzucanie wszystkich plików cookie lub powiadamianie o każdym przesłaniu pliku cookie. Jednak niektóre funkcje witryny lub usług mogą nie działać prawidłowo bez plików cookie. Dowiedz się więcej o tym, jak Google wykorzystuje pliki cookie oraz jak Google wykorzystuje dane, w tym pliki cookie, gromadzone podczas korzystania z witryn i aplikacji naszych partnerów.
+Podmioty stowarzyszone
+Podmiot stowarzyszony to podmiot należący do grupy firm Google. Są to między innymi te firmy świadczące usługi dla konsumentów na terenie Unii Europejskiej: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp i Google Dialer Inc. Dowiedz się więcej o firmach świadczących usługi dla firm na terenie Unii Europejskiej.
+Tag pikselowy
+Tag pikselowy to element umieszczany w witrynie lub wiadomości e-mail, który umożliwia monitorowanie aktywności takiej jak wyświetlenie strony internetowej lub otwarcie wiadomości e-mail. Tagi pikselowe są często stosowane w połączeniu z plikami cookie.
+Unikalne identyfikatory
+Unikalny identyfikator jest ciągiem znaków, który umożliwia jednoznaczną identyfikację przeglądarki, aplikacji lub urządzenia. Różne identyfikatory różnią się między sobą pod kątem trwałości, możliwości zresetowania lub sposobu uzyskiwania do nich dostępu.
+Unikalne identyfikatory mogą mieć wiele zastosowań: można ich używać w charakterze zabezpieczeń bądź do wykrywania oszustw, mogą służyć do synchronizacji usług takich jak skrzynka poczty przychodzącej, do zapamiętywania preferencji użytkownika i wyświetlania spersonalizowanych reklam. Na przykład unikalne identyfikatory przechowywane w plikach cookie umożliwiają witrynom wyświetlanie treści w przeglądarce w preferowanym przez użytkownika języku. W przeglądarce można skonfigurować odrzucanie wszystkich plików cookie lub powiadamianie o każdym przesłaniu pliku cookie. Dowiedz się więcej o tym, jak Google używa plików cookie.
+Na innych platformach niż przeglądarki unikalne identyfikatory służą do rozpoznawania określonego urządzenia lub aplikacji na tym urządzeniu. Na przykład unikalny identyfikator, taki jak identyfikator wyświetlania reklam, służy do wyświetlania odpowiednio dobranych reklam na urządzeniach z Androidem. Można nim zarządzać w ustawieniach urządzenia. Producent może oznaczyć urządzenie unikalnym identyfikatorem (nazywanym też uniwersalnym unikalnym identyfikatorem lub UUID). Jest to na przykład numer IMEI telefonu komórkowego. Unikalny identyfikator urządzenia może na przykład pomóc dopasować usługi do konkretnego urządzenia i analizować powiązane z nimi problemy sprzętowe.
+URL strony odsyłającej
+URL strony odsyłającej to informacja przesyłana do docelowej strony internetowej przez przeglądarkę, zazwyczaj po kliknięciu linku do tej strony. URL strony odsyłającej zawiera adres URL ostatniej strony odwiedzonej za pomocą przeglądarki.
+Urządzenie
+Urządzenie to komputer używany do uzyskiwania dostępu do usług Google. Za urządzenia uznawane są na przykład komputery, tablety, inteligentne głośniki i smartfony.
+Wrażliwe dane osobowe
+Jest to specjalna kategoria danych osobowych obejmująca między innymi poufne informacje medyczne, rasę, pochodzenie etniczne, poglądy polityczne, wyznanie i orientację seksualną.
+Dodatkowy kontekst
+Aktywność w usługach Google
+Jeśli zalogujesz się na konto Google i włączysz Aktywność w internecie i aplikacjach, dane o Twojej aktywności w witrynach, aplikacjach i usługach Google mogą być zapisywane w Aktywności w internecie i aplikacjach na Twoim koncie. Niektóre z nich mogą zawierać informacje o ogólnej lokalizacji, w której zdarzyło Ci się korzystać z usługi Google. Gdy szukasz czegoś przy użyciu ogólnej lokalizacji, Twoje wyszukiwanie obejmie obszar co najmniej 3 km² lub większy – reprezentujący lokalizację co najmniej 1000 osób. Pomaga to chronić Twoją prywatność.
+W niektórych przypadkach obszary, z których pochodziły wcześniejsze zapytania, mogą zostać użyte do oszacowania właściwej lokalizacji dla Twojego wyszukiwania. Jeśli na przykład szukasz kawiarni, gdy jesteś w Gdańsku, Google może w przyszłości wyświetlać wyniki dotyczące tego miasta.
+Na stronie Moja aktywność możesz wyświetlać swoją Aktywność w internecie i aplikacjach oraz nią zarządzać.
+aktywność w witrynach i aplikacjach innych firm, które korzystają z naszych usług
+Witryny i aplikacje integrujące usługi Google, takie jak reklamy i analityka, udostępniają nam informacje.
+Te informacje są zbierane niezależnie od używanej przeglądarki i trybu, w jakim używasz. Tryb incognito w Chrome pozwala na przykład chronić Twoją prywatność przed osobami korzystającymi z Twojego urządzenia, ale strony i aplikacje innych firm, które integrują nasze usługi, mogą nadal udostępniać Google informacje, gdy je odwiedzasz.
+Dowiedz się więcej o niektórych sposobach kontrolowania informacji wysyłanych, gdy odwiedzasz witryny lub używasz aplikacji, które korzystają z usług Google.
+Amerykańskie przepisy stanowe o ochronie prywatności
+Przepisy te obejmują:
+- kalifornijską ustawę o ochronie prywatności konsumentów (California Consumer Privacy Act, CCPA);
+- ustawę stanu Wirginia o ochronie danych konsumentów (Virginia Consumer Data Protection Act, VCDPA);
+- ustawę stanu Kolorado o ochronie prywatności (Colorado Privacy Act, CPA);
+- ustawę stanu Connecticut o prywatności danych osobowych i monitorowaniu online (Connecticut Act Concerning Personal Data Privacy and Online Monitoring, CTDPA);
+- ustawę stanu Utah o ochronie prywatności konsumentów (Utah Consumer Privacy Act, UCPA).
+- Ustawa My Health My Data (MHDM) w stanie Waszyngton
+- Ustawa senacka nr 370 w Nevadzie
+bezpieczeństwo i niezawodność
+Oto kilka przykładów na to, w jaki sposób Twoje dane pomagają nam zapewniać bezpieczeństwo i niezawodność naszych usług:
+- Zbieramy i analizujemy adresy IP i dane z plików cookie, by chronić nasze usługi przed ich niewłaściwym wykorzystaniem za pomocą różnych narzędzi automatycznych. Tego typu nadużycie przybiera wiele form, np. wysyłanie spamu do użytkowników Gmaila, kradzież pieniędzy od reklamodawców poprzez fałszywe kliknięcia reklam czy cenzurowanie treści za pomocą tzw. rozproszonej odmowy usługi (atak DDoS, Distributed Denial of Service).
+- Funkcja „ostatnia aktywność na koncie” w Gmailu pomaga dowiedzieć się, czy i kiedy ktoś uzyskiwał dostęp do Twojej poczty e-mail bez Twojej wiedzy. Pokazuje ona informacje dotyczące ostatniej aktywności w Gmailu, takie jak adresy IP, z których logowano się na konto, powiązane z nimi lokalizacje oraz daty i godziny uzyskania dostępu. Dowiedz się więcej
+dane karty
+Jeśli na przykład dodasz do swojego konta Google kartę kredytową lub inną formę płatności, możesz jej używać do kupowania rzeczy w naszych usługach, na przykład aplikacji w Sklepie Play. Możemy też poprosić Cię o podanie innych informacji, na przykład identyfikatora podatkowego firmy, by łatwiej przetworzyć płatność. W niektórych przypadkach będziemy musieli zweryfikować Twoją tożsamość i w tym celu poprosimy Cię o podanie pewnych danych.
+Na podstawie danych karty możemy też sprawdzać, czy spełniasz wymagania wiekowe, jeśli na przykład podasz nieprawidłową datę urodzenia wskazującą, że nie masz odpowiedniego wieku, by posiadać konto Google. Dowiedz się więcej
+Danych z czujników urządzenia
+Twoje urządzenie może być wyposażone w czujniki, które mogą dostarczać informacje o Twojej lokalizacji i poruszaniu się. Przy użyciu akcelerometru można na przykład określić prędkość przemieszczania się, a przy użyciu żyroskopu – kierunek ruchu. Dowiedz się więcej o tym, jak używamy informacji o lokalizacji.
+dostosowane wyniki wyszukiwania
+Gdy na przykład zalogujesz się na swoje konto Google i włączysz Aktywność w internecie i aplikacjach, zobaczysz trafniejsze wyniki wyszukiwania, które będą dobierane na podstawie twoich wcześniejszych wyszukiwań i aktywności w innych usługach Google. Więcej informacji znajdziesz tutaj. Dostosowane wyniki wyszukiwania możesz też otrzymywać nawet, gdy się wylogujesz. Jeśli nie chcesz, by wyniki wyszukiwania były w ten sposób dostosowywane, możesz wyszukiwać i przeglądać internet prywatnie lub wyłączyć personalizację wyników po wylogowaniu.
+działania, które wykonujesz w innych witrynach i aplikacjach
+Działania te mogą wynikać z użytkowania usług Google, takich jak synchronizacja konta z Chrome, lub korzystania z witryn i aplikacji należących do partnerów Google. Wielu właścicieli witryn i aplikacji współpracuje z Google, by podwyższać jakość dostarczanych treści i oferowanych usług. Na przykład strona może korzystać z naszych usług reklamowych (takich jak AdSense) lub narzędzi analitycznych (takich jak Google Analytics) albo może osadzać inne materiały (takie jak filmy z YouTube). Usługi te mogą przekazywać do Google informacje na temat Twojej aktywności. W zależności od ustawień konta i wykorzystywanych usług (na przykład gdy partner korzysta z Google Analytics w połączeniu z innymi usługami reklamowymi) zgromadzone informacje mogą być powiązane z danymi osobowymi.
+Dowiedz się więcej o tym, jak korzystamy z danych na temat działań użytkowników w witrynach i aplikacjach naszych partnerów.
+informacje o rzeczach w pobliżu urządzenia
+Jeśli używasz usług lokalizacyjnych Google na Androidzie, możemy ulepszyć działanie aplikacji, które opierają się na Twojej lokalizacji – takich jak Mapy Google. W takim przypadku Twoje urządzenie wysyła do Google informacje o swoim położeniu oraz pobliskich stacjach bazowych i punktach dostępu do sieci Wi-Fi (np. adresie MAC i sile sygnału), a także dane z czujników (np. akcelerometru). Wszystkie te dane pomagają nam określić Twoją lokalizację. Usługi lokalizacyjne Google możesz włączyć w ustawieniach urządzenia. Dowiedz się więcej
+Informacje związane z głosem i dźwiękiem
+Możesz na przykład zdecydować, czy Google ma zapisywać nagrania dźwiękowe na Twoim koncie Google, gdy korzystasz z wyszukiwarki Google, Asystenta i Map. Gdy urządzenie wykryje polecenie aktywujące komendy głosowe, np. „OK Google”, nagramy Twój głos i dźwięk oraz kilka sekund przed wypowiedzeniem polecenia. Dowiedz się więcej
+inne firmy
+Przetwarzamy Twoje informacje na przykład po to, by przekazywać właścicielom praw do treści statystyki ich użytkowania oraz informacje o tym, w jaki sposób udostępniane przez nich materiały są używane w naszych usługach. Twoje dane możemy też przetwarzać, gdy ludzie wyszukują Twoje imię i nazwisko oraz gdy w naszych wynikach wyszukiwania pojawiają się witryny zawierające informacje o Tobie dostępne publicznie.
+inne informacje dotyczące Twojego zdrowia fizycznego lub psychicznego
+Jeśli korzystasz z oferowanych przez nas usług i aplikacji fitness, takich jak Fitbit, Pixel Watch, Nest czy Google Fit, zbieramy podane przez Ciebie dane, takie jak wzrost i waga. Z tych aplikacji i urządzeń zbieramy też informacje takie jak schematy snu, tętno, temperatura skóry, spalone kalorie czy zrobione kroki.innym osobom
+Na przykład przetwarzamy informacje o żądaniach usunięcia treści z naszych usług zgodnie z naszymi zasadami usuwania treści lub obowiązującymi przepisami, aby rozpatrzyć żądanie, a także zapewniać przejrzystość informacji, zwiększać rozliczalność i zapobiegać nadużyciom oraz oszustwom w ramach tych żądań.
+kategorie o charakterze wrażliwym
+Wybierając dla Ciebie reklamy spersonalizowane, na podstawie Twojej aktywności uwzględniamy tematy, które naszym zdaniem mogą Cię zainteresować. Możesz w związku z tym zobaczyć na przykład reklamy związane z „gotowaniem i przepisami” lub „podróżami lotniczymi”. Nie wykorzystujemy przy tym kategorii o charakterze wrażliwym, takich jak rasa, religia, orientacja seksualna czy stan zdrowia, ani nie wyświetlamy reklam spersonalizowanych z takich kategorii. Tego samego wymagamy od reklamodawców, którzy korzystają z naszych usług.
+konkretne usługi Google
+Możesz na przykład usunąć swojego bloga z Bloggera lub należącą do Ciebie witrynę Google z Witryn Google. Możesz też usuwać napisane przez siebie opinie o aplikacjach, grach i innych materiałach dostępnych w Sklepie Play.
+konkretni partnerzy
+Zezwalamy na przykład reklamodawcom i twórcom z YouTube na współpracowanie z firmami pomiarowymi, dzięki czemu mogą oni przy użyciu plików cookie lub podobnych technologii poznać odbiorców swoich reklam lub filmów w YouTube. Innym przykładem są sprzedawcy na naszych stronach zakupowych, którzy używają plików cookie, by dowiedzieć się, ile różnych osób wyświetla informacje o ich produktach. Więcej informacji o tych partnerach i o tym, jak wykorzystują oni Twoje dane.
+możliwość łączenia informacji
+Działanie Google Analytics opiera się na własnych plikach cookie, co oznacza, że są one zapisywane przez klienta Google Analytics. Korzystając z naszych systemów, klient używający Google Analytics oraz Google może połączyć dane wygenerowane przez Google Analytics z plikami cookie innych firm powiązanymi z odwiedzinami na innych stronach. Na podstawie własnych danych Google Analytics reklamodawca może na przykład tworzyć bardziej trafne reklamy lub dokładniej analizować ruch na swoich stronach. Dowiedz się więcej
+najbardziej przydatne reklamy
+Jeśli na przykład oglądasz w YouTube filmy poświęcone pieczeniu, podczas przeglądania internetu możesz widzieć więcej reklam odnoszących się do wypieków. Na podstawie Twojego adresu IP możemy też ustalić Twoją przybliżoną lokalizację, co pozwala nam prezentować Ci reklamy pizzy na telefon w okolicy, gdy w polu wyszukiwania wpiszesz hasło „pizza”. Dowiedz się więcej o reklamach Google i o tym, dlaczego możesz widzieć konkretne reklamy.
+najbliżsi internetowi znajomi
+Gdy na przykład podczas pisania e-maila wpiszesz adres w polu Do, DW lub UDW, Gmail zasugeruje adresy na podstawie osób, z którymi kontaktujesz się najczęściej.
+numer telefonu
+Jeśli dodasz do konta numer telefonu, to w zależności od Twoich ustawień może on być używany w usługach Google do różnych celów – na przykład by pomóc Ci odzyskać dostęp do konta, gdy zapomnisz hasła, pomóc innym Cię odnaleźć i skontaktować się z Tobą, lub do wybierania reklam, które mogą Cię zainteresować. Dowiedz się więcej
+ochrona przed naruszeniami
+Informacje o zagrożeniach bezpieczeństwa pomagają nam na przykład informować Cię, gdy Twoje konto mogło zostać przejęte (a potem pomagać Ci w wykonywaniu odpowiednich czynności w celu zapewnienia jego ochrony).
+Oznaczone przez Ciebie miejsca, takie jak dom czy praca
+Możesz zdecydować się na zapisanie na swoim koncie Google miejsc, które są dla Ciebie ważne, np. domu lub pracy. Ustawienie adresu domowego lub służbowego może ułatwić wiele czynności, takich jak wyznaczanie trasy dojazdu czy znajdowanie wyników w pobliżu domu lub pracy. Możesz też widzieć bardziej przydatne reklamy.
+Adres domowy i służbowy możesz w każdej chwili zmienić lub usunąć na koncie Google.
+pokazywanie trendów
+Gdy wiele osób zaczyna poszukiwać informacji na ten sam temat, pozwala to zdobyć przydatne informacje o aktualnych trendach. Trendy Google próbkują wyszukiwania w Google, by oszacować ich popularność w określonym przedziale czasu, i udostępniają publicznie wyniki zbiorcze. Dowiedz się więcej
+poprawne działanie naszych usług dzięki plikom cookie
+Używamy na przykład pliku cookie o nazwie „lbcs”, który umożliwia otwieranie wielu dokumentów Google w jednej przeglądarce. Zablokowanie tego pliku uniemożliwiłoby odpowiednie działanie Dokumentów Google. Dowiedz się więcej
+procesy prawne i prawomocne żądania instytucji państwowych
+Podobnie jak inne firmy technologiczne i komunikacyjne, Google regularnie otrzymuje od organów władz publicznych i sądów z całego świata wezwania do przekazania danych użytkowników. Odpowiadając na takie żądania, bierzemy zawsze pod uwagę ochronę prywatności i bezpieczeństwo danych, które użytkownicy przechowują w różnych usługach Google. Nasz zespół prawny sprawdza każde żądanie, niezależnie od jego rodzaju, i często się zdarza, że odrzucamy żądania, które wydają się nam zbyt ogólne lub niepoprawne z formalnego punktu widzenia. Więcej informacji znajdziesz w naszym Raporcie przejrzystości.
+reklamy spersonalizowane
+Możesz też widzieć reklamy spersonalizowane na podstawie informacji od reklamodawcy. Gdy na przykład zrobisz zakupy na stronie reklamodawcy, może on wykorzystać informacje o Twojej wizycie, by pokazywać Ci reklamy. Dowiedz się więcej
+serwery na całym świecie
+Korzystamy na przykład z centrów danych znajdujących się na całym świecie, by zapewnić użytkownikom nieprzerwaną dostępność naszych usług.
+synchronizacja z kontem Google
+Historia przeglądania w Chrome jest zapisywana na Twoim koncie tylko, jeśli masz włączoną synchronizację Chrome z kontem Google. Dowiedz się więcej
+świadczenie naszych usług
+Oto jak na przykład wykorzystujemy Twoje dane do świadczenia naszych usług:
+- Wykorzystujemy adres IP przypisany do urządzenia, by wysyłać do Ciebie żądane dane, na przykład wyświetlić Ci film w YouTube.
+- Wykorzystujemy unikalne identyfikatory zapisane w plikach cookie na urządzeniu, by weryfikować Cię jako osobę, która powinna mieć dostęp do Twojego konta Google.
+- Zdjęcia i filmy przesłane do Zdjęć Google pozwalają tworzyć albumy, kolaże i inne materiały, które możesz udostępniać innym. Dowiedz się więcej
+- Otrzymany przez Ciebie e-mail z potwierdzeniem lotu może posłużyć do utworzenia przycisku odprawy w Gmailu.
+- Gdy kupujesz od nas usługi lub produkty fizyczne, możesz nam udostępniać takie informacje jak adres wysyłki czy wskazówki dotyczące dostawy. Korzystamy z nich podczas przetwarzania, realizacji i dostarczania Twoich zamówień oraz świadczenia pomocy związanej z zakupionymi produktami lub usługami.
+urządzenia
+Na podstawie informacji z Twoich urządzeń możemy na przykład pomóc Ci zdecydować, na którym urządzeniu chcesz zainstalować aplikację lub obejrzeć film kupiony w Google Play. Tych informacji używamy też, by lepiej chronić Twoje konto.
+urządzenie z Androidem i aplikacjami Google
+Urządzenia z Androidem i zainstalowanymi aplikacjami Google obejmują urządzenia sprzedawane przez Google lub naszych partnerów. Mogą to być telefony, kamery, pojazdy, urządzenia do noszenia i telewizory. Wszystkie one korzystają z Usług Google Play i innych wstępnie zainstalowanych aplikacji, do których zaliczają się takie usługi jak Gmail, Mapy, aparat i telefon, aplikacje do zamiany tekstu na mowę, klawiatura oraz funkcje zabezpieczeń. Dowiedz się więcej o Usługach Google Play.
+usługi do nawiązywania i odbierania połączeń lub wysyłania i odbierania wiadomości
+Przykładowe usługi tego typu to:
+- Google Voice do nawiązywania i odbierania połączeń, wysyłania SMS-ów i zarządzania pocztą głosową
+- Google Meet do nawiązywania i odbierania rozmów wideo
+- Gmail do wysyłania i odbierania e-maili
+- Google Chat do wysyłania i odbierania wiadomości
+- Google Duo do nawiązywania i odbierania rozmów wideo oraz wysyłania i odbierania wiadomości
+- Google Fi do obsługi abonamentu telefonicznego
+utrzymywanie i ulepszanie działania usług
+Analizujemy na przykład, w jaki sposób ludzie korzystają z reklam, by poprawić ich skuteczność.
+użytkowników jej usług
+Na przykład aby zapobiegać nadużyciom oraz zwiększać przejrzystość i rozliczalność w zakresie procedur moderowania treści online, Google udostępnia dane dotyczące żądań usunięcia treści z naszych usług projektowi Lumen. W ramach tego projektu żądania te są zbierane i analizowane, aby ułatwić działalność badawczą i pomóc użytkownikom internetu zrozumieć ich prawa. Więcej informacji
+używać gromadzonych przez nas informacji w naszych usługach
+Oto kilka przykładów na to, w jaki sposób, w zależności od dostępnych ustawień, wykorzystujemy informacje zbierane w różnych usługach:
+- Gdy zalogujesz się na konto Google i wyszukasz coś w Google, zobaczysz wyniki o charakterze publicznym wraz z odpowiednimi informacjami pochodzącymi z treści, które przechowujesz w innych usługach Google, np. w Gmailu lub Kalendarzu Google. Te informacje mogą obejmować na przykład stan Twoich nadchodzących lotów, rezerwacje w restauracjach i hotelach lub Twoje zdjęcia. Dowiedz się więcej
+- Jeśli kontaktujesz się z kimś za pomocą Gmaila i chcesz dodać tę osobę do dokumentu Google lub wydarzenia w Kalendarzu Google, możesz to łatwo zrobić dzięki funkcji automatycznego uzupełniania adresu e-mail w momencie wpisywania nazwy adresata. Ta funkcja ułatwia udostępnianie materiałów znajomym osobom. Dowiedz się więcej
+- W zależności od Twoich ustawień aplikacja Google może na podstawie danych zapisanych w innych usługach Google pokazywać Ci spersonalizowane treści. Jeśli na przykład w Aktywności w internecie i aplikacjach masz zapisane wyszukiwane przez siebie hasła, to na podstawie Twojej wcześniejszej aktywności aplikacja Google może wyświetlać Ci wiadomości i inne informacje powiązane z Twoimi zainteresowaniami, takie jak wyniki sportowe.
+- Jeśli połączysz konto Google z Google Home, możesz zarządzać swoimi danymi i robić różne rzeczy przy użyciu Asystenta Google. Możesz wtedy na przykład dodawać wydarzenia do Kalendarza Google, sprawdzać swój plan dnia, dowiadywać się, jaki jest stan Twoich lotów albo wysyłać na swój telefon takie informacje, jak wskazówki dojazdu. Dowiedz się więcej
+- Jeśli jesteś użytkownikiem z Unii Europejskiej, Twoje decyzje dotyczące łączenia usług będą miały wpływ na to, jak niektóre usługi Google mogą wykorzystywać te dane w naszych usługach.
+wprowadzanie ulepszeń
+Używamy na przykład plików cookie, by analizować, w jaki sposób ludzie korzystają z naszych usług. Takie analizy pomagają nam opracowywać lepsze usługi. Pomocna może być na przykład informacja, że wykonanie określonego zadania zabiera użytkownikom zbyt dużo czasu albo że mają oni problemy z jego ukończeniem. Możemy wtedy przeprojektować daną funkcję i ulepszyć nasz produkt dla wszystkich.
+współpraca z Google
+Ponad dwa miliony witryn i aplikacji innych firm wyświetlają reklamy we współpracy z Google. Dowiedz się więcej
+wykrywanie naruszeń
+Gdy wykryjemy w naszych systemach spam, złośliwe oprogramowanie, nielegalne treści (w tym materiały związane z wykorzystywaniem seksualnym lub naruszaniem praw dzieci) lub inne elementy niezgodne z naszymi zasadami, możemy wyłączyć konto lub podjąć inne czynności właściwe w takiej sytuacji. W pewnych okolicznościach możemy też zgłosić naruszenie odpowiednim władzom.
+wyświetlanie reklam oraz świadczenie usług analitycznych w imieniu reklamodawców
+Sprzedawcy mogą na przykład przesyłać dane ze swoich kart i programów lojalnościowych, aby uwzględnić informacje o programie lojalnościowym w wynikach wyszukiwania lub w Zakupach Google albo lepiej poznać skuteczność kampanii reklamowych. Dostarczamy im wyłącznie raporty zbiorcze, które nie zawierają informacji o poszczególnych osobach.
+Wyświetlenia reklam i treści oraz interakcja z nimi
+Zbieramy na przykład informacje o wyświetleniach reklam i interakcji z nimi, dzięki czemu możemy przekazywać reklamodawcom zbiorcze raporty na ich temat. Mogą one obejmować informacje o tym, czy dana reklama została wyświetlona na stronie i czy użytkownik ją prawdopodobnie zobaczył. Możemy też mierzyć inne rodzaje interakcji: jak przesuwasz myszą po reklamie oraz czy wykonujesz jakieś działania na stronie, na której reklama się pojawiła.
+zapewnienie odpowiedniego działania naszych usług
+Nieustannie monitorujemy nasze systemy pod kątem problemów. Jeśli na przykład wykryjemy niewłaściwe działanie jakiejś funkcji, analiza informacji o aktywności zebranych przed wystąpieniem problemu pozwala nam szybciej go rozwiązać.
+źródła dostępne publicznie
+Możemy na przykład zbierać informacje, które są dostępne publicznie w internecie lub pochodzą z innych publicznych źródeł, do ulepszania modeli sztucznej inteligencji Google i opracowywania usług i funkcji, takich jak Tłumacz Google, aplikacje z Gemini czy rozwiązania sztucznej inteligencji dostarczanej przez Google Cloud. Jeśli informacje o Twojej firmie pojawiają się na stronie internetowej, możemy te dane zindeksować i wyświetlić je w usługach Google.

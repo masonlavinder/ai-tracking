@@ -1,0 +1,17 @@
+{
+  "byte_length": 413158,
+  "company_slug": "microsoft",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-19T23:30:17.760678+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Microsoft Privacy Statement",
+  "policy_region": null,
+  "sha256": "2ebc541da13541fa04f46d4514e1e14be87cf997992c2cf13a589e32859be8bb",
+  "snapshot_date": "2024-04-05",
+  "source": "wayback",
+  "text_length": 286951,
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "wayback_digest": "7EH4WFWJHTKFFKJRGPTRVOGLMQOCGA3G",
+  "wayback_timestamp": "20240405010045"
+}
