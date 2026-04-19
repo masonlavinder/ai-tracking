@@ -1,8 +1,35 @@
+import { useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes } from "react-router-dom";
+import { loadCompanies } from "./lib/data";
 import { Home } from "./routes/Home";
 import { Company } from "./routes/Company";
 import { Change } from "./routes/Change";
 import { About } from "./routes/About";
+
+function useLastUpdated(): string | null {
+  const [value, setValue] = useState<string | null>(null);
+  useEffect(() => {
+    let cancelled = false;
+    loadCompanies()
+      .then((file) => {
+        if (!cancelled) setValue(file.generated_at);
+      })
+      .catch(() => {
+        // Swallow: the footer is purely informational.
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+  return value;
+}
+
+function formatLastUpdated(iso: string | null): string {
+  if (!iso) return "unknown";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toISOString().slice(0, 16).replace("T", " ") + " UTC";
+}
 
 const navItemClass = ({ isActive }: { isActive: boolean }) =>
   `rounded-md px-3 py-1.5 text-sm font-medium transition ${
@@ -12,6 +39,7 @@ const navItemClass = ({ isActive }: { isActive: boolean }) =>
   }`;
 
 export function App() {
+  const lastUpdated = useLastUpdated();
   return (
     <div className="mx-auto flex min-h-full max-w-5xl flex-col px-4 py-6">
       <header className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 pb-4">
@@ -63,17 +91,25 @@ export function App() {
         </Routes>
       </main>
 
-      <footer className="border-t border-slate-200 py-4 text-xs text-slate-500">
-        Heuristic, not legal advice. Source code on{" "}
-        <a
-          href="https://github.com/masonlavinder/ai-tracking"
-          className="underline"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          GitHub
-        </a>
-        .
+      <footer className="flex flex-wrap items-center justify-between gap-2 border-t border-slate-200 py-4 text-xs text-slate-500">
+        <span>
+          Heuristic, not legal advice. Source code on{" "}
+          <a
+            href="https://github.com/masonlavinder/ai-tracking"
+            className="underline"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            GitHub
+          </a>
+          .
+        </span>
+        <span>
+          Last updated{" "}
+          <time dateTime={lastUpdated ?? undefined} className="font-mono">
+            {formatLastUpdated(lastUpdated)}
+          </time>
+        </span>
       </footer>
     </div>
   );

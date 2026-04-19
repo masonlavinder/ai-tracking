@@ -1,5 +1,10 @@
 # AI Privacy Tracker
 
+[![scrape](https://github.com/masonlavinder/ai-tracking/actions/workflows/scrape.yml/badge.svg)](https://github.com/masonlavinder/ai-tracking/actions/workflows/scrape.yml)
+[![build](https://github.com/masonlavinder/ai-tracking/actions/workflows/build.yml/badge.svg)](https://github.com/masonlavinder/ai-tracking/actions/workflows/build.yml)
+[![last commit](https://img.shields.io/github/last-commit/masonlavinder/ai-tracking/main)](https://github.com/masonlavinder/ai-tracking/commits/main)
+[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+
 Tracks how major tech companies' privacy policies, SEC disclosures, regulatory
 filings, and news coverage evolve with respect to AI data use.
 
