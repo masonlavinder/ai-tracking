@@ -28,6 +28,7 @@ htmlcov/
 node_modules/
 frontend/dist/
 frontend/.vite/
+*.tsbuildinfo
 # Copied at build time from data/processed by scripts/copy-data.mjs
 frontend/public/data/
 *.log
