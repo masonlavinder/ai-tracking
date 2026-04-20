@@ -1,15 +1,23 @@
 name: backfill
 
-# One-shot Wayback Machine backfill, manual-dispatch only.
-# Run this once after adding a new company or policy URL to seed the
-# historical snapshot tree. Scheduled scraping does not run wayback
-# because CDX + raw-capture fetches are slow and rarely needed.
+# Wayback Machine backfill, manual-dispatch only, parallelized across
+# runners. One job per company fans out, each uploads its own raw
+# snapshots as an artifact, and a final commit job downloads all of
+# them and pushes a single commit.
+#
+# Two pieces of rudeness-control:
+#
+# - `max-parallel` caps concurrent runners because every fetch goes
+#   through web.archive.org and 12 runners hammering at once gets us
+#   throttled.
+# - The scraper itself still enforces a 2s per-host delay inside each
+#   runner, so within a single job requests stay polite.
 
 on:
   workflow_dispatch:
     inputs:
       companies:
-        description: "Comma-separated slugs (blank = all)"
+        description: "Comma-separated slugs (blank = all 12 registered)"
         required: false
         default: ""
       months:
@@ -25,9 +33,35 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  backfill:
+  plan:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    outputs:
+      companies: ${{ steps.pick.outputs.companies }}
+    steps:
+      - name: Resolve company list
+        id: pick
+        env:
+          RAW_INPUT: ${{ inputs.companies }}
+        run: |
+          set -euo pipefail
+          raw="${RAW_INPUT:-}"
+          if [ -z "$raw" ]; then
+            raw="meta,openai,anthropic,google,microsoft,apple,amazon,reddit,adobe,x,linkedin,tiktok"
+          fi
+          json=$(echo "$raw" | tr ',' '\n' | sed 's/[[:space:]]//g' | awk 'NF' \
+            | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "companies=$json" >> "$GITHUB_OUTPUT"
+          echo "Matrix: $json"
+
+  backfill:
+    needs: plan
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        company: ${{ fromJSON(needs.plan.outputs.companies) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -42,17 +76,55 @@ jobs:
         working-directory: scrapers
         run: uv sync --frozen --extra dev
 
-      - name: Run Wayback backfill
+      - name: Run Wayback backfill for ${{ matrix.company }}
         working-directory: scrapers
         env:
           PYTHONUNBUFFERED: "1"
         run: |
+          uv run python -m scrapers.main \
+            --source wayback \
+            --wayback-months ${{ inputs.months }} \
+            --companies ${{ matrix.company }}
+
+      - name: Upload snapshots for ${{ matrix.company }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-policies-${{ matrix.company }}
+          path: data/raw/policies/${{ matrix.company }}/
+          if-no-files-found: ignore
+          retention-days: 1
+
+  commit:
+    needs: backfill
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download all matrix artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: /tmp/backfill
+          pattern: raw-policies-*
+
+      - name: Merge artifacts into data/raw/policies/
+        run: |
           set -euo pipefail
-          args=(--source wayback --wayback-months "${{ inputs.months }}")
-          if [ -n "${{ inputs.companies }}" ]; then
-            args+=(--companies "${{ inputs.companies }}")
+          shopt -s nullglob
+          any_artifact=0
+          for dir in /tmp/backfill/raw-policies-*; do
+            any_artifact=1
+            slug=$(basename "$dir" | sed 's/^raw-policies-//')
+            mkdir -p "data/raw/policies/$slug"
+            cp -rn "$dir/." "data/raw/policies/$slug/" || true
+          done
+          if [ "$any_artifact" -eq 0 ]; then
+            echo "No artifacts produced by any matrix job."
           fi
-          uv run python -m scrapers.main "${args[@]}"
 
       - name: Commit raw data changes
         env:
