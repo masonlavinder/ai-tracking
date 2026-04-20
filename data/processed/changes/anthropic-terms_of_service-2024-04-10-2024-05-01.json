@@ -1,0 +1,67 @@
+{
+  "added_paragraphs": [
+    "We've recently updated our Terms. Learn more about the changes here.",
+    "We may offer manual or automatic updates to our software including our apps (\u201cAnthropic Software\u201d), without advance notice to you. Anthropic Software may include open source software. In the event of any conflict between these Terms and any other Anthropic or third-party terms applicable to any portion of Anthropic Software, such as open-source license terms, such other terms will control as to that portion of the Anthropic Software and to the extent of the conflict.",
+    "OUR PROVIDERS ARE INTENDED THIRD PARTY BENEFICIARIES OF THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY CONTAINED IN THIS SECTION 10."
+  ],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2024-05-01",
+  "from_date": "2024-04-10",
+  "id": "anthropic-terms_of_service-2024-04-10-2024-05-01",
+  "modified_paragraphs": [
+    {
+      "after": "These Terms of Service (\u201cTerms\u201d) govern your use of Claude.ai, Claude Pro, and other products and services that we may offer for individuals (including any Anthropic API key and the Anthropic Console, when used by individuals), along with any associated apps, software, and websites (together, our \u201cServices\u201d). These Terms are a contract between you and Anthropic, PBC (and not our Providers), and they include our Acceptable Use Policy. By accessing our Services, you agree to these Terms.",
+      "before": "These Terms of Service (\u201cTerms\u201d) govern your use of Claude.ai, Claude Pro, and other products and services that we may offer for individuals (including any Anthropic API key and the Anthropic Console, when used by individuals), along with any associated apps, software, and websites (together, our \u201cServices\u201d). These Terms are a contract between you and Anthropic, PBC, and they include our Acceptable Use Policy. By accessing our Services, you agree to these Terms."
+    },
+    {
+      "after": "- To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that we reasonably believe exposes us\u2014or any of our users, affiliates, or any other third party\u2014to any liability, damages, or detriment of any type, including reputational harms.",
+      "before": "- To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that in our sole judgment exposes us\u2014or any of our users, affiliates, or any other third party\u2014to any liability, damages, or detriment of any type, including reputational harms."
+    },
+    {
+      "after": "- Subscription term and automatic renewal. If you sign up for a paid Subscription, we will automatically charge your Payment Method on each agreed-upon periodic renewal date until you cancel. If your Subscription has a minimum term (the \u201cInitial Term\u201d), we will let you know during the order process. The \"Initial Term\" for Claude Pro is one month. Your Subscription will last for the Initial Term and will automatically renew, and your Payment Method will be charged, at the end of the Initial Term for an additional term equal in duration to the Initial Term and will continue to renew and incur charges for additional terms equal in duration to the Initial Term (each such additional term, a \u201cRenewal Term\u201d) until you cancel.",
+      "before": "- Subscription term and automatic renewal. If you sign up for a paid Subscription, we will automatically charge your Payment Method on each agreed-upon periodic renewal date until you cancel as described in the paragraph immediately below (Subscription cancellation). If your Subscription has a minimum term (the \u201cInitial Term\u201d), we will let you know during the order process. The \"Initial Term\" for Claude Pro is one month. Your Subscription will last for the Initial Term and will automatically renew, and your Payment Method will be charged, at the end of the Initial Term for an additional term equal in duration to the Initial Term and will continue to renew and incur charges for additional terms equal in duration to the Initial Term (each such additional term, a \u201cRenewal Term\u201d) until you cancel."
+    },
+    {
+      "after": "The Services are owned, operated, and provided by us and our affiliates, licensors, distributors, and service providers (collectively \u201cProviders\u201d). We and our Providers retain all of our respective rights, title, and interest, including intellectual property rights, in and to the Services. Other than the rights of access and use expressly granted in our Terms, our Terms do not grant you any right, title, or interest in or to our Services.",
+      "before": "The Services are owned and operated by us and our affiliates, licensors, and service providers (collectively \u201cProviders\u201d). We and our Providers retain all of our respective rights, title, and interest, including intellectual property rights, in and to the Services. Other than the rights of access and use expressly granted in our Terms, our Terms do not grant you any right, title, or interest in or to our Services."
+    },
+    {
+      "after": "10. Disclaimer of warranties, limitations of liability, and indemnity",
+      "before": "9. Disclaimer of warranties, limitations of liability, and indemnity"
+    },
+    {
+      "after": "Changes to the Services. Our Services are novel and will change. We may sometimes add or remove features, increase or decrease capacity limits, offer new Services, or stop offering certain Services.",
+      "before": "Our Services are novel and will change. We may sometimes add or remove features, increase or decrease capacity limits, offer new Services, or stop offering certain Services."
+    },
+    {
+      "after": "Changes to these terms. We may revise and update these Terms at our discretion. Some examples of times, we may update these Terms include (1) to reflect changes in our Services, like when we add or remove features or services, or update our pricing, (2) for security or legal reasons, or (3) to promote safety or prevent abuse. If you continue to access the Services after we post the updated Terms on Anthropic\u2019s website or otherwise give you notice of Terms changes, then you agree to the updated Terms. If you do not accept the updated Terms, you must stop using our Services.",
+      "before": "These terms may change, too. We may revise and update these Terms at our discretion. Some examples of times, we may update these Terms include (1) to reflect changes in our Services, like when we add or remove features or services, or update our pricing, (2) for security or legal reasons, or (3) to promote safety or prevent abuse. If you continue to access the Services after we post the updated Terms on Anthropic\u2019s website or otherwise give you notice of Terms changes, then you agree to the updated Terms. If you do not accept the updated Terms, you must stop using our Services."
+    },
+    {
+      "after": "Supplemental terms. We may offer Services or features that we believe require service-specific terms or guidelines. When using our Services, you agree to comply with any applicable guidelines, rules, or supplemental terms that may be posted on the Services from time to time (\u201cSupplemental Terms\u201d). If these Terms conflict with Supplemental Terms, the Supplemental Terms will govern for the applicable Service.",
+      "before": "We may also post supplemental terms. We may offer Services or features that we believe require service-specific terms or guidelines. When using our Services, you agree to comply with any applicable guidelines, rules, or supplemental terms that may be posted on the Services from time to time (\u201cSupplemental Terms\u201d). If these Terms conflict with Supplemental Terms, the Supplemental Terms will govern for the applicable Service."
+    },
+    {
+      "after": "Upon termination of these Terms, a Subscription, or your access to the Services, we may at our option delete any Materials or other data associated with your Account. Sections 6 (with respect to fees outstanding as of such expiration or termination) and 9 \u2013 12 will survive any expiration or termination of our Terms or a Subscription.",
+      "before": "Upon termination of these Terms, a Subscription, or your access to the Services, we may at our option delete any Materials or other data associated with your Account. Sections 6 (with respect to fees outstanding as of such expiration or termination) and 8 \u2013 11 will survive any expiration or termination of our Terms or a Subscription."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Anthropic Consumer Terms",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2024-05-01",
+  "url": "https://www.anthropic.com/legal/consumer-terms"
+}

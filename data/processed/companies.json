@@ -1,55 +1,175 @@
 {
   "companies": [
     {
-      "latest_snapshot_date": null,
+      "latest_snapshot_date": "2026-04-03",
       "name": "Meta",
-      "policies": [],
-      "recent_change_ids": [],
+      "policies": [
+        {
+          "label": "Meta Generative AI Terms",
+          "latest_snapshot_date": "2026-04-03",
+          "policy_id": "ai_terms",
+          "url": "https://www.facebook.com/privacy/genai/"
+        },
+        {
+          "label": "Meta Privacy Policy",
+          "latest_snapshot_date": "2026-04-01",
+          "policy_id": "privacy_policy",
+          "url": "https://www.facebook.com/privacy/policy/"
+        }
+      ],
+      "recent_change_ids": [
+        "meta-ai_terms-2026-03-07-2026-04-03",
+        "meta-privacy_policy-2026-03-01-2026-04-01",
+        "meta-privacy_policy-2026-02-01-2026-03-01",
+        "meta-ai_terms-2026-01-07-2026-02-24",
+        "meta-privacy_policy-2026-01-01-2026-02-01",
+        "meta-privacy_policy-2025-12-01-2026-01-01",
+        "meta-privacy_policy-2025-11-01-2025-12-01",
+        "meta-privacy_policy-2025-10-01-2025-11-01",
+        "meta-privacy_policy-2025-06-01-2025-07-02",
+        "meta-ai_terms-2025-04-05-2025-05-03"
+      ],
       "sec_cik": "0001326801",
       "slug": "meta",
       "ticker": "META",
-      "total_changes": 0
+      "total_changes": 25
     },
     {
-      "latest_snapshot_date": null,
+      "latest_snapshot_date": "2026-04-02",
       "name": "OpenAI",
-      "policies": [],
-      "recent_change_ids": [],
+      "policies": [
+        {
+          "label": "OpenAI Privacy Policy",
+          "latest_snapshot_date": "2026-03-09",
+          "policy_id": "privacy_policy",
+          "url": "https://openai.com/policies/row-privacy-policy/"
+        },
+        {
+          "label": "OpenAI Terms of Use",
+          "latest_snapshot_date": "2026-04-02",
+          "policy_id": "terms_of_service",
+          "url": "https://openai.com/policies/row-terms-of-use/"
+        }
+      ],
+      "recent_change_ids": [
+        "openai-privacy_policy-2026-02-03-2026-03-09",
+        "openai-terms_of_service-2025-12-09-2026-01-04",
+        "openai-privacy_policy-2025-11-14-2025-12-01",
+        "openai-terms_of_service-2025-10-02-2025-11-12",
+        "openai-privacy_policy-2025-06-01-2025-07-01",
+        "openai-terms_of_service-2025-05-05-2025-06-11",
+        "openai-privacy_policy-2025-05-02-2025-06-01",
+        "openai-privacy_policy-2025-02-01-2025-03-08",
+        "openai-terms_of_service-2025-02-01-2025-03-05",
+        "openai-terms_of_service-2024-12-01-2025-01-17"
+      ],
       "sec_cik": null,
       "slug": "openai",
       "ticker": null,
-      "total_changes": 0
+      "total_changes": 12
     },
     {
-      "latest_snapshot_date": null,
+      "latest_snapshot_date": "2026-04-19",
       "name": "Anthropic",
-      "policies": [],
-      "recent_change_ids": [],
+      "policies": [
+        {
+          "label": "Anthropic Privacy Policy",
+          "latest_snapshot_date": "2026-04-19",
+          "policy_id": "privacy_policy",
+          "url": "https://www.anthropic.com/legal/privacy"
+        },
+        {
+          "label": "Anthropic Consumer Terms",
+          "latest_snapshot_date": "2026-04-19",
+          "policy_id": "terms_of_service",
+          "url": "https://www.anthropic.com/legal/consumer-terms"
+        }
+      ],
+      "recent_change_ids": [
+        "anthropic-terms_of_service-2026-04-02-2026-04-19",
+        "anthropic-privacy_policy-2026-04-03-2026-04-19",
+        "anthropic-terms_of_service-2026-02-03-2026-03-03",
+        "anthropic-terms_of_service-2026-01-01-2026-02-03",
+        "anthropic-privacy_policy-2026-01-01-2026-02-03",
+        "anthropic-terms_of_service-2025-12-04-2026-01-01",
+        "anthropic-privacy_policy-2025-11-01-2025-12-04",
+        "anthropic-terms_of_service-2025-10-01-2025-11-01",
+        "anthropic-privacy_policy-2025-10-01-2025-11-01",
+        "anthropic-terms_of_service-2025-09-02-2025-10-01"
+      ],
       "sec_cik": null,
       "slug": "anthropic",
       "ticker": null,
-      "total_changes": 0
+      "total_changes": 30
     },
     {
-      "latest_snapshot_date": null,
+      "latest_snapshot_date": "2026-04-19",
       "name": "Google",
-      "policies": [],
-      "recent_change_ids": [],
+      "policies": [
+        {
+          "label": "Google Generative AI Additional Terms",
+          "latest_snapshot_date": "2026-04-19",
+          "policy_id": "ai_terms",
+          "url": "https://policies.google.com/terms/generative-ai"
+        },
+        {
+          "label": "Google Privacy Policy",
+          "latest_snapshot_date": "2026-04-19",
+          "policy_id": "privacy_policy",
+          "url": "https://policies.google.com/privacy"
+        }
+      ],
+      "recent_change_ids": [
+        "google-privacy_policy-2026-04-01-2026-04-19",
+        "google-privacy_policy-2026-01-01-2026-02-01",
+        "google-privacy_policy-2025-12-01-2026-01-01",
+        "google-privacy_policy-2025-10-01-2025-11-01",
+        "google-privacy_policy-2025-09-01-2025-10-01",
+        "google-privacy_policy-2025-07-01-2025-08-01",
+        "google-privacy_policy-2025-06-01-2025-07-01",
+        "google-privacy_policy-2025-05-01-2025-06-01",
+        "google-privacy_policy-2025-04-01-2025-05-01",
+        "google-privacy_policy-2025-03-01-2025-04-01"
+      ],
       "sec_cik": "0001652044",
       "slug": "google",
       "ticker": "GOOGL",
-      "total_changes": 0
+      "total_changes": 14
     },
     {
-      "latest_snapshot_date": null,
+      "latest_snapshot_date": "2026-04-19",
       "name": "Microsoft",
-      "policies": [],
-      "recent_change_ids": [],
+      "policies": [
+        {
+          "label": "Microsoft Privacy Statement",
+          "latest_snapshot_date": "2026-04-19",
+          "policy_id": "privacy_policy",
+          "url": "https://privacy.microsoft.com/en-us/privacystatement"
+        },
+        {
+          "label": "Microsoft Services Agreement",
+          "latest_snapshot_date": "2026-04-19",
+          "policy_id": "terms_of_service",
+          "url": "https://www.microsoft.com/en-us/servicesagreement"
+        }
+      ],
+      "recent_change_ids": [
+        "microsoft-terms_of_service-2026-04-01-2026-04-19",
+        "microsoft-privacy_policy-2024-10-01-2026-04-19",
+        "microsoft-terms_of_service-2026-03-01-2026-04-01",
+        "microsoft-terms_of_service-2026-02-01-2026-03-01",
+        "microsoft-terms_of_service-2026-01-01-2026-02-01",
+        "microsoft-terms_of_service-2025-12-01-2026-01-01",
+        "microsoft-terms_of_service-2025-11-01-2025-12-01",
+        "microsoft-terms_of_service-2025-10-01-2025-11-01",
+        "microsoft-terms_of_service-2025-09-01-2025-10-01",
+        "microsoft-terms_of_service-2025-08-01-2025-09-01"
+      ],
       "sec_cik": "0000789019",
       "slug": "microsoft",
       "ticker": "MSFT",
-      "total_changes": 0
+      "total_changes": 16
     }
   ],
-  "generated_at": "2026-04-19T23:18:06.631088+00:00"
+  "generated_at": "2026-04-20T00:25:01.600627+00:00"
 }

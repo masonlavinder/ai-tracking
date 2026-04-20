@@ -1,0 +1,115 @@
+{
+  "added_paragraphs": [],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2025-03-05",
+  "from_date": "2025-02-01",
+  "id": "openai-terms_of_service-2025-02-01-2025-03-05",
+  "modified_paragraphs": [
+    {
+      "after": "- Use our Services in a way that infringes, misappropriates or violates anyone\u2019s rights.",
+      "before": "Use our Services in a way that infringes, misappropriates or violates anyone\u2019s rights."
+    },
+    {
+      "after": "- Modify, copy, lease, sell or distribute any of our Services.",
+      "before": "Modify, copy, lease, sell or distribute any of our Services."
+    },
+    {
+      "after": "- Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).",
+      "before": "Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law)."
+    },
+    {
+      "after": "- Automatically or programmatically extract data or Output (defined below).",
+      "before": "Automatically or programmatically extract data or Output (defined below)."
+    },
+    {
+      "after": "- Represent that Output was human-generated when it was not.",
+      "before": "Represent that Output was human-generated when it was not."
+    },
+    {
+      "after": "- Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.",
+      "before": "Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services."
+    },
+    {
+      "after": "- Use Output to develop models that compete with OpenAI.",
+      "before": "Use Output to develop models that compete with OpenAI."
+    },
+    {
+      "after": "- Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice.",
+      "before": "Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice."
+    },
+    {
+      "after": "- You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.",
+      "before": "You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services."
+    },
+    {
+      "after": "- You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them.",
+      "before": "You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them."
+    },
+    {
+      "after": "- Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI\u2019s views. If Output references any third party products or services, it doesn\u2019t mean the third party endorses or is affiliated with OpenAI.",
+      "before": "Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI\u2019s views. If Output references any third party products or services, it doesn\u2019t mean the third party endorses or is affiliated with OpenAI."
+    },
+    {
+      "after": "- You breached these Terms or our Usage Policies.",
+      "before": "You breached these Terms or our Usage Policies."
+    },
+    {
+      "after": "- Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.",
+      "before": "Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else."
+    },
+    {
+      "after": "- A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest",
+      "before": "A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest"
+    },
+    {
+      "after": "- A description of the copyrighted work that you claim has been infringed upon",
+      "before": "A description of the copyrighted work that you claim has been infringed upon"
+    },
+    {
+      "after": "- A description of where the allegedly infringing material is located on our site so we can find it",
+      "before": "A description of where the allegedly infringing material is located on our site so we can find it"
+    },
+    {
+      "after": "- Your address, telephone number, and e-mail address",
+      "before": "Your address, telephone number, and e-mail address"
+    },
+    {
+      "after": "- A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law",
+      "before": "A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law"
+    },
+    {
+      "after": "- A statement by you that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner\u2019s behalf",
+      "before": "A statement by you that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner\u2019s behalf"
+    },
+    {
+      "after": "- Changes to the law or regulatory requirements.",
+      "before": "Changes to the law or regulatory requirements."
+    },
+    {
+      "after": "- Circumstances beyond our reasonable control.",
+      "before": "Circumstances beyond our reasonable control."
+    },
+    {
+      "after": "- Changes we make in the usual course of developing our Services.",
+      "before": "Changes we make in the usual course of developing our Services."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2025-03-05",
+  "url": "https://openai.com/policies/row-terms-of-use/"
+}

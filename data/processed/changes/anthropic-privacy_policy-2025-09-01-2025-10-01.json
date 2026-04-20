@@ -1,0 +1,33 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2025-10-01",
+  "from_date": "2025-09-01",
+  "id": "anthropic-privacy_policy-2025-09-01-2025-10-01",
+  "modified_paragraphs": [
+    {
+      "after": "Note: This policy is effective on October 8, 2025 or the date you acknowledge this updated Privacy Policy within our Services (if earlier).",
+      "before": "Note: This policy is effective on September 28, 2025 or the date you acknowledge this updated Privacy Policy within our Services (if earlier)."
+    },
+    {
+      "after": "| To communicate with you and to promote our Services |",
+      "before": "| To communicate with you, including to send you information about our Services and events |"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-10-01",
+  "url": "https://www.anthropic.com/legal/privacy"
+}

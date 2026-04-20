@@ -1,0 +1,38 @@
+{
+  "added_paragraphs": [
+    "If you are located in the Republic of Korea, please read section 13 of the Privacy Policy which applies to you.",
+    "13. Supplemental Disclosures for Residents of the Republic of Korea",
+    "Domestic Representative in the Republic of Korea",
+    "The domestic representative of Anthropic PBC for data protection and related regulatory purposes under Article 31-2 of the Personal Information Protection Act and Article 32-5 of the Act on Promotion of Information and Communications Network Utilization and Data Protection, Etc. in the Republic of Korea is as follows:",
+    "Entity Name and Representative: Anthropic Korea, Limited (Representative Patrick Azubike Ekeruo)",
+    "Registered Address: (Yeoksam-dong), 41F, 152 Teheran-ro, Gangnam-gu, Seoul, South Korea",
+    "| Trustees and Contacts | Bae, Kim & Lee LLC (02-3404-0001) |",
+    "| Entrusted Data | Name, ID, phone number, email, address, and other information that you may provide to the domestic representative |",
+    "| Purpose | Assisting with the domestic representative duties |",
+    "| Retention period | The period necessary to process your request |",
+    "| Times and methods of transfer | Telephone, text, or email |"
+  ],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2025-12-04",
+  "from_date": "2025-11-01",
+  "id": "anthropic-privacy_policy-2025-11-01-2025-12-04",
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "data-retention-change"
+  ],
+  "to_date": "2025-12-04",
+  "url": "https://www.anthropic.com/legal/privacy"
+}

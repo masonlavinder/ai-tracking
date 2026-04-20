@@ -1,0 +1,47 @@
+{
+  "added_paragraphs": [
+    "- To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience;",
+    "| To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience |"
+  ],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2025-03-02",
+  "from_date": "2025-02-01",
+  "id": "anthropic-privacy_policy-2025-02-01-2025-03-02",
+  "modified_paragraphs": [
+    {
+      "after": "For information about how we collect and use personal data to develop our language models that power our Services, when we may receive and process personal data of non-users, and your choices with respect to that information, please see our Notice on Model Training.",
+      "before": "For information about how we collect and use personal data to develop our language models that power our Services, and your choices with respect to that information, please see our Notice on Model Training."
+    },
+    {
+      "after": "- Inputs and Outputs: Our AI services allow you to interact with the Services in a variety of formats (\u201cPrompts\u201d or \"Inputs\"), which generate responses (\u201cOutputs\u201d) based on your Inputs. This includes where you choose to integrate third-party applications with our services. If you include personal data or reference external content in your Inputs, we will collect that information and this information may be reproduced in your Outputs.",
+      "before": "- Inputs and Outputs: Our AI services allow you to interact with the Services in a variety of formats (\u201cPrompts\u201d or \"Inputs\"), which generate responses (\u201cOutputs\u201d) based on your Inputs. If you include personal data in your Inputs, we will collect that information and this information may be reproduced in your Outputs."
+    },
+    {
+      "after": "- Service providers & business partners. Anthropic may disclose the categories of personal data described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, data processing, and providing you with the services.",
+      "before": "- Service providers & business partners. Anthropic may disclose the categories of personal data described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, and data processing."
+    },
+    {
+      "after": "- With an individual's consent. Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information, including as a part of our Services.",
+      "before": "- With an individual's consent. Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "third-party-sharing"
+  ],
+  "to_date": "2025-03-02",
+  "url": "https://www.anthropic.com/legal/privacy"
+}

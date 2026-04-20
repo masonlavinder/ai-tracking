@@ -1,0 +1,35 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Meta",
+  "company_slug": "meta",
+  "date": "2025-07-02",
+  "from_date": "2025-06-01",
+  "id": "meta-privacy_policy-2025-06-01-2025-07-02",
+  "modified_paragraphs": [
+    {
+      "after": "Our ads system automatically processes information that we\u2019ve collected and stored associated with you. Our ads system uses this information to understand your interests and your preferences and personalize your ads across the Meta Company Products.",
+      "before": "Our ads system automatically processes information that we\u2019ve collected and stored associated with you. Our ads system uses this information to understand your interests and your preferences and personalize your ads across the Meta Products."
+    },
+    {
+      "after": "Receiving and using information from third parties to tailor the ads you see: We\u2019ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on Meta Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you\u2019re logged in or have an account on our Products. See the Cookies Policy for more information.",
+      "before": "Receiving and using information from third parties to tailor the ads you see: We\u2019ll use information that advertisers, businesses and other partners provide us about activity off Meta Products that we have associated with you to personalize ads that we show you on Meta Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you\u2019re logged in or have an account on our Products. See the Cookies Policy for more information."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Meta Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2025-07-02",
+  "url": "https://www.facebook.com/privacy/policy/"
+}

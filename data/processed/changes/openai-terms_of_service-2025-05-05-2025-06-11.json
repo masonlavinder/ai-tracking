@@ -1,0 +1,31 @@
+{
+  "added_paragraphs": [],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2025-06-11",
+  "from_date": "2025-05-05",
+  "id": "openai-terms_of_service-2025-05-05-2025-06-11",
+  "modified_paragraphs": [
+    {
+      "after": "Opt out. If you do not want us to use your Content to train our models, you can opt out by following the instructions in this article. Please note that in some cases this may limit the ability of our Services to better address your specific use case.",
+      "before": "Opt out. If you do not want us to use your Content to train our models, you can opt out by following the instructions in this Help Center article(opens in a new window). Please note that in some cases this may limit the ability of our Services to better address your specific use case."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-06-11",
+  "url": "https://openai.com/policies/row-terms-of-use/"
+}

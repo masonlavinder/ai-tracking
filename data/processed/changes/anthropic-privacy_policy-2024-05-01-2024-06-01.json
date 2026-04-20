@@ -1,0 +1,55 @@
+{
+  "added_paragraphs": [
+    "This Privacy Policy does not apply where Anthropic acts as a data processor and processes personal data on behalf of commercial customers using Anthropic\u2019s Commercial Services \u2013 for example, when a commercial customer or their end user includes personal data in Inputs (defined below). In those cases, the commercial customer is the controller, and you can review their policies for more information about how they handle your personal data.",
+    "You can find information on our Subprocessor List about the third parties Anthropic engages to help us process personal data provided to us where Anthropic acts as a data processor, such as with respect to personal data we receive, process, store, or host when you use Anthropic's AI services as or through a commercial customer.",
+    "If you live in the European Economic Area (EEA), UK or Switzerland (the \u201cEuropean Region\u201d), the data controller responsible for your personal data is Anthropic Ireland, Limited. If you live outside the European Region, the data controller responsible for your personal data is Anthropic PBC."
+  ],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2024-06-01",
+  "from_date": "2024-05-01",
+  "id": "anthropic-privacy_policy-2024-05-01-2024-06-01",
+  "modified_paragraphs": [
+    {
+      "after": "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic may act as a data controller and link to this Privacy Policy\u2014for example, when you interact with Claude.ai or other products as a consumer for personal use (\"Services\") or when Anthropic operates and provides our commercial customers and their end users with access to our commercial products, such as the Claude Team plan (\u201cCommercial Services\u201d).",
+      "before": "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic may act as a data controller and link to this Privacy Policy\u2014for example, when you interact with Claude.ai or other products as a consumer for personal use (\"Services\")."
+    },
+    {
+      "after": "- Where we need it to perform a contract with you. For example, we process Identity and Contact Data, Inputs, Outputs and Payment Information in order to provide Services to you. In circumstances where we do not have a contract with you, such as where you are an end user of our Commercial Services, we instead rely on our legitimate interests.",
+      "before": "- Where we need it to perform a contract with you. For example, we process Identity and Contact Data, Inputs, Outputs and Payment Information in order to provide Services to you."
+    },
+    {
+      "after": "If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below:",
+      "before": "The data controller responsible for your personal data is Anthropic PBC. If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below:"
+    },
+    {
+      "after": "- Anthropic Ireland, Limited with a registered address at 6th Floor, South Bank House, Barrow Street. Dublin 4, D04 TR29 (Ireland).",
+      "before": "- Anthropic Limited with a registered address at 9th Floor 107 Cheapside, London EC2V 6DN (United Kingdom)."
+    },
+    {
+      "after": "You can email us at privacy@anthropic.com and contact our Data Protection Officer at dpo@anthropic.com.",
+      "before": "You can email us at privacy@anthropic.com."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "removed_paragraphs": [
+    "This Privacy Policy does not apply where Anthropic acts as a data processor and processes personal data on behalf of commercial customers of Anthropic\u2019s AI services, unless otherwise specified in this Privacy Policy. In those cases, the commercial customer is the controller, and you can review their privacy policy for more information about how they handle your personal data.",
+    "You can find information on our Subprocessor List about the third parties Anthropic engages to help us process personal data provided to us where Anthropic acts as a data processor, such as with respect to personal data we receive, process, store, or host when you use Anthropic's AI services as or through a commercial customer."
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout"
+  ],
+  "to_date": "2024-06-01",
+  "url": "https://www.anthropic.com/legal/privacy"
+}

@@ -25,16 +25,36 @@ def split_paragraphs(text: str, *, min_chars: int = MIN_PARAGRAPH_CHARS) -> list
     - collapses internal whitespace to single spaces
     - drops paragraphs shorter than `min_chars` (navigation, single links)
     - preserves order
+
+    Primary splitter is blank-line separated. Some scraped sources
+    (notably Wayback captures of Anthropic's privacy policy) emit
+    extracted text with one line per paragraph and no blank lines at
+    all. When the blank-line split produces ≤ 1 paragraph but the text
+    clearly contains many lines, fall back to splitting on single
+    newlines so downstream diffing has something paragraph-sized to
+    work with.
     """
     if not text:
         return []
-    paragraphs: list[str] = []
+
+    primary: list[str] = []
     for block in _BLANK_LINE_RE.split(text):
         cleaned = _WHITESPACE_RE.sub(" ", block).strip()
         if len(cleaned) < min_chars:
             continue
-        paragraphs.append(cleaned)
-    return paragraphs
+        primary.append(cleaned)
+
+    newline_lines = [line for line in text.splitlines() if line.strip()]
+    if len(primary) <= 1 and len(newline_lines) > 1:
+        fallback: list[str] = []
+        for line in newline_lines:
+            cleaned = _WHITESPACE_RE.sub(" ", line).strip()
+            if len(cleaned) < min_chars:
+                continue
+            fallback.append(cleaned)
+        if len(fallback) > len(primary):
+            return fallback
+    return primary
 
 
 def is_heading(paragraph: str) -> bool:

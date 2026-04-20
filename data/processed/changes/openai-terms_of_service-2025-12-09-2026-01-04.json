@@ -1,0 +1,36 @@
+{
+  "added_paragraphs": [
+    "We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our Brand Guidelines.",
+    "OpenAI will not seek attorneys\u2019 fees and costs in arbitration unless the arbitrator determines that your claim is frivolous. The activities described in these Terms involve interstate commerce and the Federal Arbitration Act will govern the interpretation and enforcement of these arbitration terms and any arbitration."
+  ],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2026-01-04",
+  "from_date": "2025-12-09",
+  "id": "openai-terms_of_service-2025-12-09-2026-01-04",
+  "modified_paragraphs": [
+    {
+      "after": "These Terms of Use apply to your use of ChatGPT, DALL\u00b7E, and OpenAI\u2019s other services for individuals, along with any associated software applications and websites (all together, \u201cServices\u201d). These Terms form an agreement between you and OpenAI OpCo, LLC, a Delaware company, and they include our Service Terms and important provisions for resolving disputes through arbitration. By using our Services, you agree to these Terms.",
+      "before": "These Terms of Use apply to your use of ChatGPT, DALL\u00b7E, and OpenAI\u2019s other services for individuals, along with any associated software applications and websites (all together, \u201cServices\u201d). These Terms form an agreement between you and OpenAI, L.L.C., a Delaware company, and they include our Service Terms and important provisions for resolving disputes through arbitration. By using our Services, you agree to these Terms."
+    },
+    {
+      "after": "Arbitration forum. If we are unable to resolve the Dispute, either of us may commence arbitration with National Arbitration and Mediation (\u201cNAM\u201d) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings, as applicable (available here(opens in a new window)).",
+      "before": "Arbitration forum. If we are unable to resolve the Dispute, either of us may commence arbitration with National Arbitration and Mediation (\u201cNAM\u201d) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings, as applicable (available here(opens in a new window)). OpenAI will not seek attorneys\u2019 fees and costs in arbitration unless the arbitrator determines that your claim is frivolous. The activities described in these Terms involve interstate commerce and the Federal Arbitration Act will govern the interpretation and enforcement of these arbitration terms and any arbitration."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-01-04",
+  "url": "https://openai.com/policies/row-terms-of-use/"
+}

@@ -1,0 +1,26 @@
+{
+  "added_paragraphs": [],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2025-01-17",
+  "from_date": "2024-12-01",
+  "id": "openai-terms_of_service-2024-12-01-2025-01-17",
+  "modified_paragraphs": [],
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "removed_paragraphs": [
+    "Effective: October 23, 2024 (previous version)"
+  ],
+  "score": 0,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 0,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 0
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-01-17",
+  "url": "https://openai.com/policies/row-terms-of-use/"
+}

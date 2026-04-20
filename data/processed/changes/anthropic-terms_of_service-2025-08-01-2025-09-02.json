@@ -1,0 +1,44 @@
+{
+  "added_paragraphs": [
+    "Note: This policy is effective on September 28, 2025 or the date you acknowledge these updated Terms within our Services (if earlier).",
+    "- To rely upon the Services, the Materials, or the Actions to buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as Anthropic is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction.",
+    "- Additional cancellation rights. If you are a resident of Brazil, Mexico, South Korea, or Taiwan, you have a legal right to change your mind and cancel the Subscription within 7 days of entering into the Subscription without giving a reason.",
+    "- To exercise the right to cancel in the 7-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. The easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at support@anthropic.com. You may also use the model cancellation form in Appendix 1 of these Terms, but it is not obligatory. For further details on how to cancel, please see support.anthropic.com. We will acknowledge your cancellation, e.g., through our online customer portal or console.",
+    "- If you cancel the Subscription under Section 6(4)(a), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.",
+    "- If you would like to use the Services during the 7-day cancellation period, you may do so. If you have used the Services during the 7-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (4)(a) above, but we may retain an amount which is in proportion to what has been provided until you have communicated us your withdrawal from these Terms, in comparison with the full coverage of the Subscription.",
+    "- The 7-day cancellation period will not reset if you change subscription tiers or cancel and then resubscribe, as you have already had an opportunity to test the Services."
+  ],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2025-09-02",
+  "from_date": "2025-08-01",
+  "id": "anthropic-terms_of_service-2025-08-01-2025-09-02",
+  "modified_paragraphs": [
+    {
+      "after": "Our use of Materials. We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings. Even if you opt out, we will use Materials for model training when: (1) you provide Feedback to us regarding any Materials, or (2) your Materials are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance our safety research.",
+      "before": "Our use of Materials. We may use Materials to provide, maintain, and improve the Services and to develop other products and services. We will not train our models on any Materials that are not publicly available, except in two circumstances:"
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Anthropic Consumer Terms",
+  "removed_paragraphs": [
+    "- If you provide Feedback to us (through the Services or otherwise) regarding any Materials, we may use that Feedback in accordance with Section 5 (Feedback).",
+    "- If your Materials are flagged for trust and safety review, we may use or analyze those Materials to improve our ability to detect and enforce Acceptable Use Policy violations, including training models for use by our trust and safety team, consistent with Anthropic\u2019s safety mission."
+  ],
+  "score": 9,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 6,
+    "total": 9
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "ai-training-restriction",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-09-02",
+  "url": "https://www.anthropic.com/legal/consumer-terms"
+}

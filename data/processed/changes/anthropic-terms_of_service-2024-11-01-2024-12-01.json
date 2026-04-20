@@ -1,0 +1,29 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2024-12-01",
+  "from_date": "2024-11-01",
+  "id": "anthropic-terms_of_service-2024-11-01-2024-12-01",
+  "modified_paragraphs": [
+    {
+      "after": "c. Subscription term and automatic renewal. If your Subscription has a minimum term (the \u201cInitial Term\u201d), we will let you know during the order process. Your Subscription will last for the Initial Term and will automatically renew for an additional term equal in duration to the Initial Term and will continue to renew and incur charges for additional terms equal in duration to the Initial Term (each such additional term, a \u201cRenewal Term\u201d). For example, if you subscribe on January 25th for a Subscription with a one-month Initial Term, the Initial Term is January 25th to February 24th (inclusive) and then Renewal Terms will run from the 25th of one month to the 24th of the next month (inclusive).",
+      "before": "c. Subscription term and automatic renewal. If your Subscription has a minimum term (the \u201cInitial Term\u201d), we will let you know during the order process. The \u201cInitial Term\u201d for Claude Pro is one month. Your Subscription will last for the Initial Term and will automatically renew for an additional term equal in duration to the Initial Term and will continue to renew and incur charges for additional terms equal in duration to the Initial Term (each such additional term, a \u201cRenewal Term\u201d). For example, if you subscribe on January 25th for a Subscription with a one-month Initial Term, the Initial Term is January 25th to February 24th (inclusive) and then Renewal Terms will run from the 25th of one month to the 24th of the next month (inclusive)."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Anthropic Consumer Terms",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-12-01",
+  "url": "https://www.anthropic.com/legal/consumer-terms"
+}

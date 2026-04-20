@@ -1,0 +1,26 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2025-11-01",
+  "from_date": "2025-10-01",
+  "id": "anthropic-terms_of_service-2025-10-01-2025-11-01",
+  "modified_paragraphs": [],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Anthropic Consumer Terms",
+  "removed_paragraphs": [
+    "Note: This policy is effective on October 8, 2025 or the date you acknowledge these updated Terms within our Services (if earlier)."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-11-01",
+  "url": "https://www.anthropic.com/legal/consumer-terms"
+}

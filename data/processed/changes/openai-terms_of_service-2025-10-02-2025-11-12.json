@@ -1,0 +1,35 @@
+{
+  "added_paragraphs": [],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2025-11-12",
+  "from_date": "2025-10-02",
+  "id": "openai-terms_of_service-2025-10-02-2025-11-12",
+  "modified_paragraphs": [
+    {
+      "after": "MANDATORY ARBITRATION. You and OpenAI agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a \u201cDispute\u201d), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out this form. If you opt out of an update, the last set of agreed upon arbitration terms will apply.",
+      "before": "MANDATORY ARBITRATION. You and OpenAI agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a \u201cDispute\u201d), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out this form(opens in a new window). If you opt out of an update, the last set of agreed upon arbitration terms will apply."
+    },
+    {
+      "after": "Informal dispute resolution. We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through this form. We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.",
+      "before": "Informal dispute resolution. We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through this form(opens in a new window). We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-11-12",
+  "url": "https://openai.com/policies/row-terms-of-use/"
+}

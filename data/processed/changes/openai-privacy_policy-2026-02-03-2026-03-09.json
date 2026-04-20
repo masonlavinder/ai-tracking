@@ -1,0 +1,200 @@
+{
+  "added_paragraphs": [
+    "For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read this version of our Privacy Policy. For individuals in the United States you can read this version of our Privacy Policy.",
+    "- Contact Data: If you choose to connect your device contacts, we upload information from your device address books and check which of your contacts also use our Services. If any of your contacts aren\u2019t yet using our Services, we\u2019ll update you if they sign up for our Services later. Learn more(opens in a new window) about connecting your contacts and about how we use uploaded contact information(opens in a new window) of people who don\u2019t use our Services.",
+    "- To personalize and customize your experience across our Services, for example to provide you with more relevant Content;",
+    "- Identify your contacts who use our Services when you choose to connect your contacts and update you if they join our Services later;",
+    "- Parent or Guardian of a Teen: Teen users and their parents or guardians can choose to link their accounts, allowing the parent or guardian to manage certain settings, and receive alerts if we detect a serious safety concern. These accounts can be unlinked at any time. Learn more(opens in a new window) about account linking.",
+    "We also aggregate or de-identify Personal Data so that it no longer identifies you and share it with third parties for the purposes described above, such as to help improve our Services.",
+    "- Information we retain until you delete it: Some of our Services allow you to delete Personal Data stored in your account. For example, you can delete specific, or all, of your ChatGPT conversations, delete specific Saved Memories(opens in a new window), or delete your account. Once you choose to delete Personal Data, we will remove it from our systems within 30 days unless we need to retain it for longer as described below, or it has already been de-identified and disassociated from your account when you allow us to use your Content to improve our models(opens in a new window).",
+    "- Information we delete automatically: In some cases, Personal Data will be deleted automatically. For example, Temporary Chats(opens in a new window) will be automatically deleted within 30 days (unless we have to retain them for safety or legal reasons, as described further below), and your Atlas incognito browsing history(opens in a new window) won\u2019t be saved after you end your session.",
+    "- Information we retain for longer for legitimate security, safety, or legal reasons: In some cases, we need to retain Personal Data for longer even after you delete it, for example because we are legally required to, to address fraud and abuse, for security reasons, or for financial record-keeping purposes. For instance:",
+    "- If specific Content, or your account, is banned because of violations of our usage policies, we may retain that data for to protect our services from fraud, abuse, or other violations of our policies;",
+    "- If we are legally required to retain your data (for instance, we receive a lawful subpoena) then we may retain it for the duration of the relevant legal or regulatory obligation;",
+    "- When we are a party to a financial transaction (for instance, when we process your payment for a ChatGPT Plus or Pro account, or facilitate a purchase on ChatGPT), we may retain payment and transaction related information to meet our accounting, dispute resolution, and regulatory compliance purposes;",
+    "- When you ask us to delete your Personal Data, we retain the audit record of the erasure request to be able to verify that we have complied with the request.",
+    "In determining these retention periods, we consider a number of factors, such as:",
+    "Our Services provide you with a number of controls over your Personal Data and how it is used and retained. You can always change these settings in your account. These include the following controls:",
+    "- You can easily choose whether your Content can be used to improve and train our models(opens in a new window).",
+    "- You can decide whether we will remember details between chats to make Content more personalized and relevant.",
+    "- You can export your ChatGPT history and data in your account\u2019s data controls.",
+    "- You can delete or archive chats in ChatGPT, or delete your account entirely.",
+    "- If you enable Temporary Chat(opens in a new window) in ChatGPT, those conversations with ChatGPT will not appear in your history or be used to improve OpenAI\u2019s models.",
+    "- Depending on applicable law, you may be able to choose which cookies are used when you use our Services.",
+    "- If you use the Atlas browser, you can delete your browsing history or choose to browse the web in incognito mode, which helps keep your browsing private from other people who use your device.",
+    "- You can unsubscribe from marketing communications you receive from us by using the choices provided in those communications.",
+    "You can find more information on data controls here(opens in a new window) and by visiting privacy.openai.com(opens in a new window).",
+    "- Restrict how we process your Personal Data.",
+    "If you live in the European Economic Area (EEA) or Switzerland, OpenAI Ireland Limited, with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland, is the controller and is responsible for the processing of your Personal Data as described in this policy.",
+    "If you live anywhere else, OpenAI OpCo, LLC, with its registered office at 1455 Third Street, San Francisco, California 94158, United States, is the controller and is responsible for the processing of your Personal Data as described in this policy.",
+    "Please contact support(opens in a new window) if you have any questions or concerns not already addressed in this policy."
+  ],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2026-03-09",
+  "from_date": "2026-02-03",
+  "id": "openai-privacy_policy-2026-02-03-2026-03-09",
+  "modified_paragraphs": [
+    {
+      "after": "At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone. We build tools like ChatGPT and Sora to help people learn, create, and solve problems. We at OpenAI (together with our affiliates, \u201cOpenAI\u201d, \u201cwe\u201d, \u201cour\u201d or \u201cus\u201d) are committed to respecting your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to personal data that we collect from or about you, and how we use it when you use our website, applications, and services (collectively, \u201cServices\u201d).",
+      "before": "We at OpenAI OpCo, LLC (together with our affiliates, \u201cOpenAI\u201d, \u201cwe\u201d, \u201cour\u201d or \u201cus\u201d) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use our website, applications, and services (collectively, \u201cServices\u201d)."
+    },
+    {
+      "after": "For information about how we collect and use training information to develop our language models that power ChatGPT and other Services, and your choices with respect to that information, please see this policy as well as this help center article(opens in a new window).",
+      "before": "For information about how we collect and use training information to develop our language models that power ChatGPT and other Services, and your choices with respect to that information, please see this help center article(opens in a new window)."
+    },
+    {
+      "after": "- Account Information: When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, \u201cAccount Information\u201d). Some of our Services may also allow you to upload a profile picture, a username, or other information as part of your Account Information.",
+      "before": "- Account Information: When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, \u201cAccount Information\u201d)."
+    },
+    {
+      "after": "- User Content: We collect Personal Data that you provide in the input to our Services (\u201cContent\u201d), including your prompts and other content you upload, such as files(opens in a new window), images(opens in a new window), audio and video(opens in a new window), Sora characters(opens in a new window), and data from connected services(opens in a new window), depending on the features you use. Some of our Services allow you to interact with other users, such as post, comment, or send messages, and we treat those interactions as Content, too.",
+      "before": "- User Content: We collect Personal Data that you provide in the input to our Services (\u201cContent\u201d), including your prompts and other content you upload, such as files(opens in a new window), images(opens in a new window), and audio(opens in a new window), depending on the features you use."
+    },
+    {
+      "after": "- Other Information You Provide: We collect other information that you provide to us, such as when you participate in our events or surveys, or when you provide us or a vendor operating on our behalf with information to establish your identity or age (collectively, \u201cOther Information You Provide\u201d).",
+      "before": "- Other Information You Provide: We collect other information that you may provide to us, such as when you participate in our events or surveys or provide us with information to establish your identity or age (collectively, \u201cOther Information You Provide\u201d)."
+    },
+    {
+      "after": "Personal Data We Receive from Your Use of the Services: When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions:",
+      "before": "Personal Data We Receive from Your Use of the Services: When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions (\u201cTechnical Information\u201d):"
+    },
+    {
+      "after": "- Usage Data: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. If you use the Atlas browser we may also collect your browser data according to your controls(opens in a new window) and use of the service.",
+      "before": "- Usage Data: We collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection."
+    },
+    {
+      "after": "- Device Information: We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected depends on the type of device you use and its settings.",
+      "before": "- Device Information: We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected may depend on the type of device you use and its settings."
+    },
+    {
+      "after": "- Location Information: We determine the general area from which your device accesses our Services based on information like its IP address for security reasons and to make your product experience better, for example to protect your account by detecting unusual login activity or to provide more accurate responses. In addition, some of our Services allow you to choose to provide more precise location information from your device, such as location information from your device\u2019s GPS.",
+      "before": "- Location Information: We may determine the general area from which your device accesses our Services based on information like its IP address for security reasons and to make your product experience better, for example to protect your account by detecting unusual login activity or to provide more accurate responses. In addition, some of our Services allow you to choose to provide more precise location information from your device, such as location information from your device\u2019s GPS."
+    },
+    {
+      "after": "- Cookies and Similar Technologies: We use cookies and similar technologies to operate and administer our Services, and improve your experience. We store some of the information described in this Policy with cookies, for example to help maintain your preferences across sessions if you\u2019re not logged in, or to assist with authentication and customer support. For details about our use of cookies, please read our Cookie Notice.",
+      "before": "- Cookies and Similar Technologies: We use cookies and similar technologies to operate and administer our Services, and improve your experience. If you use our Services without creating an account, we may store some of the information described in this policy with cookies, for example to help maintain your preferences across browsing sessions. For details about our use of cookies, please read our Cookie Notice."
+    },
+    {
+      "after": "Information We Receive from Other Sources: We receive information from other sources, such as our trusted security and safety partners to protect safety and prevent fraud, abuse, and other threats to our Services, and from marketing vendors who provide us with information about potential customers of our business services.",
+      "before": "Information We Receive from Other Sources: We receive information from our trusted partners, such as security partners, to protect against fraud, abuse, and other security threats to our Services, and from marketing vendors who provide us with information about potential customers of our business services."
+    },
+    {
+      "after": "We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services. For more information on the sources of information used to develop the models that power ChatGPT and other Services, please see this help center article(opens in a new window).",
+      "before": "We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services. For more information on the sources of information used to develop the models that power ChatGPT and other Services, please see this article."
+    },
+    {
+      "after": "We use Personal Data for the following purposes:",
+      "before": "We may use Personal Data for the following purposes:"
+    },
+    {
+      "after": "- To provide, analyse, and maintain our Services, for example to respond to your questions for ChatGPT;",
+      "before": "- To provide, analyze, and maintain our Services, for example to respond to your questions for ChatGPT;"
+    },
+    {
+      "after": "- To improve and develop our Services and conduct research, for example to develop new features;",
+      "before": "- To improve and develop our Services and conduct research, for example to develop new product features;"
+    },
+    {
+      "after": "- To communicate with you, including to respond to your questions, and send you information about our Services and events, for example about changes or improvements to the Services;",
+      "before": "- To communicate with you, including to send you information about our Services and events, for example about changes or improvements to the Services;"
+    },
+    {
+      "after": "- To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more here); and",
+      "before": "- To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services;"
+    },
+    {
+      "after": "- To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties, for instance to prevent harm to you or others, or to estimate your age to give you an age-appropriate experience.",
+      "before": "- To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties."
+    },
+    {
+      "after": "We also aggregate or de-identify Personal Data so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Services are being used, to improve and add features to them, and to conduct research. We will maintain and use de-identified information in de-identified form and not attempt to reidentify the information, unless required by law.",
+      "before": "We may also aggregate or de-identify Personal Data so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Services are being used, to improve and add features to them, and to conduct research. We will maintain and use de-identified information in de-identified form and not attempt to reidentify the information, unless required by law."
+    },
+    {
+      "after": "We disclose your Personal Data in the following circumstances:",
+      "before": "We may disclose your Personal Data in the following circumstances:"
+    },
+    {
+      "after": "- Vendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we disclose Personal Data to vendors and service providers, including providers of hosting services, customer service vendors, cloud services, content delivery services, support and safety services, email communication software, web analytics services, payment and transaction processors, search and shopping providers, and information technology providers. We also work with service providers who help us with age and identity verification, and you can learn more here(opens in a new window). Based on our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us.",
+      "before": "- Vendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may disclose Personal Data to vendors and service providers, including providers of hosting services, customer service vendors, cloud services, content delivery services, support and safety monitoring services, email communication software, web analytics services, payment and transaction processors, and other information technology providers. Pursuant to our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us."
+    },
+    {
+      "after": "- Affiliates: We disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this policy.",
+      "before": "- Affiliates: We may disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this Privacy Policy."
+    },
+    {
+      "after": "- Other Users and Third Parties You Interact or Share Information With: Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like ChatGPT conversations(opens in a new window) or Sora videos(opens in a new window) and characters(opens in a new window), or share information with third-party search(opens in a new window) and shopping(opens in a new window) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.",
+      "before": "- Other Users and Third Parties You Interact or Share Information With: Certain features allow you to interact or share information with other users or third parties. For example, you can share ChatGPT conversations with other users via shared links(opens in a new window). You can also send information to third-party applications, such as via custom actions for GPTs, or for searching the web to help answer questions that benefit from more recent information. Information you share with third parties is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them."
+    },
+    {
+      "after": "We\u2019ll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data depends on the type of data, how we use it, and in many cases your settings:",
+      "before": "We\u2019ll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data will depend on a number of factors, such as:"
+    },
+    {
+      "after": "- Our purpose for processing the Personal Data (such as whether we need to retain it to provide our Services);",
+      "before": "- Our purpose for processing the data (such as whether we need to retain the data to provide our Services);"
+    },
+    {
+      "after": "- Withdraw your consent\u2014where we rely on consent as the legal basis for processing.",
+      "before": "- Withdraw your consent\u2014where we rely on consent as the legal basis for processing at any time."
+    },
+    {
+      "after": "You can exercise some of these rights through your OpenAI account using the tools described in the Data controls section, or you can submit your request through privacy.openai.com(opens in a new window) or to dsar@openai.com. You can contact our data protection officer at dpo@openai.com.",
+      "before": "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through privacy.openai.com(opens in a new window) or to dsar@openai.com. You can contact our data protection officer at privacy@openai.com."
+    },
+    {
+      "after": "OpenAI processes your Personal Data for the purposes described in this policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States, or in countries or territories where our affiliates and partners or our vendors and service providers are located. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms.",
+      "before": "OpenAI processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms"
+    },
+    {
+      "after": "Our Services are not directed to, or intended for, children under 13. We do not knowingly collect Personal Data from children under 13. If you have reason to believe that a child under 13 has provided Personal Data to OpenAI through the Services, please email us at privacy@openai.com. We will investigate any notification and, if appropriate, delete the Personal Data from our systems. Users under 18 must have permission from their parent or guardian to use our Services. Learn more(opens in a new window) about how teens and parents or guardians can choose to link their accounts.",
+      "before": "Our Services are not directed to, or intended for, children under 13. We do not knowingly collect Personal Data from children under 13. If you have reason to believe that a child under 13 has provided Personal Data to OpenAI through the Services, please email us at privacy@openai.com. We will investigate any notification and, if appropriate, delete the Personal Data from our systems. Users under 18 must have permission from their parent or guardian to use our Services."
+    },
+    {
+      "after": "Some U.S. state privacy laws(opens in a new window) require specific disclosures. The following table provides additional information about the categories of Personal Data we collect and how we use and disclose that information. You can read more about the Personal Data we collect and where we collect it from in \u201cPersonal Data we collect\u201d above, how we use Personal Data in \u201cHow we use Personal Data\u201d above, when we disclose Personal Data in \u201cDisclosure of Personal Data\u201d above and how we retain Personal Data in \u201cRetention\u201d above.",
+      "before": "Some U.S. state privacy laws require specific disclosures. The following table provides additional information about the categories of Personal Data we collect and how we use and disclose that information. You can read more about the Personal Data we collect and where we collect it from in \u201cPersonal Data we collect\u201d above, how we use Personal Data in \u201cHow we use Personal Data\u201d above, and how we retain Personal Data in \u201cSecurity and Retention\u201d below."
+    },
+    {
+      "after": "- The right to be free from retaliation relating to the exercise of any of your privacy rights.",
+      "before": "- The right to be free from discrimination relating to the exercise of any of your privacy rights."
+    },
+    {
+      "after": "Exercising Your Rights. You can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com. Review our California privacy rights reporting here.",
+      "before": "Exercising Your Rights. You can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com. Review our California privacy rights reporting."
+    },
+    {
+      "after": "Authorized Agents. Depending upon where you reside, you may also submit a rights request through an authorized agent. If you do so, the agent must present authority to act on your behalf, such as signed written permission, and you may also be required to independently verify your identity with us. Authorized agent requests can be submitted to dsar@openai.com.",
+      "before": "Authorized Agents. You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity with us. Authorized agent requests can be submitted to dsar@openai.com."
+    },
+    {
+      "after": "We may update this policy from time to time. When we do, we will publish an updated version and effective date on this page, unless another type of notice is required by applicable law.",
+      "before": "We may update this Privacy Policy from time to time. When we do, we will publish an updated version and effective date on this page, unless another type of notice is required by applicable law."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "OpenAI Privacy Policy",
+  "removed_paragraphs": [
+    "In some cases, the length of time we retain data depends on your settings. For example, ChatGPT temporary chats will not appear in your history and will be kept up to 30 days for safety purposes. You can find more information on data controls here(opens in a new window).",
+    "- Restrict how we process your Personal Data.",
+    "- Object to how we process your Personal Data."
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 10,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "data-retention-change",
+    "third-party-sharing",
+    "regional-carveout",
+    "minors",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2026-03-09",
+  "url": "https://openai.com/policies/row-privacy-policy/"
+}

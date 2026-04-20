@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Meta",
+  "company_slug": "meta",
+  "date": "2025-12-01",
+  "from_date": "2025-11-01",
+  "id": "meta-privacy_policy-2025-11-01-2025-12-01",
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Meta Privacy Policy",
+  "removed_paragraphs": [
+    "We\u2019ll start using interactions with AIs to personalize experiences and ads. This update goes into effect on December 16, 2025.",
+    "What is the Privacy Policy and what does it cover?"
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-12-01",
+  "url": "https://www.facebook.com/privacy/policy/"
+}

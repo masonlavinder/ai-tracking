@@ -1,0 +1,35 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2024-07-04",
+  "from_date": "2024-06-01",
+  "id": "anthropic-terms_of_service-2024-06-01-2024-07-04",
+  "modified_paragraphs": [
+    {
+      "after": "These Terms of Service (\"Terms\") and our Usage Policy (also referred to as our \u201cAcceptable Use Policy\u201d or \u201cAUP\u201d) set out the agreement between you and Anthropic Ireland, Limited (\u201cAnthropic\u201d) to use Claude.ai, Claude Pro, and other products and services that we may offer for individuals, along with any associated apps, software, and websites (together, our \u201cServices\u201d). Please take some time to read over them and understand them. By agreeing to these Terms, or in the absence of such agreement, by using the Services, you agree to be bound by them, including any changes made to them in accordance with the Terms. Our affiliates, licensors, distributors, and service providers (collectively \u201cProviders\u201d) are not contracting parties under these Terms.",
+      "before": "These Terms of Service (\"Terms\") and our Usage Policy (also referred to as our \u201cAcceptable Use Policy\u201d or \u201cAUP\u201d) set out the agreement between you and Anthropic Ireland, Limited (\u201cAnthropic\u201d) to use Claude.ai, Claude Pro, and other products and services that we may offer for individuals (including any Anthropic API key and the Anthropic Console, when used by individuals), along with any associated apps, software, and websites (together, our \u201cServices\u201d). Please take some time to read over them and understand them. By agreeing to these Terms, or in the absence of such agreement, by using the Services, you agree to be bound by them, including any changes made to them in accordance with the Terms. Our affiliates, licensors, distributors, and service providers (collectively \u201cProviders\u201d) are not contracting parties under these Terms."
+    },
+    {
+      "after": "Please note: Our Commercial Terms of Service govern your use of any Anthropic API key, the Anthropic Console, or any other Anthropic offerings that reference the Commercial Terms of Service. For clarity, this does not include Claude.ai or Claude Pro use for individuals or entities.",
+      "before": "Please note: If you are acting on behalf of an organization, company, or other entity, our Commercial Terms of Service govern your use of any Anthropic API key, the Anthropic Console, or any other Anthropic offerings that reference the Commercial Terms of Service. For clarity, this does not include Claude.ai or Claude Pro use for individuals or entities."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Anthropic Consumer Terms",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2024-07-04",
+  "url": "https://www.anthropic.com/legal/consumer-terms"
+}

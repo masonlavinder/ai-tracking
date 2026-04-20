@@ -1,0 +1,33 @@
+{
+  "added_paragraphs": [],
+  "company_name": "OpenAI",
+  "company_slug": "openai",
+  "date": "2025-07-01",
+  "from_date": "2025-06-01",
+  "id": "openai-privacy_policy-2025-06-01-2025-07-01",
+  "modified_paragraphs": [
+    {
+      "after": "We don\u2019t \u201csell\u201d Personal Data or \u201cshare\u201d Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for \u201ctargeted advertising\u201d purposes (as those terms are defined under state privacy laws). We also don\u2019t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.",
+      "before": "We do not \u201csell\u201d Personal Data or \u201cshare\u201d Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for \u201ctargeted advertising\u201d purposes (as those terms are defined under state privacy laws). We also do not process sensitive Personal Data for the purposes of inferring characteristics about a consumer."
+    },
+    {
+      "after": "Exercising Your Rights. You can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com. Review our California privacy rights reporting.",
+      "before": "Exercising Your Rights. You can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "OpenAI Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-07-01",
+  "url": "https://openai.com/policies/row-privacy-policy/"
+}

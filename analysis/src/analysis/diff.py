@@ -83,6 +83,29 @@ def _load_meta(policy_dir: Path, date_str: str) -> dict[str, object]:
 
 MODIFICATION_SIMILARITY_THRESHOLD = 0.5
 
+# SequenceMatcher.ratio() is O(N*M) on character strings. Guard the
+# similarity pairing with two budgets:
+#
+# 1. Pair-count budget. Too many (old, new) combinations and even cheap
+#    matching dominates wall time. When exceeded we skip pairing entirely
+#    and emit add + remove — correct when a page has been substantially
+#    rewritten.
+# 2. Per-pair content-size guard. A single pair of multi-kilobyte
+#    paragraphs is enough to hang for minutes on its own (seen with
+#    Wayback captures that extract as one giant blob). Fall back to
+#    `quick_ratio` for big strings — it's O(N+M) and close enough for
+#    the 0.5 threshold.
+MAX_PAIRING_BUDGET = 400
+MAX_RATIO_CHARS = 4000
+
+
+def _paragraph_similarity(a: str, b: str) -> float:
+    """Similarity in [0, 1]. Uses the fast approximation on large inputs."""
+    matcher = SequenceMatcher(a=a, b=b, autojunk=False)
+    if len(a) > MAX_RATIO_CHARS or len(b) > MAX_RATIO_CHARS:
+        return matcher.quick_ratio()
+    return matcher.ratio()
+
 
 def _pair_replacements(
     olds: list[str], news: list[str]
@@ -90,10 +113,13 @@ def _pair_replacements(
     """Greedy-match replaced paragraphs by similarity.
 
     For each old paragraph, find the most similar remaining new paragraph.
-    If their SequenceMatcher ratio is above the threshold, record it as a
+    If their similarity is above the threshold, record it as a
     modification; otherwise treat the old as removed. Any new paragraphs
     left unmatched at the end become additions.
     """
+    if len(olds) * len(news) > MAX_PAIRING_BUDGET:
+        return list(news), list(olds), []
+
     added: list[str] = []
     removed: list[str] = []
     modified: list[ParagraphChange] = []
@@ -106,7 +132,7 @@ def _pair_replacements(
         best_idx = -1
         best_ratio = 0.0
         for pos, (_, candidate) in enumerate(remaining_news):
-            ratio = SequenceMatcher(a=old, b=candidate, autojunk=False).ratio()
+            ratio = _paragraph_similarity(old, candidate)
             if ratio > best_ratio:
                 best_ratio = ratio
                 best_idx = pos

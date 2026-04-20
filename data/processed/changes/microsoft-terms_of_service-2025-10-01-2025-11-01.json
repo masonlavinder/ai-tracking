@@ -1,0 +1,37 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Microsoft",
+  "company_slug": "microsoft",
+  "date": "2025-11-01",
+  "from_date": "2025-10-01",
+  "id": "microsoft-terms_of_service-2025-10-01-2025-11-01",
+  "modified_paragraphs": [
+    {
+      "after": "This is the Trace Id: 392cbf1427c8cbd57e84dcdbe0247739",
+      "before": "This is the Trace Id: 804a5512a254aa30fde273910c57ba39"
+    },
+    {
+      "after": "(https://www.microsoft.com/en-us/power-platform/business-applications/legal).",
+      "before": "(https://powerplatform.microsoft.com/en-us/business-applications/legal/)."
+    },
+    {
+      "after": "(https://www.microsoft.com/en-us/dynamics-365/business-applications/legal).",
+      "before": "(https://dynamics.microsoft.com/business-applications/legal/)."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Microsoft Services Agreement",
+  "removed_paragraphs": [],
+  "score": 0,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 0,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 0
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-11-01",
+  "url": "https://www.microsoft.com/en-us/servicesagreement"
+}

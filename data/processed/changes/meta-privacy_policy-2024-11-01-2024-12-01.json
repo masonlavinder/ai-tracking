@@ -1,0 +1,54 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Meta",
+  "company_slug": "meta",
+  "date": "2024-12-01",
+  "from_date": "2024-11-01",
+  "id": "meta-privacy_policy-2024-11-01-2024-12-01",
+  "modified_paragraphs": [
+    {
+      "after": "In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights. Each section of this Policy includes helpful examples and simpler language to make our practices easier to understand. We\u2019ve also added links to resources where you can learn more about the privacy topics that interest you.",
+      "before": "In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights. Each section of the Policy includes helpful examples and simpler language to make our practices easier to understand. We\u2019ve also added links to resources where you can learn more about the privacy topics that interest you."
+    },
+    {
+      "after": "Lots of people rely on our Products to run or promote their businesses or share content. We help them measure how well their ads and other content, products and services are working.",
+      "before": "Lots of people rely on our Products to run or promote their businesses. We help them measure how well their ads and other content, products and services are working."
+    },
+    {
+      "after": "We also share information with other third parties in response to legal requests, to comply with applicable law or to prevent harm. Read the Policy.",
+      "before": "We also share information with other third parties in response to legal requests, to comply with applicable law or to prevent harm. Read the policy."
+    },
+    {
+      "after": "In some instances and for specific reasons, we\u2019ll keep information for an extended period of time. Read our Policy about when we may preserve your information.",
+      "before": "In some instances and for specific reasons, we\u2019ll keep information for an extended period of time. Read our policy about when we may preserve your information."
+    },
+    {
+      "after": "How will you know the Policy has changed?",
+      "before": "How will you know the policy has changed?"
+    },
+    {
+      "after": "Provide aggregated user analytics and insights reports that help users, businesses, advertisers and other partners better understand the audiences with whom they may want to connect, as well as the types of people who use their services and how people interact with their content, websites, apps and services.",
+      "before": "Provide aggregated user analytics and insights reports that help businesses, advertisers and other partners better understand the audiences with whom they may want to connect, as well as the types of people who use their services and how people interact with their websites, apps and services."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Meta Privacy Policy",
+  "removed_paragraphs": [
+    "How do the Meta Companies work together?",
+    "We are part of the Meta Companies that provide Meta Company Products. Meta Company Products include all the Meta Products covered by this Policy, plus other products like WhatsApp, Novi and more."
+  ],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2024-12-01",
+  "url": "https://www.facebook.com/privacy/policy/"
+}

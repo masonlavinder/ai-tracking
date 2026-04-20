@@ -1,0 +1,49 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2026-02-03",
+  "from_date": "2026-01-01",
+  "id": "anthropic-privacy_policy-2026-01-01-2026-02-03",
+  "modified_paragraphs": [
+    {
+      "after": "If you are located in Canada, Brazil, or the Republic of Korea, please read the relevant Regional Supplemental Disclosure which applies to you.",
+      "before": "If you are located in Canada, please read section 11 of the Privacy Policy which applies to you."
+    },
+    {
+      "after": "If you are located in Washington or a state with similar consumer health data laws, please read our Consumer Health Data Privacy Policy which applies to you if you integrate third party health applications with Claude.",
+      "before": "If you are located in Brazil, please read section 12 of the Privacy Policy which applies to you."
+    },
+    {
+      "after": "Supplemental Disclosures for Residents of Canada",
+      "before": "11. Supplemental Disclosures for Residents of Canada"
+    },
+    {
+      "after": "Supplemental Disclosures for Residents of Brazil",
+      "before": "12. Supplemental Disclosures for Residents of Brazil"
+    },
+    {
+      "after": "Supplemental Disclosures for Residents of the Republic of Korea",
+      "before": "13. Supplemental Disclosures for Residents of the Republic of Korea"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "removed_paragraphs": [
+    "If you are located in the Republic of Korea, please read section 13 of the Privacy Policy which applies to you."
+  ],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2026-02-03",
+  "url": "https://www.anthropic.com/legal/privacy"
+}

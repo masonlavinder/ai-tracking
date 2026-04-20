@@ -1,0 +1,33 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Microsoft",
+  "company_slug": "microsoft",
+  "date": "2026-02-01",
+  "from_date": "2026-01-01",
+  "id": "microsoft-terms_of_service-2026-01-01-2026-02-01",
+  "modified_paragraphs": [
+    {
+      "after": "This is the Trace Id: 7ea726ca6ab5c03bc8f9903c1cdc6f74",
+      "before": "This is the Trace Id: ed4d380d0ad8231c37727f8627534cf1"
+    },
+    {
+      "after": "The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services (including related support).",
+      "before": "The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Microsoft Services Agreement",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-02-01",
+  "url": "https://www.microsoft.com/en-us/servicesagreement"
+}
