@@ -7,6 +7,7 @@
   "date": "2025-08-01",
   "from_date": "2025-07-01",
   "id": "google-privacy_policy-2025-07-01-2025-08-01",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device\u2019s location on or off using the device\u2019s settings app. You can also turn on Timeline if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about how we use location information.",

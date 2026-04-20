@@ -127,10 +127,28 @@ home timeline.
   Every change links to its original source; read the original before
   drawing any conclusion about what it means.
 
+## Optional LLM summaries
+
+On every scheduled build the analysis pipeline makes an optional pass
+through changes that scored at or above the timeline threshold and asks
+a hosted LLM (`openai/gpt-4o-mini` via the free GitHub Models inference
+endpoint) to produce a 2–3 sentence plain-English summary of what
+changed. The summary is stored on the change record as `llm_summary`
+and shown on the change-detail page as a clearly labelled "In plain
+English" block.
+
+Design choices:
+
+- Rule-based tags and scores are still the primary signal. The LLM text
+  is framed as a secondary reader aid, not a conclusion.
+- A per-run budget caps the number of LLM calls (default 50). Summaries
+  already generated in prior runs are reused, so after initial
+  backfill each day only spends calls on newly detected changes.
+- Missing token or API errors fall back to no summary with no pipeline
+  failure.
+
 ## Planned for v2 (out of scope here)
 
-- Optional LLM-generated plain-English summaries as a second-opinion
-  layer on top of rule-based tags.
 - Sub-paragraph token diffs rendered inline.
 - More companies; richer regional policy coverage.
 - Change records for SEC and regulatory sources in the timeline.

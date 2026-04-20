@@ -5,6 +5,7 @@
   "date": "2025-07-01",
   "from_date": "2025-06-01",
   "id": "openai-privacy_policy-2025-06-01-2025-07-01",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We don\u2019t \u201csell\u201d Personal Data or \u201cshare\u201d Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for \u201ctargeted advertising\u201d purposes (as those terms are defined under state privacy laws). We also don\u2019t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.",

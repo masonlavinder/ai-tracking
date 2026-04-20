@@ -5,6 +5,7 @@
   "date": "2025-06-01",
   "from_date": "2025-05-02",
   "id": "openai-privacy_policy-2025-05-02-2025-06-01",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services. For more information on the sources of information used to develop the models that power ChatGPT and other Services, please see this article.",

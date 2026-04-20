@@ -15,7 +15,7 @@ import logging
 import sys
 from pathlib import Path
 
-from .aggregate import TIMELINE_THRESHOLD, run_pipeline
+from .aggregate import DEFAULT_LLM_CALL_BUDGET, TIMELINE_THRESHOLD, run_pipeline
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 DEFAULT_RAW = REPO_ROOT / "data" / "raw"
@@ -46,6 +46,25 @@ def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Minimum score required to appear on the home timeline.",
     )
     parser.add_argument(
+        "--enrich",
+        action="store_true",
+        help=(
+            "Call the GitHub Models hosted LLM to generate plain-English "
+            "summaries for changes on the timeline. Requires GITHUB_TOKEN "
+            "(or GITHUB_MODELS_TOKEN). Off by default so local runs stay "
+            "network-free."
+        ),
+    )
+    parser.add_argument(
+        "--llm-budget",
+        type=int,
+        default=DEFAULT_LLM_CALL_BUDGET,
+        help=(
+            "Maximum LLM calls per run. New changes beyond the budget stay "
+            "unsummarized this run and are picked up next time."
+        ),
+    )
+    parser.add_argument(
         "--log-level",
         default="INFO",
         help="Python logging level (default: INFO).",
@@ -65,12 +84,15 @@ def main(argv: list[str] | None = None) -> int:
         policies_root=policies_root,
         processed_root=args.processed_root,
         timeline_threshold=args.timeline_threshold,
+        enrich_with_llm=args.enrich,
+        llm_call_budget=args.llm_budget,
     )
     print(
         "analysis: "
         f"changes={stats['total_changes']} "
         f"timeline={stats['timeline_changes']} "
-        f"companies={stats['companies']}"
+        f"companies={stats['companies']} "
+        f"llm_calls={stats['llm_calls']}"
     )
     return 0
 

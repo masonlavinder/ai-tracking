@@ -17,6 +17,7 @@
   "date": "2024-07-01",
   "from_date": "2024-06-01",
   "id": "anthropic-privacy_policy-2024-06-01-2024-07-01",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "- Identity and Contact Data: Anthropic collects identifiers, such as your name, email address, and phone number when you sign up for an Anthropic account, or to receive information on our Services. We may also collect or generate indirect identifiers (e.g., \u201cUSER12345\u201d).",

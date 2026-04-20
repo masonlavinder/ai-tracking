@@ -7,6 +7,7 @@
   "date": "2025-03-02",
   "from_date": "2025-02-02",
   "id": "anthropic-terms_of_service-2025-02-02-2025-03-02",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "You may access and use our Services only in compliance with our Terms, including our Acceptable Use Policy, the policy governing the countries and regions Anthropic currently supports (\u201cSupported Regions Policy\u201d), and any guidelines or supplemental terms we may post on the Services (the \u201cPermitted Use\u201d). You are responsible for all activity under the account through which you access the Services.",

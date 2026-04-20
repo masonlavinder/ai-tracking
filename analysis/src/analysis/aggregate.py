@@ -22,6 +22,7 @@ from pathlib import Path
 from .classify import classify_all, load_rules
 from .companies import COMPANIES, _stock_url
 from .diff import diff_all, iter_policy_dirs
+from .llm import generate_summary
 from .models import ChangeRecord, ChangeSummary, CompanySummary
 from .score import ScoreBreakdown, score_all
 
@@ -29,6 +30,7 @@ log = logging.getLogger(__name__)
 
 TIMELINE_THRESHOLD = 4
 RECENT_CHANGES_PER_COMPANY = 10
+DEFAULT_LLM_CALL_BUDGET = 50
 
 
 def _generated_at() -> str:
@@ -127,13 +129,68 @@ def _change_detail(
     return payload
 
 
+def _load_existing_summaries(processed_root: Path) -> dict[str, str]:
+    """Map change id → prior llm_summary so we don't re-spend API calls."""
+    changes_dir = processed_root / "changes"
+    summaries: dict[str, str] = {}
+    if not changes_dir.is_dir():
+        return summaries
+    for path in changes_dir.glob("*.json"):
+        try:
+            with path.open("r", encoding="utf-8") as fh:
+                payload = json.load(fh)
+        except (OSError, json.JSONDecodeError) as err:
+            log.warning("Unable to read prior %s: %s", path, err)
+            continue
+        existing = payload.get("llm_summary")
+        if isinstance(existing, str) and existing.strip():
+            summaries[path.stem] = existing
+    return summaries
+
+
+def _enrich_with_llm(
+    changes: list[ChangeRecord],
+    existing: dict[str, str],
+    *,
+    threshold: int,
+    budget: int,
+) -> int:
+    """Attach llm_summary to eligible changes, spending at most `budget` calls.
+
+    Reuses prior summaries from `existing` to stay well inside the free
+    tier on repeated runs. Returns the number of LLM calls actually made.
+    """
+    spent = 0
+    for change in changes:
+        prior = existing.get(change.id)
+        if prior:
+            change.llm_summary = prior
+            continue
+        if change.score < threshold:
+            continue
+        if spent >= budget:
+            log.warning(
+                "LLM budget exhausted at %d calls; remaining changes stay "
+                "unsummarized this run and will be picked up next time",
+                budget,
+            )
+            break
+        summary = generate_summary(change)
+        spent += 1
+        if summary:
+            change.llm_summary = summary
+    return spent
+
+
 def run_pipeline(
     policies_root: Path,
     processed_root: Path,
     *,
     timeline_threshold: int = TIMELINE_THRESHOLD,
+    enrich_with_llm: bool = False,
+    llm_call_budget: int = DEFAULT_LLM_CALL_BUDGET,
 ) -> dict[str, int]:
-    """Run diff → classify → score → aggregate. Returns a small summary."""
+    """Run diff → classify → score → (enrich) → aggregate."""
     changes = diff_all(policies_root)
     log.info("Computed %d raw changes", len(changes))
 
@@ -142,6 +199,24 @@ def run_pipeline(
     breakdowns = score_all(changes)
 
     changes.sort(key=lambda c: (c.date, c.id), reverse=True)
+
+    # Load prior summaries BEFORE we wipe changes/ so we can reuse them.
+    existing_summaries = _load_existing_summaries(processed_root)
+    llm_calls = 0
+    if enrich_with_llm:
+        llm_calls = _enrich_with_llm(
+            changes,
+            existing_summaries,
+            threshold=timeline_threshold,
+            budget=llm_call_budget,
+        )
+    else:
+        # Preserve prior summaries even without enrichment so we never
+        # lose a summary someone earned in an earlier run.
+        for change in changes:
+            prior = existing_summaries.get(change.id)
+            if prior:
+                change.llm_summary = prior
 
     # Rewrite changes/ directory from scratch for idempotency.
     changes_dir = processed_root / "changes"
@@ -185,4 +260,5 @@ def run_pipeline(
         "total_changes": len(changes),
         "timeline_changes": len(timeline),
         "companies": len(company_summaries),
+        "llm_calls": llm_calls,
     }

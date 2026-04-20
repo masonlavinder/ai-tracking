@@ -39,6 +39,7 @@ export interface ChangeDetail extends Omit<ChangeSummary, "added_count" | "remov
   removed_paragraphs: string[];
   modified_paragraphs: ParagraphChange[];
   score_breakdown: ScoreBreakdown;
+  llm_summary: string | null;
 }
 
 export interface PolicyEntry {

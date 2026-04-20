@@ -22,6 +22,9 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  # Required for the GitHub Models free inference endpoint used by
+  # the analysis pipeline's --enrich step.
+  models: read
 
 concurrency:
   group: pages
@@ -43,9 +46,11 @@ jobs:
 
       - name: Run analysis pipeline
         working-directory: analysis
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           uv sync --frozen --extra dev
-          uv run python -m analysis.main
+          uv run python -m analysis.main --enrich
 
       - name: Commit processed data changes
         env:

@@ -7,6 +7,7 @@
   "date": "2026-03-03",
   "from_date": "2026-02-03",
   "id": "anthropic-terms_of_service-2026-02-03-2026-03-03",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "These Terms of Service (\u201cTerms\u201d) govern your use of Claude.ai, Claude Pro, and other products and services that we may offer for individuals, along with any associated apps, software, and websites (together, our \u201cServices\u201d). These Terms are a contract between you and Anthropic, PBC (and not our Providers), and they include our Acceptable Use Policy. By accessing our Services, you agree to these Terms.",

@@ -5,6 +5,7 @@
   "date": "2025-03-08",
   "from_date": "2025-02-01",
   "id": "openai-privacy_policy-2025-02-01-2025-03-08",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "- Account Information: When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, \u201cAccount Information\u201d).",

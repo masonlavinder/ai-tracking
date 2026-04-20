@@ -5,6 +5,7 @@
   "date": "2025-12-01",
   "from_date": "2025-11-14",
   "id": "openai-privacy_policy-2025-11-14-2025-12-01",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "OpenAI processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms",

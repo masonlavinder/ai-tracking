@@ -29,6 +29,7 @@
   "date": "2025-04-06",
   "from_date": "2025-03-02",
   "id": "anthropic-terms_of_service-2025-03-02-2025-04-06",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "Welcome to Anthropic! Before you access our services, please read these Terms of Service.",
