@@ -56,7 +56,7 @@
   "date": "2024-10-01",
   "from_date": "2024-09-12",
   "id": "anthropic-terms_of_service-2024-09-12-2024-10-01",
-  "llm_summary": "The Anthropic Consumer Terms have been updated to clarify that they apply specifically to consumers in the European Economic Area or Switzerland and include new sections on subscription orders and cancellation rights. Additionally, the terms now specify that users must provide accurate billing information and that payment through app distributors will follow those distributors' terms. Some previous disclaimers and limitations of liability have been removed.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "Welcome to Anthropic! Before you access our services, please read these User Terms of Service.",

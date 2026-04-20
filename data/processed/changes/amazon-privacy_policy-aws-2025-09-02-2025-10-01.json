@@ -1,0 +1,96 @@
+{
+  "added_paragraphs": [
+    "View the prior version of this Privacy Notice.",
+    "See examples of information we collect or receive.",
+    "Name of Party Description of Function BusinessOnCommunication Co., ltd. Payment invoicing Marketo Customer communications NHN KCP Corp. Payment instrument processing and invoicing Paymentech Payment instrument processing Salesforce Customer relationship management The details of delegation for event management can be found on the relevant event page.",
+    "Name of Party (Contact Information) Country Transferred Items Purpose of Transfer Date and Method of Transfer Period of Retention Marketo",
+    "United States Personal information necessary for payment instrument processing (including credit card number and expiration dates) Payment instrument processing Transmission of data through information network as needed As disclosed in the Privacy Notice If you do not agree with the above-stated overseas transfers, please stop using AWS Services and close your AWS Account.",
+    "If you have any privacy questions or requests please contact:",
+    "You may visit the Korean translation of this Privacy Notice. -"
+  ],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2025-10-01",
+  "from_date": "2025-09-02",
+  "id": "amazon-privacy_policy-aws-2025-09-02-2025-10-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "This Privacy Notice does not apply to the \u201ccontent\u201d processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the AWS Data Privacy FAQ for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.",
+      "before": "This Privacy Notice does not apply to the \u201ccontent\u201d processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the AWS Data Privacy FAQs for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice."
+    },
+    {
+      "after": "- Information You Give Us: We collect any information you provide in relation to AWS Offerings. Click here to see examples of information you give us.",
+      "before": "- Information You Give Us: We collect any information you provide in relation to AWS Offerings."
+    },
+    {
+      "after": "- Automatic Information: We automatically collect certain types of information when you interact with AWS Offerings. Click here to see examples of information we collect automatically.",
+      "before": "- Automatic Information: We automatically collect certain types of information when you interact with AWS Offerings."
+    },
+    {
+      "after": "- Information from Other Sources: We might collect information about you from other sources, including service providers, partners, and publicly available sources. Click here to see examples of information we collect from other sources.",
+      "before": "- Information from Other Sources: We might collect information about you from other sources, including service providers, partners, and publicly available sources."
+    },
+    {
+      "after": "- Communicate with You: We use your personal information to communicate with you in relation to AWS Offerings via different channels (e.g., by phone, email, chat) and to respond to your requests.",
+      "before": "- Communicate with You: We use your personal information to communicate with you in relation to AWS Offerings via different channels (for example, by phone, email, chat) and to respond to your requests."
+    },
+    {
+      "after": "Information about our customers is an important part of our business and we are not in the business of selling our customers\u2019 personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the affiliates that Amazon.com, Inc. controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.",
+      "before": "Information about our customers is an important part of our business, and we are not in the business of selling our customers\u2019 personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the affiliates that Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice."
+    },
+    {
+      "after": "- Transactions Involving Third Parties: We make available to you services, software, and content provided by third parties for use on or through AWS Offerings. You can tell when a third party is involved in your transactions, and we share information related to those transactions with that third party. For example, you can order services, software, and content from sellers using the AWS Marketplace and we provide those sellers information to facilitate your subscription, purchases, or support.",
+      "before": "- Transactions Involving Third Parties: We make available to you services, software, and content provided by third parties for use on or through AWS Offerings. You can tell when a third party is involved in your transactions, and we share information related to those transactions with that third party. For example, you can order services, software, and content from sellers using the AWS Marketplace and we provide those sellers with information to facilitate your subscription, purchases, or support."
+    },
+    {
+      "after": "You can view, update, and delete certain information about your account and your interactions with AWS Offerings. See examples of information that you can access.. If you cannot access or update your information yourself, you can always contact us for assistance.",
+      "before": "You can view, update, and delete certain information about your account and your interactions with AWS Offerings. See examples of information that you can access. If you cannot access or update your information yourself, you can always contact us for assistance."
+    },
+    {
+      "after": "- Advertising: If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the \u201cYour Privacy Choices\u201d link in the footer of the AWS site you\u2019re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the Your Privacy Choices and by following the Cookie Preferences instructions below.",
+      "before": "- Advertising: If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the \u201cYour Privacy Choices\u201d link in the footer of the AWS site you\u2019re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the Your Privacy Choices form and by following the Cookie Preferences instructions."
+    },
+    {
+      "after": "- Cookies Preferences: You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The \"Help\" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.",
+      "before": "- Cookie Preferences: You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The \"Help\" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether."
+    },
+    {
+      "after": "(privacyofficer@marketo.com)United States Personal information necessary for customer communications (including your name, email address, physical address, phone number, and other similar contact information) Customer communications Transmission of data through information network as needed As disclosed in the Privacy Notice Salesforce",
+      "before": "Personal information necessary for customer communications (including your name, email address, physical address, phone number, and other similar contact information)"
+    },
+    {
+      "after": "(privacy@salesforce.com)United States Personal information necessary for customer relationship management (including your name, email address, physical address, phone number, and other similar contact information) Customer relationship management Transmission of data through information network as needed As disclosed in the Privacy Notice Paymentech",
+      "before": "Personal information necessary for customer relationship management (including your name, email address, physical address, phone number, and other similar contact information)"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "removed_paragraphs": [
+    "- as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide AWS Offerings, to respond to requests from you, or to provide customer support;",
+    "Payment instrument processing and invoicing",
+    "The details of delegation for event management can be found on the relevant event page.",
+    "(privacyofficer@marketo.com)United States",
+    "Transmission of data through information network as needed",
+    "Transmission of data through information network as needed",
+    "Personal information necessary for payment instrument processing (including credit card number and expiration dates)",
+    "Transmission of data through information network as needed",
+    "If you do not agree with the above-stated overseas transfers, please stop using AWS Services and close your AWS Account.",
+    "- identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (such as a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);"
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-10-01",
+  "url": "https://aws.amazon.com/privacy/"
+}

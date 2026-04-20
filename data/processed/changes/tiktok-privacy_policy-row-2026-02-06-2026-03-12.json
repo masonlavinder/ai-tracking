@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [
+    "How We Share Your Personal Data. In addition to the purposes described in \u201cHow we share your information\u201d, we may share certain of your personal data with other members, subsidiaries, or affiliates of our corporate group for the purpose of delivering an integrated, seamless, and personalized user experience across related services."
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2026-03-12",
+  "from_date": "2026-02-06",
+  "id": "tiktok-privacy_policy-row-2026-02-06-2026-03-12",
+  "llm_summary": "The TikTok Privacy Policy now includes a new section explaining that the company may share certain personal data with its corporate group members, subsidiaries, or affiliates to provide a more integrated and personalized user experience across related services. No other paragraphs were modified or removed in this update.",
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (ROW)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-03-12",
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+}

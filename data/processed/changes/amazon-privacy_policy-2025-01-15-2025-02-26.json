@@ -1,0 +1,46 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2025-02-26",
+  "from_date": "2025-01-15",
+  "id": "amazon-privacy_policy-2025-01-15-2025-02-26",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Last updated: February 14, 2025. To see prior version, click here.",
+      "before": "Last updated: March 31, 2024. To see prior version, click here."
+    },
+    {
+      "after": "- EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework",
+      "before": "- EU-US and Swiss-US Data Privacy Framework"
+    },
+    {
+      "after": "EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework",
+      "before": "EU-US and Swiss-US Data Privacy Framework"
+    },
+    {
+      "after": "Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click here to learn more.",
+      "before": "Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework*. Click here to learn more."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Amazon Privacy Notice",
+  "removed_paragraphs": [
+    "*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so."
+  ],
+  "score": 6,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 2,
+    "total": 6
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2025-02-26",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+}

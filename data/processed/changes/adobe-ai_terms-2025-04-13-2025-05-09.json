@@ -1,0 +1,75 @@
+{
+  "added_paragraphs": [
+    "- Engage in regulated activities without complying with applicable requirements"
+  ],
+  "company_name": "Adobe",
+  "company_slug": "adobe",
+  "date": "2025-05-09",
+  "from_date": "2025-04-13",
+  "id": "adobe-ai_terms-2025-04-13-2025-05-09",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "When using our generative AI features, including those involving an AI model labeled as developed by a third party (\u201cNon-Adobe Model\u201d), you agree you will use them only for your creative and productivity work product and not to train artificial intelligence or machine learning models.",
+      "before": "When using our generative AI features, you agree you will use them only for your creative and productivity work product and not to train artificial intelligence or machine learning models."
+    },
+    {
+      "after": "This means you must not, and must not allow third parties to, use any content, data, output or other information received or derived from any generative AI features to directly or indirectly create, train, test, or otherwise improve any machine learning algorithms or artificial intelligence systems, including any architectures, models, or weights.",
+      "before": "This means you must not, and must not allow third parties to, use any content, data, output or other information received or derived from any generative AI features, including any Firefly outputs, to directly or indirectly create, train, test, or otherwise improve any machine learning algorithms or artificial intelligence systems, including any architectures, models, or weights."
+    },
+    {
+      "after": "Do not use Adobe\u2019s generative AI features or services, including Non-Adobe Models, in a way that violates applicable laws or harms others. For example, do not:",
+      "before": "Do not use Adobe\u2019s generative AI features to attempt to create, upload, or share abusive, or illegal, or content that violates the rights of others. This includes, but is not limited to, the following:"
+    },
+    {
+      "after": "- Create pornographic material or explicit nudity",
+      "before": "- Pornographic material or explicit nudity"
+    },
+    {
+      "after": "- Create hateful or highly offensive content that attacks or dehumanizes a group based on race, ethnicity, national origin, religion, serious disease or disability, gender, age, or sexual orientation",
+      "before": "- Hateful or highly offensive content that attacks or dehumanizes a group based on race, ethnicity, national origin, religion, serious disease or disability, gender, age, or sexual orientation"
+    },
+    {
+      "after": "- Depict nude minors or minors in a sexual manner",
+      "before": "- Depictions of nude minors or minors in a sexual manner"
+    },
+    {
+      "after": "- Promote terrorism or violent extremism",
+      "before": "- Promotion of terrorism or violent extremism"
+    },
+    {
+      "after": "- Disseminate misleading, fraudulent, or deceptive content that could lead to real-world harm",
+      "before": "- Dissemination of misleading, fraudulent, or deceptive content that could lead to real-world harm"
+    },
+    {
+      "after": "Generated outputs sometimes may be inaccurate or misleading. As a result, please use your judgment to review and validate generated outputs.",
+      "before": "Generated outputs sometimes may be inaccurate or misleading, or otherwise reflect content that does not represent Adobe\u2019s views. As a result, please use your judgment to review and validate generated outputs."
+    },
+    {
+      "after": "In general, you may use outputs from generative AI features in commercial projects. However, if Adobe designates in the product or elsewhere that a beta version of a generative AI feature cannot be used commercially, then the generated outputs from that beta feature are for personal use only and cannot be used commercially.",
+      "before": "In general, you may use outputs from generative AI features commercially. However, if Adobe designates in the product or elsewhere that a beta version of a generative AI feature cannot be used commercially, then the generated outputs from that beta feature are for personal use only and cannot be used commercially."
+    }
+  ],
+  "policy_kind": "ai_terms",
+  "policy_label": "Adobe Generative AI User Guidelines",
+  "removed_paragraphs": [
+    "- The promotion, glorification, or threats of violence",
+    "- Self-harm or the promotion of self-harm"
+  ],
+  "score": 9,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 6,
+    "total": 9
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "third-party-sharing",
+    "minors"
+  ],
+  "to_date": "2025-05-09",
+  "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+}

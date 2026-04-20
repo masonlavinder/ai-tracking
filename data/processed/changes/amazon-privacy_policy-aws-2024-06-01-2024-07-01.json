@@ -1,0 +1,80 @@
+{
+  "added_paragraphs": [
+    "These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act.",
+    "- information used to prevent and detect fraud or other unauthorized activity, including informing customers if such activity were to affect them;",
+    "- information relating to our prevention and detection of unauthorized activity, such as attempted fraud;",
+    "De-identified Data Disclosure. AWS may use de-identified data in some instances. AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law."
+  ],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2024-07-01",
+  "from_date": "2024-06-01",
+  "id": "amazon-privacy_policy-aws-2024-06-01-2024-07-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Categories of personal information collected. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:",
+      "before": "Categories of personal information collected. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:"
+    },
+    {
+      "after": "- Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (such as a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);",
+      "before": "- Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);"
+    },
+    {
+      "after": "- characteristics of protected classifications under California or US federal law, such as age, race, or gender or gender identity, for example if we conduct user surveys or analysis;",
+      "before": "- characteristics of protected classifications under California or US federal law, such as age, race, or gender, for example if we conduct user surveys or analysis;"
+    },
+    {
+      "after": "Categories of personal information disclosed for a business purpose. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:",
+      "before": "Categories of personal information disclosed for a business purpose. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act, depending on how you engage with the AWS Offerings:"
+    },
+    {
+      "after": "- Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier or certain types of ID you provide for identity verification, which may in some cases reflect your citizenship or immigration status, for example if we use a third-party service to verify your identity;",
+      "before": "- Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier or certain types of ID you provide for identity verification that may in some cases reflect your citizenship or immigration status, for example if we use a third-party service to verify your identity;"
+    },
+    {
+      "after": "- information that may reveal your age, gender or gender identity, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third-party service provider;",
+      "before": "- information that may reveal your age, gender, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third-party service provider;"
+    },
+    {
+      "after": "- commercial information, such as the details of a product or service you purchased if a third-party service provider assists in providing that product or service to you;",
+      "before": "- commercial information, such as the details of a product or service you purchased if a third-party service provider is assisting to provide that product or service to you;"
+    },
+    {
+      "after": "- internet or other electronic network activity information, such as if we use a third-party service provider to help us gather reports for analyzing the health of our devices and services;",
+      "before": "- Internet or other electronic network activity information, such as if we use a third-party service provider to help us gather reports for analyzing the health of our devices and services;"
+    },
+    {
+      "after": "California Privacy Rights Act Retention Disclosure. To enable your continued use of AWS Services, we keep your personal information for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.",
+      "before": "California Privacy Rights Act Retention Disclosure. We keep your personal information to enable your continued use of AWS Services, for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you."
+    },
+    {
+      "after": "Colorado Privacy Act and Oregon Privacy Act Profiling Disclosure. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act or the Oregon Privacy Act.",
+      "before": "Colorado Privacy Act Profiling Disclosure. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act."
+    },
+    {
+      "after": "- Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (such as a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);",
+      "before": "- Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (e.g., a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "removed_paragraphs": [
+    "These additional state-specific privacy disclosures, which serve as a Notice at Collection under the California Privacy Rights Act, are required by the California Consumer Privacy Act, as amended by the California Privacy Rights Act, Colorado Privacy Act, Connecticut Data Privacy Act, Utah Consumer Privacy Act, and Virginia Consumer Data Protection Act and are effective as of June 30, 2023:",
+    "California Privacy Rights Act, Colorado Privacy Act, Connecticut Data Privacy Act, Virginia Consumer Data Protection Act, and Utah Consumer Privacy Act De-identified Data Disclosure. AWS may use de-identified data in some instances. AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law."
+  ],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2024-07-01",
+  "url": "https://aws.amazon.com/privacy/"
+}

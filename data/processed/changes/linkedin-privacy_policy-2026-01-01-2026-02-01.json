@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [],
+  "company_name": "LinkedIn",
+  "company_slug": "linkedin",
+  "date": "2026-02-01",
+  "from_date": "2026-01-01",
+  "id": "linkedin-privacy_policy-2026-01-01-2026-02-01",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "LinkedIn Privacy Policy",
+  "removed_paragraphs": [
+    "LinkedIn's global Privacy Policy below applies worldwide. If you're located in the EU, EEA, UK, or Switzerland, you can review additional information that will apply to you in our European Regional Privacy Notice."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-02-01",
+  "url": "https://www.linkedin.com/legal/privacy-policy"
+}

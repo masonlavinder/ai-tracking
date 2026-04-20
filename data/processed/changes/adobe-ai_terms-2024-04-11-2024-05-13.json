@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [
+    "The output from our generative AI features may include non-generative content (such as Adobe Stock assets) that is subject to the terms of your agreement with Adobe. This non-generative content will be noted in the user interface or related documentation."
+  ],
+  "company_name": "Adobe",
+  "company_slug": "adobe",
+  "date": "2024-05-13",
+  "from_date": "2024-04-11",
+  "id": "adobe-ai_terms-2024-04-11-2024-05-13",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "ai_terms",
+  "policy_label": "Adobe Generative AI User Guidelines",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-05-13",
+  "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+}

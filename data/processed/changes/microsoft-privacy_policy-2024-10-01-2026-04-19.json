@@ -104,7 +104,7 @@
   "date": "2026-04-19",
   "from_date": "2024-10-01",
   "id": "microsoft-privacy_policy-2024-10-01-2026-04-19",
-  "llm_summary": "The Microsoft Privacy Statement has been updated to include more detailed information about cookie usage, compliance with various data privacy frameworks, and the collection and sharing of biometric data for features like Windows Hello. Additionally, it clarifies how personal data is accessed and controlled, particularly regarding digital advertising and AI-enhanced features for children. Some sections were removed or modified for clarity, but no major changes to user rights or data retention policies were noted.",
+  "llm_summary": "The Microsoft Privacy Statement has been updated to include more detailed information about cookie usage, compliance with various data privacy frameworks, and the sharing of personal data for digital advertising. It also clarifies the collection and use of biometric data and introduces new sections on how users can access and control their personal data. Additionally, some content regarding data retention and user rights has been removed or modified for clarity.",
   "modified_paragraphs": [
     {
       "after": "For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. state data privacy laws.",

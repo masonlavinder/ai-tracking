@@ -1,0 +1,60 @@
+{
+  "added_paragraphs": [
+    "Google Apps Using Google OAuth: For users who opt to connect to Google Apps via Google OAuth, xAI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content."
+  ],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2026-04-03",
+  "from_date": "2026-03-01",
+  "id": "x-privacy_policy-xai-2026-03-01-2026-04-03",
+  "llm_summary": "The privacy policy for xAI (Grok) has been updated to clarify that Google Apps content accessed via Google OAuth will not be used for AI training purposes. The section on marketing has been revised to explicitly state that personal information will not be collected or shared for marketing. Additionally, the process for exercising rights and appealing decisions has been updated with a new link for submitting requests.",
+  "modified_paragraphs": [
+    {
+      "after": "We do not sell your personal information or use it for marketing: We do not sell personal information or share personal information for targeted or cross-contextual advertising purposes. We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing.",
+      "before": "We do not sell your personal information or use it for marketing: We do not sell personal information or share personal information for targeted or cross-contextual advertising purposes."
+    },
+    {
+      "after": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence. If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13.",
+      "before": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence."
+    },
+    {
+      "after": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at https://x.ai/privacy-portal/ and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.",
+      "before": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at https://xai-privacy.relyance.ai/ and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws."
+    },
+    {
+      "after": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://x.ai/privacy-portal/. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.",
+      "before": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://xai-privacy.relyance.ai/. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required."
+    },
+    {
+      "after": "To report child safety issues to us, please contact us here. Residents of Australia can find resources regarding child safety and reporting here.",
+      "before": "To report child safety issues to us, please contact us here."
+    },
+    {
+      "after": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://x.ai/privacy-portal/ or by the following contact details:",
+      "before": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://xai-privacy.relyance.ai/ or by the following contact details:"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "xAI (Grok) Privacy Policy",
+  "removed_paragraphs": [
+    "We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing.",
+    "If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13.",
+    "Residents of Australia can find resources regarding child safety and reporting here."
+  ],
+  "score": 9,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 6,
+    "total": 9
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "third-party-sharing",
+    "minors"
+  ],
+  "to_date": "2026-04-03",
+  "url": "https://x.ai/legal/privacy-policy"
+}

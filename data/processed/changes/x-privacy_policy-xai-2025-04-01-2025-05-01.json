@@ -1,0 +1,101 @@
+{
+  "added_paragraphs": [
+    "We ask that you do NOT include personal information in your prompts and inputs into our Service; however, we cannot control what you provide to us.",
+    "We do not sell your personal information or use it for marketing: We do not sell personal information or share personal information for targeted or cross-contextual advertising purposes.",
+    "We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing.",
+    "If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13.",
+    "To report child safety issues to us, please contact us here.",
+    "Residents of Australia can find resources regarding child safety and reporting here."
+  ],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2025-05-01",
+  "from_date": "2025-04-01",
+  "id": "x-privacy_policy-xai-2025-04-01-2025-05-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "xAI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed \u201cGrok,\u201d a conversational generative AI powered by xAI\u2019s large language models. More information about xAI\u2019s development and training of Grok and data controls is available in our Consumer FAQs, Enterprise FAQs, and xAI website. Please note that xAI is a separate company from X Corp. (\"X\", previously Twitter).",
+      "before": "xAI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed \u201cGrok,\u201d a conversational generative AI powered by xAI\u2019s large language models. More information about xAI\u2019s development and training of Grok and data controls is available in our Consumer FAQs, Enterprise FAQs, and xAI website. Please note that xAI is a separate company from X Corp (\"X\", previously Twitter)."
+    },
+    {
+      "after": "We may collect personal information from you and about you. Some examples of the information we may collect, how we may collect it, how we may use it, and how we may disclose it are described below.",
+      "before": "We may collect personal information from you and about you. Some examples of the information we may collect, how we may collect it, how we may use it, and how we may disclose it are described below. Please note that we do not sell personal information or share personal information for targeted or cross-contextual advertising purposes."
+    },
+    {
+      "after": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.",
+      "before": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, if to access certain features of the Service and you have not set up an account, we will collect your date of birthbefore you may proceed. If you log into our Service using a third-party service, such as X, Google or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile, X username, numeric X ID, your age, whether you are subscribed to X Premium, and your Grok on X conversation history."
+    },
+    {
+      "after": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (\u201cInput\u201d). Outputs of the Service (\u201cOutput\u201d), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+      "before": "User Content: You may provide personal information in prompts and other content you upload, such as files, images, audio, video, and other material (\u201cInput\u201d). Outputs of the Service (\u201cOutput\u201d), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. We ask that you do NOT include personal information in your Inputs; however, we cannot control what you provide to us."
+    },
+    {
+      "after": "Social Media Information: We have pages on social media sites like Instagram, Facebook, Medium, X, YouTube, and LinkedIn. When you interact with our social media pages, we collect personal information that you choose to provide to us. In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.",
+      "before": "Social Media Information: We have pages on social media sites like Instagram, Facebook, Medium, X, YouTube and LinkedIn. When you interact with our social media pages, we collect personal information that you choose to provide to us. In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity."
+    },
+    {
+      "after": "Location data: We may determine the general area from which your device accesses our Services based on information like its IP address. Also, you may choose to provide more precise location information, such as your address, your device\u2019s GPS location, or location information from third-party services that you use. We obtain your consent prior to collecting precise location information.",
+      "before": "Location data: We may determine the general area from which your device accesses our Services based on information like its IP address. Also, you may choose to provide more precise location information, such as your device\u2019s GPS location or from third-party services that you use. We obtain your consent prior to collecting precise location information."
+    },
+    {
+      "after": "Publicly Available Data: We use information that is publicly available on the internet to train our models and provide resulting Output. While we do not intentionally seek out personal information, we understand that there is personal information incidentally included in these datasets. For more information on the sources of information used in the development and operation of our large language models, see our Consumer FAQs.",
+      "before": "Publicly Available Data: We use information that is publicly available on the internet to train our models. While we do not intentionally seek out personal information, we understand that there is personal information incidentally included in these datasets. For more information on the sources of information used to develop our large language models, see our Consumer FAQs."
+    },
+    {
+      "after": "We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, xAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data.",
+      "before": "We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric data, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, xAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals and we do not actively seek out data sources that include sensitive or special category data."
+    },
+    {
+      "after": "We may aggregate, pseudoanonymize, or de-identify your information so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Service is being used, to improve and add features to them, and to conduct research. We will maintain and use pseudoanonymized or de-identified information in pseudoanonymized or de-identified form and will not attempt to reidentify the information, unless required by law.",
+      "before": "We may also aggregate or de-identify your information so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Service is being used, to improve and add features to them, and to conduct research. We will maintain and use de-identified information in de-identified form and will not attempt to reidentify the information, unless required by law."
+    },
+    {
+      "after": "The length of time we retain data may depend on the features or settings you use. For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from xAI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes.",
+      "before": "The length of time we retain data may depend on the features or settings you use. For example, Grok Temporary Chats will not show in your conversation history and your conversations will be deleted from xAI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you delete any or all of your conversations or if you delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes."
+    },
+    {
+      "after": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence.",
+      "before": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence. If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13."
+    },
+    {
+      "after": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at https://xai-privacy.relyance.ai/ and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.",
+      "before": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at https://privacy.x.ai/ and include your full legal name, email address, user name, X user handle (if applicable), and physical address. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws."
+    },
+    {
+      "after": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://xai-privacy.relyance.ai/. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.",
+      "before": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://privacy.x.ai/. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required."
+    },
+    {
+      "after": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://xai-privacy.relyance.ai/ or by the following contact details:",
+      "before": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://privacy.x.ai/ or by the following contact details:"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "xAI (Grok) Privacy Policy",
+  "removed_paragraphs": [
+    "We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing.",
+    "Lionheart Squared Limited, FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX United Kingdom xai@lionheartsquared.co.uk",
+    "Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland xai@lionheartsquared.eu",
+    "Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland xai@lionheartsquared.ch",
+    "You can contact our Data Protection Officer: Taceo Limited, Riverbank House, 2 Swan Lane, London EC4R 3TT"
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 10,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "data-retention-change",
+    "third-party-sharing",
+    "biometric-facial",
+    "minors"
+  ],
+  "to_date": "2025-05-01",
+  "url": "https://x.ai/legal/privacy-policy"
+}

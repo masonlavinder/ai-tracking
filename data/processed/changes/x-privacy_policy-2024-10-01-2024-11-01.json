@@ -1,0 +1,40 @@
+{
+  "added_paragraphs": [],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2024-11-01",
+  "from_date": "2024-10-01",
+  "id": "x-privacy_policy-2024-10-01-2024-11-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- Posts and other content you post (including the date, application, and version of X) and information about your broadcast activity (e.g., Spaces), including broadcasts you\u2019ve created and when you created them, your lists, bookmarks, and Communities you are a part of.",
+      "before": "- Posts and other content you post (including the date, application, and version of X) and information about your broadcast activity (e.g., Spaces), including broadcasts you\u2019ve created and when you created them, your lists, bookmarks, and communities you are a part of."
+    },
+    {
+      "after": "- Your interactions with other users\u2019 content, such as reposts, likes, bookmarks, shares, downloads, replies, if other users mention or tag you in content or if you mention or tag them, and broadcasts you\u2019ve participated in (including your viewing history, listening, commenting, speaking, and reacting).",
+      "before": "- Your interactions with other users\u2019 content, such as reposts, likes, bookmarks, shares, replies, if other users mention or tag you in content or if you mention or tag them, and broadcasts you\u2019ve participated in (including your viewing history, listening, commenting, speaking, and reacting)."
+    },
+    {
+      "after": "Interactions with our content on third-party sites. When you view our content on third-party websites that integrate X content, such as embedded timelines or post buttons, we may receive log information that includes the web page you visited.",
+      "before": "Interactions with our content on third-party sites. When you view our content on third-party websites that integrate X content such as embedded timelines or post buttons, we may receive log information that includes the web page you visited."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "X Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2024-11-01",
+  "url": "https://x.com/en/privacy"
+}

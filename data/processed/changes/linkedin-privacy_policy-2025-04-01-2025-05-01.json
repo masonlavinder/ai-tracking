@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "LinkedIn",
+  "company_slug": "linkedin",
+  "date": "2025-05-01",
+  "from_date": "2025-04-01",
+  "id": "linkedin-privacy_policy-2025-04-01-2025-05-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws.",
+      "before": "If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here or at DPO@linkedin.com. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "LinkedIn Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-05-01",
+  "url": "https://www.linkedin.com/legal/privacy-policy"
+}

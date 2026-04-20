@@ -4,6 +4,23 @@
       "added_count": 0,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
+      "date": "2026-04-20",
+      "from_date": "2026-04-19",
+      "id": "microsoft-terms_of_service-2026-04-19-2026-04-20",
+      "modified_count": 1,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Microsoft Services Agreement",
+      "removed_count": 0,
+      "score": 0,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-04-20",
+      "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
       "date": "2026-04-19",
       "from_date": "2026-04-01",
       "id": "microsoft-terms_of_service-2026-04-01-2026-04-19",
@@ -66,6 +83,44 @@
     },
     {
       "added_count": 1,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2026-04-03",
+      "from_date": "2026-03-01",
+      "id": "x-privacy_policy-xai-2026-03-01-2026-04-03",
+      "modified_count": 6,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 3,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2026-04-03",
+      "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2026-04-01",
+      "from_date": "2026-03-01",
+      "id": "reddit-terms_of_service-2026-03-01-2026-04-01",
+      "modified_count": 3,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-04-01",
+      "url": "https://www.redditinc.com/policies/user-agreement"
+    },
+    {
+      "added_count": 1,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
       "date": "2026-04-01",
@@ -80,6 +135,23 @@
       "tags": [],
       "to_date": "2026-04-01",
       "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 1,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2026-03-12",
+      "from_date": "2026-02-06",
+      "id": "tiktok-privacy_policy-row-2026-02-06-2026-03-12",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-03-12",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
     },
     {
       "added_count": 28,
@@ -139,6 +211,42 @@
       "tags": [],
       "to_date": "2026-03-01",
       "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2026-02-20",
+      "from_date": "2025-12-08",
+      "id": "amazon-privacy_policy-2025-12-08-2026-02-20",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Amazon Privacy Notice",
+      "removed_count": 0,
+      "score": 0,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-02-20",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+    },
+    {
+      "added_count": 2,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2026-02-06",
+      "from_date": "2025-12-04",
+      "id": "tiktok-privacy_policy-row-2025-12-04-2026-02-06",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "minors"
+      ],
+      "to_date": "2026-02-06",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
     },
     {
       "added_count": 22,
@@ -213,6 +321,23 @@
       "url": "https://www.facebook.com/privacy/policy/"
     },
     {
+      "added_count": 0,
+      "company_name": "LinkedIn",
+      "company_slug": "linkedin",
+      "date": "2026-02-01",
+      "from_date": "2026-01-01",
+      "id": "linkedin-privacy_policy-2026-01-01-2026-02-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "LinkedIn Privacy Policy",
+      "removed_count": 1,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-02-01",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
+    },
+    {
       "added_count": 52,
       "company_name": "Google",
       "company_slug": "google",
@@ -254,6 +379,23 @@
     },
     {
       "added_count": 0,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2026-01-01",
+      "from_date": "2025-12-01",
+      "id": "x-privacy_policy-2025-12-01-2026-01-01",
+      "modified_count": 6,
+      "policy_kind": "privacy_policy",
+      "policy_label": "X Privacy Policy",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-01-01",
+      "url": "https://x.com/en/privacy"
+    },
+    {
+      "added_count": 0,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
       "date": "2026-01-01",
@@ -268,6 +410,25 @@
       "tags": [],
       "to_date": "2026-01-01",
       "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 1,
+      "company_name": "LinkedIn",
+      "company_slug": "linkedin",
+      "date": "2026-01-01",
+      "from_date": "2025-12-01",
+      "id": "linkedin-privacy_policy-2025-12-01-2026-01-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "LinkedIn Privacy Policy",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2026-01-01",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
     },
     {
       "added_count": 0,
@@ -376,6 +537,43 @@
       "tags": [],
       "to_date": "2025-12-01",
       "url": "https://www.facebook.com/privacy/policy/"
+    },
+    {
+      "added_count": 0,
+      "company_name": "LinkedIn",
+      "company_slug": "linkedin",
+      "date": "2025-12-01",
+      "from_date": "2025-11-01",
+      "id": "linkedin-privacy_policy-2025-11-01-2025-12-01",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "LinkedIn Privacy Policy",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-12-01",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
+    },
+    {
+      "added_count": 1,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2025-11-21",
+      "from_date": "2025-10-02",
+      "id": "tiktok-privacy_policy-row-2025-10-02-2025-11-21",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-11-21",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
     },
     {
       "added_count": 0,
@@ -488,6 +686,25 @@
       "url": "https://www.anthropic.com/legal/privacy"
     },
     {
+      "added_count": 1,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-11-01",
+      "from_date": "2025-10-01",
+      "id": "amazon-privacy_policy-aws-2025-10-01-2025-11-01",
+      "modified_count": 6,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 11,
+      "score": 6,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2025-11-01",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
       "added_count": 35,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
@@ -567,6 +784,26 @@
     },
     {
       "added_count": 7,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-10-01",
+      "from_date": "2025-09-02",
+      "id": "amazon-privacy_policy-aws-2025-09-02-2025-10-01",
+      "modified_count": 12,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 10,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-10-01",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
+      "added_count": 7,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
       "date": "2025-09-02",
@@ -627,6 +864,25 @@
     },
     {
       "added_count": 1,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2025-08-05",
+      "from_date": "2025-07-08",
+      "id": "x-privacy_policy-xai-2025-07-08-2025-08-05",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2025-08-05",
+      "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 1,
       "company_name": "Google",
       "company_slug": "google",
       "date": "2025-08-01",
@@ -662,6 +918,65 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     },
     {
+      "added_count": 10,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2025-07-26",
+      "from_date": "2025-06-13",
+      "id": "tiktok-privacy_policy-row-2025-06-13-2025-07-26",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-07-26",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+    },
+    {
+      "added_count": 3,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-07-04",
+      "from_date": "2025-06-24",
+      "id": "amazon-privacy_policy-2025-06-24-2025-07-04",
+      "modified_count": 19,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Amazon Privacy Notice",
+      "removed_count": 1,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-07-04",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+    },
+    {
+      "added_count": 2,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-07-03",
+      "from_date": "2025-06-01",
+      "id": "amazon-privacy_policy-aws-2025-06-01-2025-07-03",
+      "modified_count": 35,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 1,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-07-03",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
       "added_count": 0,
       "company_name": "Meta",
       "company_slug": "meta",
@@ -679,6 +994,23 @@
       ],
       "to_date": "2025-07-02",
       "url": "https://www.facebook.com/privacy/policy/"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2025-07-01",
+      "from_date": "2025-06-01",
+      "id": "reddit-terms_of_service-2025-06-01-2025-07-01",
+      "modified_count": 0,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 1,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-07-01",
+      "url": "https://www.redditinc.com/policies/user-agreement"
     },
     {
       "added_count": 0,
@@ -721,6 +1053,50 @@
       "url": "https://policies.google.com/privacy"
     },
     {
+      "added_count": 4,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2025-07-01",
+      "from_date": "2025-06-01",
+      "id": "adobe-privacy_policy-2025-06-01-2025-07-01",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Adobe Privacy Policy",
+      "removed_count": 6,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "biometric-facial",
+        "minors"
+      ],
+      "to_date": "2025-07-01",
+      "url": "https://www.adobe.com/privacy/policy.html"
+    },
+    {
+      "added_count": 91,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2025-06-13",
+      "from_date": "2025-05-06",
+      "id": "tiktok-privacy_policy-row-2025-05-06-2025-06-13",
+      "modified_count": 12,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 42,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "ai-training-restriction",
+        "third-party-sharing",
+        "dm-private-content",
+        "minors"
+      ],
+      "to_date": "2025-06-13",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+    },
+    {
       "added_count": 0,
       "company_name": "OpenAI",
       "company_slug": "openai",
@@ -738,6 +1114,25 @@
       ],
       "to_date": "2025-06-11",
       "url": "https://openai.com/policies/row-terms-of-use/"
+    },
+    {
+      "added_count": 1,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2025-06-01",
+      "from_date": "2025-05-01",
+      "id": "reddit-terms_of_service-2025-05-01-2025-06-01",
+      "modified_count": 14,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "minors"
+      ],
+      "to_date": "2025-06-01",
+      "url": "https://www.redditinc.com/policies/user-agreement"
     },
     {
       "added_count": 0,
@@ -817,6 +1212,64 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     },
     {
+      "added_count": 9,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-06-01",
+      "from_date": "2025-05-02",
+      "id": "amazon-privacy_policy-aws-2025-05-02-2025-06-01",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 1,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-06-01",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2025-06-01",
+      "from_date": "2025-05-01",
+      "id": "adobe-privacy_policy-2025-05-01-2025-06-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Adobe Privacy Policy",
+      "removed_count": 92,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-06-01",
+      "url": "https://www.adobe.com/privacy/policy.html"
+    },
+    {
+      "added_count": 1,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2025-05-09",
+      "from_date": "2025-04-13",
+      "id": "adobe-ai_terms-2025-04-13-2025-05-09",
+      "modified_count": 10,
+      "policy_kind": "ai_terms",
+      "policy_label": "Adobe Generative AI User Guidelines",
+      "removed_count": 2,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2025-05-09",
+      "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+    },
+    {
       "added_count": 0,
       "company_name": "Meta",
       "company_slug": "meta",
@@ -832,6 +1285,46 @@
       "tags": [],
       "to_date": "2025-05-03",
       "url": "https://www.facebook.com/privacy/genai/"
+    },
+    {
+      "added_count": 6,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2025-05-01",
+      "from_date": "2025-04-01",
+      "id": "x-privacy_policy-xai-2025-04-01-2025-05-01",
+      "modified_count": 14,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 5,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "data-retention-change",
+        "third-party-sharing",
+        "biometric-facial",
+        "minors"
+      ],
+      "to_date": "2025-05-01",
+      "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 0,
+      "company_name": "LinkedIn",
+      "company_slug": "linkedin",
+      "date": "2025-05-01",
+      "from_date": "2025-04-01",
+      "id": "linkedin-privacy_policy-2025-04-01-2025-05-01",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "LinkedIn Privacy Policy",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-05-01",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
     },
     {
       "added_count": 44,
@@ -876,6 +1369,23 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     },
     {
+      "added_count": 0,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2025-04-13",
+      "from_date": "2025-03-07",
+      "id": "adobe-ai_terms-2025-03-07-2025-04-13",
+      "modified_count": 0,
+      "policy_kind": "ai_terms",
+      "policy_label": "Adobe Generative AI User Guidelines",
+      "removed_count": 2,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-04-13",
+      "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+    },
+    {
       "added_count": 23,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -893,6 +1403,27 @@
       ],
       "to_date": "2025-04-06",
       "url": "https://www.anthropic.com/legal/consumer-terms"
+    },
+    {
+      "added_count": 3,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2025-04-01",
+      "from_date": "2025-03-04",
+      "id": "x-privacy_policy-xai-2025-03-04-2025-04-01",
+      "modified_count": 7,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 53,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors"
+      ],
+      "to_date": "2025-04-01",
+      "url": "https://x.ai/legal/privacy-policy"
     },
     {
       "added_count": 0,
@@ -950,6 +1481,30 @@
       "url": "https://openai.com/policies/row-terms-of-use/"
     },
     {
+      "added_count": 79,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2025-03-04",
+      "from_date": "2025-02-06",
+      "id": "x-privacy_policy-xai-2025-02-06-2025-03-04",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 123,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "data-retention-change",
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial",
+        "minors"
+      ],
+      "to_date": "2025-03-04",
+      "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
       "added_count": 1,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -992,6 +1547,84 @@
     },
     {
       "added_count": 0,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-03-01",
+      "from_date": "2025-02-01",
+      "id": "amazon-privacy_policy-aws-2025-02-01-2025-03-01",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 1,
+      "score": 6,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2025-03-01",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2025-02-26",
+      "from_date": "2025-01-15",
+      "id": "amazon-privacy_policy-2025-01-15-2025-02-26",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Amazon Privacy Notice",
+      "removed_count": 1,
+      "score": 6,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2025-02-26",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+    },
+    {
+      "added_count": 18,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2025-02-06",
+      "from_date": "2025-01-03",
+      "id": "x-privacy_policy-xai-2025-01-03-2025-02-06",
+      "modified_count": 44,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 34,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-02-06",
+      "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2025-02-01",
+      "from_date": "2025-01-01",
+      "id": "reddit-terms_of_service-2025-01-01-2025-02-01",
+      "modified_count": 13,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2025-02-01",
+      "url": "https://www.redditinc.com/policies/user-agreement"
+    },
+    {
+      "added_count": 0,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
       "date": "2025-02-01",
@@ -1006,6 +1639,27 @@
       "tags": [],
       "to_date": "2025-02-01",
       "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 11,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2025-02-01",
+      "from_date": "2025-01-01",
+      "id": "adobe-privacy_policy-2025-01-01-2025-02-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Adobe Privacy Policy",
+      "removed_count": 28,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors"
+      ],
+      "to_date": "2025-02-01",
+      "url": "https://www.adobe.com/privacy/policy.html"
     },
     {
       "added_count": 0,
@@ -1023,6 +1677,28 @@
       "tags": [],
       "to_date": "2025-01-17",
       "url": "https://openai.com/policies/row-terms-of-use/"
+    },
+    {
+      "added_count": 3,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2025-01-03",
+      "from_date": "2024-12-09",
+      "id": "x-privacy_policy-xai-2024-12-09-2025-01-03",
+      "modified_count": 59,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 8,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-01-03",
+      "url": "https://x.ai/legal/privacy-policy"
     },
     {
       "added_count": 55,
@@ -1048,6 +1724,25 @@
       ],
       "to_date": "2025-01-01",
       "url": "https://www.anthropic.com/legal/privacy"
+    },
+    {
+      "added_count": 16,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2024-12-09",
+      "from_date": "2024-11-05",
+      "id": "x-privacy_policy-xai-2024-11-05-2024-12-09",
+      "modified_count": 28,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 9,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2024-12-09",
+      "url": "https://x.ai/legal/privacy-policy"
     },
     {
       "added_count": 0,
@@ -1142,6 +1837,59 @@
       "url": "https://openai.com/policies/row-privacy-policy/"
     },
     {
+      "added_count": 4,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2024-11-02",
+      "from_date": "2024-10-01",
+      "id": "amazon-privacy_policy-aws-2024-10-01-2024-11-02",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 7,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-11-02",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
+      "added_count": 0,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2024-11-01",
+      "from_date": "2024-10-01",
+      "id": "x-privacy_policy-2024-10-01-2024-11-01",
+      "modified_count": 3,
+      "policy_kind": "privacy_policy",
+      "policy_label": "X Privacy Policy",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2024-11-01",
+      "url": "https://x.com/en/privacy"
+    },
+    {
+      "added_count": 5,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2024-11-01",
+      "from_date": "2024-10-01",
+      "id": "tiktok-privacy_policy-row-2024-10-01-2024-11-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-11-01",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+    },
+    {
       "added_count": 0,
       "company_name": "Meta",
       "company_slug": "meta",
@@ -1157,6 +1905,40 @@
       "tags": [],
       "to_date": "2024-11-01",
       "url": "https://www.facebook.com/privacy/policy/"
+    },
+    {
+      "added_count": 2,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2024-10-01",
+      "from_date": "2024-09-01",
+      "id": "tiktok-privacy_policy-row-2024-09-01-2024-10-01",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-10-01",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2024-10-01",
+      "from_date": "2024-09-01",
+      "id": "reddit-terms_of_service-2024-09-01-2024-10-01",
+      "modified_count": 12,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 1,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-10-01",
+      "url": "https://www.redditinc.com/policies/user-agreement"
     },
     {
       "added_count": 14,
@@ -1177,6 +1959,29 @@
       ],
       "to_date": "2024-10-01",
       "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 3,
+      "company_name": "LinkedIn",
+      "company_slug": "linkedin",
+      "date": "2024-10-01",
+      "from_date": "2024-09-01",
+      "id": "linkedin-privacy_policy-2024-09-01-2024-10-01",
+      "modified_count": 27,
+      "policy_kind": "privacy_policy",
+      "policy_label": "LinkedIn Privacy Policy",
+      "removed_count": 1,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "data-retention-change",
+        "third-party-sharing",
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-10-01",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
     },
     {
       "added_count": 2,
@@ -1215,6 +2020,25 @@
       ],
       "to_date": "2024-10-01",
       "url": "https://www.anthropic.com/legal/consumer-terms"
+    },
+    {
+      "added_count": 1,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2024-09-01",
+      "from_date": "2024-08-01",
+      "id": "reddit-terms_of_service-2024-08-01-2024-09-01",
+      "modified_count": 5,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion"
+      ],
+      "to_date": "2024-09-01",
+      "url": "https://www.redditinc.com/policies/user-agreement"
     },
     {
       "added_count": 6,
@@ -1298,6 +2122,26 @@
       "url": "https://www.anthropic.com/legal/privacy"
     },
     {
+      "added_count": 23,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2024-08-01",
+      "from_date": "2024-07-01",
+      "id": "x-privacy_policy-2024-07-01-2024-08-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "X Privacy Policy",
+      "removed_count": 5,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "dm-private-content"
+      ],
+      "to_date": "2024-08-01",
+      "url": "https://x.com/en/privacy"
+    },
+    {
       "added_count": 22,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -1318,6 +2162,23 @@
     },
     {
       "added_count": 0,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2024-07-09",
+      "from_date": "2024-06-03",
+      "id": "adobe-ai_terms-2024-06-03-2024-07-09",
+      "modified_count": 1,
+      "policy_kind": "ai_terms",
+      "policy_label": "Adobe Generative AI User Guidelines",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-07-09",
+      "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+    },
+    {
+      "added_count": 0,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
       "date": "2024-07-04",
@@ -1334,6 +2195,23 @@
       ],
       "to_date": "2024-07-04",
       "url": "https://www.anthropic.com/legal/consumer-terms"
+    },
+    {
+      "added_count": 2,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2024-07-01",
+      "from_date": "2024-06-02",
+      "id": "tiktok-privacy_policy-row-2024-06-02-2024-07-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-07-01",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
     },
     {
       "added_count": 12,
@@ -1402,6 +2280,45 @@
       "url": "https://www.anthropic.com/legal/privacy"
     },
     {
+      "added_count": 4,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2024-07-01",
+      "from_date": "2024-06-01",
+      "id": "amazon-privacy_policy-aws-2024-06-01-2024-07-01",
+      "modified_count": 11,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 2,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2024-07-01",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
+      "added_count": 15,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2024-07-01",
+      "from_date": "2024-06-01",
+      "id": "adobe-privacy_policy-2024-06-01-2024-07-01",
+      "modified_count": 12,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Adobe Privacy Policy",
+      "removed_count": 3,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-07-01",
+      "url": "https://www.adobe.com/privacy/policy.html"
+    },
+    {
       "added_count": 49,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -1443,12 +2360,29 @@
       "url": "https://www.anthropic.com/legal/privacy"
     },
     {
+      "added_count": 1,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2024-05-13",
+      "from_date": "2024-04-11",
+      "id": "adobe-ai_terms-2024-04-11-2024-05-13",
+      "modified_count": 0,
+      "policy_kind": "ai_terms",
+      "policy_label": "Adobe Generative AI User Guidelines",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2024-05-13",
+      "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+    },
+    {
       "added_count": 10,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
       "date": "2024-05-01",
-      "from_date": "2024-04-05",
-      "id": "microsoft-privacy_policy-2024-04-05-2024-05-01",
+      "from_date": "2024-04-06",
+      "id": "microsoft-privacy_policy-2024-04-06-2024-05-01",
       "modified_count": 11,
       "policy_kind": "privacy_policy",
       "policy_label": "Microsoft Privacy Statement",
@@ -1481,5 +2415,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-04-20T01:50:38.751659+00:00"
+  "generated_at": "2026-04-20T12:54:13.030952+00:00"
 }

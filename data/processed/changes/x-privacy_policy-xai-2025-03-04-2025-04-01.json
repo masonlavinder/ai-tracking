@@ -1,0 +1,116 @@
+{
+  "added_paragraphs": [
+    "Lionheart Squared Limited, FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX United Kingdom xai@lionheartsquared.co.uk",
+    "Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland xai@lionheartsquared.eu",
+    "Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland xai@lionheartsquared.ch"
+  ],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2025-04-01",
+  "from_date": "2025-03-04",
+  "id": "x-privacy_policy-xai-2025-03-04-2025-04-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, if to access certain features of the Service and you have not set up an account, we will collect your date of birthbefore you may proceed. If you log into our Service using a third-party service, such as X, Google or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile, X username, numeric X ID, your age, whether you are subscribed to X Premium, and your Grok on X conversation history.",
+      "before": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. If you log into our Service using a third-party service, such as X, Google or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile, X username; numeric X ID; whether you are subscribed to X Premium, and your Grok on X conversation history."
+    },
+    {
+      "after": "User Content: You may provide personal information in prompts and other content you upload, such as files, images, audio, video, and other material (\u201cInput\u201d). Outputs of the Service (\u201cOutput\u201d), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. We ask that you do NOT include personal information in your Inputs; however, we cannot control what you provide to us.",
+      "before": "User Content: You may provide personal information in prompts and other content you upload, such as files, images, audio, and other material (\u201cInput\u201d). Outputs of the Service (\u201cOutput\u201d), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. We ask that you do not include personal information in your Inputs, however, we cannot control what you provide to us."
+    },
+    {
+      "after": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence. If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13.",
+      "before": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence. If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us at privacy@x.ai if you are aware that we may have inadvertently collected personal information from a child under the age of 13."
+    },
+    {
+      "after": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at https://privacy.x.ai/ and include your full legal name, email address, user name, X user handle (if applicable), and physical address. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.",
+      "before": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request to privacy@x.ai and include your full legal name, date of birth, email address, user name, X user handle (if applicable), and physical address. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws."
+    },
+    {
+      "after": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://privacy.x.ai/. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.",
+      "before": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision by emailing us at privacy@x.ai. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required."
+    },
+    {
+      "after": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://privacy.x.ai/ or by the following contact details:",
+      "before": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact privacy@x.ai or by mail using the following contact details:"
+    },
+    {
+      "after": "You can contact our Data Protection Officer: Taceo Limited, Riverbank House, 2 Swan Lane, London EC4R 3TT",
+      "before": "You can contact our Data Protection Officer: Taceo Limited, Riverbank House, 2 Swan Lane, London EC4R 3TT dpo@taceo.co.uk"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "xAI (Grok) Privacy Policy",
+  "removed_paragraphs": [
+    "2. Personal information we collect (Notice at collection)",
+    "- How we may collect it: Directly from you or from a third-party (ex., X, Google or Apple).",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.",
+    "- How we may collect it: Through a third-party processor (ex., Apple App Store, Google Play Store, or Stripe).",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, and for legal purposes.",
+    "- How we may collect it: Directly from you.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+    "- How we may collect it: Directly from you.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+    "- How we may collect it: Directly from you.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+    "- How we may collect it: Directly from you or from companies that host our social media pages.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.",
+    "- How we may collect it: Automatically when you use or interact with the Service, including through analytics tools.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+    "- How we may collect it: Directly from you or from third-party services that you use.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.",
+    "- How we may collect it: From publicly available resources.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+    "- How we may collect it: Public X posts are provided by X and internet search data is provided by internet search providers.",
+    "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+    "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies",
+    "- To provide, analyze, and maintain our Service: For example, to respond to your Inputs for Grok or to process payments for subscriptions to our Service.",
+    "- To provide support and assistance in relation to our Service: For example, to troubleshoot problems and to provide customer support.",
+    "- To develop and improve our Service and to conduct research: For example to develop new product features, to train our models, to identify usage trends, to operate and expand our business activities, to identify new customers, and for data analysis.",
+    "- To communicate with you: For example, to send you information about our Service, events, or changes to the Service. This may include sending you non-promotional emails, such as emails about your Grok access, legally required notices, or our ongoing business relations.",
+    "- To ensure the security and integrity of our Service: For example, to protect the security of our Services and to detect and prevent fraud, unauthorized use, unlawful activity, and other misuses of our Service.",
+    "- For legal purposes: For example, to comply with our legal obligations and to protect the rights, privacy, safety, or property of our users, xAI, or third-parties. This may include detecting what country you are located in so we can comply with relevant legal obligations.",
+    "4. How we may disclose personal information",
+    "- To our contracted service providers: To assist in providing the Service to you or performing business operations, we provide your personal information to service providers including providers of hosting, cloud, analytics, content delivery, support and safety monitoring, payment and transaction, and other technology services, for the purposes described above.",
+    "- In connection with business transfers: In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company. If required by applicable laws, we will use reasonable efforts to notify you of any transfer of personal information to an unaffiliated third-party.",
+    "- For legal purposes: To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of xAI and our agents, customers, and others, including to enforce our agreements, policies, and terms of service, (iii) to protect against legal liability, or (iv) to protect the personal safety of xAI, its customers, or any person.",
+    "- To our related companies: To our related companies to the extent such sharing is necessary to fulfill a request you have submitted via our Service or for customer management, customer support, technical operations, or the purposes described above.",
+    "- To third-parties with which you interact or share information: Certain features may allow you to share information with third-parties, such as through the X platform. Information you share with third-parties is governed by that third-party\u2019s terms and policies.",
+    "- When we have a legal obligation to do so (e.g., if we receive a court order, we would retain your information for longer than our usual retention periods);",
+    "- To address and resolve requests and complaints (e.g., if there is an ongoing complaint about you);",
+    "- To protect the safety, security, and integrity of our business and the Service, as well as to protect our rights and property and those of others (e.g., if we detect misuse of our Service or otherwise detect unusual activity on your account or in your interactions with us); and",
+    "- For litigation, regulatory or other legal matters (e.g., we would retain your information if there was an ongoing legal claim and the information was relevant to the claim).",
+    "- You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions. Please note that we cannot guarantee the factual accuracy of Output from our models. If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information \u2014 but due to the technical complexity of our models, it may not be feasible for us to do so.",
+    "- If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.",
+    "- The right to submit certain privacy requests through an Authorized Agent.",
+    "- The right to be free from discrimination for exercising the rights afforded to you under applicable privacy laws.",
+    "- The right to appeal a decision we make about your rights request.",
+    "Attn: Privacy Team In the USA: x.AI LLC, 1450 Page Mill Road, Palo Alto, CA 94304 privacy@x.ai In the UK: Lionheart Squared Limited, FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX United Kingdom xai@lionheartsquared.co.uk In the EU: Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland xai@lionheartsquared.eu In Switzerland: Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland xai@lionheartsquared.ch"
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 6,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout",
+    "minors"
+  ],
+  "to_date": "2025-04-01",
+  "url": "https://x.ai/legal/privacy-policy"
+}

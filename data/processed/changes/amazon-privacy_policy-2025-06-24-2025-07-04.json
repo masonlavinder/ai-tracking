@@ -1,0 +1,112 @@
+{
+  "added_paragraphs": [
+    "- What Information Can I Access in My Account?",
+    "- Be sure to sign off when finished using a shared computer. Read more information on Signing Out of Your Amazon Account.",
+    "What Information Can I Access in My Account?"
+  ],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2025-07-04",
+  "from_date": "2025-06-24",
+  "id": "amazon-privacy_policy-2025-06-24-2025-07-04",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Last updated: June 30, 2025. View the prior version of this Privacy Notice.",
+      "before": "Last updated: February 14, 2025. To see prior version, click here."
+    },
+    {
+      "after": "We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively \"Amazon\") collect and process your personal information through Amazon products, services, stores, website and physical locations, devices and applications that reference this Privacy Notice (together \"Amazon Services\"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice.",
+      "before": "We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively \"Amazon\") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together \"Amazon Services\"). By using Amazon Services, you are consenting to the practices described in this Privacy Notice."
+    },
+    {
+      "after": "- Information You Give Us: We receive and store any information you provide in relation to Amazon Services. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services.",
+      "before": "- Information You Give Us: We receive and store any information you provide in relation to Amazon Services. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services."
+    },
+    {
+      "after": "- Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use \"cookies\" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.",
+      "before": "- Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use \"cookies\" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with. Click here to see examples of what we collect."
+    },
+    {
+      "after": "- Information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily.",
+      "before": "- Information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily. Click here to see additional examples of the information we receive."
+    },
+    {
+      "after": "- Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. You can read more about Alexa, Echo Devices, and Your Privacy.",
+      "before": "- Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services , click here."
+    },
+    {
+      "after": "- Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (for example, by phone, email, chat).",
+      "before": "- Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (e.g., by phone, email, chat)."
+    },
+    {
+      "after": "- Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Learn more about how to manage the security settings of your device at Digital Services and Device Support.",
+      "before": "- Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click here for more information on how to manage the security settings of your device."
+    },
+    {
+      "after": "- It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Consider enhancing your security by following the guidance at our Your Security page.",
+      "before": "- It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off."
+    },
+    {
+      "after": "- Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please visit Your Ads Privacy Choices.",
+      "before": "- Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please go to the Your Ads Privacy Choices page."
+    },
+    {
+      "after": "- Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by visiting Your Ads Privacy Choices.",
+      "before": "- Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by going to the Your Ads Privacy Choices page."
+    },
+    {
+      "after": "You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the \"Your Account\" section of the website.",
+      "before": "You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the \"Your Account\" section of the website. Click here for a list of examples that you can access."
+    },
+    {
+      "after": "- If you want to browse our websites without linking the browsing history to your account, you may do so by signing out of your account and blocking cookies on your browser.",
+      "before": "- If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account here and blocking cookies on your browser."
+    },
+    {
+      "after": "- You can manage the recommendations you receive in our store at Improve Your Recommendations, and you can remove recommendations you don\u2019t want to see by unchecking the \u201cUse this item for recommendations\u201d toggle on the right side of the page for each item. You can edit Your Browsing History, as well.",
+      "before": "- You can manage the recommendations you receive in our store here, remove recommendations you don\u2019t want to see here by selecting View All and Manage then selecting the Remove Items toggle that appears at the top of the page, and edit your browsing history here."
+    },
+    {
+      "after": "- You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (for example, Manage Your Content and Devices), device, or application. Learn more about certain devices at our Privacy Settings FAQ page. Most non-Amazon devices also provide users with the ability to change device permissions (for example, disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer.",
+      "before": "- You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (e.g., in \"Manage Your Content and Devices\"), device, or application. For more information click here. Most non-Amazon devices also provide users with the ability to change device permissions (e.g., disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer."
+    },
+    {
+      "after": "Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Learn more about the EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework.",
+      "before": "Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click here to learn more."
+    },
+    {
+      "after": "- provide information in Your Account (and you might have more than one if you have used more than one email address or mobile number when shopping with us) or Your Profile;",
+      "before": "- provide information in Your Account (and you might have more than one if you have used more than one email address or mobile number when shopping with us) or Your Profile ;"
+    },
+    {
+      "after": "- compile Playlists, Watchlists, Wish Lists, or other gift registries;",
+      "before": "- compile Playlists, Watchlists, Wish Lists , or other gift registries;"
+    },
+    {
+      "after": "- Amazon Services metrics (for example, the occurrences of technical errors, your interactions with service features and content, your settings preferences and backup information, location of your device running an application, information about uploaded images and files such as the file name, dates, times and location of your images);",
+      "before": "- Amazon Services metrics (e.g., the occurrences of technical errors, your interactions with service features and content, your settings preferences and backup information, location of your device running an application, information about uploaded images and files such as the file name, dates, times and location of your images);"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Amazon Privacy Notice",
+  "removed_paragraphs": [
+    "- If you shop in our physical stores, you can manage how certain data is used to analyze the performance of our products and services, as well as learn more here."
+  ],
+  "score": 9,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 6,
+    "total": 9
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-07-04",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+}

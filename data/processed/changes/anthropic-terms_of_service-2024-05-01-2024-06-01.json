@@ -55,7 +55,7 @@
   "date": "2024-06-01",
   "from_date": "2024-05-01",
   "id": "anthropic-terms_of_service-2024-05-01-2024-06-01",
-  "llm_summary": "The Anthropic Consumer Terms have been updated to clarify that they apply to consumers in the European Economic Area or Switzerland and specify the definition of \"we\" as Anthropic. New sections outline technical limitations on services, billing requirements, and cancellation rights, including a 14-day cancellation period with reimbursement details. Additionally, the document has been restructured for clarity, including changes to account management and the removal of certain liability disclaimers.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "Welcome to Anthropic! Before you access our services, please read these User Terms of Service.",

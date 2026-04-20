@@ -1,0 +1,38 @@
+{
+  "added_paragraphs": [
+    "Personal information necessary for customer communications (including your name, email address, physical address, phone number, and other similar contact information)",
+    "Personal information necessary for customer relationship management (including your name, email address, physical address, phone number, and other similar contact information)",
+    "Personal information necessary for payment instrument processing (including credit card number and expiration dates)",
+    "If you do not agree with the above-stated overseas transfers, please stop using AWS Services and close your AWS Account."
+  ],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2024-11-02",
+  "from_date": "2024-10-01",
+  "id": "amazon-privacy_policy-aws-2024-10-01-2024-11-02",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "removed_paragraphs": [
+    "Personal information as described in this Privacy Notice",
+    "Personal information as described in this Privacy Notice",
+    "Personal information as described in this Privacy Notice",
+    "The information of Domestic Agent based on the Personal Information Protect Act is as follows:",
+    "Name and representative: General Agent Co., Ltd. (Representative: Eun Mi Kim)Address: Rm. 1216, 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul",
+    "Telephone number: (02) 735 6888Email address: AWS@generalagent.co.krIf you have any privacy questions or requests please contact:AWS Korea PrivacyEmail: aws-korea-privacy@amazon.com",
+    "Korean translation of this Privacy Notice can be found here."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-11-02",
+  "url": "https://aws.amazon.com/privacy/"
+}

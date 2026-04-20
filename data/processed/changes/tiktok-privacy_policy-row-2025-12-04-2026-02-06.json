@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [
+    "TikTok is not directed at children under the age of 16. If you believe that there is a user who is below this minimum age, please contact us at https://www.tiktok.com/legal/report/privacy.",
+    "You may raise complaints, exercise your rights or seek any remedies by contacting us at https://www.tiktok.com/legal/report/privacy. If you disagree with our response, you also have the right to lodge a complaint with the Office of the Australian Information Commissioner (OAIC) at:"
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2026-02-06",
+  "from_date": "2025-12-04",
+  "id": "tiktok-privacy_policy-row-2025-12-04-2026-02-06",
+  "llm_summary": "TikTok's updated privacy policy now explicitly states that the platform is not directed at children under the age of 16 and provides a contact link for reporting users who may be under this age. Additionally, users are informed that they can raise complaints or seek remedies through a specified link, and they have the right to lodge a complaint with the Office of the Australian Information Commissioner if they disagree with TikTok's response. No other changes were made to the policy.",
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (ROW)",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "minors"
+  ],
+  "to_date": "2026-02-06",
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+}

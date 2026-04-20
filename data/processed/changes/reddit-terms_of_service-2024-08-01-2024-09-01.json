@@ -1,0 +1,50 @@
+{
+  "added_paragraphs": [
+    "We\u2019ve updated our User Agreement. Please take a look before the changes take effect on September 16, 2024. This page is the updated User Agreement; for the version effective until September 16, 2024 click here. |"
+  ],
+  "company_name": "Reddit",
+  "company_slug": "reddit",
+  "date": "2024-09-01",
+  "from_date": "2024-08-01",
+  "id": "reddit-terms_of_service-2024-08-01-2024-09-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Effective September 16, 2024. Last Revised August 16, 2024",
+      "before": "Effective February 15, 2024. Last Revised February 15, 2024"
+    },
+    {
+      "after": "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our Public Content Policy. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.",
+      "before": "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content."
+    },
+    {
+      "after": "Hello, redditors and people of the Internet! This Reddit User Agreement (\u201cTerms\u201d) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the \u201cServices\u201d) provided by Reddit Netherlands B.V. (\u201cReddit,\u201d \u201cwe,\u201d \u201cus,\u201d or \u201cour\u201d).",
+      "before": "Hello, redditors and people of the Internet! This Reddit User Agreement (\u201cTerms\u201d) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the \u201cServices\u201d) provided by Reddit, Inc. (\u201cReddit,\u201d \u201cwe,\u201d \u201cus,\u201d or \u201cour\u201d)."
+    },
+    {
+      "after": "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our Public Content Policy. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.",
+      "before": "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content."
+    },
+    {
+      "after": "These Terms are a legally-binding agreement between you and Reddit Netherlands B.V. If you have any questions about these Terms, please contact us.",
+      "before": "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion"
+  ],
+  "to_date": "2024-09-01",
+  "url": "https://www.redditinc.com/policies/user-agreement"
+}

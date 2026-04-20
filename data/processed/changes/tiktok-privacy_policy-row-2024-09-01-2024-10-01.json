@@ -1,0 +1,33 @@
+{
+  "added_paragraphs": [
+    "If you are using our services in Singapore, the following additional terms apply:",
+    "Data Protection Officer: If you wish to reach TikTok\u2019s Data Protection Officer, please contact us at: Contact the Data Protection Officer | TikTok"
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2024-10-01",
+  "from_date": "2024-09-01",
+  "id": "tiktok-privacy_policy-row-2024-09-01-2024-10-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "If you are using our services in Japan, the following additional terms and our Japanese language Privacy Policy apply:",
+      "before": "If you are using our services in Japan, please refer to our Japanese language Privacy Policy for further information on our compliance with the Telecommunications Business Act."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (ROW)",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-10-01",
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+}

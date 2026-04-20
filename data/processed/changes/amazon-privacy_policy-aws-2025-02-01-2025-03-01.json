@@ -1,0 +1,46 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2025-03-01",
+  "from_date": "2025-02-01",
+  "id": "amazon-privacy_policy-aws-2025-02-01-2025-03-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework",
+      "before": "- EU-US and Swiss-US Data Privacy Framework"
+    },
+    {
+      "after": "EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework",
+      "before": "EU-US and Swiss-US Data Privacy Framework"
+    },
+    {
+      "after": "Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click here to learn more.",
+      "before": "Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework*. Click here to learn more."
+    },
+    {
+      "after": "Controller of Personal Information. With respect to personal information provided to Amazon Web Services South Africa Proprietary Limited, located at 29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925 (\u201cAWS South Africa\u201d), AWS South Africa is the responsible party.",
+      "before": "Controller of Personal Information. With respect to personal information provided to Amazon Web Services South Africa Proprietary Limited, located at Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001 (\u201cAWS South Africa\u201d), AWS South Africa is the responsible party."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "removed_paragraphs": [
+    "*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so."
+  ],
+  "score": 6,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 2,
+    "total": 6
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2025-03-01",
+  "url": "https://aws.amazon.com/privacy/"
+}

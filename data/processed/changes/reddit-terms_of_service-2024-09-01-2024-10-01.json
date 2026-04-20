@@ -1,0 +1,76 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Reddit",
+  "company_slug": "reddit",
+  "date": "2024-10-01",
+  "from_date": "2024-09-01",
+  "id": "reddit-terms_of_service-2024-09-01-2024-10-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Effective September 24, 2024. Last Revised September 24, 2024",
+      "before": "Effective September 16, 2024. Last Revised August 16, 2024"
+    },
+    {
+      "after": "Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services",
+      "before": "Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services."
+    },
+    {
+      "after": "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (\u201cPaid Services\u201d). In addition to these Terms, the Reddit Econ Terms also apply to Paid Services. By purchasing or using Paid Services, you further agree to the Econ Terms and, if applicable, the Previews Terms.",
+      "before": "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (\u201cPaid Services\u201d). In addition to these Terms, the Reddit Premium and Virtual Goods Agreement also applies to Paid Services. By purchasing or using Paid Services, you further agree to the Premium and Virtual Goods Agreement and, if applicable, the Previews Terms of Use."
+    },
+    {
+      "after": "If you use any Paid Services, you must also agree to the Reddit Econ Terms.",
+      "before": "If you use any Paid Services, you must also agree to the Reddit Premium and Virtual Goods Agreement."
+    },
+    {
+      "after": "If you use any preview features, you must also agree to the Reddit Previews Terms.",
+      "before": "If you use any preview features, you must also agree to the Reddit Previews Terms of Use."
+    },
+    {
+      "after": "If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms.",
+      "before": "If you use the self-service platform for advertising, you must also agree to the Reddit Advertising Platform Terms."
+    },
+    {
+      "after": "If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms.",
+      "before": "If you participate in any Reddit program that is subject to Additional Terms (e.g., Contributor Terms for our Contributor Program), you must also agree to those Additional Terms."
+    },
+    {
+      "after": "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (\u201cPaid Services\u201d). In addition to these Terms the Reddit Econ Terms also apply to Paid Services. By purchasing or using Paid Services, you further agree to the Econ Terms and, if applicable, the Previews Terms.",
+      "before": "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (\u201cPaid Services\u201d). In addition to these Terms the Reddit Premium and Virtual Goods Agreement also applies to Paid Services. By purchasing or using Paid Services, you further agree to the Premium and Virtual Goods Agreement and, if applicable, the Previews Terms of Use."
+    },
+    {
+      "after": "If you use any Paid Services, you must also agree to the Reddit Econ Terms.",
+      "before": "If you use any Paid Services, you must also agree to the Reddit Premium and Virtual Goods Agreement."
+    },
+    {
+      "after": "If you use any preview features, you must also agree to the Reddit Previews Terms.",
+      "before": "If you use any preview features, you must also agree to the Reddit Previews Terms of Use."
+    },
+    {
+      "after": "If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms.",
+      "before": "If you use the self-service platform for advertising, you must also agree to the Reddit Advertising Platform Terms."
+    },
+    {
+      "after": "If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms.",
+      "before": "If you participate in any Reddit program that is subject to Additional Terms (e.g., Contributor Terms for our Contributor Program), you must also agree to those Additional Terms."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "removed_paragraphs": [
+    "We\u2019ve updated our User Agreement. Please take a look before the changes take effect on September 16, 2024. This page is the updated User Agreement; for the version effective until September 16, 2024 click here. |"
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-10-01",
+  "url": "https://www.redditinc.com/policies/user-agreement"
+}

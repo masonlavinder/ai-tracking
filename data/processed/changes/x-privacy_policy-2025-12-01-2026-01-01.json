@@ -1,0 +1,50 @@
+{
+  "added_paragraphs": [],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2026-01-01",
+  "from_date": "2025-12-01",
+  "id": "x-privacy_policy-2025-12-01-2026-01-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Usage information. We collect information about your activity on X, including:",
+      "before": "Usage Information. We collect information about your activity on X, including:"
+    },
+    {
+      "after": "Device information. We collect information from and about the devices you use to access X, including:",
+      "before": "Device Information. We collect information from and about the devices you use to access X, including:"
+    },
+    {
+      "after": "Location information. When you use X, we collect some information about your approximate location to provide the service you expect, including showing you relevant ads. You can also choose to share your current precise location or places where you\u2019ve previously used X by enabling these settings in your account.",
+      "before": "Location Information. When you use X, we collect some information about your approximate location to provide the service you expect, including showing you relevant ads. You can also choose to share your current precise location or places where you\u2019ve previously used X by enabling these settings in your account."
+    },
+    {
+      "after": "Inferred identity. We may collect or receive information that we use to infer your identity as detailed below:",
+      "before": "Inferred Identity. We may collect or receive information that we use to infer your identity as detailed below:"
+    },
+    {
+      "after": "- When you provide other information to X, including an email address or phone number, we associate that information with your X account. Subject to your settings, we may also use this information in order to infer other information about you and/or your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to X.",
+      "before": "- When you provide other information to X, including an email address or phone number, we associate that information with your X account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to X."
+    },
+    {
+      "after": "Log information. We may receive information when you view content on or otherwise interact with our products and services, even if you have not created an account or are signed out, such as:",
+      "before": "Log Information. We may receive information when you view content on or otherwise interact with our products and services, even if you have not created an account or are signed out, such as:"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "X Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-01-01",
+  "url": "https://x.com/en/privacy"
+}

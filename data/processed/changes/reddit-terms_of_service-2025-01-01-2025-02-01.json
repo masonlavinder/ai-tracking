@@ -1,0 +1,78 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Reddit",
+  "company_slug": "reddit",
+  "date": "2025-02-01",
+  "from_date": "2025-01-01",
+  "id": "reddit-terms_of_service-2025-01-01-2025-02-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our Reddit Rules, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+      "before": "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our Content Policy, or our other terms and policies, or if you otherwise create or are likely to create liability for us."
+    },
+    {
+      "after": "For more information about Reddit\u2019s approach to content moderation, including how we enforce our Reddit Rules and how to appeal content moderation decisions, please visit our Help Center.",
+      "before": "For more information about Reddit\u2019s approach to content moderation, including how we enforce our Content Policy and how to appeal content moderation decisions, please visit our Help Center."
+    },
+    {
+      "after": "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit\u2019s rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:",
+      "before": "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit\u2019s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+    },
+    {
+      "after": "We encourage you to report content or conduct that you believe violates these Terms or our Reddit Rules. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com.",
+      "before": "We encourage you to report content or conduct that you believe violates these Terms or our Content Policy. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com."
+    },
+    {
+      "after": "You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct.",
+      "before": "You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Code of Conduct."
+    },
+    {
+      "after": "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Reddit Rules.",
+      "before": "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Content Policy."
+    },
+    {
+      "after": "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our Reddit Rules, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+      "before": "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our Content Policy, or our other terms and policies, or if you otherwise create or are likely to create liability for us."
+    },
+    {
+      "after": "For more information about Reddit\u2019s approach to content moderation, including how we enforce our Reddit Rules and how to appeal content moderation decisions, please visit our Help Center.",
+      "before": "For more information about Reddit\u2019s approach to content moderation, including how we enforce our Content Policy and how to appeal content moderation decisions, please visit our Help Center."
+    },
+    {
+      "after": "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit\u2019s rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:",
+      "before": "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit\u2019s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+    },
+    {
+      "after": "We encourage you to report content or conduct that you believe violates these Terms or our Reddit Rules. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com.",
+      "before": "We encourage you to report content or conduct that you believe violates these Terms or our Content Policy. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com."
+    },
+    {
+      "after": "You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct.",
+      "before": "You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Code of Conduct."
+    },
+    {
+      "after": "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit\u2019s Designated Agent by filling out our Copyright Report Form or Trademark Report Form, or by contacting:",
+      "before": "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit\u2019s Designated Agent by filling out our our Copyright Report Form or Trademark Report Form, or by contacting:"
+    },
+    {
+      "after": "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Reddit Rules.",
+      "before": "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Content Policy."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-02-01",
+  "url": "https://www.redditinc.com/policies/user-agreement"
+}

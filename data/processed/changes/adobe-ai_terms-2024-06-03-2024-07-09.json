@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Adobe",
+  "company_slug": "adobe",
+  "date": "2024-07-09",
+  "from_date": "2024-06-03",
+  "id": "adobe-ai_terms-2024-06-03-2024-07-09",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "These Generative AI User Guidelines (\u201cGuidelines\u201d) govern your use of Adobe\u2019s generative AI features. In addition, if your agreement with Adobe is governed by the General Terms of Use located at adobe.com/go/terms, then your use of these generative AI features is also governed by the Adobe Generative AI Product Specific Terms located at adobe.com/go/adobe-gen-ai-addl-terms, which are incorporated by reference into these Guidelines.",
+      "before": "These Generative AI User Guidelines (\u201cGuidelines\u201d) govern your use of Adobe\u2019s generative AI features. In addition, if your agreement with Adobe is governed by the General Terms of Use located at adobe.com/go/terms, then your use of these generative AI features is also governed by the Adobe Generative AI Additional Terms located at adobe.com/go/adobe-gen-ai-addl-terms, which are incorporated by reference into these Guidelines."
+    }
+  ],
+  "policy_kind": "ai_terms",
+  "policy_label": "Adobe Generative AI User Guidelines",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-07-09",
+  "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+}

@@ -1,0 +1,57 @@
+{
+  "added_paragraphs": [
+    "To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don\u2019t share your name or other information that directly identifies you when we do this. Instead, we use an identifier like a cookie or a unique code derived from your contact information (such as a hashed email address). If you want to adjust your personalized advertising preferences, refer to the \u201cAccess and Choice\u201d section below.",
+    "- Advertising: If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the \u201cYour Privacy Choices\u201d link in the footer of the AWS site you\u2019re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the form available here and by following the Cookie Preferences instructions below.",
+    "Advertising. To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. If you provide your consent, we use advertising cookies and similar technologies. You can withdraw your consent by clicking on the \u201cCookie Preferences\u201d link presented in the footer of the AWS website you\u2019re visiting.",
+    "We may also share a unique code derived from your contact information (such as a hashed email address) with our advertising partners. We don\u2019t share your name or other information that directly identifies you when we do this. We rely on our legitimate interests for this processing, including to help you find and discover features, products, and services that might be of interest to you. To opt out, click the link here.",
+    "Advertising. To help ensure you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don\u2019t share your name or other information that directly identifies you when we do this. Any personal information AWS may share for the purpose of cross-context behavioral advertising, as those terms are defined by the California Privacy Rights Act, or processes for the purposes of targeted advertising as that term is defined in other state privacy laws, above falls into the following categories:",
+    "- identifiers such as a cookie, or a hashed value derived from your contact information, such as your email address;",
+    "- internet or other electronic network activity information, such as web browser information, pages viewed, or links clicked, via cookies and similar technologies.",
+    "AWS does not knowingly share personal information about consumers who are under the age of 18.",
+    "You may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable."
+  ],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2025-06-01",
+  "from_date": "2025-05-02",
+  "id": "amazon-privacy_policy-aws-2025-05-02-2025-06-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- Marketing and Advertising: We use your personal information to market, advertise, and promote AWS Offerings.",
+      "before": "- Marketing: We use your personal information to market and promote AWS Offerings."
+    },
+    {
+      "after": "To enable our systems to recognize your browser or device, and to provide, market, and improve AWS Offerings, and to advertise to you on third-party websites and services, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our Cookie Notice.",
+      "before": "To enable our systems to recognize your browser or device and to provide, market, and improve AWS Offerings, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our Cookie Notice."
+    },
+    {
+      "after": "These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act. Information about our customers is an important part of our business and we are not in the business of selling our customers\u2019 personal information to others.",
+      "before": "These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act."
+    },
+    {
+      "after": "Your Data Rights. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us here. If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us here or at the address under Contacts, Notices, and Revisions above. Additionally, you may have the right to opt out of the processing of your personal data for cross-context behavioral advertising (also referred to as targeted advertising under certain state privacy laws). To do so, please click on the Your Privacy Choices link in the footer of the AWS website that you\u2019re visiting and follow the instructions presented. You can also opt out of such advertising based on cookies or similar technologies by visiting our websites with a legally recognized opt-out preference signal, such as the Global Privacy Control, enabled.",
+      "before": "Your Data Rights. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us here. If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us here or at the address under Contacts, Notices, and Revisions above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "removed_paragraphs": [
+    "No sale or sharing of personal information. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act."
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-06-01",
+  "url": "https://aws.amazon.com/privacy/"
+}

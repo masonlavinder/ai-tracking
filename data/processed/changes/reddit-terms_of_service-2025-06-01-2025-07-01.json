@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Reddit",
+  "company_slug": "reddit",
+  "date": "2025-07-01",
+  "from_date": "2025-06-01",
+  "id": "reddit-terms_of_service-2025-06-01-2025-07-01",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "removed_paragraphs": [
+    "| We\u2019ve updated our User Agreement. Please take a look before the changes take effect on June 28, 2025. This page is the updated User Agreement; for the version effective until June 28, 2025, click here. |"
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-07-01",
+  "url": "https://www.redditinc.com/policies/user-agreement"
+}

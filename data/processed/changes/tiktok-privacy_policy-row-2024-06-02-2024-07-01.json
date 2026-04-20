@@ -1,0 +1,28 @@
+{
+  "added_paragraphs": [
+    "TikTok's legal entity in South Africa, TikTok South Africa (Pty) Limited (TikTok SA), is required by the terms of section 51 of the Promotion of Access to Information Act 2 of 2000 (PAIA) to compile an information manual (PAIA Manual) that provides details: (i) on its processing of personal information activities in terms of the Protection of Personal Information Act 4 of 2013 (POPIA); (ii) the process that must be followed for relevant individuals to exercise their data subject rights as provided for in POPIA; (iii) the records held by TikTok SA in terms of PAIA; and (iv) the process that needs to be followed by relevant individuals to request access to such records in terms of PAIA.",
+    "TikTok SA's PAIA Manual can be accessed here."
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2024-07-01",
+  "from_date": "2024-06-02",
+  "id": "tiktok-privacy_policy-row-2024-06-02-2024-07-01",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (ROW)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-07-01",
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+}

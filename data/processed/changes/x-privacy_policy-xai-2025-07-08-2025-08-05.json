@@ -1,0 +1,29 @@
+{
+  "added_paragraphs": [
+    "Cookies and Similar Technologies: We and our service providers use cookies and other similar technologies to operate and improve our Services. Cookies help us to recognize you, customize or personalize your experience, analyze the use of our Services to make it safer and more useful to you. For details about our use of cookies, please read our Cookie Policy."
+  ],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2025-08-05",
+  "from_date": "2025-07-08",
+  "id": "x-privacy_policy-xai-2025-07-08-2025-08-05",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "xAI (Grok) Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2025-08-05",
+  "url": "https://x.ai/legal/privacy-policy"
+}

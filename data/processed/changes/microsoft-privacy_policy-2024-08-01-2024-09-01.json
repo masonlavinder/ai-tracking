@@ -12,7 +12,7 @@
   "date": "2024-09-01",
   "from_date": "2024-08-01",
   "id": "microsoft-privacy_policy-2024-08-01-2024-09-01",
-  "llm_summary": "Microsoft's updated privacy statement includes new sections on using personal data for AI model training and clarifies the rights related to consumer health data under specific state laws. It also emphasizes the balance between legitimate interests and user rights when processing personal data. Additionally, there are minor adjustments in wording regarding legal compliance and the handling of personal data, but no substantive changes were made to user rights or data processing practices.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws.",

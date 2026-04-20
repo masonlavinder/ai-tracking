@@ -1,0 +1,97 @@
+{
+  "added_paragraphs": [
+    "At Adobe we take data privacy seriously. We believe in transparency so you can control your data and make informed choices about how it is used. We are here to support and protect your privacy decisions wherever you use our products and services. Adobe prioritizes your control over the data you store in the cloud in the following ways:",
+    "- This policy also explains when we will first get your consent before processing your personal information, including when doing so is required by law.",
+    "- Analysis of your content subject to your opt-out and consent rights.",
+    "- Analyzing your content and its characteristics using automated techniques, in the following circumstances:",
+    "- Operational Use. Our Services and Software will access your content stored locally on your device (\u201cLocal Content\u201d) and content that you have uploaded to our servers or create using our cloud-based Services (\u201cCloud Content\u201d), to enable the normal running of the Services and Software.",
+    "- Content Analytics with Cloud Content. Subject to your opt-out rights, including those described here, we may perform analytics with Cloud Content to help us understand how our users are using our Services and Software to allow us to improve your Services and Software experience, provide recommendations to you, and customize your experience. Insights from Content Analytics may be used to inform our marketing to you, subject to your opt-out rights regarding our marketing.",
+    "- Analyzing your content and its characteristics using automated techniques or with human review, in the following circumstances:",
+    "- Illegal and Abusive Cloud Content. Cloud Content may be automatically scanned to ensure we are not hosting illegal or abusive content, like Child Sexual Abuse Material. Human review may occur when your Cloud Content is flagged or reported as illegal or abusive.",
+    "- Public and Shared Cloud Content. All public and shared Cloud Content is subject to review for intellectual property issues and safety issues (for example, violence and nudity). If you choose to share your Cloud Content with others using our Software and Services, we may automatically review this shared Cloud Content to flag abusive behavior (such as spam or phishing). When you make your Cloud Content publicly available, additional human review may occur.",
+    "- Tailor and customize the Services and Software through marketing communications (learn more)",
+    "- Analyzing your content and its characteristics using automated techniques, in the following circumstances:",
+    "- Accessing information stored on your device for the following operational uses:",
+    "- Detect and prevent fraudulent, deceptive, or illegal activity or misuse of the Services and Software;",
+    "- Improve our services and the user experience, such as through the Adobe Product Improvement Program as described here; and",
+    "- Respond to your request (e.g., customer service)."
+  ],
+  "company_name": "Adobe",
+  "company_slug": "adobe",
+  "date": "2024-07-01",
+  "from_date": "2024-06-01",
+  "id": "adobe-privacy_policy-2024-06-01-2024-07-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- Analysis of your use and navigation of the Services and Software;",
+      "before": "- Analysis of your use and navigation of the Services and Software as well as your content"
+    },
+    {
+      "after": "- Usage Data FAQ: Creative Cloud and Document Cloud Apps",
+      "before": "- Creative Cloud, Document Cloud, and Substance App Diagnostic and Usage Information FAQ"
+    },
+    {
+      "after": "How we process your content to deliver features requested by you",
+      "before": "How we analyze your content to deliver features requested by you"
+    },
+    {
+      "after": "- As required by Adobe to conduct our business and pursue our legitimate interests:",
+      "before": "- As required by Adobe to conduct our business and pursue our legitimate interests, in particular:"
+    },
+    {
+      "after": "- Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes, where your consent is not required;",
+      "before": "- Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is not required);"
+    },
+    {
+      "after": "- Analyzing your use and navigation of our Services and Software, your profile information, your interaction with our communications (excluding your content), to:",
+      "before": "- Analyzing your use and navigation of our Services and Software, your content, your profile information, and your interaction with our communications, through both automated (e.g., machine learning) and manual methods to tailor, customize, and improve the Services and Software, and marketing communications (learn more) (where your consent is not required);"
+    },
+    {
+      "after": "- Detect and prevent fraudulent, deceptive, or, illegal activity, or misuse of our Services and Software;",
+      "before": "- Detect and prevent fraudulent, deceptive, or, illegal activity, or misuse of our Services and Software (where your consent is not required)"
+    },
+    {
+      "after": "- Improve our Services and Software, and the user experience, subject to your opt-out and consent rights, including those described here; and",
+      "before": "- Improve our Services and Software, and the user experience (where your consent is not required, and subject to settings we may provide you, including those described here);"
+    },
+    {
+      "after": "- Checking the validity of the sort code, account number and card number you submit if you use a credit or debit card for payment, in order to prevent payment fraud or other illegal or deceptive payment practices (we use third parties for this \u2013 see \u201cDoes Adobe disclose my personal information to others?\u201d below);",
+      "before": "- Checking the validity of the sort code, account number, and card number you submit if you use a credit or debit card for payment, in order to prevent payment fraud or other illegal or deceptive payment practices (we use third parties for this \u2013 see \u201cDoes Adobe disclose my personal information to others?\u201d below);"
+    },
+    {
+      "after": "- Information relating to your use of, and engagement with, Services and Software related to crash reports in order to fix the underlying problem causing the crash;",
+      "before": "- Accessing information stored on your device relating to your use of, and engagement with, Services and Software (e.g., Adobe Connect meetings) and crash reports;"
+    },
+    {
+      "after": "- Information which you allow us to receive through device-based settings (e.g., photos, location and camera) in order to provide certain functionality within our Services and Software;",
+      "before": "- Accessing information stored on your device which you allow us to receive through device-based settings (e.g., photos, location and camera) in order to provide certain functionality within our Services and Software;"
+    },
+    {
+      "after": "- Analyzing your use and navigation of the Services and Software or your content and its characteristics using automated techniques or human review in order to:",
+      "before": "- Analyzing your use and navigation of the Services and Software or your content (including metadata about your content) using techniques such as machine learning in order to detect and prevent fraudulent, deceptive, or illegal activity or misuse of the Services and Software, and improve our services and the user experience; and"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Adobe Privacy Policy",
+  "removed_paragraphs": [
+    "- Where your consent is required, we will obtain your permission before (i) sending you news and promotional material about Adobe; (ii) accessing information stored on your device relating to your use of, and engagement with, Services and Software (e.g., Adobe Connect meetings) and crash reports; and (iii) analyzing your content. You can withdraw your consent to such activities at any time. Learn more.",
+    "- Analyzing your use and navigation of our Services and Software, as well as your content and metadata about your content through both automated (e.g., machine learning) and manual methods to:",
+    "- Detecting, preventing, or otherwise addressing fraudulent, deceptive, or illegal activity, and misuse of Services and Software, security or technical issues, as well as protecting against harm to the rights, property or safety of Adobe, our users, or the public;"
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2024-07-01",
+  "url": "https://www.adobe.com/privacy/policy.html"
+}
