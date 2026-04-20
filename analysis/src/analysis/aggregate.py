@@ -154,19 +154,26 @@ def _enrich_with_llm(
     *,
     threshold: int,
     budget: int,
+    force: bool = False,
 ) -> int:
     """Attach llm_summary to eligible changes, spending at most `budget` calls.
 
     Reuses prior summaries from `existing` to stay well inside the free
     tier on repeated runs. Returns the number of LLM calls actually made.
+
+    When `force` is set, any existing summary for a change at or above
+    the timeline threshold is regenerated (used after tuning the prompt).
+    Below-threshold changes still reuse prior summaries because we never
+    spent calls on them in the first place.
     """
     spent = 0
     for change in changes:
         prior = existing.get(change.id)
-        if prior:
+        eligible = change.score >= threshold
+        if prior and not (force and eligible):
             change.llm_summary = prior
             continue
-        if change.score < threshold:
+        if not eligible:
             continue
         if spent >= budget:
             log.warning(
@@ -174,11 +181,16 @@ def _enrich_with_llm(
                 "unsummarized this run and will be picked up next time",
                 budget,
             )
+            if prior:
+                change.llm_summary = prior  # fall back to existing
             break
         summary = generate_summary(change)
         spent += 1
         if summary:
             change.llm_summary = summary
+        elif prior:
+            # Call failed — keep the old summary rather than blanking it.
+            change.llm_summary = prior
     return spent
 
 
@@ -189,6 +201,7 @@ def run_pipeline(
     timeline_threshold: int = TIMELINE_THRESHOLD,
     enrich_with_llm: bool = False,
     llm_call_budget: int = DEFAULT_LLM_CALL_BUDGET,
+    force_reenrich: bool = False,
 ) -> dict[str, int]:
     """Run diff → classify → score → (enrich) → aggregate."""
     changes = diff_all(policies_root)
@@ -209,6 +222,7 @@ def run_pipeline(
             existing_summaries,
             threshold=timeline_threshold,
             budget=llm_call_budget,
+            force=force_reenrich,
         )
     else:
         # Preserve prior summaries even without enrichment so we never

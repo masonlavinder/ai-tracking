@@ -167,6 +167,133 @@ COMPANIES: list[Company] = [
         ],
         news_query_terms=["Microsoft", "Copilot"],
     ),
+    Company(
+        name="Apple",
+        slug="apple",
+        ticker="AAPL",
+        sec_cik="0000320193",
+        policy_urls=[
+            PolicyURL(
+                url="https://www.apple.com/legal/privacy/en-ww/",
+                kind="privacy_policy",
+                label="Apple Privacy Policy",
+            ),
+        ],
+        news_query_terms=["Apple", "Apple Intelligence", "Siri"],
+    ),
+    Company(
+        name="Amazon",
+        slug="amazon",
+        ticker="AMZN",
+        sec_cik="0001018724",
+        policy_urls=[
+            PolicyURL(
+                url="https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+                kind="privacy_policy",
+                label="Amazon Privacy Notice",
+            ),
+            PolicyURL(
+                url="https://aws.amazon.com/privacy/",
+                kind="privacy_policy",
+                label="AWS Privacy Notice",
+                region="AWS",
+            ),
+        ],
+        news_query_terms=["Amazon", "AWS", "Alexa", "Bedrock"],
+    ),
+    Company(
+        name="Reddit",
+        slug="reddit",
+        ticker="RDDT",
+        sec_cik="0001713445",
+        policy_urls=[
+            PolicyURL(
+                url="https://www.redditinc.com/policies/privacy-policy",
+                kind="privacy_policy",
+                label="Reddit Privacy Policy",
+            ),
+            PolicyURL(
+                url="https://www.redditinc.com/policies/user-agreement",
+                kind="terms_of_service",
+                label="Reddit User Agreement",
+            ),
+        ],
+        news_query_terms=["Reddit"],
+    ),
+    Company(
+        name="Adobe",
+        slug="adobe",
+        ticker="ADBE",
+        sec_cik="0000796343",
+        policy_urls=[
+            PolicyURL(
+                url="https://www.adobe.com/privacy/policy.html",
+                kind="privacy_policy",
+                label="Adobe Privacy Policy",
+            ),
+            PolicyURL(
+                url="https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html",
+                kind="ai_terms",
+                label="Adobe Generative AI User Guidelines",
+            ),
+        ],
+        news_query_terms=["Adobe", "Firefly"],
+    ),
+    Company(
+        name="X",
+        slug="x",
+        ticker=None,
+        sec_cik=None,
+        policy_urls=[
+            PolicyURL(
+                url="https://x.com/en/privacy",
+                kind="privacy_policy",
+                label="X Privacy Policy",
+            ),
+            PolicyURL(
+                url="https://x.ai/legal/privacy-policy",
+                kind="privacy_policy",
+                label="xAI (Grok) Privacy Policy",
+                region="xAI",
+            ),
+        ],
+        news_query_terms=["Twitter", "xAI", "Grok"],
+    ),
+    Company(
+        name="LinkedIn",
+        slug="linkedin",
+        ticker=None,
+        sec_cik=None,
+        policy_urls=[
+            PolicyURL(
+                url="https://www.linkedin.com/legal/privacy-policy",
+                kind="privacy_policy",
+                label="LinkedIn Privacy Policy",
+            ),
+        ],
+        news_query_terms=["LinkedIn"],
+    ),
+    Company(
+        name="TikTok",
+        slug="tiktok",
+        ticker=None,
+        sec_cik=None,
+        policy_urls=[
+            PolicyURL(
+                url="https://www.tiktok.com/legal/page/us/privacy-policy/en",
+                kind="privacy_policy",
+                label="TikTok Privacy Policy (US)",
+                region="US",
+            ),
+            PolicyURL(
+                url="https://www.tiktok.com/legal/page/row/privacy-policy/en",
+                kind="privacy_policy",
+                label="TikTok Privacy Policy (ROW)",
+                region="ROW",
+            ),
+        ],
+        news_query_terms=["TikTok", "ByteDance"],
+    ),
 ]
 
 

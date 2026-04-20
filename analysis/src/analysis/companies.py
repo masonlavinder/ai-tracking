@@ -57,6 +57,49 @@ COMPANIES: list[AnalysisCompany] = [
         sec_cik="0000789019",
         homepage_url="https://www.microsoft.com/about",
     ),
+    AnalysisCompany(
+        slug="apple",
+        name="Apple",
+        ticker="AAPL",
+        sec_cik="0000320193",
+        homepage_url="https://www.apple.com/",
+    ),
+    AnalysisCompany(
+        slug="amazon",
+        name="Amazon",
+        ticker="AMZN",
+        sec_cik="0001018724",
+        homepage_url="https://www.aboutamazon.com/",
+    ),
+    AnalysisCompany(
+        slug="reddit",
+        name="Reddit",
+        ticker="RDDT",
+        sec_cik="0001713445",
+        homepage_url="https://redditinc.com/",
+    ),
+    AnalysisCompany(
+        slug="adobe",
+        name="Adobe",
+        ticker="ADBE",
+        sec_cik="0000796343",
+        homepage_url="https://www.adobe.com/",
+    ),
+    AnalysisCompany(
+        slug="x",
+        name="X",
+        homepage_url="https://x.com/",
+    ),
+    AnalysisCompany(
+        slug="linkedin",
+        name="LinkedIn",
+        homepage_url="https://about.linkedin.com/",
+    ),
+    AnalysisCompany(
+        slug="tiktok",
+        name="TikTok",
+        homepage_url="https://www.tiktok.com/",
+    ),
 ]
 
 

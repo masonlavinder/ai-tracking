@@ -123,3 +123,47 @@ def test_llm_module_integrates_with_real_generate_api(
     # actually the same module-level function, so monkeypatching it on
     # aggregate works in the real workflow.
     assert aggregate.generate_summary is llm.generate_summary
+
+
+def test_force_reenrich_overrides_existing_summary(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    policies_root, processed_root = _setup_two_snapshots(tmp_path)
+
+    # Seed a prior summary by doing one normal enriched run.
+    monkeypatch.setattr(
+        aggregate, "generate_summary", lambda _c, **_k: "original summary"
+    )
+    aggregate.run_pipeline(
+        policies_root=policies_root,
+        processed_root=processed_root,
+        enrich_with_llm=True,
+    )
+
+    change_files = list((processed_root / "changes").glob("*.json"))
+    before = json.loads(change_files[0].read_text())
+    assert before["llm_summary"] == "original summary"
+
+    # Without --force-reenrich, even a tuned prompt would be skipped.
+    monkeypatch.setattr(
+        aggregate, "generate_summary", lambda _c, **_k: "tuned summary"
+    )
+    stats = aggregate.run_pipeline(
+        policies_root=policies_root,
+        processed_root=processed_root,
+        enrich_with_llm=True,
+    )
+    assert stats["llm_calls"] == 0
+    unchanged = json.loads(change_files[0].read_text())
+    assert unchanged["llm_summary"] == "original summary"
+
+    # With --force-reenrich, the tuned prompt replaces the cached summary.
+    stats = aggregate.run_pipeline(
+        policies_root=policies_root,
+        processed_root=processed_root,
+        enrich_with_llm=True,
+        force_reenrich=True,
+    )
+    assert stats["llm_calls"] == 1
+    after = json.loads(change_files[0].read_text())
+    assert after["llm_summary"] == "tuned summary"

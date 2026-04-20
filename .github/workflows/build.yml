@@ -17,6 +17,15 @@ on:
       - "frontend/**"
       - ".github/workflows/build.yml"
   workflow_dispatch:
+    inputs:
+      force_reenrich:
+        description: "Regenerate all LLM summaries (use after prompt tuning)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
 
 permissions:
   contents: write
@@ -49,8 +58,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          args=(--enrich)
+          if [ "${{ inputs.force_reenrich }}" = "true" ]; then
+            args+=(--force-reenrich)
+          fi
           uv sync --frozen --extra dev
-          uv run python -m analysis.main --enrich
+          uv run python -m analysis.main "${args[@]}"
 
       - name: Commit processed data changes
         env:

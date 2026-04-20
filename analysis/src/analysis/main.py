@@ -65,6 +65,15 @@ def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         ),
     )
     parser.add_argument(
+        "--force-reenrich",
+        action="store_true",
+        help=(
+            "Regenerate summaries for all timeline-eligible changes, even "
+            "ones that already have a cached summary. Use after tuning the "
+            "prompt. Respects --llm-budget."
+        ),
+    )
+    parser.add_argument(
         "--log-level",
         default="INFO",
         help="Python logging level (default: INFO).",
@@ -86,6 +95,7 @@ def main(argv: list[str] | None = None) -> int:
         timeline_threshold=args.timeline_threshold,
         enrich_with_llm=args.enrich,
         llm_call_budget=args.llm_budget,
+        force_reenrich=args.force_reenrich,
     )
     print(
         "analysis: "
