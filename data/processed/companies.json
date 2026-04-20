@@ -179,7 +179,91 @@
       "stock_url": "https://finance.yahoo.com/quote/MSFT",
       "ticker": "MSFT",
       "total_changes": 16
+    },
+    {
+      "homepage_url": "https://www.apple.com/",
+      "latest_snapshot_date": null,
+      "name": "Apple",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0000320193",
+      "slug": "apple",
+      "stock_url": "https://finance.yahoo.com/quote/AAPL",
+      "ticker": "AAPL",
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://www.aboutamazon.com/",
+      "latest_snapshot_date": null,
+      "name": "Amazon",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0001018724",
+      "slug": "amazon",
+      "stock_url": "https://finance.yahoo.com/quote/AMZN",
+      "ticker": "AMZN",
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://redditinc.com/",
+      "latest_snapshot_date": null,
+      "name": "Reddit",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0001713445",
+      "slug": "reddit",
+      "stock_url": "https://finance.yahoo.com/quote/RDDT",
+      "ticker": "RDDT",
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://www.adobe.com/",
+      "latest_snapshot_date": null,
+      "name": "Adobe",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": "0000796343",
+      "slug": "adobe",
+      "stock_url": "https://finance.yahoo.com/quote/ADBE",
+      "ticker": "ADBE",
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://x.com/",
+      "latest_snapshot_date": null,
+      "name": "X",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": null,
+      "slug": "x",
+      "stock_url": null,
+      "ticker": null,
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://about.linkedin.com/",
+      "latest_snapshot_date": null,
+      "name": "LinkedIn",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": null,
+      "slug": "linkedin",
+      "stock_url": null,
+      "ticker": null,
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://www.tiktok.com/",
+      "latest_snapshot_date": null,
+      "name": "TikTok",
+      "policies": [],
+      "recent_change_ids": [],
+      "sec_cik": null,
+      "slug": "tiktok",
+      "stock_url": null,
+      "ticker": null,
+      "total_changes": 0
     }
   ],
-  "generated_at": "2026-04-20T01:29:27.161742+00:00"
+  "generated_at": "2026-04-20T01:40:03.285613+00:00"
 }

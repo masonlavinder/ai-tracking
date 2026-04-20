@@ -18,7 +18,7 @@
   "date": "2024-07-01",
   "from_date": "2024-06-01",
   "id": "microsoft-privacy_policy-2024-06-01-2024-07-01",
-  "llm_summary": null,
+  "llm_summary": "The Microsoft Privacy Statement has added several paragraphs detailing the use of artificial intelligence, specifically the Microsoft Copilot features, and how user data is collected and utilized in these contexts. It also clarifies that users can manage their prompt history and settings related to Copilot services. Additionally, some sections related to Cortana have been removed, indicating a shift in focus towards Copilot and its functionalities.",
   "modified_paragraphs": [
     {
       "after": "Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization\u2019s licensing account, submit a search query to Bing, register for a Microsoft event, upload a document to OneDrive, sign up for Microsoft 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.",

@@ -5,7 +5,7 @@
   "date": "2024-07-04",
   "from_date": "2024-06-01",
   "id": "anthropic-terms_of_service-2024-06-01-2024-07-04",
-  "llm_summary": null,
+  "llm_summary": "The wording in the Terms of Service has been slightly modified for clarity, particularly regarding the relationship between individual users and the Commercial Terms of Service. The reference to acting on behalf of an organization has been removed, streamlining the explanation of how the Commercial Terms apply. No new paragraphs were added, and no substantive changes were made to user rights or obligations.",
   "modified_paragraphs": [
     {
       "after": "These Terms of Service (\"Terms\") and our Usage Policy (also referred to as our \u201cAcceptable Use Policy\u201d or \u201cAUP\u201d) set out the agreement between you and Anthropic Ireland, Limited (\u201cAnthropic\u201d) to use Claude.ai, Claude Pro, and other products and services that we may offer for individuals, along with any associated apps, software, and websites (together, our \u201cServices\u201d). Please take some time to read over them and understand them. By agreeing to these Terms, or in the absence of such agreement, by using the Services, you agree to be bound by them, including any changes made to them in accordance with the Terms. Our affiliates, licensors, distributors, and service providers (collectively \u201cProviders\u201d) are not contracting parties under these Terms.",
