@@ -5,7 +5,7 @@
   "date": "2025-11-12",
   "from_date": "2025-10-02",
   "id": "openai-terms_of_service-2025-10-02-2025-11-12",
-  "llm_summary": "The \"Mandatory Arbitration\" and \"Informal dispute resolution\" sections of the OpenAI Terms of Use were modified, but the text remains unchanged in substance. The only difference is the removal of hyperlinks in the text. No new content was added or removed.",
+  "llm_summary": "The section on mandatory arbitration has been slightly reformatted, but there are no substantive changes to the content. The informal dispute resolution process also remains unchanged in wording. Overall, the terms related to arbitration and dispute resolution are consistent with previous versions.",
   "modified_paragraphs": [
     {
       "after": "MANDATORY ARBITRATION. You and OpenAI agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a \u201cDispute\u201d), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out this form. If you opt out of an update, the last set of agreed upon arbitration terms will apply.",

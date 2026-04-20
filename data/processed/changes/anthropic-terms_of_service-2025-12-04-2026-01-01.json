@@ -61,7 +61,7 @@
   "date": "2026-01-01",
   "from_date": "2025-12-04",
   "id": "anthropic-terms_of_service-2025-12-04-2026-01-01",
-  "llm_summary": "The Anthropic Consumer Terms were updated to clarify that the agreement is between users and Anthropic Ireland, Limited, and to specify that these Terms apply to consumers in the European Economic Area or Switzerland. Several paragraphs were added or modified for clarity regarding account creation, billing information, and subscription orders, while some sections, including liability disclaimers and indemnification clauses, were removed. Overall, the changes enhance clarity and specificity in the terms.",
+  "llm_summary": "The Anthropic Consumer Terms have been updated to clarify that the agreement is between users and Anthropic Ireland, Limited, and now explicitly states that these terms apply to consumers in the European Economic Area or Switzerland. Additionally, the terms regarding account creation and management have been refined for clarity, and some sections have been removed, including extensive liability disclaimers. There are also new provisions about technical limitations and billing information requirements for subscriptions.",
   "modified_paragraphs": [
     {
       "after": "Welcome to Anthropic! Before you access our services, please read these User Terms of Service.",

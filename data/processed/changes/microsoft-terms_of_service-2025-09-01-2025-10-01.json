@@ -41,7 +41,7 @@
   "date": "2025-10-01",
   "from_date": "2025-09-01",
   "id": "microsoft-terms_of_service-2025-09-01-2025-10-01",
-  "llm_summary": "The Microsoft Services Agreement has been updated to include new provisions for accessing exportable data and clarifications regarding customer support and payment methods. Additionally, there are modifications to the language around service usage, billing practices, and trial-period offers. Some paragraphs were removed or rephrased for clarity, but the overall structure remains similar.",
+  "llm_summary": "Microsoft's Services Agreement now includes a provision allowing users to access and export their data through their Microsoft account, with some restrictions for security reasons. The terms regarding customer support have been clarified, and there are updates related to billing practices, including the requirement to notify users of price changes at least 15 days in advance. Additionally, the language around trial-period offers has been refined, including potential auto-renewal requirements.",
   "modified_paragraphs": [
     {
       "after": "This is the Trace Id: 804a5512a254aa30fde273910c57ba39",
