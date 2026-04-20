@@ -1,0 +1,17 @@
+{
+  "byte_length": 517107,
+  "company_slug": "reddit",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:10:43.040630+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "policy_region": null,
+  "sha256": "36d9df60e16cb50e417c19348aa259a1053dd0848ecb2f604bcbd24f16e6122b",
+  "snapshot_date": "2026-01-01",
+  "source": "wayback",
+  "text_length": 46250,
+  "url": "https://www.redditinc.com/policies/user-agreement",
+  "wayback_digest": "ABWSPS22BLLPGYY2RBWU7VDIM6V5BEQQ",
+  "wayback_timestamp": "20260101010731"
+}

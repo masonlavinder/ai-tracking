@@ -1,0 +1,17 @@
+{
+  "byte_length": 152778,
+  "company_slug": "x",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:15:51.097787+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "X Privacy Policy",
+  "policy_region": null,
+  "sha256": "2dfa3eaa02c6a76d01b6dc045b382ec56894b1ce14888e0028fc7b13e4d18312",
+  "snapshot_date": "2025-12-01",
+  "source": "wayback",
+  "text_length": 4997,
+  "url": "https://x.com/en/privacy",
+  "wayback_digest": "AVUUW7DAKVQG5E6Z2BUZMGRH3GDPPANQ",
+  "wayback_timestamp": "20251201194647"
+}

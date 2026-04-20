@@ -1,0 +1,17 @@
+{
+  "byte_length": 140823,
+  "company_slug": "adobe",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:12:15.129361+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Adobe Privacy Policy",
+  "policy_region": null,
+  "sha256": "65be534a6ee0beb1614384bbbf1a8a0e65daac3db55447b5b59dd90a740d83be",
+  "snapshot_date": "2024-10-01",
+  "source": "wayback",
+  "text_length": 41239,
+  "url": "https://www.adobe.com/privacy/policy.html",
+  "wayback_digest": "S2A5IOB6HVS6SYOOU2BWREJA62XCDLZP",
+  "wayback_timestamp": "20241001023337"
+}

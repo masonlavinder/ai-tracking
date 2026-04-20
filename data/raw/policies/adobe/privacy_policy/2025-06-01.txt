@@ -1,0 +1,72 @@
+Adobe ID, registration, and customer support
+When you register to use an Adobe Service, create an Adobe ID, purchase a license to our Services and Software, or contact us for support or other offerings, Adobe collects information that identifies you. This includes:
+Identifiers and contact information, such as:
+- Name;
+- Email address;
+- Telephone number;
+- Postal or Physical Address;
+- Country;
+Commercial and transaction information, such as:
+- Payment/billing information (where an app or website is 'paid for');
+- Licenses purchased;
+- Eligibility information (e.g., student or teacher identification for student and teacher editions of apps);
+- Content of and information provided through customer support and other communications (e.g., recorded customer and technical support calls and stored content of your correspondence with us via our website, chat features, phone and video calls, emails, and other channels);
+- Types of Services and Software of interest.
+Professional, education or other demographic information, such as:
+- Date of birth;
+- Company or school name;
+- Title;
+- Occupation;
+- Job function;
+- Expertise;
+- Company details, such as the size, industry, and other information about the company where a user may work (when the user has provided the company name);
+Analytics or other electronic network activity, such as:
+- IP address;
+- Browser;
+- Mobile Device ID;
+- Browser extensions connected to your Adobe accounts.
+Inferred Information
+To help keep our databases current and to provide you the most relevant content and experiences, we may infer or generate information based on the information we collect or combine information provided by you with information from third party sources, in accordance with applicable law. For example, the size, industry, and other information about the company you work for (where you have provided company name) will be obtained from sources including, professional networking sites and information service providers. We may also infer, generate, or collect and receive information from third parties, including partners, and from publicly accessible sources, for purposes that include to detect, prevent, or otherwise address fraudulent, deceptive or illegal activity, misuse of our Services and Software, security or technical issues, as well as to protect against harm to the rights, property or safety of Adobe and our employees, our users, children, or the public.
+Adobe Services and Software
+We collect information you provide to us (e.g., when you access and use our Services and Software) or permit us to collect (e.g., as part of a third-party integration). We also collect or generate information about how you access and use our Services and Software, including when you use a desktop or mobile app feature that takes you online (such as a photo syncing feature). Depending on the Services and Software you access and use, this information may be associated with your device or browser or it may be associated with your Adobe account or content. It includes:
+Analytics or other electronic network activity, such as:
+- IP address;
+- Browser and device information, including browser and device type, settings, unique identifiers, version, language settings, and configuration;
+- Webpage that led you to an Adobe website;
+- Search terms entered into a search engine which led you to an Adobe website;
+- Use and navigation of Services and Software, including how you interact with Adobe websites (collected through cookies and similar technologies, or by Adobe servers when you are logged into the app or website);
+- Analysis of your use and navigation of the Services and Software;
+- Analysis of your content subject to your opt-out and consent rights.
+Professional, Education or other demographic information, such as:
+- Profile information (e.g., account profile, public profile, Behance profile).
+Commercial and transaction information, such as:
+- Content that includes personal information which is sent or received using an online feature of Adobe Services and Software, or which is stored on Adobe servers, such as documents, photos, videos, activity logs, direct feedback from you, metadata about your content, user generated requests such as search terms, prompts (e.g., text, images, videos, audio, etc.), inquiries, feedback, and other information you may disclose when you access or use our Services and Software as well as any information the Services and Software returns in response to such requests.
+Sensitive personal information, such as:
+- Biometric identifiers or information as defined under US laws (e.g., faceprints and voiceprints from your user Content, as defined in the Adobe General Terms of Use) and precise geolocation. Where required by law, we will seek any required permissions from you prior to any such collection. See the "Adobe acting on your behalf" and "How we analyze your content to deliver features requested by you" sections below for more information.
+The following links provide further information on:
+Adobe Software activation and automatic updates
+- When you activate your Adobe Software or when you install updates to the Software, we collect analytics or other electronic network activity information, such as: your device (manufacturer, model, IP address);
+- the Adobe Software (version, date of activation, successful and unsuccessful updates);
+- your product serial number (e.g., where this is required before you can start using your product).
+You can learn more about app activation here.
+Adobe emails
+Emails we send you may include a technology (called a web beacon) that collects Analytics or other electronic network activity, such as whether you have received or opened the email, or clicked a link in the email. If you do not want us to collect this information, you can opt out of receiving Adobe marketing emails.
+Adobe online advertising
+Adobe advertises online in a variety of ways, including displaying Adobe ads to you on other companies' websites and apps and on social media platforms, such as Facebook and LinkedIn. Adobe websites use cookies, pixels, and similar technologies provided by our own company (Adobe Experience Cloud) and other companies that allow us to gather additional information to measure and improve the effectiveness of our advertising. We collect Analytics or other electronic network activity information such as:
+- Which ads are displayed;
+- Which ads are clicked on; and
+- Where the ad was displayed.
+Learn more about Adobe’s advertising practices.
+Buttons, tools, and content from other companies
+Adobe Services and Software may include buttons, tools, or content that link to other companies’ services (for example, a Facebook "Like" button). We may collect information about your use of these features, such as content “liked” and address information in Google Maps. In addition, when you see or interact with these buttons, tools, or content, or view an Adobe web page or app containing them, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information.
+Adobe websites may implement Google reCAPTCHA Enterprise to help prevent spam and abuse. reCAPTCHA Enterprise collects hardware and software information, such as device and application data, and sends it to Google for purposes of providing, maintaining, and improving reCAPTCHA Enterprise and for general security purposes. Your use of reCAPTCHA Enterprise is subject to Google’s Privacy Policy and Terms of Use.
+Adobe social networking pages and social sign-on services
+You can sign into some Adobe Services and Software using a social networking account, such as a Facebook account. Where you give appropriate permissions, we will receive contact and identifier information about you from your social networking account, such as name, country, and basic demographic information.
+Adobe has its own pages on many social networking sites (for example, the Adobe® Photoshop® team’s Facebook page). We will collect information which you have made publicly available on your social networking account, such as name and interests in our products and services, when you interact with our social networking pages. The social networking sites may provide statistics and insights to Adobe which help us understand the types of actions that people take on our pages. Where applicable, Adobe and the social media site(s) have entered into an arrangement which determines our respective responsibilities.
+You can learn more about Adobe’s practices with respect to social networking pages and account sign-on services here.
+Adobe acting on your behalf
+In certain instances, Adobe is acting only on your behalf for personal information collected and processed by our services (for example, for the address book contacts shared by users when entering recipient information). In such cases, Adobe is acting only on your instructions in order to facilitate the Service requested by you, and you will be responsible for the information shared. In these instances, we will inform you through in-app notifications or other in-time communications. If you submit any information relating to other people to us or to our service providers in connection with your use of Adobe apps or websites, you represent that you have the authority to do so and to permit us to use the information in accordance with this policy.
+How we process your content to deliver features requested by you
+Adobe offers certain features that let you edit and organize your photographs, videos, and other types of content using characteristics like face and voice (e.g., you can group similar faces, places, and image characteristics within your collection), and such characteristics may be considered biometric identifiers or biometric information under certain US laws or other applicable privacy laws. When you choose to use these features, Adobe is acting only on your instructions in order to facilitate the service requested by you. These features are off by default and, should you choose to enable them, you can always disable these features. Where we process biometric identifiers or biometric information to deliver a feature requested by you, we delete this information once you turn off the feature, unless otherwise specified in the Software or Services.
+Visiting our Physical Offices
+When you visit an Adobe office, we will collect Identifiers and Contact information such as your name, company name, and email address; and Audio, electronic, visual, or similar information including facial images and voice information such as from CCTV video or voice recordings and photos.

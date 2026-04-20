@@ -1,0 +1,17 @@
+{
+  "byte_length": 317829,
+  "company_slug": "amazon",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:08:34.865198+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "policy_region": "AWS",
+  "sha256": "fe8a7dc9fce34ca945b14f20519bf94d1819a1b27464a143709a4599756e1e13",
+  "snapshot_date": "2025-11-01",
+  "source": "wayback",
+  "text_length": 49835,
+  "url": "https://aws.amazon.com/privacy/",
+  "wayback_digest": "V6QHCRQC7CIQQVG4ASUGG2GBTATRXH24",
+  "wayback_timestamp": "20251101021328"
+}

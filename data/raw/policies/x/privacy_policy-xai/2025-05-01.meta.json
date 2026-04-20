@@ -1,0 +1,17 @@
+{
+  "byte_length": 93061,
+  "company_slug": "x",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:16:28.177261+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "xAI (Grok) Privacy Policy",
+  "policy_region": "xAI",
+  "sha256": "a905a57fd928fcece7cc9f6c5485f9c66c27b321d632e21ff29a704372d7a6e0",
+  "snapshot_date": "2025-05-01",
+  "source": "wayback",
+  "text_length": 14268,
+  "url": "https://x.ai/legal/privacy-policy",
+  "wayback_digest": "5AHXSM73GPAVN7IMYDIUXXVZGAKXWP26",
+  "wayback_timestamp": "20250501230640"
+}

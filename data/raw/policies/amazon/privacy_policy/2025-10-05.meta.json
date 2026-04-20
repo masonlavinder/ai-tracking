@@ -1,0 +1,17 @@
+{
+  "byte_length": 374837,
+  "company_slug": "amazon",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:06:45.513338+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Amazon Privacy Notice",
+  "policy_region": null,
+  "sha256": "db7c6b1376430fb121d9c264135a67e8913275a106d9c88b685f2141caec4be0",
+  "snapshot_date": "2025-10-05",
+  "source": "wayback",
+  "text_length": 23655,
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "wayback_digest": "CT7RXYPHNY5NS6X6U26J67TQDKF4MW2U",
+  "wayback_timestamp": "20251005100220"
+}

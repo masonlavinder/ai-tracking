@@ -1,0 +1,17 @@
+{
+  "byte_length": 197891,
+  "company_slug": "linkedin",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-20T02:18:17.091367+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "LinkedIn Privacy Policy",
+  "policy_region": null,
+  "sha256": "2c02146e1cce36c059e0e3ad958cb73c0b6cc2c5846ea13b175a03551c5601d9",
+  "snapshot_date": "2025-01-01",
+  "source": "wayback",
+  "text_length": 28423,
+  "url": "https://www.linkedin.com/legal/privacy-policy",
+  "wayback_digest": "Z3EC222QFNNRRCMFRLS2LPHDKRV6MV2X",
+  "wayback_timestamp": "20250101143619"
+}
