@@ -20,6 +20,7 @@ from pathlib import Path
 from typing import Iterator
 
 from .companies import get_company
+from .language import is_probably_english
 from .models import ChangeRecord, ParagraphChange
 from .paragraphs import split_paragraphs
 
@@ -51,10 +52,32 @@ def iter_policy_dirs(policies_root: Path) -> Iterator[Path]:
             yield policy_dir
 
 
+def _english_snapshots(policy_dir: Path) -> list[Path]:
+    """Return this policy's `.txt` snapshots, filtering out non-English ones.
+
+    Wayback sometimes served localized pages (Meta in Finnish or Urdu on
+    certain capture dates). Including those produces huge bogus diffs
+    when the language flips back. The English-ish heuristic here skips
+    such captures so the remaining chronology diffs cleanly.
+    """
+    kept: list[Path] = []
+    for txt in sorted(policy_dir.glob("*.txt")):
+        try:
+            text = txt.read_text(encoding="utf-8", errors="replace")
+        except OSError as err:
+            log.warning("Unable to read %s: %s", txt, err)
+            continue
+        if not is_probably_english(text):
+            log.info("Skipping non-English snapshot %s", txt)
+            continue
+        kept.append(txt)
+    return kept
+
+
 def iter_snapshot_pairs(policies_root: Path) -> Iterator[SnapshotPair]:
-    """Yield consecutive snapshot pairs across all policy directories."""
+    """Yield consecutive English snapshot pairs across all policy directories."""
     for policy_dir in iter_policy_dirs(policies_root):
-        txt_files = sorted(policy_dir.glob("*.txt"))
+        txt_files = _english_snapshots(policy_dir)
         if len(txt_files) < 2:
             continue
         slug = policy_dir.parent.name

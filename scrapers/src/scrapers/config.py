@@ -75,13 +75,16 @@ COMPANIES: list[Company] = [
         ticker="META",
         sec_cik="0001326801",
         policy_urls=[
+            # ?locale=en_US pins Facebook to the English version regardless
+            # of IP geolocation; otherwise CI runners in various regions
+            # have captured Finnish, Urdu, and Spanish copies.
             PolicyURL(
-                url="https://www.facebook.com/privacy/policy/",
+                url="https://www.facebook.com/privacy/policy/?locale=en_US",
                 kind="privacy_policy",
                 label="Meta Privacy Policy",
             ),
             PolicyURL(
-                url="https://www.facebook.com/privacy/genai/",
+                url="https://www.facebook.com/privacy/genai/?locale=en_US",
                 kind="ai_terms",
                 label="Meta Generative AI Terms",
             ),

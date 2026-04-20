@@ -18,21 +18,21 @@
         }
       ],
       "recent_change_ids": [
-        "meta-ai_terms-2026-03-07-2026-04-03",
-        "meta-privacy_policy-2026-03-01-2026-04-01",
-        "meta-privacy_policy-2026-02-01-2026-03-01",
-        "meta-ai_terms-2026-01-07-2026-02-24",
-        "meta-privacy_policy-2026-01-01-2026-02-01",
-        "meta-privacy_policy-2025-12-01-2026-01-01",
+        "meta-privacy_policy-2025-12-01-2026-02-01",
         "meta-privacy_policy-2025-11-01-2025-12-01",
         "meta-privacy_policy-2025-10-01-2025-11-01",
         "meta-privacy_policy-2025-06-01-2025-07-02",
-        "meta-ai_terms-2025-04-05-2025-05-03"
+        "meta-ai_terms-2025-04-05-2025-05-03",
+        "meta-privacy_policy-2024-11-01-2024-12-01",
+        "meta-privacy_policy-2024-09-01-2024-11-01",
+        "meta-privacy_policy-2024-08-01-2024-09-01",
+        "meta-ai_terms-2024-08-04-2024-09-01",
+        "meta-ai_terms-2024-06-01-2024-07-01"
       ],
       "sec_cik": "0001326801",
       "slug": "meta",
       "ticker": "META",
-      "total_changes": 25
+      "total_changes": 10
     },
     {
       "latest_snapshot_date": "2026-04-02",
@@ -86,8 +86,6 @@
         }
       ],
       "recent_change_ids": [
-        "anthropic-terms_of_service-2026-04-02-2026-04-19",
-        "anthropic-privacy_policy-2026-04-03-2026-04-19",
         "anthropic-terms_of_service-2026-02-03-2026-03-03",
         "anthropic-terms_of_service-2026-01-01-2026-02-03",
         "anthropic-privacy_policy-2026-01-01-2026-02-03",
@@ -95,12 +93,14 @@
         "anthropic-privacy_policy-2025-11-01-2025-12-04",
         "anthropic-terms_of_service-2025-10-01-2025-11-01",
         "anthropic-privacy_policy-2025-10-01-2025-11-01",
-        "anthropic-terms_of_service-2025-09-02-2025-10-01"
+        "anthropic-terms_of_service-2025-09-02-2025-10-01",
+        "anthropic-privacy_policy-2025-09-01-2025-10-01",
+        "anthropic-terms_of_service-2025-08-01-2025-09-02"
       ],
       "sec_cik": null,
       "slug": "anthropic",
       "ticker": null,
-      "total_changes": 30
+      "total_changes": 28
     },
     {
       "latest_snapshot_date": "2026-04-19",
@@ -134,7 +134,7 @@
       "sec_cik": "0001652044",
       "slug": "google",
       "ticker": "GOOGL",
-      "total_changes": 14
+      "total_changes": 11
     },
     {
       "latest_snapshot_date": "2026-04-19",
@@ -171,5 +171,5 @@
       "total_changes": 16
     }
   ],
-  "generated_at": "2026-04-20T00:27:01.819135+00:00"
+  "generated_at": "2026-04-20T00:36:15.075074+00:00"
 }

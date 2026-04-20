@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [
+    "- Texas Data Privacy and Security Act (TDPSA)",
+    "- Montana Consumer Data Privacy Act (MTCDPA)"
+  ],
+  "company_name": "Google",
+  "company_slug": "google",
+  "date": "2024-10-01",
+  "from_date": "2024-08-01",
+  "id": "google-privacy_policy-2024-08-01-2024-10-01",
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Google Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 0,
+    "heading_keyword": 1,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-10-01",
+  "url": "https://policies.google.com/privacy"
+}
