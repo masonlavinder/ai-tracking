@@ -8,7 +8,7 @@
   "date": "2025-03-02",
   "from_date": "2025-02-01",
   "id": "anthropic-privacy_policy-2025-02-01-2025-03-02",
-  "llm_summary": null,
+  "llm_summary": "Anthropic's privacy policy now includes a clarification that they may process personal data of non-users when developing their language models. Additionally, the policy specifies that if users integrate third-party applications with their services, any personal data or external content included in user inputs may be collected and reproduced in outputs. There is also an expansion on the purposes for which personal data may be shared with service providers and business partners.",
   "modified_paragraphs": [
     {
       "after": "For information about how we collect and use personal data to develop our language models that power our Services, when we may receive and process personal data of non-users, and your choices with respect to that information, please see our Notice on Model Training.",

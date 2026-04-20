@@ -11,7 +11,7 @@
   "date": "2025-09-01",
   "from_date": "2025-08-01",
   "id": "anthropic-privacy_policy-2025-08-01-2025-09-01",
-  "llm_summary": null,
+  "llm_summary": "The Anthropic Privacy Policy has been updated to clarify that users can opt out of having their Inputs and Outputs used for model training through their account settings. Additionally, the policy now includes a reference to a Non-User Privacy Policy that details how personal data from third-party sources may be used in AI training. The effective date of the updated policy is specified as September 28, 2025, or when acknowledged by users.",
   "modified_paragraphs": [
     {
       "after": "- Inputs and Outputs: You are able to interact with our Services in a variety of formats, including but not limited to chat, coding, and agentic sessions (\u201cPrompts\u201d or \"Inputs\"), which generate responses and actions (\u201cOutputs\u201d) based on your Inputs. This includes third-party applications you choose to integrate with our Services. If you include personal data or reference external content in your Inputs, we will collect that information and this information may be reproduced in your Outputs.",

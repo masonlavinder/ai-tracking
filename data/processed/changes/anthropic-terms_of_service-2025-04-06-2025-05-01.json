@@ -9,7 +9,7 @@
   "date": "2025-05-01",
   "from_date": "2025-04-06",
   "id": "anthropic-terms_of_service-2025-04-06-2025-05-01",
-  "llm_summary": null,
+  "llm_summary": "The updated terms clarify that Anthropic is not responsible for Third-Party Content provided by others and outlines the process for reporting any such content that may violate their policies. They also specify their right to remove Third-Party Content that infringes on rights or could cause harm. Additionally, some previous language about updates and content removal requests has been removed.",
   "modified_paragraphs": [
     {
       "after": "Our Services may use or be used in connection with third-party content (\"Third-Party Content\"), services, or integrations. We do not control or accept responsibility for any loss or damage that may arise from your use of any Third-Party Content, services, and integrations, for which we make no representations or warranties. Your use of any Third-Party Content, services, and integrations is at your own risk and subject to any terms, conditions, or policies (including privacy policies) applicable to such third-party content, services, and integrations.",

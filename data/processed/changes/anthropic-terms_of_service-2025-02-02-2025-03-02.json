@@ -7,7 +7,7 @@
   "date": "2025-03-02",
   "from_date": "2025-02-02",
   "id": "anthropic-terms_of_service-2025-02-02-2025-03-02",
-  "llm_summary": null,
+  "llm_summary": "The Anthropic Consumer Terms document was updated to replace the term \"Prompts\" with \"Inputs\" throughout, clarifying the types of user submissions. It also added a process for users to request the removal of content from the Materials and expanded the responsibilities of users regarding their Inputs, including the ability to share them with third parties. Additionally, the limitations section now refers to \"Inputs\" instead of \"Prompts.\"",
   "modified_paragraphs": [
     {
       "after": "You may access and use our Services only in compliance with our Terms, including our Acceptable Use Policy, the policy governing the countries and regions Anthropic currently supports (\u201cSupported Regions Policy\u201d), and any guidelines or supplemental terms we may post on the Services (the \u201cPermitted Use\u201d). You are responsible for all activity under the account through which you access the Services.",

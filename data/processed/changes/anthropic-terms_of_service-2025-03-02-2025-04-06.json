@@ -29,7 +29,7 @@
   "date": "2025-04-06",
   "from_date": "2025-03-02",
   "id": "anthropic-terms_of_service-2025-03-02-2025-04-06",
-  "llm_summary": null,
+  "llm_summary": "The Anthropic Consumer Terms have been updated to clarify that users must be at least 18 years old or the minimum age required by their location to use the services. Additionally, the terms now specify that users may incur additional fees for services and that they are responsible for all activity under their accounts. Other changes include a more explicit disclaimer of liability and a requirement for users to indemnify Anthropic for certain breaches.",
   "modified_paragraphs": [
     {
       "after": "Welcome to Anthropic! Before you access our services, please read these Terms of Service.",

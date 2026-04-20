@@ -5,7 +5,7 @@
   "date": "2025-03-08",
   "from_date": "2025-02-01",
   "id": "openai-privacy_policy-2025-02-01-2025-03-08",
-  "llm_summary": null,
+  "llm_summary": "The OpenAI Privacy Policy underwent a revision where several sections, including those on Account Information, User Content, Communication Information, Other Information You Provide, Log Data, Usage Data, Device Information, and Location Information, were modified. However, the changes appear to be purely editorial, with no substantive alterations to the content or meaning of the policy. Overall, there are no new implications for users regarding their privacy or data handling practices.",
   "modified_paragraphs": [
     {
       "after": "- Account Information: When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, \u201cAccount Information\u201d).",

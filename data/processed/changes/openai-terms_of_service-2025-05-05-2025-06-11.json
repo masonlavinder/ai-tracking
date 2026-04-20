@@ -5,7 +5,7 @@
   "date": "2025-06-11",
   "from_date": "2025-05-05",
   "id": "openai-terms_of_service-2025-05-05-2025-06-11",
-  "llm_summary": null,
+  "llm_summary": "The reference to the Help Center article for opting out of content usage has been simplified to just \"this article.\" The content and implications of the opt-out process remain the same, but the wording has been streamlined. No new information or options have been added regarding the opt-out mechanism.",
   "modified_paragraphs": [
     {
       "after": "Opt out. If you do not want us to use your Content to train our models, you can opt out by following the instructions in this article. Please note that in some cases this may limit the ability of our Services to better address your specific use case.",
