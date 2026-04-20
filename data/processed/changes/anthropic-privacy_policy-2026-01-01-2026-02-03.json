@@ -5,7 +5,7 @@
   "date": "2026-02-03",
   "from_date": "2026-01-01",
   "id": "anthropic-privacy_policy-2026-01-01-2026-02-03",
-  "llm_summary": null,
+  "llm_summary": "The privacy policy now includes references to Brazil and the Republic of Korea in the same section, indicating that residents of these countries should read the relevant Regional Supplemental Disclosures. Additionally, it specifies that residents of Washington or states with similar consumer health data laws should refer to the Consumer Health Data Privacy Policy if they use third-party health applications with Claude. The section numbers for the supplemental disclosures have been updated for clarity.",
   "modified_paragraphs": [
     {
       "after": "If you are located in Canada, Brazil, or the Republic of Korea, please read the relevant Regional Supplemental Disclosure which applies to you.",

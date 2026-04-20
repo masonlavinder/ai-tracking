@@ -13,7 +13,7 @@
   "date": "2025-09-02",
   "from_date": "2025-08-01",
   "id": "anthropic-terms_of_service-2025-08-01-2025-09-02",
-  "llm_summary": null,
+  "llm_summary": "The Anthropic Consumer Terms document now includes a note about the effective date of the policy and specifies additional cancellation rights for residents of Brazil, Mexico, South Korea, and Taiwan. It also clarifies the conditions under which user materials may be used for model training, including an opt-out mechanism, and removes previous language regarding the use of feedback and flagged materials for safety reviews.",
   "modified_paragraphs": [
     {
       "after": "Our use of Materials. We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings. Even if you opt out, we will use Materials for model training when: (1) you provide Feedback to us regarding any Materials, or (2) your Materials are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance our safety research.",

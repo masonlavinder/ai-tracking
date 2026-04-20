@@ -28,7 +28,7 @@
   "date": "2026-02-03",
   "from_date": "2026-01-01",
   "id": "anthropic-terms_of_service-2026-01-01-2026-02-03",
-  "llm_summary": null,
+  "llm_summary": "The Anthropic Consumer Terms were updated to clarify the terms of service, including the minimum age requirement for users and the responsibilities associated with account management. New sections were added regarding additional fees and liability limitations, while some existing paragraphs were removed or modified for clarity. Overall, the document has been streamlined and updated to reflect changes in service offerings and legal language.",
   "modified_paragraphs": [
     {
       "after": "Welcome to Anthropic! Before you access our services, please read these Terms of Service.",

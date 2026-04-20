@@ -5,7 +5,7 @@
   "date": "2026-04-19",
   "from_date": "2026-04-01",
   "id": "google-privacy_policy-2026-04-01-2026-04-19",
-  "llm_summary": null,
+  "llm_summary": "The Google Privacy Policy was updated to clarify language regarding user activity controls and the linking of data across services. Specific phrases were adjusted for clarity, such as changing \"Google Analytics\" to \"ad and analytics services\" and refining the description of how user activity is saved and used. Additionally, the wording around consent for processing health information was slightly modified for precision.",
   "modified_paragraphs": [
     {
       "after": "You can visit your Google Account to find and manage activity information that\u2019s saved by your activity controls.",
