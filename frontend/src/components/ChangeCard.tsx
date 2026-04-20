@@ -2,6 +2,7 @@
 
 import { Link } from "react-router-dom";
 import type { ChangeSummary } from "../lib/types";
+import { ScoreBadge } from "./ScoreBadge";
 import { TagBadge } from "./TagBadge";
 
 interface Props {
@@ -30,12 +31,7 @@ export function ChangeCard({ change, hideCompany = false }: Props) {
           </div>
         </div>
         <div className="flex flex-col items-end gap-2">
-          <span
-            className="rounded-md bg-slate-900 px-2 py-0.5 text-xs font-semibold text-white"
-            title="Significance score"
-          >
-            Score {change.score}
-          </span>
+          <ScoreBadge score={change.score} />
           <div className="text-xs text-slate-500">
             +{change.added_count} ~{change.modified_count} −{change.removed_count}
           </div>

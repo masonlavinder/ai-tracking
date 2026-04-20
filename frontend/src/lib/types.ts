@@ -53,6 +53,8 @@ export interface CompanySummary {
   name: string;
   ticker: string | null;
   sec_cik: string | null;
+  homepage_url: string | null;
+  stock_url: string | null;
   latest_snapshot_date: string | null;
   total_changes: number;
   recent_change_ids: string[];

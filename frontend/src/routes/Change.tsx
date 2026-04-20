@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { DiffViewer } from "../components/DiffViewer";
+import { ScoreBadge } from "../components/ScoreBadge";
 import { TagBadge } from "../components/TagBadge";
 import { loadChangeDetail } from "../lib/data";
 import type { ChangeDetail } from "../lib/types";
@@ -95,10 +96,8 @@ export function Change() {
           Significance score
         </h2>
         <div className="mt-2 rounded-md border border-slate-200 bg-white p-4 text-sm">
-          <div className="text-lg font-semibold text-slate-900">
-            {change.score} / 10
-          </div>
-          <ul className="mt-2 space-y-1 text-slate-700">
+          <ScoreBadge score={change.score} outOf={10} size="lg" showLabel />
+          <ul className="mt-3 space-y-1 text-slate-700">
             {Object.entries(SCORE_ROW_LABELS).map(([key, label]) => {
               const value =
                 (change.score_breakdown as unknown as Record<string, number>)[

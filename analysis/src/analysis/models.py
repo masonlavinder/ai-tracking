@@ -98,6 +98,8 @@ class CompanySummary(BaseModel):
     name: str
     ticker: str | None
     sec_cik: str | None
+    homepage_url: str | None = None
+    stock_url: str | None = None
     latest_snapshot_date: str | None
     total_changes: int
     recent_change_ids: list[str] = Field(default_factory=list)

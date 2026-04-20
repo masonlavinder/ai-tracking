@@ -20,7 +20,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from .classify import classify_all, load_rules
-from .companies import COMPANIES
+from .companies import COMPANIES, _stock_url
 from .diff import diff_all, iter_policy_dirs
 from .models import ChangeRecord, ChangeSummary, CompanySummary
 from .score import ScoreBreakdown, score_all
@@ -106,6 +106,8 @@ def _build_company_summaries(
                 name=company.name,
                 ticker=company.ticker,
                 sec_cik=company.sec_cik,
+                homepage_url=company.homepage_url,
+                stock_url=_stock_url(company.ticker),
                 latest_snapshot_date=_latest_snapshot_date(policies_root, company.slug),
                 total_changes=len(company_changes),
                 recent_change_ids=[

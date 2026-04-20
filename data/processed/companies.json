@@ -1,6 +1,7 @@
 {
   "companies": [
     {
+      "homepage_url": "https://about.meta.com/",
       "latest_snapshot_date": "2026-04-03",
       "name": "Meta",
       "policies": [
@@ -31,10 +32,12 @@
       ],
       "sec_cik": "0001326801",
       "slug": "meta",
+      "stock_url": "https://finance.yahoo.com/quote/META",
       "ticker": "META",
       "total_changes": 10
     },
     {
+      "homepage_url": "https://openai.com/",
       "latest_snapshot_date": "2026-04-02",
       "name": "OpenAI",
       "policies": [
@@ -65,10 +68,12 @@
       ],
       "sec_cik": null,
       "slug": "openai",
+      "stock_url": null,
       "ticker": null,
       "total_changes": 12
     },
     {
+      "homepage_url": "https://www.anthropic.com/",
       "latest_snapshot_date": "2026-04-19",
       "name": "Anthropic",
       "policies": [
@@ -99,10 +104,12 @@
       ],
       "sec_cik": null,
       "slug": "anthropic",
+      "stock_url": null,
       "ticker": null,
       "total_changes": 28
     },
     {
+      "homepage_url": "https://about.google/",
       "latest_snapshot_date": "2026-04-19",
       "name": "Google",
       "policies": [
@@ -133,10 +140,12 @@
       ],
       "sec_cik": "0001652044",
       "slug": "google",
+      "stock_url": "https://finance.yahoo.com/quote/GOOGL",
       "ticker": "GOOGL",
       "total_changes": 11
     },
     {
+      "homepage_url": "https://www.microsoft.com/about",
       "latest_snapshot_date": "2026-04-19",
       "name": "Microsoft",
       "policies": [
@@ -167,9 +176,10 @@
       ],
       "sec_cik": "0000789019",
       "slug": "microsoft",
+      "stock_url": "https://finance.yahoo.com/quote/MSFT",
       "ticker": "MSFT",
       "total_changes": 16
     }
   ],
-  "generated_at": "2026-04-20T00:36:15.075074+00:00"
+  "generated_at": "2026-04-20T00:42:18.882423+00:00"
 }
