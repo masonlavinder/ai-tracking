@@ -1,0 +1,17 @@
+{
+  "byte_length": 151810,
+  "company_slug": "tiktok",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-22T01:39:53.073498+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (US)",
+  "policy_region": "US",
+  "sha256": "b511cbf290bd2eca000ce6c4c6a923c565713466fb464bc694ebaa1c0555fd30",
+  "snapshot_date": "2024-06-01",
+  "source": "wayback",
+  "text_length": 27504,
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
+  "wayback_digest": "MV3VSUQPTVTIK4G4HAR2FOMSJXSCI3J3",
+  "wayback_timestamp": "20240601001327"
+}

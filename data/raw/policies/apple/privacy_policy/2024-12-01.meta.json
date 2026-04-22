@@ -1,0 +1,17 @@
+{
+  "byte_length": 141673,
+  "company_slug": "apple",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-22T01:36:19.823742+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Apple Privacy Policy",
+  "policy_region": null,
+  "sha256": "bce88e9eef0f16162ff967a8d956b2d988cbe954dec8ed7ef29ab61e1169b7d1",
+  "snapshot_date": "2024-12-01",
+  "source": "wayback",
+  "text_length": 27081,
+  "url": "https://www.apple.com/legal/privacy/en-ww/",
+  "wayback_digest": "RAO34W4S3ZCS22FN4KR47QBBKGDQK7UJ",
+  "wayback_timestamp": "20241201051718"
+}
