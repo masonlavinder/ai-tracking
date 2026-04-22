@@ -7,7 +7,7 @@
   "date": "2025-02-01",
   "from_date": "2025-01-01",
   "id": "apple-privacy_policy-2025-01-01-2025-02-01",
-  "llm_summary": null,
+  "llm_summary": "Apple's updated privacy policy now includes information about the use of Applebot, a web crawler that collects publicly available information for AI model training, while emphasizing that personal data from Apple users is not used for this purpose. Additionally, the policy introduces an opt-out mechanism for users who wish to prevent their data from being processed, directing them to the Apple Intelligence Privacy Inquiries form for more details. No other paragraphs were modified or removed.",
   "modified_paragraphs": [],
   "policy_kind": "privacy_policy",
   "policy_label": "Apple Privacy Policy",

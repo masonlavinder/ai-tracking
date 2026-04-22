@@ -61,7 +61,7 @@
   "date": "2025-01-01",
   "from_date": "2024-12-01",
   "id": "anthropic-privacy_policy-2024-12-01-2025-01-01",
-  "llm_summary": null,
+  "llm_summary": "Anthropic's updated Privacy Policy includes new sections detailing how personal data is collected and used for developing their language models, along with a separate Notice on Model Training. The policy also clarifies the categories of third parties with whom personal data may be shared and updates the section numbers for specific regional provisions. Additionally, some language has been refined for clarity, but no substantive changes affecting user rights or data handling practices were made.",
   "modified_paragraphs": [
     {
       "after": "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic acts as a data controller\u2014for example, when you interact with Claude.ai or other products as a consumer for personal use (\"Services\") or when Anthropic operates and provides our commercial customers and their end users with access to our commercial products, such as the Claude Team plan (\u201cCommercial Services\u201d).",

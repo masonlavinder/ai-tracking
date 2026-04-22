@@ -41,7 +41,7 @@
   "date": "2024-11-09",
   "from_date": "2024-10-01",
   "id": "openai-privacy_policy-2024-10-01-2024-11-09",
-  "llm_summary": null,
+  "llm_summary": "OpenAI's updated Privacy Policy clarifies that it does not apply to data processed on behalf of customers using its business offerings, such as the API. The policy now uses the term \"Personal Data\" instead of \"Personal Information\" and provides more detailed categories of data collected, including account information, user content, and technical information. Additionally, it specifies that personal data may be shared with vendors and service providers for operational purposes.",
   "modified_paragraphs": [
     {
       "after": "We at OpenAI OpCo, LLC (together with our affiliates, \u201cOpenAI\u201d, \u201cwe\u201d, \u201cour\u201d or \u201cus\u201d) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use our website, applications, and services (collectively, \u201cServices\u201d).",
