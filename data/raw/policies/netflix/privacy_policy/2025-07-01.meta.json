@@ -1,0 +1,17 @@
+{
+  "byte_length": 185840,
+  "company_slug": "netflix",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-22T13:07:58.926864+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Netflix Privacy Statement",
+  "policy_region": null,
+  "sha256": "814610a6dbd144239c6d5c7ac361ac6138a6095677e37ee904e23a96cef2729c",
+  "snapshot_date": "2025-07-01",
+  "source": "wayback",
+  "text_length": 69975,
+  "url": "https://help.netflix.com/legal/privacy",
+  "wayback_digest": "KEUDFSQGDJ4FQWOULB5GLXKYEATBFLDC",
+  "wayback_timestamp": "20250701234433"
+}

@@ -1,0 +1,201 @@
+Last updated on March 28, 2024
+Last updated on March 28, 2024
+This Privacy Statement applies to PayPal and Xoom accounts and aims to provide you with information regarding our use of your Personal Information when you visit our website, apply for, or use our services, like Braintree and Zettle (collectively, the “Services”). We encourage you to read this Privacy Statement and to use it to help you make informed decisions.
+Certain capitalized terms that are not otherwise defined in the Statement are explained in the Definitions section below.
+We revise this Privacy Statement from time to time to reflect changes to our business, Services, or applicable laws. If the revised version requires notice in accordance with applicable law, we will provide you with 30 days prior notice by posting notice of the change on the "Policy Updates" or "Privacy Statement" page of our website, otherwise the revised Privacy Statement will be effective as of the published effective date. If you are a new User or are receiving this Privacy Statement for the first time and there is an upcoming change described on the Policy Updates or Privacy Statement page at the time you receive this Privacy Statement, such upcoming change will apply to you on the indicated effective date.
+Our Services may be accessed by individuals without a PayPal or Xoom account. We will collect Personal Information from you even if you are a non-account holder when you use our Services, such as when you use our Pay Without a PayPal account, use Unbranded Payment Services (e.g., Braintree and Zettle), use a Fastlane profile, or when a non-accountholder receives a payment through the Visa+ service from a PayPal account holder (“Recipient”). If you Pay Without a PayPal account, we may link your transaction information with your PayPal account, if you have one at the time you use the Service without logging in, or if you create a PayPal account later.
+With a Fastlane (formerly known as "Connect”) profile, individuals can store their payment methods and Personal Information with PayPal so that they can complete the checkout process faster at participating Partners and Merchants without having to manually input payment method details and Personal Information each time they checkout ("Fastlane").
+When you create a Fastlane profile, you are agreeing to let PayPal store your Personal Information, including your name, email, phone number, address information, as well as billing information and payment method details, and pre-populate that information in the checkout flows of participating Partners and Merchants so that you can complete purchases faster by not having to manually input the information. We will also collect transaction data related to your purchases when you use Fastlane.
+The Visa+ Service enables eligible customers with a PayPal account to send and receive money to and from Venmo and third-party Visa+-enabled digital wallets (“Visa+”).
+When you shop on Partner and Merchant sites, the partner or merchant may disclose Personal Information with PayPal that we will use in accordance with this Privacy Statement and the relevant PayPal user agreement.
+Categories of Personal Information collected from you, including from your interactions with us and use of the Services:
+We may also obtain the above categories of Personal Information from the following categories of sources:
+We may process your Personal Information for a variety of reasons, including to provide our Services, for security and fraud prevention and to comply with law. We may also use personal data to participate in certain features, that while not necessary for use of the Services, may be of interest to you, such as syncing your contact list to your account, personalize content and offers, targeted advertising, or connecting to a third-party platform. Some of these features may require your consent.
+We may collect Personal Information to:
+We do not sell Personal Information to third parties for money or share your Personal Information for cross context behavioral advertising, including any Sensitive Personal Information.
+However, we will disclose your Personal Information with third parties to help us provide Services, protect our customers from risk and fraud, market our products, and comply with legal obligations.
+In addition, we may disclose Personal Information with:
+If you have a business profile, you can choose to display other information to other Users, such as your street address, phone number, email and website, in accordance with your business profile settings.
+We may disclose your sensitive personal information as appropriate to carry out legitimate business activities allowed by law.
+We retain Personal Information for as long as needed or permitted in context of the purpose for which it was collected and consistent with applicable law.
+The criteria used to determine our retention period is as follows:
+We retain biometric data for as long as needed or permitted given the purpose for which it was collected and no more than 3 years after your account closes, unless otherwise required by applicable law.
+When you interact with our Services, open email we send you, or visit a third-party website for which we provide Services, we and our partners use cookies and other tracking technologies such as pixel tags, web beacons, and widgets (collectively, “Cookies”) to recognize you as a user, customize your online experiences and online content, including to serve you interest-based advertising, perform analytics; mitigate risk and prevent potential fraud, and promote trust and safety across our Services.
+We use Cookies to collect your device information, internet activity information, and inferences as described above.
+You can disable or decline some cookies for our Services. But, since some parts of our service rely on cookies to work, those services could become difficult or impossible to use.
+Some web browsers have an optional setting called “Do Not Track” (DNT) that lets you opt-out of being tracked by advertisers and some third parties. Because many of our services won’t function without tracking data, we do not respond to DNT settings.
+If you want to know more about how we use cookies, please review our Statement on Cookies and Tracking Technologies to learn more about our use of Cookies. To learn how to opt-out of this kind of tracking technology, visit About Ads.
+Your rights to access, correction, deletion, and restriction to use or share your Personal Information.
+Under applicable data protection law, you have certain rights to how your Personal Information is collected, stored, used and shared.
+We recognize the importance of your ability to control the use of your Personal Information and provide several ways for you to exercise your rights to access (right to know), correction, deletion (erasure), and to restrict certain information (right to opt out of sharing and right to limit use and disclosure of sensitive personal information).
+We will not deny you services, charge you different prices, or provide you with a different level of service solely for exercising your privacy rights. If you are a California resident, learn more about how we have handled your Privacy Rights.
+How do you exercise your rights?
+If you, or an authorized agent, want to exercise any of your rights relating to your Personal Information, contact us or submit your request from your account settings. If you have a PayPal account, you can exercise your privacy rights by accessing “Data and Privacy” from account settings in the PayPal app.
+If you, or an authorized agent, want to exercise any of your rights relating to your Personal Information in your Fastlane profile, contact us or submit your request from your Fastlane profile management portal.
+Even if you do not have a PayPal account (for example, where you use Pay without a PayPal account), you can submit a request for access, correction, or deletion of your Personal Information by contacting us at the number provided in our Contact Information section.
+If you or an authorized agent submit a request, we’ll first need to verify who you are before we can respond to your request. We may ask you to provide us with information necessary to reasonably verify your identity before responding to your request. We will compare the information you submit against our internal business records to verify your identity. If we can’t verify your identity, we will not be able to fulfill your request. If we deny your request in whole or in part, you may have the right to appeal the decision. In such circumstances, we will provide you with information regarding the appeals process.
+Your right to request a copy of the Personal Information. If you want to make a request to know about the data we’ve collected about you in the past 12 months, you have choices:
+Your right to correct your Personal Information:
+Your right to delete your Personal Information:
+If you close your PayPal or Xoom account or Fastlane profile or request that we delete Personal Information, we still need to keep some Personal Information as explained in How long does PayPal store your Personal Information section so we can:
+California also offers a right to opt out of “Selling” and “Sharing” Personal Information. Global Privacy Control setting is a browser setting that notifies website owners of users' privacy preferences regarding selling or sharing their personal information. PayPal does not respond to these settings because we do not sell or share data. Some Personal Information collected, processed, or disclosed by a financial institution are subject to federal laws, such as the Gramm-Leach-Bliley Act. Consumers may read our Consumer Privacy Notice for more information about their rights under US federal law.
+Understanding your choices
+You can control how Personal Information is collected or disclosed, as well as how we communicate with you. Here are some of the ways you can customize your choices.
+Choose how we collect Personal Information
+You may choose to limit the Personal Information you provide when our apps or Services request it. To help make choices that are right for you, it’s important to understand that Personal Information helps us provide a richer, more personalized experience for you. Also, some Personal Information is required for our Services to function at all.
+For example, sharing your contacts helps make it easier for you to find the people you want to send money to. If you choose not to share your contacts with us, you can still use our mobile apps, but some actions may not be as fast or easy as it would be if shared your contacts. Another example is creating an account or Fastlane profile with us. If you choose not to provide information that is required for an account or Fastlane profile to function, like your name and email address, we will not be able to create an account or Fastlane profile for you.
+Choose how linked accounts collect and use Personal Information
+If you link your account to a third-party service, you may be able to manage how your Personal Information is collected, used, and shared by them. Read the third parties’ privacy policies to see the choices they offer you.
+You can control which third-party services you link to your account and what Personal Information they can collect about you. For example, to manage the permissions, go to the Security settings in your PayPal account.
+Choose what we disclose with other Users
+Some Personal Information may be seen by other Users. You may be able to adjust or turn off this setting in the privacy section in your account settings.
+Choose how we communicate with you
+Your choices about how we communicate with you differ depending on the purpose of the message and how it is delivered. Some messages are considered optional, and some are necessary for you to manage your accounts or Fastlane profile with us. We use email, text messages, push notifications on your mobile device, and even phone calls or paper mail depending on the situation and your preferences.
+You can click the unsubscribe link in a PayPal or Fastlane marketing email, opt out of a text message by replying “STOP,” or turn off notifications on your device. You can also change your account’s notification settings or the notification preferences on your device.
+You won’t be able to opt out of messages that are considered necessary for the Services, such as digital receipts and emails that alert you to changes in your account or Fastlane profile's status. You may be able to decide how we send those messages, such as by email, phone, text message, or a notification on your mobile device.
+We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your Personal Information against loss, misuse, unauthorized access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls. While we are dedicated to securing our systems and Services, you are responsible for securing and maintaining the privacy of your password(s) and account/Fastlane profile registration information and verifying that the Personal Information we maintain about you is accurate and current. We are not responsible for protecting any Personal Information that we share with a third-party based on a linked account connection that you have authorized.
+We do not knowingly collect information, including Personal Information, from children under the age of 13 or other individuals who are not legally able to use our Services. If we obtain actual knowledge that we have collected Personal Information from someone not allowed to use our Services, we will promptly delete it, unless we are legally obligated to retain such data.
+Please contact us if you believe that we have mistakenly or unintentionally collected information from someone not allowed to use our Services.
+We do not sell to third parties for money or share Personal Information of anyone under 16 years of age for cross context behavioral advertising.
+If you have questions about this Privacy Statement or your Personal Information, contact us so we can help.
+To talk about your PayPal account or Unbranded Payment Services:
+To talk about your Fastlane profile:
+Under the laws of California and certain other US states (i.e., Virginia), we are required to provide you with the following additional information about: (1) the purpose for which we use each category of “personal information” we collect; and (2) the categories of third parties to which we (a) disclose such personal information for a business purpose, (b) “share” personal information for “cross-context behavioral advertising,” and/or (c) “sell” such personal information.
+Under California law, “sharing” is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites, and “selling” is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration. We do not sell or share your Personal Information, including any Sensitive Personal Information. We also do not sell or share and have no actual knowledge that we have sold or shared any Personal Information of anyone under 16 years of age.
+For more information about each category, purpose of use, and the third parties to which we disclose information, please see the “Categories of Personal Information We Collect”, “How is Personal Information used,” and “Do We Disclose Personal Information” sections.
+Categories of Personal Information | Purpose of Collection | Categories of 3rd Parties to which PayPal discloses this Personal Information for Business Purpose |
+Identifiers |
+|
+|
+Records and Financial Information |
+|
+|
+Commercial information |
+|
+|
+Geolocation Data |
+|
+|
+Internet or network activity |
+|
+|
+Biometric |
+Authenticate you for certain actions related to your account, including to:
+|
+|
+Audio, electronic, visual, or similar information |
+|
+|
+Professional or employment information |
+|
+|
+Information about your imported contacts |
+|
+|
+Information in your PayPal or Xoom account or Fastlane profile |
+|
+|
+Information you provide when you contact us |
+|
+|
+Inferred data |
+|
+|
+Sensitive Personal Information |
+|
+|
+Characteristics of Protected Classifications |
+|
+|
+Information from your device |
+|
+|
+The following Consumer Privacy Notice applies to you if you are an individual who resides in the United States and uses PayPal Services for your own personal, family, or household purposes.
+This Consumer Privacy Notice does not apply to Unbranded Payment Services.
+Rev. January 2023
+|
+FACTS |
+WHAT DOES PAYPAL DO WITH YOUR PERSONAL INFORMATION? |
+|---|---|
+|
+Why? |
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. |
+|
+What? |
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+When you are no longer our customer, we continue to share your information as described in this notice. |
+|
+How? |
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayPal chooses to share; and whether you can limit this sharing. |
+|
+Reasons we can share your personal information |
+Does PayPal share? |
+Can you limit this sharing? |
+|---|---|---|
+|
+For our everyday business purposes – |
+Yes |
+No |
+|
+For our marketing purposes – |
+Yes |
+No |
+|
+For joint marketing with other financial companies |
+Yes |
+No |
+|
+For our affiliates’ everyday business purposes – |
+Yes |
+No |
+|
+For our affiliates’ everyday business purposes – |
+No |
+We don’t share |
+|
+For our affiliates to market to you |
+No |
+We don’t share |
+|
+For nonaffiliates to market to you |
+No |
+We don’t share |
+|
+Questions? |
+Call our customer service at 1-888-221-1161or visit us at /smarthelp/contact-us/privacy. |
+|
+Who we are | |
+|
+Who is providing this Privacy Statement? |
+This privacy notice is provided by PayPal, Inc. and is applicable to your personal U.S. PayPal and Xoom accounts, and Fastlane profile. |
+|
+What we do | |
+|
+How does PayPal protect my personal information? |
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. |
+|
+How does PayPal collect my personal information? |
+We collect your personal information, for example, when you
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. |
+|
+Why can’t I limit all sharing? |
+Federal law gives you the right to limit only
+State laws and individual companies may give you additional rights to limit sharing. See below for more information on your rights under state law. |
+|
+Definitions | |
+|
+Affiliates |
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+|
+|
+Nonaffiliates |
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+|
+|
+Joint Marketing |
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+|
+|
+Other important information | |
+|
+We may transfer personal information to other countries, for example, for customer service or to process transactions. California: The California Consumer Privacy Act of 2018 (CCPA) permits consumers who are California residents to ask businesses covered under the CCPA about personal information it has collected about the consumer, submit an access or deletion request, and opt-out of the sale of personal information, if applicable. These provisions do not apply to personal information collected, processed, shared, or disclosed by financial institutions pursuant to federal law such as the Gramm-Leach-Bliley Act. Contact us if you have questions about our privacy statement, this consumer notice, or your personal information. If your PayPal or Xoom account or Fastlane profile has a California mailing address, we will not share personal information we collect about you except to the extent permitted under California law. To talk about your PayPal account, call PayPal Customer Service at 1-888-221-1161 or visit our Customer Service web portal. To talk about your Xoom account, call Xoom Customer Service at 1-877-815-1531 or visit our Help Center web portal. To talk about your Fastlane profile, call PayPal Customer Service at 1-844-705-3555 or visit your Fastlane profile management portal. Vermont: If your PayPal or Xoom account or Fastlane profile has a Vermont mailing address, We will not disclose information about your creditworthiness to our affiliates and will not disclose your personal information, financial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authorize us to make those disclosures. Additional information concerning our privacy policies can be found at Customer Service web portal or call 1-888-221-1161 Nevada: If your PayPal or Xoom account or Fastlane profile has a Nevada mailing address, we are providing this notice pursuant to Nevada law. If you prefer not to receive marketing calls from PayPal, you may be placed on our internal Do Not Call List by calling 1-888-221-1161 or going to /smarthelp/home. For more information, you can contact PayPal at 12312 Port Grace Blvd, La Vista, NE 68128 or you can contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; telephone number: 1-702-486-3132; email: Aginfo@ag.nv.gov |

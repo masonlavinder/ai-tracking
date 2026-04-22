@@ -1,0 +1,17 @@
+{
+  "byte_length": 296030,
+  "company_slug": "pinterest",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-22T13:07:59.160611+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Pinterest Privacy Policy",
+  "policy_region": null,
+  "sha256": "9c11a5eb0a14c0d06a35c024f6655993f946a6b130f0408029a044678b5849da",
+  "snapshot_date": "2025-06-04",
+  "source": "wayback",
+  "text_length": 19683,
+  "url": "https://policy.pinterest.com/en/privacy-policy",
+  "wayback_digest": "MY7CULT36XYEET3A6ZVGNMRX3ZLCZE6S",
+  "wayback_timestamp": "20250604061949"
+}

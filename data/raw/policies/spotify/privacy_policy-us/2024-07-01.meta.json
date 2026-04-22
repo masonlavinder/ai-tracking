@@ -1,0 +1,17 @@
+{
+  "byte_length": 198920,
+  "company_slug": "spotify",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-22T13:07:07.418267+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "policy_region": "US",
+  "sha256": "11defcfadf937f94d2ed0a0c0dd4542e7e0fe64aaaaed6e821800aefa999ce78",
+  "snapshot_date": "2024-07-01",
+  "source": "wayback",
+  "text_length": 36897,
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "wayback_digest": "DXSSMO5FRDA4FTMRDJT7X5QCFNGWSIHW",
+  "wayback_timestamp": "20240701001846"
+}

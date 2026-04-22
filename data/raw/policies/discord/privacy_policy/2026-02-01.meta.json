@@ -1,0 +1,17 @@
+{
+  "byte_length": 99787,
+  "company_slug": "discord",
+  "content_type": "text/html",
+  "fetched_at": "2026-04-22T13:08:35.596036+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Discord Privacy Policy",
+  "policy_region": null,
+  "sha256": "79f69e8490200a8f1b1a28005460027616cc0eeed4b9040a5966d50a21944528",
+  "snapshot_date": "2026-02-01",
+  "source": "wayback",
+  "text_length": 17507,
+  "url": "https://discord.com/privacy",
+  "wayback_digest": "TRXFZY4WMNOEQ6RFOTMQPEWXRBMQGDIK",
+  "wayback_timestamp": "20260201010819"
+}
