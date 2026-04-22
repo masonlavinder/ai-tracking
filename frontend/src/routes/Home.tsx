@@ -2,6 +2,7 @@
 // row of company summary cards so visitors can jump straight to a company.
 
 import { useEffect, useMemo, useState } from "react";
+import { Link } from "react-router-dom";
 import { CompanyCard } from "../components/CompanyCard";
 import { Timeline } from "../components/Timeline";
 import { loadCompanies, loadTimeline } from "../lib/data";
@@ -10,6 +11,13 @@ import type {
   CompanySummary,
   TimelineFile,
 } from "../lib/types";
+
+function formatDate(iso: string | null | undefined): string {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toISOString().slice(0, 10);
+}
 
 const COMPANY_PREVIEW_LIMIT = 6;
 
@@ -83,17 +91,94 @@ export function Home() {
     );
   }
 
+  const totalChanges = timeline?.changes.length ?? 0;
+  const lastUpdated = formatDate(timeline?.generated_at);
+  const threshold = timeline ? timeline.threshold : 4;
+
   return (
     <div className="flex flex-col gap-8">
+      <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-50 via-white to-white px-6 py-10 sm:px-10 sm:py-14">
+        <div className="flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-8">
+          <svg
+            width="96"
+            height="96"
+            viewBox="0 0 64 64"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-hidden
+            className="shrink-0 drop-shadow-sm"
+          >
+            <rect width="64" height="64" rx="12" fill="#022c22" />
+            <circle cx="32" cy="32" r="24" fill="#065f46" />
+            <circle cx="32" cy="32" r="18" fill="#ecfdf5" />
+            <circle cx="32" cy="32" r="12" fill="#0b6e4f" />
+            <circle cx="32" cy="32" r="5" fill="#022c22" />
+            <circle cx="34" cy="30" r="1.4" fill="#ecfdf5" />
+          </svg>
+          <div>
+            <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
+              Nazar Watch
+            </h1>
+            <p className="mt-2 text-lg font-medium text-brand-700">
+              Watching what watches you.
+            </p>
+            <p className="mt-4 max-w-2xl text-base leading-relaxed text-slate-700">
+              Daily, automated diffs of privacy policies and terms from the
+              largest AI companies. Every material change is detected,
+              classified, scored, and dated — so you can see exactly how
+              AI data-use language shifts over time.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <section>
-        <h1 className="text-2xl font-semibold text-slate-900">
-          How policies change around AI
-        </h1>
-        <p className="mt-2 max-w-2xl text-sm text-slate-600">
-          Daily-updated diffs of privacy policies and terms from Meta, OpenAI,
-          Anthropic, Google, and Microsoft. The timeline below shows changes
-          our rule-based classifier rated significance ≥
-          {timeline ? ` ${timeline.threshold}` : " 4"}.
+        <dl className="flex flex-wrap items-baseline gap-x-10 gap-y-3 rounded-lg border border-slate-200 bg-white px-5 py-4 text-sm">
+          <div className="flex items-baseline gap-2">
+            <dt className="uppercase tracking-wide text-slate-500 text-xs">
+              Companies tracked
+            </dt>
+            <dd className="text-xl font-semibold tabular-nums text-slate-900">
+              {companies.length}
+            </dd>
+          </div>
+          <div className="flex items-baseline gap-2">
+            <dt className="uppercase tracking-wide text-slate-500 text-xs">
+              Significant changes
+            </dt>
+            <dd className="text-xl font-semibold tabular-nums text-slate-900">
+              {totalChanges}
+            </dd>
+          </div>
+          <div className="flex items-baseline gap-2">
+            <dt className="uppercase tracking-wide text-slate-500 text-xs">
+              Last updated
+            </dt>
+            <dd className="font-mono text-slate-900">{lastUpdated}</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section className="rounded-lg border border-slate-200 bg-white p-5 text-sm leading-relaxed text-slate-700">
+        <h2 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
+          How it works
+        </h2>
+        <p className="mt-2">
+          Every day we scrape the published privacy and AI-data policies of
+          each tracked company. When the text changes, a rule-based
+          classifier compares paragraphs, tags the topics involved, and
+          assigns a significance score. The timeline below lists every
+          change rated ≥ {threshold}.{" "}
+          <Link to="/about" className="font-medium text-brand-700 hover:text-brand-800 underline">
+            Read the methodology
+          </Link>{" "}
+          or subscribe to the{" "}
+          <a
+            href="feed.xml"
+            className="font-medium text-brand-700 hover:text-brand-800 underline"
+          >
+            RSS feed
+          </a>
+          .
         </p>
       </section>
 

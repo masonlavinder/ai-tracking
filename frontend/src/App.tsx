@@ -51,17 +51,15 @@ export function App() {
             xmlns="http://www.w3.org/2000/svg"
             aria-hidden
           >
-            <rect width="64" height="64" rx="12" fill="#0f172a" />
-            <path
-              d="M16 42 L32 18 L48 42 Z"
-              fill="#38bdf8"
-              stroke="#e2e8f0"
-              strokeWidth={2}
-            />
-            <circle cx="32" cy="36" r="4" fill="#0f172a" />
+            <rect width="64" height="64" rx="12" fill="#022c22" />
+            <circle cx="32" cy="32" r="24" fill="#065f46" />
+            <circle cx="32" cy="32" r="18" fill="#ecfdf5" />
+            <circle cx="32" cy="32" r="12" fill="#0b6e4f" />
+            <circle cx="32" cy="32" r="5" fill="#022c22" />
+            <circle cx="34" cy="30" r="1.4" fill="#ecfdf5" />
           </svg>
           <span className="text-lg font-semibold text-slate-900">
-            AI Privacy Tracker
+            Nazar Watch
           </span>
         </Link>
         <nav className="flex gap-1">

@@ -1,4 +1,6 @@
-# AI Privacy Tracker
+# Nazar Watch
+
+> *Watching what watches you.* Daily diffs of how major AI companies change their privacy and data-use policies.
 
 **Live site:** <https://masonlavinder.github.io/ai-tracking/>
 
