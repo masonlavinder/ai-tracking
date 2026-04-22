@@ -15,10 +15,10 @@ function Block({
   text: string;
 }) {
   const styles: Record<typeof kind, string> = {
-    added: "border-emerald-300 bg-emerald-50 text-emerald-950",
-    removed: "border-rose-300 bg-rose-50 text-rose-950 line-through decoration-rose-400/60",
-    before: "border-rose-300 bg-rose-50 text-rose-950",
-    after: "border-emerald-300 bg-emerald-50 text-emerald-950",
+    added: "border-emerald-300 bg-emerald-50 text-emerald-700",
+    removed: "border-rose-300 bg-rose-50 text-rose-700 line-through decoration-rose-400/60",
+    before: "border-rose-300 bg-rose-50 text-rose-700",
+    after: "border-emerald-300 bg-emerald-50 text-emerald-700",
   };
   return (
     <div

@@ -32,8 +32,10 @@ export function ChangeCard({ change, hideCompany = false }: Props) {
         </div>
         <div className="flex flex-col items-end gap-2">
           <ScoreBadge score={change.score} />
-          <div className="text-xs text-slate-500">
-            +{change.added_count} ~{change.modified_count} −{change.removed_count}
+          <div className="flex items-center gap-2 text-xs font-medium tabular-nums">
+            <span className="text-emerald-700">+{change.added_count}</span>
+            <span className="text-slate-500">~{change.modified_count}</span>
+            <span className="text-rose-700">−{change.removed_count}</span>
           </div>
         </div>
       </div>
