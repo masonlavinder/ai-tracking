@@ -16,7 +16,7 @@
   "date": "2024-11-01",
   "from_date": "2024-10-01",
   "id": "netflix-privacy_policy-2024-10-01-2024-11-01",
-  "llm_summary": null,
+  "llm_summary": "Netflix's updated Privacy Statement now includes supplemental disclosures specifically for residents of the EEA and UK, outlining the legal bases for collecting personal information and the rights of users in these regions. Additionally, the document removes references to the California Consumer Privacy Act (CCPA) and related details, which may affect users in the US. The section on international data transfers has been clarified to include specific measures taken to protect personal information.",
   "modified_paragraphs": [
     {
       "after": "However, whenever we transfer personal information to other countries, we ensure that the personal information is transferred in accordance with applicable data protection laws and this Privacy Statement. Specifically, we use a variety of contractual, technical, and organizational measures as appropriate for such transfers, including data protection agreements, technical protections, and practices to challenge disproportionate or unlawful government authority requests. You can find out more about our international transfers here: help.netflix.com/legal/uk-eea-disclosure-and-international-transfers.",

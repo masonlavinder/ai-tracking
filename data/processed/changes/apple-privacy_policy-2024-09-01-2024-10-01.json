@@ -8,7 +8,7 @@
   "date": "2024-10-01",
   "from_date": "2024-09-01",
   "id": "apple-privacy_policy-2024-09-01-2024-10-01",
-  "llm_summary": null,
+  "llm_summary": "The Apple Privacy Policy has been updated to replace references to \"Apple ID\" with \"Apple Account\" throughout the document. Additionally, it now states that Apple's privacy practices comply with the Global Cross-Border Privacy Rules (CBPRs) and the Global Privacy Recognition for Processors (PRP) System, while a previous paragraph about APEC CBPR compliance has been removed. There are also minor adjustments in wording related to personalized ads and their opt-out mechanisms.",
   "modified_paragraphs": [
     {
       "after": "When you create an Apple Account, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including:",

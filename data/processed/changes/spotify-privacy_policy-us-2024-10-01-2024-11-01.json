@@ -5,7 +5,7 @@
   "date": "2024-11-01",
   "from_date": "2024-10-01",
   "id": "spotify-privacy_policy-us-2024-10-01-2024-11-01",
-  "llm_summary": null,
+  "llm_summary": "The Spotify Privacy Policy has updated the terminology from \"Privacy Settings\" to \"Account Privacy\" in several places, clarifying where users can control tailored advertising. Additionally, the references to opting out of tailored advertising now consistently point to the \"Account Privacy\" page instead of \"Privacy Settings.\" There were no substantive changes to the content regarding how tailored advertising works or its implications for users.",
   "modified_paragraphs": [
     {
       "after": "- Account Privacy: Control the processing of certain personal data, including tailored advertising.",
