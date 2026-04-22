@@ -2,7 +2,7 @@
   "changes": [
     {
       "added_count": 15,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2026-04-22",
       "from_date": "2026-04-03",
@@ -24,7 +24,7 @@
     },
     {
       "added_count": 112,
-      "company_name": "paypal",
+      "company_name": "PayPal",
       "company_slug": "paypal",
       "date": "2026-04-22",
       "from_date": "2024-11-01",
@@ -47,7 +47,7 @@
     },
     {
       "added_count": 10,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2026-04-22",
       "from_date": "2026-03-01",
@@ -138,7 +138,7 @@
     },
     {
       "added_count": 44,
-      "company_name": "discord",
+      "company_name": "Discord",
       "company_slug": "discord",
       "date": "2026-04-01",
       "from_date": "2026-03-01",
@@ -236,7 +236,7 @@
     },
     {
       "added_count": 1,
-      "company_name": "discord",
+      "company_name": "Discord",
       "company_slug": "discord",
       "date": "2026-03-01",
       "from_date": "2026-02-01",
@@ -337,7 +337,7 @@
     },
     {
       "added_count": 60,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2026-02-01",
       "from_date": "2026-01-01",
@@ -441,7 +441,7 @@
     },
     {
       "added_count": 10,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2025-12-01",
       "from_date": "2025-11-01",
@@ -661,7 +661,7 @@
     },
     {
       "added_count": 8,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2025-09-01",
       "from_date": "2025-08-01",
@@ -680,7 +680,7 @@
     },
     {
       "added_count": 20,
-      "company_name": "samsung",
+      "company_name": "Samsung",
       "company_slug": "samsung",
       "date": "2025-09-01",
       "from_date": "2025-08-01",
@@ -704,7 +704,7 @@
     },
     {
       "added_count": 2,
-      "company_name": "discord",
+      "company_name": "Discord",
       "company_slug": "discord",
       "date": "2025-09-01",
       "from_date": "2025-08-01",
@@ -766,7 +766,7 @@
     },
     {
       "added_count": 1,
-      "company_name": "samsung",
+      "company_name": "Samsung",
       "company_slug": "samsung",
       "date": "2025-08-01",
       "from_date": "2025-07-01",
@@ -968,7 +968,7 @@
     },
     {
       "added_count": 4,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2025-06-02",
       "from_date": "2025-05-02",
@@ -1114,7 +1114,7 @@
     },
     {
       "added_count": 3,
-      "company_name": "pinterest",
+      "company_name": "Pinterest",
       "company_slug": "pinterest",
       "date": "2025-05-01",
       "from_date": "2025-04-01",
@@ -1136,7 +1136,7 @@
     },
     {
       "added_count": 6,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2025-05-01",
       "from_date": "2025-04-01",
@@ -1239,7 +1239,7 @@
     },
     {
       "added_count": 1,
-      "company_name": "snap",
+      "company_name": "Snap",
       "company_slug": "snap",
       "date": "2025-04-01",
       "from_date": "2025-03-01",
@@ -1424,7 +1424,7 @@
     },
     {
       "added_count": 60,
-      "company_name": "snap",
+      "company_name": "Snap",
       "company_slug": "snap",
       "date": "2025-02-01",
       "from_date": "2025-01-01",
@@ -1509,7 +1509,7 @@
     },
     {
       "added_count": 60,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2025-01-02",
       "from_date": "2024-12-01",
@@ -1531,7 +1531,7 @@
     },
     {
       "added_count": 0,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2025-01-01",
       "from_date": "2024-12-01",
@@ -1688,7 +1688,7 @@
     },
     {
       "added_count": 0,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2024-11-01",
       "from_date": "2024-10-01",
@@ -1707,7 +1707,7 @@
     },
     {
       "added_count": 2,
-      "company_name": "samsung",
+      "company_name": "Samsung",
       "company_slug": "samsung",
       "date": "2024-11-01",
       "from_date": "2024-10-01",
@@ -1727,7 +1727,7 @@
     },
     {
       "added_count": 10,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2024-11-01",
       "from_date": "2024-10-01",
@@ -1747,7 +1747,7 @@
     },
     {
       "added_count": 0,
-      "company_name": "discord",
+      "company_name": "Discord",
       "company_slug": "discord",
       "date": "2024-11-01",
       "from_date": "2024-10-01",
@@ -1767,7 +1767,7 @@
     },
     {
       "added_count": 4,
-      "company_name": "pinterest",
+      "company_name": "Pinterest",
       "company_slug": "pinterest",
       "date": "2024-10-01",
       "from_date": "2024-09-01",
@@ -1890,7 +1890,7 @@
     },
     {
       "added_count": 0,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2024-09-01",
       "from_date": "2024-08-01",
@@ -1909,7 +1909,7 @@
     },
     {
       "added_count": 0,
-      "company_name": "samsung",
+      "company_name": "Samsung",
       "company_slug": "samsung",
       "date": "2024-09-01",
       "from_date": "2024-08-01",
@@ -1947,7 +1947,7 @@
     },
     {
       "added_count": 75,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2024-09-01",
       "from_date": "2024-08-03",
@@ -2033,7 +2033,7 @@
     },
     {
       "added_count": 27,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2024-08-03",
       "from_date": "2024-07-09",
@@ -2094,7 +2094,7 @@
     },
     {
       "added_count": 2,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2024-08-01",
       "from_date": "2024-07-01",
@@ -2114,7 +2114,7 @@
     },
     {
       "added_count": 104,
-      "company_name": "samsung",
+      "company_name": "Samsung",
       "company_slug": "samsung",
       "date": "2024-08-01",
       "from_date": "2024-07-01",
@@ -2193,7 +2193,7 @@
     },
     {
       "added_count": 125,
-      "company_name": "spotify",
+      "company_name": "Spotify",
       "company_slug": "spotify",
       "date": "2024-07-01",
       "from_date": "2024-06-01",
@@ -2319,7 +2319,7 @@
     },
     {
       "added_count": 38,
-      "company_name": "pinterest",
+      "company_name": "Pinterest",
       "company_slug": "pinterest",
       "date": "2024-06-01",
       "from_date": "2024-05-01",
@@ -2400,7 +2400,7 @@
     },
     {
       "added_count": 192,
-      "company_name": "netflix",
+      "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2024-05-01",
       "from_date": "2024-04-08",
@@ -2441,7 +2441,7 @@
     },
     {
       "added_count": 0,
-      "company_name": "discord",
+      "company_name": "Discord",
       "company_slug": "discord",
       "date": "2024-05-01",
       "from_date": "2024-04-08",
@@ -2478,6 +2478,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-04-22T16:41:23.470437+00:00",
+  "generated_at": "2026-04-22T22:40:21.817691+00:00",
   "threshold": 4
 }

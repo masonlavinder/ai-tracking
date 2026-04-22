@@ -401,7 +401,203 @@
       "stock_url": null,
       "ticker": null,
       "total_changes": 13
+    },
+    {
+      "homepage_url": "https://snap.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Snap",
+      "policies": [
+        {
+          "label": "Snap Privacy Policy",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy",
+          "url": "https://values.snap.com/privacy/privacy-policy"
+        }
+      ],
+      "recent_change_ids": [
+        "snap-privacy_policy-2025-03-01-2025-04-01",
+        "snap-privacy_policy-2025-01-01-2025-02-01",
+        "snap-privacy_policy-2024-05-01-2024-06-01"
+      ],
+      "sec_cik": "0001564408",
+      "slug": "snap",
+      "stock_url": "https://finance.yahoo.com/quote/SNAP",
+      "ticker": "SNAP",
+      "total_changes": 3
+    },
+    {
+      "homepage_url": "https://www.spotify.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Spotify",
+      "policies": [
+        {
+          "label": "Spotify Privacy Policy",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy-us",
+          "url": "https://www.spotify.com/us/legal/privacy-policy/"
+        }
+      ],
+      "recent_change_ids": [
+        "spotify-privacy_policy-us-2026-04-03-2026-04-22",
+        "spotify-privacy_policy-us-2025-10-01-2025-11-01",
+        "spotify-privacy_policy-us-2025-08-01-2025-09-01",
+        "spotify-privacy_policy-us-2025-05-02-2025-06-02",
+        "spotify-privacy_policy-us-2024-12-01-2025-01-01",
+        "spotify-privacy_policy-us-2024-10-01-2024-11-01",
+        "spotify-privacy_policy-us-2024-08-01-2024-09-01",
+        "spotify-privacy_policy-us-2024-07-01-2024-08-01",
+        "spotify-privacy_policy-us-2024-06-01-2024-07-01"
+      ],
+      "sec_cik": "0001639920",
+      "slug": "spotify",
+      "stock_url": "https://finance.yahoo.com/quote/SPOT",
+      "ticker": "SPOT",
+      "total_changes": 9
+    },
+    {
+      "homepage_url": "https://www.netflix.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Netflix",
+      "policies": [
+        {
+          "label": "Netflix Privacy Statement",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy",
+          "url": "https://help.netflix.com/legal/privacy"
+        }
+      ],
+      "recent_change_ids": [
+        "netflix-privacy_policy-2026-03-01-2026-04-22",
+        "netflix-privacy_policy-2026-01-01-2026-02-01",
+        "netflix-privacy_policy-2025-11-01-2025-12-01",
+        "netflix-privacy_policy-2025-04-01-2025-05-01",
+        "netflix-privacy_policy-2024-12-01-2025-01-02",
+        "netflix-privacy_policy-2024-10-01-2024-11-01",
+        "netflix-privacy_policy-2024-08-03-2024-09-01",
+        "netflix-privacy_policy-2024-07-09-2024-08-03",
+        "netflix-privacy_policy-2024-04-08-2024-05-01"
+      ],
+      "sec_cik": "0001065280",
+      "slug": "netflix",
+      "stock_url": "https://finance.yahoo.com/quote/NFLX",
+      "ticker": "NFLX",
+      "total_changes": 9
+    },
+    {
+      "homepage_url": "https://www.pinterest.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Pinterest",
+      "policies": [
+        {
+          "label": "Pinterest Privacy Policy",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy",
+          "url": "https://policy.pinterest.com/en/privacy-policy"
+        }
+      ],
+      "recent_change_ids": [
+        "pinterest-privacy_policy-2025-05-01-2025-06-04",
+        "pinterest-privacy_policy-2025-04-01-2025-05-01",
+        "pinterest-privacy_policy-2024-09-01-2024-10-01",
+        "pinterest-privacy_policy-2024-05-01-2024-06-01",
+        "pinterest-privacy_policy-2024-04-08-2024-05-01"
+      ],
+      "sec_cik": "0001506293",
+      "slug": "pinterest",
+      "stock_url": "https://finance.yahoo.com/quote/PINS",
+      "ticker": "PINS",
+      "total_changes": 5
+    },
+    {
+      "homepage_url": "https://www.samsung.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Samsung",
+      "policies": [
+        {
+          "label": "Samsung Privacy Policy (US)",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy-us",
+          "url": "https://www.samsung.com/us/account/privacy-policy/"
+        }
+      ],
+      "recent_change_ids": [
+        "samsung-privacy_policy-us-2025-08-01-2025-09-01",
+        "samsung-privacy_policy-us-2025-07-01-2025-08-01",
+        "samsung-privacy_policy-us-2024-10-01-2024-11-01",
+        "samsung-privacy_policy-us-2024-08-01-2024-09-01",
+        "samsung-privacy_policy-us-2024-07-01-2024-08-01"
+      ],
+      "sec_cik": null,
+      "slug": "samsung",
+      "stock_url": null,
+      "ticker": null,
+      "total_changes": 5
+    },
+    {
+      "homepage_url": "https://discord.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Discord",
+      "policies": [
+        {
+          "label": "Discord Privacy Policy",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy",
+          "url": "https://discord.com/privacy"
+        }
+      ],
+      "recent_change_ids": [
+        "discord-privacy_policy-2026-03-01-2026-04-01",
+        "discord-privacy_policy-2026-02-01-2026-03-01",
+        "discord-privacy_policy-2025-08-01-2025-09-01",
+        "discord-privacy_policy-2024-10-01-2024-11-01",
+        "discord-privacy_policy-2024-04-08-2024-05-01"
+      ],
+      "sec_cik": null,
+      "slug": "discord",
+      "stock_url": null,
+      "ticker": null,
+      "total_changes": 5
+    },
+    {
+      "homepage_url": "https://www.uber.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "Uber",
+      "policies": [
+        {
+          "label": "Uber Privacy Notice",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy",
+          "url": "https://privacy.uber.com/policy/"
+        }
+      ],
+      "recent_change_ids": [],
+      "sec_cik": "0001543151",
+      "slug": "uber",
+      "stock_url": "https://finance.yahoo.com/quote/UBER",
+      "ticker": "UBER",
+      "total_changes": 0
+    },
+    {
+      "homepage_url": "https://www.paypal.com/",
+      "latest_snapshot_date": "2026-04-22",
+      "name": "PayPal",
+      "policies": [
+        {
+          "label": "PayPal Privacy Statement (US)",
+          "latest_snapshot_date": "2026-04-22",
+          "policy_id": "privacy_policy-us",
+          "url": "https://www.paypal.com/us/legalhub/privacy-full"
+        }
+      ],
+      "recent_change_ids": [
+        "paypal-privacy_policy-us-2024-11-01-2026-04-22"
+      ],
+      "sec_cik": "0001633917",
+      "slug": "paypal",
+      "stock_url": "https://finance.yahoo.com/quote/PYPL",
+      "ticker": "PYPL",
+      "total_changes": 1
     }
   ],
-  "generated_at": "2026-04-22T16:41:23.470437+00:00"
+  "generated_at": "2026-04-22T22:40:21.817691+00:00"
 }
