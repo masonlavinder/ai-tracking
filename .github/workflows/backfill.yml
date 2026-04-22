@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
     inputs:
       companies:
-        description: "Comma-separated slugs (blank = all 12 registered)"
+        description: "Comma-separated slugs (blank = all registered companies)"
         required: false
         default: ""
       months:
@@ -38,15 +38,29 @@ jobs:
     outputs:
       companies: ${{ steps.pick.outputs.companies }}
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+          cache-dependency-glob: "scrapers/uv.lock"
+
+      - name: Sync scrapers env
+        working-directory: scrapers
+        run: uv sync --frozen --extra dev
+
       - name: Resolve company list
         id: pick
+        working-directory: scrapers
         env:
           RAW_INPUT: ${{ inputs.companies }}
         run: |
           set -euo pipefail
           raw="${RAW_INPUT:-}"
           if [ -z "$raw" ]; then
-            raw="meta,openai,anthropic,google,microsoft,apple,amazon,reddit,adobe,x,linkedin,tiktok"
+            raw=$(uv run python -c "from scrapers.config import all_slugs; print(','.join(all_slugs()))")
           fi
           json=$(echo "$raw" | tr ',' '\n' | sed 's/[[:space:]]//g' | awk 'NF' \
             | jq -R -s -c 'split("\n") | map(select(length > 0))')
