@@ -8,7 +8,7 @@
   "date": "2025-07-03",
   "from_date": "2025-06-01",
   "id": "amazon-privacy_policy-aws-2025-06-01-2025-07-03",
-  "llm_summary": null,
+  "llm_summary": "The AWS Privacy Notice now includes specific instructions for South African customers on how to contact AWS regarding privacy matters. Additionally, there is a new disclosure about providing advance notice to customers for material changes to the Privacy Notice. The document also underwent several minor wording adjustments for clarity, but no substantive changes were made to the information collection practices or third-party sharing policies.",
   "modified_paragraphs": [
     {
       "after": "This Privacy Notice does not apply to the \u201ccontent\u201d processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the AWS Data Privacy FAQs for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.",

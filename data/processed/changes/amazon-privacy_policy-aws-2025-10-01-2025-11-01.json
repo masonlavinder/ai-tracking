@@ -7,7 +7,7 @@
   "date": "2025-11-01",
   "from_date": "2025-10-01",
   "id": "amazon-privacy_policy-aws-2025-10-01-2025-11-01",
-  "llm_summary": null,
+  "llm_summary": "The AWS Privacy Notice now includes contact information for the department handling privacy complaints. Additionally, there were minor wording changes regarding third-party service providers, such as the consistent use of \"third-party\" instead of \"third party.\" Several paragraphs were removed, including those related to cookies, data retention, and AWS's participation in data privacy frameworks.",
   "modified_paragraphs": [
     {
       "after": "AWS has contracts in place with the following third-party service provider(s) (delegatees) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:",

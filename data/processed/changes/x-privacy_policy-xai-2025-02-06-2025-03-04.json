@@ -85,7 +85,7 @@
   "date": "2025-03-04",
   "from_date": "2025-02-06",
   "id": "x-privacy_policy-xai-2025-02-06-2025-03-04",
-  "llm_summary": null,
+  "llm_summary": "The xAI Privacy Policy was updated to clarify that it does not apply to data processed on behalf of customers or when accessing the service through third-party platforms, such as X (formerly Twitter). Additionally, the process for exercising user rights now requires more specific personal information for verification. The policy also includes a new section on personal information collection, detailing types of data collected and how it may be used or disclosed.",
   "modified_paragraphs": [
     {
       "after": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request to privacy@x.ai and include your full legal name, date of birth, email address, user name, X user handle (if applicable), and physical address. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.",

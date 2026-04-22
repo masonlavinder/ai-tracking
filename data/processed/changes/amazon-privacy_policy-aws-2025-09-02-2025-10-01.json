@@ -13,7 +13,7 @@
   "date": "2025-10-01",
   "from_date": "2025-09-02",
   "id": "amazon-privacy_policy-aws-2025-09-02-2025-10-01",
-  "llm_summary": null,
+  "llm_summary": "The AWS Privacy Notice now includes additional paragraphs that provide examples of the types of information collected and details about third-party services involved in payment processing. It also clarifies that users can view the previous version of the Privacy Notice and access a Korean translation. Some content was modified for clarity, but no substantive changes to user rights or data handling practices were made.",
   "modified_paragraphs": [
     {
       "after": "This Privacy Notice does not apply to the \u201ccontent\u201d processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the AWS Data Privacy FAQ for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.",

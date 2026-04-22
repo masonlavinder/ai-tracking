@@ -7,7 +7,7 @@
   "date": "2025-05-09",
   "from_date": "2025-04-13",
   "id": "adobe-ai_terms-2025-04-13-2025-05-09",
-  "llm_summary": null,
+  "llm_summary": "The Adobe Generative AI User Guidelines were updated to clarify that users must not use generative AI features, including those involving third-party models, for training AI or machine learning systems. The language around prohibited content has been refined for clarity, emphasizing that users should not create or disseminate harmful or illegal content. Additionally, the guidelines now explicitly state that outputs from generative AI features can be used commercially unless designated otherwise for beta versions.",
   "modified_paragraphs": [
     {
       "after": "When using our generative AI features, including those involving an AI model labeled as developed by a third party (\u201cNon-Adobe Model\u201d), you agree you will use them only for your creative and productivity work product and not to train artificial intelligence or machine learning models.",

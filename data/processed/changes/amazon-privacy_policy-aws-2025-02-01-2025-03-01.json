@@ -5,7 +5,7 @@
   "date": "2025-03-01",
   "from_date": "2025-02-01",
   "id": "amazon-privacy_policy-aws-2025-02-01-2025-03-01",
-  "llm_summary": null,
+  "llm_summary": "The AWS Privacy Notice has been updated to explicitly include the UK Extension alongside the EU-US and Swiss-US Data Privacy Frameworks. Additionally, the address for Amazon Web Services South Africa has been changed to a new location. A paragraph stating that AWS would not rely on the Swiss-US Data Privacy Framework or the UK Extension until they enter into force has been removed.",
   "modified_paragraphs": [
     {
       "after": "- EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework",

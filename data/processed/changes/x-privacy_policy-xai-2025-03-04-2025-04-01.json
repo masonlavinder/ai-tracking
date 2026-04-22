@@ -9,7 +9,7 @@
   "date": "2025-04-01",
   "from_date": "2025-03-04",
   "id": "x-privacy_policy-xai-2025-03-04-2025-04-01",
-  "llm_summary": null,
+  "llm_summary": "The privacy policy for xAI (Grok) has added contact information for three entities in the UK, Ireland, and Switzerland. The section on account data now specifies that users must provide their date of birth to access certain features if they do not have an account. Additionally, the policy has removed several detailed paragraphs about how personal information is collected, used, and disclosed, streamlining that information into other sections.",
   "modified_paragraphs": [
     {
       "after": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, if to access certain features of the Service and you have not set up an account, we will collect your date of birthbefore you may proceed. If you log into our Service using a third-party service, such as X, Google or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile, X username, numeric X ID, your age, whether you are subscribed to X Premium, and your Grok on X conversation history.",

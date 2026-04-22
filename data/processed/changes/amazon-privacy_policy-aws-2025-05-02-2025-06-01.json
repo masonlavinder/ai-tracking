@@ -15,7 +15,7 @@
   "date": "2025-06-01",
   "from_date": "2025-05-02",
   "id": "amazon-privacy_policy-aws-2025-05-02-2025-06-01",
-  "llm_summary": null,
+  "llm_summary": "The AWS Privacy Notice now includes more detailed information about how AWS shares limited personal information with advertising partners, specifically mentioning the use of identifiers like cookies and hashed email addresses. Users in the U.S. can opt-out of personalized advertising through a link provided on the AWS site, while users outside the U.S. can adjust their preferences via a form. Additionally, the notice clarifies that AWS does not knowingly share personal information of consumers under 18 and emphasizes the right to appeal any denied data requests.",
   "modified_paragraphs": [
     {
       "after": "- Marketing and Advertising: We use your personal information to market, advertise, and promote AWS Offerings.",
