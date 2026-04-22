@@ -1,0 +1,40 @@
+{
+  "added_paragraphs": [],
+  "company_name": "discord",
+  "company_slug": "discord",
+  "date": "2024-05-01",
+  "from_date": "2024-04-08",
+  "id": "discord-privacy_policy-2024-04-08-2024-05-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- We care deeply about safety. Our dedicated Trust and Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services.",
+      "before": "- We care deeply about safety. Our dedicated Trust & Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services."
+    },
+    {
+      "after": "We may also use content posted in larger spaces to help us develop, improve and power our services, including features that help you catch up on conversations and safety features that identify harmful content on the services and support the enforcement of our Terms of Service and Community Guidelines. These things are important to us, and we believe they will make Discord even better for our users. We will always try to let you know the type of space you are in (although we don\u2019t control where invite links are shared or the permissions for that server). You can limit the extent to which your content is used for these purposes as described in the \u201cHow to control your privacy\u201d section below. You can learn more about our approach to safety and content moderation, including how we use your information for these purposes, in our Safety Center. You should take all of this into account when you are using our services, and choose the spaces, features, and settings that are most appropriate for your content.",
+      "before": "We may also use content posted in larger spaces to help us develop, improve and power our services, including features that help you catch up on conversations and safety features that identify harmful content on the services and support the enforcement our Terms of Service and Community Guidelines. These things are important to us, and we believe they will make Discord even better for our users. We will always try to let you know the type of space you are in (although we don\u2019t control where invite links are shared or the permissions for that server). You can limit the extent to which your content is used for these purposes as described in the \u201cHow to control your privacy\u201d section below. You can learn more about our approach to safety and content moderation, including how we use your information for these purposes, in our Safety Center. You should take all of this into account when you are using our services, and choose the spaces, features, and settings that are most appropriate for your content."
+    },
+    {
+      "after": "Certain local laws, such as the European Union\u2019s General Data Protection Regulation (GDPR), Brazil\u2019s Lei Geral de Prote\u00e7\u00e3o de Dados (LGPD), and California\u2019s Consumer Privacy Act (CCPA), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. We\u2019ve described most of that already in the earlier portions of this Policy, but you can find state and region specific information and disclosures here.",
+      "before": "Certain local laws, such as the European Union\u2019s General Data Protection Regulation (GDPR),Brazil\u2019s Lei Geral de Prote\u00e7\u00e3o de Dados (LGPD), and California\u2019s Consumer Privacy Act (CCPA), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. We\u2019ve described most of that already in the earlier portions of this Policy, but you can find state and region specific information and disclosures here."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Discord Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2024-05-01",
+  "url": "https://discord.com/privacy"
+}

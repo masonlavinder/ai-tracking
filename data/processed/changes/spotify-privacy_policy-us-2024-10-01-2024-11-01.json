@@ -1,0 +1,48 @@
+{
+  "added_paragraphs": [],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2024-11-01",
+  "from_date": "2024-10-01",
+  "id": "spotify-privacy_policy-us-2024-10-01-2024-11-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- Account Privacy: Control the processing of certain personal data, including tailored advertising.",
+      "before": "- Privacy Settings: Control the processing of certain personal data, including tailored advertising."
+    },
+    {
+      "after": "- This is when we use information about your use of our services and other websites and mobile apps to tailor ads to be more relevant to you. This is also known as interest based advertising, targeted advertising, or \u2018sharing\u2019 for purposes of cross-context behavioural advertising.",
+      "before": "- This is when we use information about your use of our services and other websites and mobile apps to tailor ads to be more relevant to you. This is also known as interest based advertising, targeted advertising, or \u2018sharing\u2019 for purposes of cross-context behavioral advertising."
+    },
+    {
+      "after": "- You can control tailored advertising on your Account Privacy page under \u2018Tailored Ads\u2019.",
+      "before": "- You can control tailored advertising in your account Privacy Settings under \u2018Tailored Ads\u2019."
+    },
+    {
+      "after": "If you are \u2018opted out\u2019 of tailored advertising on your Account Privacy page, you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.",
+      "before": "If you are \u2018opted out\u2019 of tailored advertising in your Privacy Settings, you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor."
+    },
+    {
+      "after": "- Younger users may have tailored advertising turned off by default. When you reach the appropriate age, you will start to receive tailored advertising . When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the Account Privacy page where you can change your preferences or \u2018opt-out\u2019 of tailored advertising at any time under Tailored Ads.",
+      "before": "- Younger users may have tailored advertising turned off by default. When you reach the appropriate age, you will start to receive tailored advertising . When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the Privacy Settings where you can change your preferences or \u2018opt-out\u2019 of tailored advertising at any time under Tailored Ads."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "opt-out-mechanism"
+  ],
+  "to_date": "2024-11-01",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

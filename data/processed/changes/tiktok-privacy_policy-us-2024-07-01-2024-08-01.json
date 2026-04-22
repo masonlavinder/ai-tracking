@@ -1,0 +1,48 @@
+{
+  "added_paragraphs": [
+    "Profiling: We do not engage in profiling which results in legal or similarly significant effects, as defined under applicable law.",
+    "Users of the Platform who are Connecticut residents and are under 18 years of age, or parents or guardians of Users of the Platform who are Connecticut residents under 16 years of age, may request to delete or unpublish of their or their child\u2019s account by contacting us at: https://www.tiktok.com/legal/report/us-privacy."
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2024-08-01",
+  "from_date": "2024-07-01",
+  "id": "tiktok-privacy_policy-us-2024-07-01-2024-08-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "You may submit a request to know, access, correct or delete the information we have collected from or about you at https://www.tiktok.com/legal/report/privacy. You may appeal any decision we have made about your request by following the instructions in the communication you receive from us notifying you of our decision. You may also exercise your rights to know, access, correct, delete, or appealby sending your request to the physical address provided in the \u201cContact Us\u201d section below. You can also update your account information directly through your in-app settings, as well as request a copy of your TikTok data or request to deactivate or delete your account. Your right to know includes what personal information we have collected about you, including the categories of sources from which the personal information is collected, the business or commercial purpose for collecting or sharing personal information, information about third parties to whom we share the personal information, and the specific pieces of personal information we have collected about you. We do not discriminate based on the exercise of any privacy rights that you might have.",
+      "before": "You may submit a request to know, access, correct or delete the information we have collected from or about you at https://www.tiktok.com/legal/report/privacy. You may appeal any decision we have made about your request by following the instructions in the communication you receive from us notifying you of our decision. You may also exercise your rights to know, access, correct, delete, or appealby sending your request to the physical address provided in the \u201cContact Us\u201d section below. You can also update your account information directly through your in-app settings, as well as request a copy of your TikTok data or request to deactivate or delete your account. Your right to know includes what personal information we have collected about you, including the categories of sources from which the personal information is collected, the business or commercial purpose for collecting or sharing personal information, the categories of third parties to whom we share the personal information, and the specific pieces of personal information we have collected about you. We do not discriminate based on the exercise of any privacy rights that you might have."
+    },
+    {
+      "after": "While some of the information that we collect, use, and disclose may constitute sensitive personal information under applicable state privacy laws, such as information from users under the relevant age threshold, information you disclose in survey responses or in your User Content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information, we only process such information in order to provide the Platform and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver\u2019s license number in order to verify your identity.",
+      "before": "While some of the information that we collect and use may constitute sensitive personal information, we only process such information in order to provide the Platform and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver\u2019s license number in order to verify your identity."
+    },
+    {
+      "after": "The Platform otherwise is not directed at Children. If we become aware that personal information has been collected on the Platform from a Child, we will delete this information and terminate the Child\u2019s account. If you believe there is a user who is below the age of 13, please contact us at: https://www.tiktok.com/legal/report/feedback.",
+      "before": "The Platform otherwise is not directed at Children. If we become aware that personal information has been collected on the Platform from a Child, we will delete this information and terminate the Child\u2019s account. If you believe there is a user who is below the age of 13, please contact us at: https://tiktok.com/legal/report/privacy."
+    },
+    {
+      "after": "If you are a parent or guardian, our Guardian's Guide contains information and resources to help you understand the Platform and the tools and controls you can use. As a parent or guardian, you can also request the deletion of the account of your underage child or download the account data of your underage child by contacting us at https://www.tiktok.com/legal/report/privacy.",
+      "before": "If you are a parent or guardian, our Guardian's Guide contains information and resources to help you understand the Platform and the tools and controls you can use."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "minors"
+  ],
+  "to_date": "2024-08-01",
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+}

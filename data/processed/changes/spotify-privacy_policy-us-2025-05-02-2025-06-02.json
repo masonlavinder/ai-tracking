@@ -1,0 +1,68 @@
+{
+  "added_paragraphs": [
+    "If voice features are available in your market and where you\u2019ve chosen to use a voice feature, we collect and process voice data. Voice data means audio recordings of your voice and transcripts of those recordings.",
+    "You can also watch our video about Personal Data at Spotify.",
+    "\u2022 so we can build AI features such as AI DJ and AI playlist",
+    "\u2022 to help us enforce our User Guidelines, Platform Rules and Spotify for Creators Community Guidelines."
+  ],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2025-06-02",
+  "from_date": "2025-05-02",
+  "id": "spotify-privacy_policy-us-2025-05-02-2025-06-02",
+  "llm_summary": "Spotify's updated privacy policy now specifies that if voice features are available in a user's market, the company will collect and process voice data, including audio recordings and transcripts. The policy also clarifies that data can be collected when users update their accounts, and it emphasizes the use of personal data for developing AI features and improving personalized recommendations. Additionally, the statistics chart now reflects data from 2024 instead of 2023, and a paragraph about data received from third parties has been removed.",
+  "modified_paragraphs": [
+    {
+      "after": "| Collected when you sign up for the Spotify Service or when you update your account | |",
+      "before": "Collected when you sign up for the Spotify Service"
+    },
+    {
+      "after": "| Collected through your use of the Spotify Service | |",
+      "before": "Collected through your use of the Spotify Service"
+    },
+    {
+      "after": "| Additional data you may choose to give us | |",
+      "before": "Additional data you may choose to give us"
+    },
+    {
+      "after": "| Third party sources that we receive your data from | ||",
+      "before": "Third party sources that we receive your data from"
+    },
+    {
+      "after": "To evaluate and develop new features, technologies, and improvements to the Spotify Service. This includes development and training of algorithmic and machine learning models, which help us to keep our service safe and enhance our users\u2019 experience. For example:",
+      "before": "To evaluate and develop new features, technologies, and improvements to the Spotify Service."
+    },
+    {
+      "after": "\u2022 to help us develop and improve our personalized recommendations",
+      "before": "\u2022 we use personal data to develop and improve our personalized recommendation algorithms"
+    },
+    {
+      "after": "\u2022 to help analyze how our users react to a particular new feature and see whether we should make any changes",
+      "before": "\u2022 we analyze how our users react to a particular new feature and see whether we should make any changes"
+    },
+    {
+      "after": "The following chart contains statistics about global requests we received from users between 1 January and 31 December 2024:",
+      "before": "The following chart contains statistics about global requests we received from users between 1 January and 31 December 2023:"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [
+    "We receive some of the data mentioned above from third parties. The below table describes the categories of those third parties."
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "third-party-sharing"
+  ],
+  "to_date": "2025-06-02",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

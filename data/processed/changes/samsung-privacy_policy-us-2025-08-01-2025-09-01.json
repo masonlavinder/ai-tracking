@@ -1,0 +1,234 @@
+{
+  "added_paragraphs": [
+    "\u2022 US SUPPLEMENT TO THE SAMSUNG PRIVACY POLICY",
+    "Information About Your Use of the Services",
+    "Publicly or Commercially Available or Shared Information",
+    "\u2022 to provide a Service or feature you request;",
+    "\u2022 to respond to your requests and queries, including about your personal information;",
+    "For European Economic Area (EEA), UK and Swiss residents only",
+    "(i) So that we can keep our promises to you (performance of contract), such as providing you with a Service.",
+    "2. Business Partners: Third parties who we work together with. These business partners control and manage your personal information. For example, we may share your information with the following types of business partners:",
+    "\u2022 content or feature providers, e.g. when you request a service or feature and it is provided by our business partner",
+    "\u2022 financing partners when you apply for and use credit or financing",
+    "\u2022 partners that perform out of warranty repairs",
+    "For European Economic Area (EEA), UK and Swiss residents only",
+    "You also have the following additional rights.",
+    "COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES",
+    "(1) remember your information so you will not have to re-enter it",
+    "For European Economic Area (EEA), UK and Swiss residents only",
+    "US SUPPLEMENT TO THE SAMSUNG PRIVACY POLICY",
+    "Biometric Data Stored on Your Device Not Accessible by Samsung",
+    "Online Tracking And Personalized Advertising",
+    "visit www.aboutads.info/choices and http://www.networkadvertising.org/choices/."
+  ],
+  "company_name": "samsung",
+  "company_slug": "samsung",
+  "date": "2025-09-01",
+  "from_date": "2025-08-01",
+  "id": "samsung-privacy_policy-us-2025-08-01-2025-09-01",
+  "llm_summary": "The Samsung Privacy Policy has added a US Supplement that includes specific information about data sharing with business partners and rights for residents of the EEA, UK, and Switzerland. It also clarifies that biometric data stored on devices is not accessible by Samsung. Additionally, several sections were renumbered for clarity, and some paragraphs regarding data retention and third-party services were removed.",
+  "modified_paragraphs": [
+    {
+      "after": "\u2022 WHO DO WE SHARE YOUR INFORMATION WITH?",
+      "before": "- \u2022 WHO DO WE SHARE YOUR INFORMATION WITH?"
+    },
+    {
+      "after": "\u2022 HOW DO WE KEEP YOUR INFORMATION SECURE?",
+      "before": "- \u2022 HOW DO WE KEEP YOUR INFORMATION SECURE?"
+    },
+    {
+      "after": "\u2022 COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES",
+      "before": "- \u2022 COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES"
+    },
+    {
+      "after": "1. When you create an account or profile with us, we ask for information such as your name, date of birth, or contact information such as phone number and email address.",
+      "before": "- When you create an account or profile with us, we ask for information such as your name, date of birth, or contact information such as phone number and email address."
+    },
+    {
+      "after": "2. If you order a product or paid service from us, we also ask for your name, address, contact information, and shipping and payment information such as card number, expiration date, and security code to process your order. You can also choose to save your payment information with us so you can check out more easily next time.",
+      "before": "- If you order a product or paid service from us, we also ask for your name, address, contact information, and shipping and payment information such as card number, expiration date, and security code to process your order. You can also choose to save your payment information with us so you can check out more easily next time."
+    },
+    {
+      "after": "3. To provide responses when you contact Customer Service, we ask for certain information to verify your identity, the Service you are inquiring about (including repair history), and information related to your consultation (including recordings of your voice and chat or communication transcripts).",
+      "before": "- To provide responses when you contact Customer Service, we ask for certain information to verify your identity, the Service you are inquiring about (including repair history), and information related to your consultation (including recordings of your voice and chat or communication transcripts)."
+    },
+    {
+      "after": "4. Demographic data (such as gender and age).",
+      "before": "- Demographic data (such as gender and age)."
+    },
+    {
+      "after": "5. Information you provide when you apply for credit or financing, such as your social security number.",
+      "before": "- Information you provide when you apply for credit or financing, such as your social security number."
+    },
+    {
+      "after": "6. If you share your contacts, we will collect their phone numbers and other contact information to facilitate file sharing and messaging. You can turn off or restrict these features in the Settings on your devices.",
+      "before": "- If you share your contacts, we will collect their phone numbers and other contact information to facilitate file sharing and messaging. You can turn off or restrict these features in the Settings on your devices."
+    },
+    {
+      "after": "4. Voice information: Recordings of your voice that we make and collect on our servers when you enable this function and use voice commands. We also collect and store recordings of your voice when you contact our Customer Service team. Please note that if we work with a third party service provider that provides speech-to-text conversion services or call center services on our behalf, this provider may also receive and store certain voice commands in accordance with the contract concluded between us and the trusted third-party service provider.",
+      "before": "4. Voice information: Recordings of your voice that we make and collect on our servers when you enable this function and use voice commands. We also collect and store recordings of your voice when you contact our Customer Service team. Note that if we work with a third party service rovider that provides speech-to-text conversion services or call center services on our behalf, this provider may also receive and store certain voice commands in accordance with the contract concluded between us and the trusted third-party service provider."
+    },
+    {
+      "after": "We obtain information, including personal information, from third parties and sources other than our Services, such as our business customers and partners. If we combine or associate information from other sources with personal information that we collect through our Services, we will treat the combined information as personal information in accordance with this Privacy Policy.",
+      "before": "Information received from Third PartiesWe obtain information, including personal information, from third parties and sources other than our Services, such as our business customers and partners. If we combine or associate information from other sources with personal information that we collect through our Services, we will treat the combined information as personal information in accordance with this Privacy Policy."
+    },
+    {
+      "after": "We also collect other information about you, your devices, or your use of Services that you choose to send us.",
+      "before": "Other Information We CollectWe also collect other information about you, your devices, or your use of Services that you choose to send us."
+    },
+    {
+      "after": "Through certain Services, we collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps, and other online features and services through cookies and similar technologies. We use third-party analytics services on our Services, such as those of Google Analytics, Firebase Analytics, and Adobe Analytics. The service providers that administer these analytics services help us to analyze your use of the Services and to improve the Services. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services, help administer the Services, and diagnose technical issues. To learn more about Google Analytics, please visit https://www.google.com/policies/privacy/partners/.",
+      "before": "Third Party AnalyticsThrough certain Services, we collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps, and other online features and services through cookies and similar technologies. We use third-party analytics services on our Services, such as those of Google Analytics, Firebase Analytics, and Adobe Analytics. The service providers that administer these analytics services help us to analyze your use of the Services and to improve the Services. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services, help administer the Services, and diagnose technical issues. To learn more about Google Analytics, please visit https://www.google.com/analytics/learn/privacy.htmland https://www.google.com/policies/privacy/partners/.To learn more about Firebase Analytics, please visit https://firebase.google.com/policies/analytics."
+    },
+    {
+      "after": "We use the information we collect for the following purposes.",
+      "before": "HOW DO WE USE YOUR INFORMATION?We use the information we collect for the following purposes."
+    },
+    {
+      "after": "\u2022 to help you or your device register for our Services;",
+      "before": "\u2022 to help you or your device register for our Services;\u2022 to provide a Service or feature you request;"
+    },
+    {
+      "after": "\u2022 to protect the legal rights and interests, property, or safety of Samsung Electronics, or any of our affiliates, business partners, or customers, including protecting against, identifying, and preventing fraud and other criminal activity, claims, and other liabilities; and",
+      "before": "\u2022 to protect the legal rights and interests, property, or safety of Samsung Electronics, or any of our affiliates, business partners, or customers, including protecting against, identifying, and preventing fraud and other criminal activity, claims, and other liabilities;"
+    },
+    {
+      "after": "\u2022 to comply with and enforce applicable legal requirements, relevant industry standards, and our policies, including the Samsung Privacy Policy.",
+      "before": "\u2022 to comply with and enforce applicable legal requirements, relevant industry standards, and our policies, including the Samsung Privacy Policy; and"
+    },
+    {
+      "after": "\u2022 to analyze a defective device that is returned to Samsung. Samsung takes measures to ensure that all defective devices are wiped of personal information before such devices are analyzed;",
+      "before": "\u2022 to analyze a defective device that is returned to Samsung. Samsung takes measures to ensure that all defective devices are wiped of personal information before such devices are analyzed."
+    },
+    {
+      "after": "Samsung processes personal information for the purposes described above. Samsung\u2019s legal basis to process personal information includes processing:",
+      "before": "For European Economic Area (EEA), UK and Swiss residents onlySamsung processes personal information for the purposes described above. Samsung\u2019s legal basis to process personal information includes processing:"
+    },
+    {
+      "after": "(ii) To promote our business interests (legitimate interest) (for example, to manage our relationship with you, improve your customer service experience, and provide generic ads), including communications on our website, third party websites, and online platforms.",
+      "before": "(i) So that we can keep our promises to you (performance of contract), such as providing you with a Service.(ii) To promote our business interests (legitimate interest) (for example, to manage our relationship with you, improve your customer service experience, and provide generic ads), including communications on our website, third party websites, and online platforms."
+    },
+    {
+      "after": "Your use of our Services will involve the transfer, storage, and processing of your personal information within and outside of your country of residence where necessary. In particular, your personal information will be transferred to the Republic of Korea.",
+      "before": "WHERE DO WE SEND YOUR DATA?Your use of our Services will involve the transfer, storage, and processing of your personal information within and outside of your country of residence where necessary. In particular, your personal information will be transferred to the Republic of Korea."
+    },
+    {
+      "after": "We will comply with applicable European data protection law when transferring your personal information outside of Europe. We may transfer your personal information to countries which have been found to provide adequate protection of personal information by the relevant data protection authority, including the Republic of Korea.",
+      "before": "For European Economic Area (EEA), UK and Swiss residents only:We will comply with applicable European data protection law when transferring your personal information outside of Europe. We may transfer your personal information to countries which have been found to provide adequate protection of personal information by the relevant data protection authority, including the Republic of Korea."
+    },
+    {
+      "after": "Your personal information belongs to you. You have the right to ask us to provide details about what we have collected and to provide your personal information to you in a structured, commonly used and machine-readable format, to delete it, or correct any inaccuracies.",
+      "before": "WHAT ARE YOUR RIGHTS?Your personal information belongs to you. You have the right to ask us to provide details about what we have collected and to provide your personal information to you in a structured, commonly used and machine-readable format, to delete it, or correct any inaccuracies."
+    },
+    {
+      "after": "For European Economic Area (EEA), UK and Swiss residents only",
+      "before": "For European Economic Area (EEA), UK and Swiss residents onlyYou also have the following additional rights."
+    },
+    {
+      "after": "You can lodge a complaint with the relevant supervisory authority if you believe that our processing of your personal information infringes data protection laws. You can find the contact details for all EEA supervisory authorities at https://edpb.europa.eu/about-edpb/board/members_en, for the UK at https://ico.org.uk/global/contact-us/ and in Switzerland, at https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html.",
+      "before": "You can lodge a complaint with the relevant supervisory authority if you believe that our processing of your personal information infringes data protection laws. You can find the contact details for all EEA supervisory authorities at https://edpb.europa.eu/about-edpb/board/members_en, for the UK at https://ico.org.uk/global/contact-us/and in Switzerland, at https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html"
+    },
+    {
+      "after": "We will not keep your personal information for longer than is necessary for the purpose for which it was collected. This means that information will be destroyed or erased from our systems when it is no longer required. In some cases, your personal information will be anonymized which means you can no longer be identified from the information.",
+      "before": "HOW LONG DO WE KEEP YOUR INFORMATION?We will not keep your personal information for longer than is necessary for the purpose for which it was collected. This means that information will be destroyed or erased from our systems when it is no longer required. In some cases, your personal information will be anonymized which means you can no longer be identified from the information."
+    },
+    {
+      "after": "At least the duration for which the information is used to provide you with a service;",
+      "before": "- At least the duration for which the information is used to provide you with a service;"
+    },
+    {
+      "after": "As required under law, a contract, or with regard to our statutory obligations;",
+      "before": "- As required under law, a contract, or with regard to our statutory obligations;"
+    },
+    {
+      "after": "Only for as long as is necessary for the purpose for which it was collected, is processed, or for longer if required under any contract, by applicable law, or for statistical purposes, subject to appropriate safeguards.",
+      "before": "- Only for as long as is necessary for the purpose for which it was collected, is processed, or for longer if required under any contract, by applicable law, or for statistical purposes, subject to appropriate safeguards."
+    },
+    {
+      "after": "We, along with certain third parties such as content providers and advertisers, use technologies called cookies, beacons, or pixels, as well as other tools (collectively known as \u201ctechnologies\u201d) that communicate information from your device to a server, including those owned by third parties. These technologies can be embedded in online content, videos, and advertisements. They allow a server to read certain types of information from your device, know when you have viewed particular content or a particular advertisement, and determine the time and date on which you viewed the content as well as information about your device, including the IP address of your device. Among other purposes, these technologies help us to do the following:",
+      "before": "COOKIES, BEACONS, AND SIMILAR TECHNOLOGIESWe, along with certain third parties such as content providers and advertisers, use technologies called cookies, beacons, or pixels, as well as other tools (collectively known as \u201ctechnologies\u201d) that communicate information from your device to a server, including those owned by third parties. These technologies can be embedded in online content, videos, and advertisements. They allow a server to read certain types of information from your device, know when you have viewed particular content or a particular advertisement, and determine the time and date on which you viewed the content as well as information about your device, including the IP address of your device. Among other purposes, these technologies help us to do the following:"
+    },
+    {
+      "after": "(2) track and understand how you use and interact with the Services",
+      "before": "(1) remember your information so you will not have to re-enter it(2) track and understand how you use and interact with the Services"
+    },
+    {
+      "after": "We have appointed a Data Protection Officer, who can be contacted by reached via the Privacy Support Page at https://www.samsung.com/request-desk or via postal mail at:",
+      "before": "For European Economic Area (EEA), UK and Swiss residents onlyWe have appointed a Data Protection Officer, who can be contacted by reached via the Privacy Support Page at https://www.samsung.com/request-deskor via postal mail at:"
+    },
+    {
+      "after": "In addition to the purposes described above in the HOW DO WE USE YOUR INFORMATION SECTION? we may also use personal information about United States residents for other purposes, such as to develop and train our artificial intelligence algorithms and models.",
+      "before": "Additional Uses of Your InformationIn addition to the purposes described above in the HOW DO WE USE YOUR INFORMATION SECTION? we may also use personal information about United States residents for other purposes, such as to develop and train our artificial intelligence algorithms and models."
+    },
+    {
+      "after": "In addition to the categories of personal information Samsung may obtain described above, certain Services may use your biometric data that is stored on your device to provide product or service functionality (e.g., use your fingerprint data to unlock your device or grant you access to certain Services, or your voiceprint data to create a customized Bixby Voice wake-up command). Samsung also may generate certain biometric data automatically when certain Services are used (e.g., Samsung\u2019s face-clustering technology may group together images of the same face from different photographs stored on your device (\u201cFace-Clustering Data\u201d)).",
+      "before": "Biometric Data Stored on Your Device Not Accessible by SamsungIn addition to the categories of personal information Samsung may obtain described above, certain Services may use your biometric data that is stored on your device to provide product or service functionality (e.g. use your fingerprint data to unlock your device or grant you access to certain Services, or your voiceprint data to create a customized Bixby Voice wake-up command). Samsung also may generate certain biometric data automatically when certain Services are used (e.g., Samsung\u2019s face-clustering technology may group together images of the same face from different photographs stored on your device (\u201cFace-Clustering Data\u201d))."
+    },
+    {
+      "after": "Through certain Services, both we and various third parties may collect information about your online activities to provide you with advertising about products and services tailored to your individual interests.",
+      "before": "Online Tracking And Personalized AdvertisingThrough certain Services, both we and various third parties may collect information about your online activities to provide you with advertising about products and services tailored to your individual interests."
+    },
+    {
+      "after": "Because Samsung participates in various advertising networks, you may also see our ads on other websites or mobile apps. Ad networks allow us to target our messaging to users considering demographic data, users\u2019 inferred interests, and browsing context. These networks can track users\u2019 online activities over time by collecting information through automated means, including through the use of browser cookies, web beacons, pixels, device identifiers, server logs, and other similar technologies. The networks use this information to show ads that may be tailored to individuals\u2019 interests, to track users\u2019 browsers or devices across multiple websites and apps, and to build a profile of users\u2019 online browsing and app usage activities. The information our ad networks may collect includes data about users\u2019 visits to websites and apps that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites or apps. This data collection takes place both on certain Services and on third-party websites and apps that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of ad network personalized advertising in the U.S., please",
+      "before": "Because Samsung participates in various advertising networks, you may also see our ads on other websites or mobile apps. Ad networks allow us to target our messaging to users considering demographic data, users\u2019 inferred interests, and browsing context. These networks can track users\u2019 online activities over time by collecting information through automated means, including through the use of browser cookies, web beacons, pixels, device identifiers, server logs, and other similar technologies. The networks use this information to show ads that may be tailored to individuals\u2019 interests, to track users\u2019 browsers or devices across multiple websites and apps, and to build a profile of users\u2019 online browsing and app usage activities. The information our ad networks may collect includes data about users\u2019 visits to websites and apps that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites or apps. This data collection takes place both on certain Services and on third-party websites and apps that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of ad network interest-based advertising in the U.S., please visit www.aboutads.info/choices and http://www.networkadvertising.org/choices/."
+    },
+    {
+      "after": "To serve personalized ads, we may share your personal information (such as identifiers and online activity) by allowing certain third parties (such as online advertising services) to collect your personal information via automated technologies and server-to-server connections on the Services. This kind of sharing may be considered a \u201csale\u201d of personal information or the use of personal information to serve \u201ctargeted advertising\u201d under certain privacy laws. Where you have consented, we may share your personal information to deliver personalized ads.",
+      "before": "To serve interest-based ads, we may share your personal information by allowing certain third parties (such as online advertising services) to collect your personal information via automated technologies and server-to-server connections on the Services. This kind of sharing may be considered a \u201csale\u201d of personal information or the use of personal information to serve \u201ctargeted advertising\u201d under certain privacy laws."
+    },
+    {
+      "after": "In addition to the rights available to you as described in the WHAT ARE YOUR RIGHTS? section of the Privacy Policy, you may also, subject to applicable law, request to opt out of the (1) sale of your personal information, (2) sharing of your personal information for cross-context behavioral advertising purposes, (3) processing of your personal information for targeted advertising purposes, (4) collection or processing of your sensitive data, (5) collection of your personal information through the operation of a voice recognition feature, or (6) further materially different processing of previously collected personal data whenever we make a material change to our Privacy Policy or service-specific privacy notices. In addition, you may, subject to applicable law, request a list of specific third parties and/or categories of third parties to whom we have disclosed personal data.",
+      "before": "State Law Privacy RightsIn addition to the rights available to you as described in the What Are Your Rights? section of the Privacy Policy, you may also, subject to applicable law, request to opt out of the (1) sale of your personal information, (2) sharing of your personal information for cross-context behavioral advertising purposes, (3) processing of your personal information for targeted advertising purposes, (4) collection or processing of your sensitive data, or (5) collection of your personal information through the operation of a voice recognition feature. In addition, you may, subject to applicable law, request a list of specific third parties to whom we have disclosed personal data."
+    },
+    {
+      "after": "To exercise your rights, click here or call us at 1-800-SAMSUNG (1-800-726-7864). You may also choose to opt-out of targeted advertising on Samsung.com by turning on an opt-out preference signal through your browser. You will need to turn it on for each browser and each device you use. We use an automated solution to process opt-out signals. We do not respond to browser-based signals that do not meet applicable state law requirements, which may include older Do Not Track signals.",
+      "before": "How to Submit a Request:To submit an access, deletion or correction request, or to opt out of the (a) sale of your personal information, (b) sharing of your personal information for cross-context behavioral advertising purposes, or (c) processing of your personal information for targeted advertising purposes, click here or call us at 1-800-SAMSUNG (1-800-726-7864). You may also choose to opt-out of targeted advertising on Samsung.com by turning on an opt-out preference signal through your browser. You will need to turn it on for each browser and each device you use. We use an automated solution to process opt-out signals. We do not respond to browser-based signals that do not meet applicable state law requirements, which may include older Do Not Track signals."
+    },
+    {
+      "after": "If you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at https://www.samsung.com/us/account/privacy-policy/california/.",
+      "before": "California ResidentsIf you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at https://www.samsung.com/us/account/privacy-policy/california/."
+    },
+    {
+      "after": "Subject to applicable, you may have certain rights regarding your health data. For more information about your privacy rights, please see our Samsung Consumer Health Data Privacy Statement at https://www.samsung.com/us/privacy-policy/consumer-health-data-privacy-statement.",
+      "before": "Washington ResidentsIf you are a Washington consumer, for more information about your privacy rights, please see our Washington Privacy Statement at https://www.samsung.com/us/privacy-policy/washington-privacy-notice/."
+    },
+    {
+      "after": "Unless otherwise specified, the Services are designed for a general audience and are not directed to children. In connection with the Services, we do not knowingly solicit or collect personal information online from children under the age of 13 without parental consent. If we learn that we have collected personal information online from a child under age 13 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the Contact Us section of this US Supplement",
+      "before": "Children\u2019s Personal InformationUnless otherwise specified, the Services are designed for a general audience and are not directed to children. In connection with the Services, we do not knowingly solicit or collect personal information online from children under the age of 13 without parental consent. If we learn that we have collected personal information online from a child under age 13 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the Contact Us section of this US Supplement."
+    },
+    {
+      "after": "If you would like to make a privacy request, update your preferences, or have a privacy concern, you may contact the Samsung Privacy Office by using our webform, at https://privacypost.sea.samsung.com/ccpa/privacy-inquiries.",
+      "before": "Contact UsIf you would like to make a privacy request, update your preferences, or have a privacy concern, you may contact the Samsung Privacy Office by using our webform, at https://privacypost.sea.samsung.com/ccpa/privacy-inquiries."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Samsung Privacy Policy (US)",
+  "removed_paragraphs": [
+    "- \u2022 HOW LONG DO WE KEEP YOUR INFORMATION?",
+    "- \u2022 WHAT THIRD-PARTY SERVICES DO WE USE?",
+    "\u2022 to respond to your requests and queries, including about your personal information;",
+    "2. Business Partners: Partners who we work together with. For example, we may share your information with wireless carriers or financing partners when you apply for and use credit or financing programs. These business partners control and manage your personal information. This kind of sharing may be considered a \u201cSale\u201d or \u201cSharing\u201d under certain United States privacy laws.",
+    "Nevada ResidentsIf you are a Nevada consumer, for more information about your privacy rights, please see our Nevada Privacy Statement at https://www.samsung.com/us/privacy-policy/nevada-privacy-notice/.",
+    "Privacy OfficeSamsung Electronics America, Inc.",
+    "https://privacypost.sea.samsung.com/ccpa/privacy-inquiries"
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 12,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "third-party-sharing",
+    "regional-carveout",
+    "biometric-facial",
+    "minors",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-09-01",
+  "url": "https://www.samsung.com/us/account/privacy-policy/"
+}

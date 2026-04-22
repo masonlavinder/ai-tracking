@@ -1,0 +1,44 @@
+{
+  "added_paragraphs": [],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2025-01-01",
+  "from_date": "2024-12-01",
+  "id": "spotify-privacy_policy-us-2024-12-01-2025-01-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "This Privacy Policy describes how we at Spotify USA Inc. process personal data of U.S. residents. From now on, we\u2019ll call it the \u2018Policy\u2019.",
+      "before": "This Privacy Policy describes how we process your personal data at Spotify USA Inc. From now on, we\u2019ll call it the \u2018Policy\u2019."
+    },
+    {
+      "after": "From time to time, we may develop new or offer additional services. They\u2019ll also be subject to this Policy, unless stated otherwise when we introduce them. Our California Notice at Collection as required by the California Consumer Privacy Act applies to residents of California. If you are a resident of California, you should read this notice together with this Policy.",
+      "before": "From time to time, we may develop new or offer additional services. They\u2019ll also be subject to this Policy, unless stated otherwise when we introduce them. IIf you reside in California, our supplemental California Notice at Collection, applies in addition to this Policy."
+    },
+    {
+      "after": "Certain U.S. states have adopted privacy laws that give certain rights to individuals over their personal data. We provide these rights to all residents of the U.S., regardless of where they live.",
+      "before": "Privacy laws give certain rights to individuals over their personal data."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [
+    "Characteristics of protected classifications under California or U.S. law (i.e., your age and gender)",
+    "Internet or other electronic network activity information;",
+    "Geolocation data (i.e.,your non-precise location as derived from your IP address);"
+  ],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2025-01-01",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

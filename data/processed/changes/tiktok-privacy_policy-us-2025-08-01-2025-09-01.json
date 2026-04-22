@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2025-09-01",
+  "from_date": "2025-08-01",
+  "id": "tiktok-privacy_policy-us-2025-08-01-2025-09-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "You may submit a request to know, access, correct or delete the information we have collected from or about you at https://www.tiktok.com/legal/report/privacy. You may appeal any decision we have made about your request by following the instructions in the communication you receive from us notifying you of our decision. You may also exercise your rights to know, access, correct, delete, or appeal by sending your request to the physical address provided in the \u201cContact Us\u201d section below. You can also update your account information directly through your in-app settings, as well as request a copy of your TikTok data or request to deactivate by following the instructions here or delete your account by following the instructions here.",
+      "before": "You may submit a request to know, access, correct or delete the information we have collected from or about you at https://www.tiktok.com/legal/report/privacy. You may appeal any decision we have made about your request by following the instructions in the communication you receive from us notifying you of our decision. You may also exercise your rights to know, access, correct, delete, or appealby sending your request to the physical address provided in the \u201cContact Us\u201d section below. You can also update your account information directly through your in-app settings, as well as request a copy of your TikTok data or request to deactivate by following the instructions here or delete your account by following the instructions here."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-09-01",
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+}

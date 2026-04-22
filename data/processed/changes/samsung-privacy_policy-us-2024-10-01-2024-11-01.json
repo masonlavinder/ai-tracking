@@ -1,0 +1,81 @@
+{
+  "added_paragraphs": [
+    "1. Device information: Your device information, including connected devices (such as the model and manufacturer) and software information (such as the operating system and software versions), IMEI number and other unique device identifiers (such as the mobile country code, mobile network code, MAC address, IP address, serial number, device unique IDs, advertising ID (e.g. for mobile devices, Google AD ID and Android ID, and for Samsung visual display devices, including Samsung Smart TVs, Personalized Service ID and Tizen Identifier for Advertising)), phone number, sales code, access recording, cookies, pixels and similar technologies (as described below in \u201cCookies, beacons and similar technologies\u201d), subscription information, and settings of the devices you use to access the Services.",
+    "4. Voice information: Recordings of your voice that we make and collect on our servers when you enable this function and use voice commands. We also collect and store recordings of your voice when you contact our Customer Service team. Note that if we work with a third party service rovider that provides speech-to-text conversion services or call center services on our behalf, this provider may also receive and store certain voice commands in accordance with the contract concluded between us and the trusted third-party service provider."
+  ],
+  "company_name": "samsung",
+  "company_slug": "samsung",
+  "date": "2024-11-01",
+  "from_date": "2024-10-01",
+  "id": "samsung-privacy_policy-us-2024-10-01-2024-11-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "2. Usage and Log information: Diagnostic, technical, error, and usage information such as the time and duration of your use of the Services, Services installed on your devices, search query terms when you enter search terms into your device in connection with a particular Service, information stored in cookies that we have set on your devices, and error reports and dump logs.",
+      "before": "2. Usage and Log information: Diagnostic, technical, error, and usage information such as the time and duration of your use of the Services, Services installed on your devices,"
+    },
+    {
+      "after": "3. Location information: Information about nearby Wi-Fi access points, cell towers, and, with your separate consent, precise geolocation, may be transmitted to us when you use certain Services. In addition, for certain Services, zip codes or postal codes and inferred locations using IP addresses may be transmitted to us when you use such Services.",
+      "before": "3. Location information: Information about nearby Wi-Fi access points, cell towers, and, with your separate consent, precise geolocation, may be transmitted to us when you use"
+    },
+    {
+      "after": "5. Samsung Keyboard information: The words that you type when you enable \u201cPredictive text\u201d. This feature may be offered in connection with your Samsung account to synchronize the data for use on your other Samsung mobile devices. You can clear the data by going to the \u201cPredictive text\u201d settings.",
+      "before": "5. Samsung Keyboard information: The words that you type when you enable \u201cPredictive text\u201d. This feature may be offered in connection with your"
+    },
+    {
+      "after": "2. Business Partners: Partners who we work together with. For example, we may share your information with wireless carriers or financing partners when you apply for and use credit or financing programs. These business partners control and manage your personal information. This kind of sharing may be considered a \u201cSale\u201d or \u201cSharing\u201d under certain United States privacy laws.",
+      "before": "2. Business Partners: Partners who we work together with. For example, we may share your information with wireless carriers or financing partners when you apply for"
+    },
+    {
+      "after": "4. Other Parties When Required by Law or as Necessary to Protect Our Services: For example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security.",
+      "before": "4. Other Parties When Required by Law or as Necessary to Protect Our Services: For example, it may be necessary by law, legal process,"
+    },
+    {
+      "after": "5. Other Parties in Connection with Corporate Transactions: We may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of a bankruptcy.",
+      "before": "5. Other Parties in Connection with Corporate Transactions: We may disclose your information to a third party as part of a merger or transfer, acquisition or sale,"
+    },
+    {
+      "after": "6. Other Parties with Your Consent or at Your Direction: In addition to the disclosures described in this Privacy Policy, we share information about you with third parties when you separately consent to or request such sharing.",
+      "before": "6. Other Parties with Your Consent or at Your Direction: In addition to the disclosures described in this Privacy Policy, we share information about you with third parties"
+    },
+    {
+      "after": "Ridgefield Park, NJ 07660 https://privacypost.sea.samsung.com/ccpa/privacy-inquiries",
+      "before": "https://privacypost.sea.samsung.com/ccpa/privacy-inquiries"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Samsung Privacy Policy (US)",
+  "removed_paragraphs": [
+    "1. Device information: Your device information, including connected devices (such as the model and manufacturer) and software information (such as the operating system and software versions),",
+    "IMEI number and other unique device identifiers (such as the mobile country code, mobile network code, MAC address, IP address, serial number, device unique IDs,",
+    "advertising ID (e.g. for mobile devices, Google AD ID and Android ID, and for Samsung visual display devices, including Samsung Smart TVs, Personalized Service ID and Tizen Identifier for Advertising)),",
+    "phone number, sales code, access recording, cookies, pixels and similar technologies (as described below in \u201cCookies, beacons and similar technologies\u201d), subscription information, and",
+    "settings of the devices you use to access the Services.",
+    "search query terms when you enter search terms into your device in connection with a particular Service, information stored in cookies that we have set on your devices,",
+    "certain Services. In addition, for certain Services, zip codes or postal codes and inferred locations using IP addresses may be transmitted to us when you use such Services.",
+    "4. Voice information: Recordings of your voice that we make and collect on our servers when you enable this function and use voice commands.",
+    "We also collect and store recordings of your voice when you contact our Customer Service team. Note that if we work with a third party service",
+    "rovider that provides speech-to-text conversion services or call center services on our behalf, this provider may also receive and store certain voice",
+    "commands in accordance with the contract concluded between us and the trusted third-party service provider.",
+    "Samsung account to synchronize the data for use on your other Samsung mobile devices. You can clear the data by going to the \u201cPredictive text\u201d settings.",
+    "and use credit or financing programs. These business partners control and manage your personal information. This kind of sharing may be considered a \u201cSale\u201d or \u201cSharing\u201d under",
+    "or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security,",
+    "anti-terrorism, or other issues that are related to public security.",
+    "when you separately consent to or request such sharing."
+  ],
+  "score": 8,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 4,
+    "total": 8
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout"
+  ],
+  "to_date": "2024-11-01",
+  "url": "https://www.samsung.com/us/account/privacy-policy/"
+}

@@ -1,0 +1,58 @@
+{
+  "added_paragraphs": [
+    "Personal data collected by Apple or an Apple-affiliated company worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures.",
+    "Apple\u2019s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPRs) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit Global CBPR Forum. To view our certifications, visit CBPR System Compliance Directory. For more information about the scope of our participation, or to submit a privacy inquiry through BBB National Programs, our Accountability Agent, visit:"
+  ],
+  "company_name": "Apple",
+  "company_slug": "apple",
+  "date": "2024-10-01",
+  "from_date": "2024-09-01",
+  "id": "apple-privacy_policy-2024-09-01-2024-10-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "When you create an Apple Account, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including:",
+      "before": "When you create an Apple ID, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including:"
+    },
+    {
+      "after": "Account Information. Your Apple Account and related account details, including email address, devices registered, account status, and age",
+      "before": "Account Information. Your Apple ID and related account details, including email address, devices registered, account status, and age"
+    },
+    {
+      "after": "Apple Partners. We may also validate the information you provide \u2014 for example, when creating an Apple Account, with a third party for security, and for fraud-prevention purposes.",
+      "before": "Apple Partners. We may also validate the information you provide \u2014 for example, when creating an Apple ID, with a third party for security, and for fraud-prevention purposes."
+    },
+    {
+      "after": "To access certain Apple services, a child must have a child Apple Account. A child Apple Account may be created by the parent or, in the case of a Managed Apple Account, by the child\u2019s educational institution.",
+      "before": "To access certain Apple services, a child must have a child Apple ID. A child Apple ID may be created by the parent or, in the case of a Managed Apple ID, by the child\u2019s educational institution."
+    },
+    {
+      "after": "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.",
+      "before": "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple ID out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies."
+    },
+    {
+      "after": "For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/ww/apple-advertising.",
+      "before": "For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/en/apple-advertising."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Apple Privacy Policy",
+  "removed_paragraphs": [
+    "Personal data collected by Apple or an Apple-affiliated company worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures. Apple\u2019s international transfer of personal data collected in participating Asia-Pacific Economic Cooperation (APEC) countries abides by the APEC Cross-Border Privacy Rules (CBPR) System and Privacy Recognition for Processors (PRP) System for the transfer of personal data. Countries participating in the APEC CBPR systems at the date of this Privacy Policy are the United States, Australia, Canada, Chinese Taipei, Japan, Mexico, the Philippines, Republic of Korea, and Singapore. If you have questions or unresolved concerns about our APEC CBPR or PRP certifications, contact our third-party dispute resolution provider."
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2024-10-01",
+  "url": "https://www.apple.com/legal/privacy/en-ww/"
+}

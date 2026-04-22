@@ -1,0 +1,32 @@
+{
+  "added_paragraphs": [
+    "We collect information in a few different ways",
+    "1. When you give it to us or give us permission to obtain it",
+    "2. We also get technical information when you use Pinterest",
+    "Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information"
+  ],
+  "company_name": "pinterest",
+  "company_slug": "pinterest",
+  "date": "2024-10-01",
+  "from_date": "2024-09-01",
+  "id": "pinterest-privacy_policy-2024-09-01-2024-10-01",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Pinterest Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2024-10-01",
+  "url": "https://policy.pinterest.com/en/privacy-policy"
+}

@@ -1,0 +1,38 @@
+{
+  "added_paragraphs": [
+    "In other situations, we may process your financial information in order to provide you the goods or services you request from us; your driver\u2019s license number in order to verify your identity; and information from users under the relevant age threshold in order to provide an age-appropriate experience. We may also collect precise location data, depending on your settings and as explained below."
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2026-03-01",
+  "from_date": "2026-02-01",
+  "id": "tiktok-privacy_policy-us-2026-02-01-2026-03-01",
+  "llm_summary": "TikTok's updated privacy policy now explicitly states that they may process financial information and driver\u2019s license numbers for identity verification, as well as collect precise location data based on user settings. The language regarding sensitive personal information has been clarified, emphasizing that users are not required to provide such information and that it may be visible to others if shared. Additionally, there is a stronger caution about disclosing sensitive personal information while using the platform.",
+  "modified_paragraphs": [
+    {
+      "after": "Information You Provide may include sensitive personal information, as defined under applicable state privacy laws. We process such information in accordance with applicable law, such as to provide the Services and other permitted purposes under state privacy laws, like the California Consumer Privacy Act (\"CCPA\"). You may choose whether or not you include sensitive personal information in your user content or in other information you voluntarily submit. The type of information that state privacy laws, such as the CCPA, have identified as sensitive personal information include the following: racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information. TikTok does not require you to provide this type of information. However, if you choose to publish user content about these topics, please keep in mind that such content may be visible to other users and the public, depending on your privacy settings.",
+      "before": "Information You Provide may include sensitive personal information, as defined under applicable state privacy laws, such as information from users under the relevant age threshold, information you disclose in survey responses or in your user content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver\u2019s license number in order to verify your identity. We may also collect precise location data, depending on your settings and as explained below. We process such sensitive personal information in accordance with applicable law, such as for permitted purposes under the California Consumer Privacy Act."
+    },
+    {
+      "after": "Based on your privacy settings, your information, including certain of your account information, user content, and usage information, may be visible to other users and the public. For example, if you have a public account and have not restricted the visibility of your posts individually, your account information and user content can be viewed or shared by anyone, whether or not they have a TikTok account, and may also appear on search engines, content aggregators, and news sites. You can learn about privacy settings, including how to limit the audience for your videos, here. Please use caution in disclosing personal information, especially sensitive personal information, while using the Services. We are not responsible for the information you choose to publicly disclose.",
+      "before": "Based on your privacy settings, your information, including certain of your account information, user content, and usage information, may be visible to other users and the public. For example, if you have a public account and have not restricted the visibility of your posts individually, your account information and user content can be viewed or shared by anyone, whether or not they have a TikTok account, and may also appear on search engines, content aggregators, and news sites. You can learn about privacy settings, including how to limit the audience for your videos, here. Please use caution in disclosing personal information while using the Services. We are not responsible for the information you choose to publicly disclose."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-03-01",
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+}

@@ -1,0 +1,36 @@
+{
+  "added_paragraphs": [],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2024-09-01",
+  "from_date": "2024-08-01",
+  "id": "spotify-privacy_policy-us-2024-08-01-2024-09-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "With respect to Spotify Service users under the age of 18, we do not disclose personal data to advertising partners by default.",
+      "before": "With respect to Spotify Service users under the age of 16, we do not disclose personal data to advertising partners by default."
+    },
+    {
+      "after": "With respect to Spotify Service users under the age of 18, we do not disclose personal data to marketing partners by default.",
+      "before": "With respect to Spotify Service users under the age of 16, we do not disclose personal data to marketing partners by default."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2024-09-01",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

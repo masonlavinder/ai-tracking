@@ -1,0 +1,47 @@
+{
+  "added_paragraphs": [
+    "If you are a parent or guardian, depending on your state of residence, you may have the ability to exercise certain rights over your child's or teen's account. For example, you may request the deletion of their accounts, download account data, or exercise other rights in connection with your child or teen by contacting us at https://www.tiktok.com/legal/report/privacy. We will address these requests in accordance with applicable law."
+  ],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2024-09-01",
+  "from_date": "2024-08-01",
+  "id": "tiktok-privacy_policy-us-2024-08-01-2024-09-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- Messages, which include information you provide when you compose, send, or receive messages through the Platform\u2019s messaging functionalities. They include messages you send through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+      "before": "- Messages, which include information you provide when you compose, send, or receive messages through the Platform\u2019s messaging functionalities. They include messages you send through our chat functionality when communicating with merchants who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages."
+    },
+    {
+      "after": "When you make a purchase from a third party on the Platform, including from a seller selling products through our shopping features, we share the information related to the transaction with that third party and their service providers and transaction fulfillment providers. By making the purchase, you are directing us to share your information in this way. These entities may use the information shared in accordance with their privacy policies.",
+      "before": "When you make a purchase from a third party on the Platform, including from a merchant selling products through our shopping features, we share the information related to the transaction with that third party and their service providers and transaction fulfillment providers. By making the purchase, you are directing us to share your information in this way. These entities may use the information shared in accordance with their privacy policies."
+    },
+    {
+      "after": "You may submit a request to know, access, correct or delete the information we have collected from or about you at https://www.tiktok.com/legal/report/privacy. You may appeal any decision we have made about your request by following the instructions in the communication you receive from us notifying you of our decision. You may also exercise your rights to know, access, correct, delete, or appealby sending your request to the physical address provided in the \u201cContact Us\u201d section below. You can also update your account information directly through your in-app settings, as well as request a copy of your TikTok data or request to deactivate by following the instructions here or delete your account by following the instructions here.",
+      "before": "You may submit a request to know, access, correct or delete the information we have collected from or about you at https://www.tiktok.com/legal/report/privacy. You may appeal any decision we have made about your request by following the instructions in the communication you receive from us notifying you of our decision. You may also exercise your rights to know, access, correct, delete, or appealby sending your request to the physical address provided in the \u201cContact Us\u201d section below. You can also update your account information directly through your in-app settings, as well as request a copy of your TikTok data or request to deactivate or delete your account. Your right to know includes what personal information we have collected about you, including the categories of sources from which the personal information is collected, the business or commercial purpose for collecting or sharing personal information, information about third parties to whom we share the personal information, and the specific pieces of personal information we have collected about you. We do not discriminate based on the exercise of any privacy rights that you might have."
+    },
+    {
+      "after": "Users of the Platform who are Connecticut residents and are under 18 years of age, and parents and guardians of users of the Platform who are Connecticut residents under 16 years of age, may request that we unpublish or delete their own account (for users aged 13 through 17) or their child\u2019s account (for parents and guardians with teen users under 16) by following the instructions here.",
+      "before": "Users of the Platform who are Connecticut residents and are under 18 years of age, or parents or guardians of Users of the Platform who are Connecticut residents under 16 years of age, may request to delete or unpublish of their or their child\u2019s account by contacting us at: https://www.tiktok.com/legal/report/us-privacy."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "minors"
+  ],
+  "to_date": "2024-09-01",
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+}

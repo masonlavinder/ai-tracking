@@ -1,0 +1,29 @@
+{
+  "added_paragraphs": [
+    "In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Discord commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner\u2019s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF."
+  ],
+  "company_name": "discord",
+  "company_slug": "discord",
+  "date": "2026-03-01",
+  "from_date": "2026-02-01",
+  "id": "discord-privacy_policy-2026-02-01-2026-03-01",
+  "llm_summary": "Discord added a new paragraph stating its commitment to cooperate with European and Swiss data protection authorities regarding unresolved complaints about personal data handling under specific privacy frameworks. There were no modifications or removals of existing content in the policy.",
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Discord Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-03-01",
+  "url": "https://discord.com/privacy"
+}

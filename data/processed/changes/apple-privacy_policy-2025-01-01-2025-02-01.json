@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [
+    "To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet. We have measures in place to reduce the amount of personal data we collect and make no attempt to connect data crawled to any individual Apple user, or to build profiles about individuals. Your private personal data is not used to train our foundational AI models. To exercise your right as an individual to opt out of processing, visit the Apple Intelligence Privacy Inquiries form. For more information about Applebot, visit support.apple.com/120320."
+  ],
+  "company_name": "Apple",
+  "company_slug": "apple",
+  "date": "2025-02-01",
+  "from_date": "2025-01-01",
+  "id": "apple-privacy_policy-2025-01-01-2025-02-01",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Apple Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 9,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 9
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-02-01",
+  "url": "https://www.apple.com/legal/privacy/en-ww/"
+}

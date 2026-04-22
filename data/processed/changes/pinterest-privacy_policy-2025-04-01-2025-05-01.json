@@ -1,0 +1,90 @@
+{
+  "added_paragraphs": [
+    "State Privacy Law Disclosure & Notice at Collection",
+    "This U.S. State Privacy Law Disclosure & Notice at Collection applies only if you are a resident of a U.S. state governed by a state-level privacy law. This page also serves as our California Notice at Collection.",
+    "For any of the privacy rights and choices referenced, you can also submit a request to our DPO regarding the use and disclosure of your information."
+  ],
+  "company_name": "pinterest",
+  "company_slug": "pinterest",
+  "date": "2025-05-01",
+  "from_date": "2025-04-01",
+  "id": "pinterest-privacy_policy-2025-04-01-2025-05-01",
+  "llm_summary": "Pinterest's updated privacy policy now includes a State Privacy Law Disclosure specifically for U.S. residents, detailing their rights and choices regarding personal data. The policy also expands on how Pinterest uses personal data for training AI models and clarifies data sharing practices for users outside the EEA, Switzerland, and the UK. Additionally, there were minor updates to the wording and structure of existing sections, but no substantive changes were made to the overall data practices.",
+  "modified_paragraphs": [
+    {
+      "after": "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. We added more details on how we train the models that support our products and services including those using generative artificial intelligence, how long we keep your information, and changes to our international data transfer mechanisms. If you are outside of the EEA, Switzerland, or the United Kingdom, we\u2019ve outlined how we may share data with partners to allow advertisers to reach you on other websites and apps.",
+      "before": "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. We added more details about the personal data that we collect and how we may share it."
+    },
+    {
+      "after": "For the purposes of the General Data Protection Regulation (\u201cGDPR\u201d), if you are a resident in the EEA, Switzerland, and the UK, Pinterest Europe Ltd. and Pinterest, Inc. are joint data controllers of your personal data. Pinterest Europe Ltd. is an Irish company with its registered office at Waterloo Exchange, 3rd Floor, Waterloo Road, Dublin 4, Ireland. Pinterest, Inc. is a US company with its registered office at 651 Brannan St., San Francisco, CA 94107, USA. Pinterest Europe Ltd is the responsible controller for fulfilling key obligations under the GDPR. If you have any questions about our data processing activities, please contact our Data Protection Officer.",
+      "before": "For the purposes of the General Data Protection Regulation (\u201cGDPR\u201d), if you are a resident in the EEA, Switzerland, and UK, Pinterest Europe Ltd. and Pinterest, Inc. are joint data controllers of your personal data. Pinterest Europe Ltd. is an Irish company with its registered office at Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland. Pinterest, Inc. is a US company with its registered office at 651 Brannan St., San Francisco, CA 94107, USA. Pinterest Europe Ltd is the responsible controller for fulfilling key obligations under the GDPR. If you have any questions about our data processing activities, please contact our Data Protection Officer."
+    },
+    {
+      "after": "When you use Pinterest websites, apps, services, technologies, APIs, widgets, or any other products, like Shuffles, or features we offer (\u201cPinterest\u201d or the \u201cServices\u201d), you voluntarily share certain information.",
+      "before": "When you use Pinterest websites, apps, services, technologies, APIs, widgets, or any other products or features we offer (\u201cPinterest\u201d or the \u201cServices\u201d), you voluntarily share certain information."
+    },
+    {
+      "after": "- Usage data and inferences: When you\u2019re on our Services, we use your activity\u2014such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description\u2014along with other information you\u2019ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences. For example, if you create a board about travel, we may infer you are a travel enthusiast. We may also infer other information, such as your education or professional experience.",
+      "before": "- Usage data and inferences. When you\u2019re on our Services, we use your activity\u2014such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description\u2014along with other information you\u2019ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences. For example, if you create a board about travel, we may infer you are a travel enthusiast. We may also infer other information, such as your education or professional experience."
+    },
+    {
+      "after": "- Advertisers or other partners: Online advertisers or third parties provide information to us about you to measure, report on or improve the performance of ads on Pinterest, or to help us better understand what kinds of ads to show you on Pinterest. For example, we may receive information about your visits to an advertiser's site, or purchases you made from them, or information about your interests from a third-party service, which we might use to help show you ads on the Service. Sometimes we get this information through the Pinterest Tag (a piece of code an advertiser puts on their site), which delivers insights to us and our ad partners about actions that a person takes on their website after viewing an ad on our Services. Learn more about the Pinterest Tag and the types of information advertisers or other third parties share with us.",
+      "before": "- Advertisers or other partners: Online advertisers or third parties share information with us about you to measure, report on or improve the performance of ads on Pinterest, or to help us better understand what kinds of ads to show you on Pinterest. For example, we may receive information about your visits to an advertiser's site, or purchases you made from them, or information about your interests from a third-party service, which we might use to help show you ads on the Service. Sometimes we get this information through the Pinterest Tag (a piece of code an advertiser puts on their site), which delivers insights to us and our ad partners about actions that a person takes on their website after viewing an ad on our Services. Learn more about the Pinterest Tag and the types of information advertisers or other third parties share with us."
+    },
+    {
+      "after": "- Recommend Pins, boards, or content you might like based on your activity on our Services and your offsite behavior. For example, if we see you\u2019re into cooking-related ads or content on Pinterest, we may suggest food-related Pins to you. Similarly, if you visit websites that sell electric guitars, we may suggest guitar Pins to you. For more information on how we recommend content to you, please visit our Terms of Service.",
+      "before": "- Recommend Pins, boards, or content you might like based on your activity on our Services and your offsite behavior. For example, if we see you\u2019re into cooking-related content on Pinterest, we may suggest food-related Pins to you. Similarly, if you visit websites that sell electric guitars, we may suggest guitar Pins to you. For more information on how we recommend content to you, please visit our Terms of Service."
+    },
+    {
+      "after": "- Review your activity and messages on our Services to detect spam, enforce our Terms and policies, or activity that poses a risk to our community or the public. This can include working with law enforcement to keep Pinterest safe.",
+      "before": "- Review your activity and messages on our Services to detect spam or activity that poses a risk to our community or the public. This can include working with law enforcement to keep Pinterest safe."
+    },
+    {
+      "after": "- Improve the products and services of our family of companies and offer new features. For example, using information to train, develop and improve our technology such as our machine learning models, regardless of when Pins were posted. This includes, for example, Pinterest\u2019s body type technology, which is trained on images in Pins posted to our Services. Pinterest also has features that are supported by generative artificial intelligence technology. Learn more here.",
+      "before": "- Improve the products and services of our family of companies and offer new features. For example, using information to train, develop, and improve our technology such as our machine learning models."
+    },
+    {
+      "after": "- Decide which ads to show you directly on Pinterest, and, depending on where you live, enabling Pinterest directly or through partners to show you ads both on and off Pinterest. For example, if you show an interest in camping tents on Pinterest or browse sleeping bags on one of our partner\u2019s websites, we may show you ads for other outdoor products. Depending on your age, location and privacy settings, we customize the ads we show you by identifying your interests based on your onsite and offsite activities, as well as by using information we receive from ad partners or other third parties. We also offer features supported by generative artificial intelligence to enable our advertisers to add limited content to their ads. Where we use cookies to identify your offsite interests, we\u2019ll get your consent where required.",
+      "before": "- Decide which ads to show you, directly on Pinterest, and depending on where you live, show you ads through our partners. For example, if you show an interest in camping tents on Pinterest or browse sleeping bags on one of our partner\u2019s websites, we may show you ads for other outdoor products. We customize the ads we show you by identifying your interests based on your onsite and offsite activities, as well as by using information we receive from ad partners or other third parties. Where we use cookies to identify your offsite interests, we\u2019ll get your consent where required."
+    },
+    {
+      "after": "- Tell our ad partners how their Pinterest ads are doing, and how to make them better. We disclose information about the ads you see or interact with on Pinterest to our advertisers and third-party companies to improve the performance of the ads that we or they use to measure or improve the delivery and performance of ads or content on websites and apps. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Pin went on to visit that advertiser's site. Depending on where you live and your settings, we may also disclose this information at an individual level. For example, we would let an advertiser know that a particular Pin has been saved by certain people. To find out more about reporting on ads please visit the Help Center.",
+      "before": "- Tell our ad partners how their Pinterest ads are doing, and how to make them better. To do this, we disclose information about the ads you see or interact with on Pinterest to our advertisers and third-party companies to improve the performance of the ads that we or they use to audit or improve the delivery and performance of ads or content on websites and apps. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Pin went on to visit that advertiser's site. Depending on where you live and your settings, we may also disclose this information at an individual level. For example, we would let an advertiser know that a particular Pin has been saved by certain people. To find out more about reporting on ads please visit the Help Center."
+    },
+    {
+      "after": "We offer you certain choices to control your data. Depending on where you live (e.g., EEA, Switzerland, UK, U.S.), these choices may also be privacy rights you have under local law. To exercise these rights, please visit your account settings and, if you still need help, our Help Center.",
+      "before": "We offer you certain choices to control your data. Depending on where you live (e.g., EEA, Switzerland, UK, US), these choices may also be privacy rights you have under local law. To exercise these rights, please visit your account settings and, if you still need help, our Help Center."
+    },
+    {
+      "after": "- Opt out of \u201ctargeted advertising\u201d \u201csharing\u201d or \u201csale\u201d: As explained above some of our activities may constitute \u201ctargeted advertising,\u201d \u201csharing,\u201d or \u201cselling\u201d as those terms are defined under certain state privacy laws in the U.S. You may opt out at any time by following the instructions in your Privacy and Data Settings menu. Note that you will still see ads on our Services, but they will not be informed by offsite data.",
+      "before": "- Opt out of \u201ctargeted advertising\u201d \u201csharing\u201d or \u201csale\u201d: As explained above some of our activities may constitute \u201ctargeted advertising,\u201d \u201csharing,\u201d or \u201cselling\u201d as those terms are defined under certain state privacy laws in the US. You may opt out at any time by following the instructions in your Privacy and Data Settings menu. Note that you will still see ads on our Services, but they will not be informed by offsite data."
+    },
+    {
+      "after": "You have choices regarding your information on Pinterest. If you have a Pinterest account, many of these controls are built directly into Pinterest or your settings. For example, you can: Edit information in your profile, Link or unlink your Pinterest account from other services (like Facebook or Google), Edit secret board settings, and Close your account at any time. We also support settings such as tracking settings on iOS and Android devices.",
+      "before": "You have choices regarding your information on Pinterest. If you have a Pinterest account, many of these controls are built directly into Pinterest or your settings. For example, you can: Edit information in your profile, Link or unlink your Pinterest account from other services (like Facebook or Google), Edit secret board settings, and Close your account at any time. We also support settings such as Limit Ad Tracking in iOS and Ads Personalization in Android devices."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Pinterest Privacy Policy",
+  "removed_paragraphs": [
+    "Effective Date outside EEA, UK, and Switzerland: March 13, 2024",
+    "Effective Date in EEA, UK, and Switzerland: April 30, 2024"
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 8,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "third-party-sharing",
+    "regional-carveout",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2025-05-01",
+  "url": "https://policy.pinterest.com/en/privacy-policy"
+}

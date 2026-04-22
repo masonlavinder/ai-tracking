@@ -1,0 +1,33 @@
+{
+  "added_paragraphs": [],
+  "company_name": "discord",
+  "company_slug": "discord",
+  "date": "2024-11-01",
+  "from_date": "2024-10-01",
+  "id": "discord-privacy_policy-2024-10-01-2024-11-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries. If there is any conflict between the terms in our privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.",
+      "before": "Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Discord Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout"
+  ],
+  "to_date": "2024-11-01",
+  "url": "https://discord.com/privacy"
+}

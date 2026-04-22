@@ -1,6 +1,74 @@
 {
   "changes": [
     {
+      "added_count": 15,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2026-04-22",
+      "from_date": "2026-04-03",
+      "id": "spotify-privacy_policy-us-2026-04-03-2026-04-22",
+      "modified_count": 74,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 59,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-04-22",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
+      "added_count": 112,
+      "company_name": "paypal",
+      "company_slug": "paypal",
+      "date": "2026-04-22",
+      "from_date": "2024-11-01",
+      "id": "paypal-privacy_policy-us-2024-11-01-2026-04-22",
+      "modified_count": 36,
+      "policy_kind": "privacy_policy",
+      "policy_label": "PayPal Privacy Statement (US)",
+      "removed_count": 41,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-04-22",
+      "url": "https://www.paypal.com/us/legalhub/privacy-full"
+    },
+    {
+      "added_count": 10,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2026-04-22",
+      "from_date": "2026-03-01",
+      "id": "netflix-privacy_policy-2026-03-01-2026-04-22",
+      "modified_count": 78,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 18,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-restriction",
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-04-22",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
       "added_count": 98,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
@@ -69,6 +137,26 @@
       "url": "https://x.ai/legal/privacy-policy"
     },
     {
+      "added_count": 44,
+      "company_name": "discord",
+      "company_slug": "discord",
+      "date": "2026-04-01",
+      "from_date": "2026-03-01",
+      "id": "discord-privacy_policy-2026-03-01-2026-04-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Discord Privacy Policy",
+      "removed_count": 0,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-04-01",
+      "url": "https://discord.com/privacy"
+    },
+    {
       "added_count": 1,
       "company_name": "TikTok",
       "company_slug": "tiktok",
@@ -128,6 +216,44 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     },
     {
+      "added_count": 1,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2026-03-01",
+      "from_date": "2026-02-01",
+      "id": "tiktok-privacy_policy-us-2026-02-01-2026-03-01",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (US)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2026-03-01",
+      "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+    },
+    {
+      "added_count": 1,
+      "company_name": "discord",
+      "company_slug": "discord",
+      "date": "2026-03-01",
+      "from_date": "2026-02-01",
+      "id": "discord-privacy_policy-2026-02-01-2026-03-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Discord Privacy Policy",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2026-03-01",
+      "url": "https://discord.com/privacy"
+    },
+    {
       "added_count": 2,
       "company_name": "TikTok",
       "company_slug": "tiktok",
@@ -183,6 +309,53 @@
       ],
       "to_date": "2026-02-03",
       "url": "https://www.anthropic.com/legal/privacy"
+    },
+    {
+      "added_count": 36,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2026-02-01",
+      "from_date": "2026-01-01",
+      "id": "tiktok-privacy_policy-us-2026-01-01-2026-02-01",
+      "modified_count": 37,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (US)",
+      "removed_count": 42,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "ai-training-restriction",
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-02-01",
+      "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+    },
+    {
+      "added_count": 60,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2026-02-01",
+      "from_date": "2026-01-01",
+      "id": "netflix-privacy_policy-2026-01-01-2026-02-01",
+      "modified_count": 6,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 10,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-02-01",
+      "url": "https://help.netflix.com/legal/privacy"
     },
     {
       "added_count": 52,
@@ -265,6 +438,26 @@
       ],
       "to_date": "2025-12-04",
       "url": "https://www.anthropic.com/legal/privacy"
+    },
+    {
+      "added_count": 10,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2025-12-01",
+      "from_date": "2025-11-01",
+      "id": "netflix-privacy_policy-2025-11-01-2025-12-01",
+      "modified_count": 6,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 60,
+      "score": 8,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout"
+      ],
+      "to_date": "2025-12-01",
+      "url": "https://help.netflix.com/legal/privacy"
     },
     {
       "added_count": 0,
@@ -467,6 +660,70 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     },
     {
+      "added_count": 8,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2025-09-01",
+      "from_date": "2025-08-01",
+      "id": "spotify-privacy_policy-us-2025-08-01-2025-09-01",
+      "modified_count": 3,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 1,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2025-09-01",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
+      "added_count": 20,
+      "company_name": "samsung",
+      "company_slug": "samsung",
+      "date": "2025-09-01",
+      "from_date": "2025-08-01",
+      "id": "samsung-privacy_policy-us-2025-08-01-2025-09-01",
+      "modified_count": 43,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Samsung Privacy Policy (US)",
+      "removed_count": 7,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-09-01",
+      "url": "https://www.samsung.com/us/account/privacy-policy/"
+    },
+    {
+      "added_count": 2,
+      "company_name": "discord",
+      "company_slug": "discord",
+      "date": "2025-09-01",
+      "from_date": "2025-08-01",
+      "id": "discord-privacy_policy-2025-08-01-2025-09-01",
+      "modified_count": 14,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Discord Privacy Policy",
+      "removed_count": 47,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "encryption-change"
+      ],
+      "to_date": "2025-09-01",
+      "url": "https://discord.com/privacy"
+    },
+    {
       "added_count": 5,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -506,6 +763,25 @@
       ],
       "to_date": "2025-08-05",
       "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 1,
+      "company_name": "samsung",
+      "company_slug": "samsung",
+      "date": "2025-08-01",
+      "from_date": "2025-07-01",
+      "id": "samsung-privacy_policy-us-2025-07-01-2025-08-01",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Samsung Privacy Policy (US)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2025-08-01",
+      "url": "https://www.samsung.com/us/account/privacy-policy/"
     },
     {
       "added_count": 22,
@@ -691,6 +967,26 @@
       "url": "https://openai.com/policies/row-terms-of-use/"
     },
     {
+      "added_count": 4,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2025-06-02",
+      "from_date": "2025-05-02",
+      "id": "spotify-privacy_policy-us-2025-05-02-2025-06-02",
+      "modified_count": 8,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 1,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing"
+      ],
+      "to_date": "2025-06-02",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
       "added_count": 1,
       "company_name": "Reddit",
       "company_slug": "reddit",
@@ -817,6 +1113,49 @@
       "url": "https://x.ai/legal/privacy-policy"
     },
     {
+      "added_count": 3,
+      "company_name": "pinterest",
+      "company_slug": "pinterest",
+      "date": "2025-05-01",
+      "from_date": "2025-04-01",
+      "id": "pinterest-privacy_policy-2025-04-01-2025-05-01",
+      "modified_count": 13,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Pinterest Privacy Policy",
+      "removed_count": 2,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-05-01",
+      "url": "https://policy.pinterest.com/en/privacy-policy"
+    },
+    {
+      "added_count": 6,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2025-05-01",
+      "from_date": "2025-04-01",
+      "id": "netflix-privacy_policy-2025-04-01-2025-05-01",
+      "modified_count": 60,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 5,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-05-01",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
       "added_count": 44,
       "company_name": "Google",
       "company_slug": "google",
@@ -897,6 +1236,27 @@
       ],
       "to_date": "2025-04-01",
       "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 1,
+      "company_name": "snap",
+      "company_slug": "snap",
+      "date": "2025-04-01",
+      "from_date": "2025-03-01",
+      "id": "snap-privacy_policy-2025-03-01-2025-04-01",
+      "modified_count": 20,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Snap Privacy Policy",
+      "removed_count": 0,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "dm-private-content",
+        "minors"
+      ],
+      "to_date": "2025-04-01",
+      "url": "https://values.snap.com/privacy/privacy-policy"
     },
     {
       "added_count": 0,
@@ -1063,6 +1423,48 @@
       "url": "https://x.ai/legal/privacy-policy"
     },
     {
+      "added_count": 60,
+      "company_name": "snap",
+      "company_slug": "snap",
+      "date": "2025-02-01",
+      "from_date": "2025-01-01",
+      "id": "snap-privacy_policy-2025-01-01-2025-02-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Snap Privacy Policy",
+      "removed_count": 4,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "dm-private-content",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-02-01",
+      "url": "https://values.snap.com/privacy/privacy-policy"
+    },
+    {
+      "added_count": 1,
+      "company_name": "Apple",
+      "company_slug": "apple",
+      "date": "2025-02-01",
+      "from_date": "2025-01-01",
+      "id": "apple-privacy_policy-2025-01-01-2025-02-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Apple Privacy Policy",
+      "removed_count": 0,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-02-01",
+      "url": "https://www.apple.com/legal/privacy/en-ww/"
+    },
+    {
       "added_count": 11,
       "company_name": "Adobe",
       "company_slug": "adobe",
@@ -1104,6 +1506,47 @@
       ],
       "to_date": "2025-01-03",
       "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 60,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2025-01-02",
+      "from_date": "2024-12-01",
+      "id": "netflix-privacy_policy-2024-12-01-2025-01-02",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 10,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2025-01-02",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
+      "added_count": 0,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2025-01-01",
+      "from_date": "2024-12-01",
+      "id": "spotify-privacy_policy-us-2024-12-01-2025-01-01",
+      "modified_count": 3,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 3,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2025-01-01",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
     },
     {
       "added_count": 55,
@@ -1244,6 +1687,104 @@
       "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
     },
     {
+      "added_count": 0,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2024-11-01",
+      "from_date": "2024-10-01",
+      "id": "spotify-privacy_policy-us-2024-10-01-2024-11-01",
+      "modified_count": 5,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-11-01",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
+      "added_count": 2,
+      "company_name": "samsung",
+      "company_slug": "samsung",
+      "date": "2024-11-01",
+      "from_date": "2024-10-01",
+      "id": "samsung-privacy_policy-us-2024-10-01-2024-11-01",
+      "modified_count": 8,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Samsung Privacy Policy (US)",
+      "removed_count": 16,
+      "score": 8,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout"
+      ],
+      "to_date": "2024-11-01",
+      "url": "https://www.samsung.com/us/account/privacy-policy/"
+    },
+    {
+      "added_count": 10,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2024-11-01",
+      "from_date": "2024-10-01",
+      "id": "netflix-privacy_policy-2024-10-01-2024-11-01",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 60,
+      "score": 8,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-11-01",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
+      "added_count": 0,
+      "company_name": "discord",
+      "company_slug": "discord",
+      "date": "2024-11-01",
+      "from_date": "2024-10-01",
+      "id": "discord-privacy_policy-2024-10-01-2024-11-01",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Discord Privacy Policy",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout"
+      ],
+      "to_date": "2024-11-01",
+      "url": "https://discord.com/privacy"
+    },
+    {
+      "added_count": 4,
+      "company_name": "pinterest",
+      "company_slug": "pinterest",
+      "date": "2024-10-01",
+      "from_date": "2024-09-01",
+      "id": "pinterest-privacy_policy-2024-09-01-2024-10-01",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Pinterest Privacy Policy",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2024-10-01",
+      "url": "https://policy.pinterest.com/en/privacy-policy"
+    },
+    {
       "added_count": 14,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
@@ -1287,6 +1828,26 @@
       "url": "https://www.linkedin.com/legal/privacy-policy"
     },
     {
+      "added_count": 2,
+      "company_name": "Apple",
+      "company_slug": "apple",
+      "date": "2024-10-01",
+      "from_date": "2024-09-01",
+      "id": "apple-privacy_policy-2024-09-01-2024-10-01",
+      "modified_count": 6,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Apple Privacy Policy",
+      "removed_count": 1,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-10-01",
+      "url": "https://www.apple.com/legal/privacy/en-ww/"
+    },
+    {
       "added_count": 50,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -1309,6 +1870,64 @@
     },
     {
       "added_count": 1,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2024-09-01",
+      "from_date": "2024-08-01",
+      "id": "tiktok-privacy_policy-us-2024-08-01-2024-09-01",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (US)",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2024-09-01",
+      "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+    },
+    {
+      "added_count": 0,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2024-09-01",
+      "from_date": "2024-08-01",
+      "id": "spotify-privacy_policy-us-2024-08-01-2024-09-01",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2024-09-01",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
+      "added_count": 0,
+      "company_name": "samsung",
+      "company_slug": "samsung",
+      "date": "2024-09-01",
+      "from_date": "2024-08-01",
+      "id": "samsung-privacy_policy-us-2024-08-01-2024-09-01",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Samsung Privacy Policy (US)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2024-09-01",
+      "url": "https://www.samsung.com/us/account/privacy-policy/"
+    },
+    {
+      "added_count": 1,
       "company_name": "Reddit",
       "company_slug": "reddit",
       "date": "2024-09-01",
@@ -1325,6 +1944,28 @@
       ],
       "to_date": "2024-09-01",
       "url": "https://www.redditinc.com/policies/user-agreement"
+    },
+    {
+      "added_count": 75,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2024-09-01",
+      "from_date": "2024-08-03",
+      "id": "netflix-privacy_policy-2024-08-03-2024-09-01",
+      "modified_count": 13,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 33,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-09-01",
+      "url": "https://help.netflix.com/legal/privacy"
     },
     {
       "added_count": 6,
@@ -1391,6 +2032,27 @@
       "url": "https://www.anthropic.com/legal/privacy"
     },
     {
+      "added_count": 27,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2024-08-03",
+      "from_date": "2024-07-09",
+      "id": "netflix-privacy_policy-2024-07-09-2024-08-03",
+      "modified_count": 13,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 79,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-08-03",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
       "added_count": 23,
       "company_name": "X",
       "company_slug": "x",
@@ -1409,6 +2071,70 @@
       ],
       "to_date": "2024-08-01",
       "url": "https://x.com/en/privacy"
+    },
+    {
+      "added_count": 2,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2024-08-01",
+      "from_date": "2024-07-01",
+      "id": "tiktok-privacy_policy-us-2024-07-01-2024-08-01",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (US)",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2024-08-01",
+      "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+    },
+    {
+      "added_count": 2,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2024-08-01",
+      "from_date": "2024-07-01",
+      "id": "spotify-privacy_policy-us-2024-07-01-2024-08-01",
+      "modified_count": 26,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 38,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-08-01",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
+      "added_count": 104,
+      "company_name": "samsung",
+      "company_slug": "samsung",
+      "date": "2024-08-01",
+      "from_date": "2024-07-01",
+      "id": "samsung-privacy_policy-us-2024-07-01-2024-08-01",
+      "modified_count": 5,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Samsung Privacy Policy (US)",
+      "removed_count": 49,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-08-01",
+      "url": "https://www.samsung.com/us/account/privacy-policy/"
     },
     {
       "added_count": 22,
@@ -1464,6 +2190,27 @@
       "tags": [],
       "to_date": "2024-07-01",
       "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+    },
+    {
+      "added_count": 125,
+      "company_name": "spotify",
+      "company_slug": "spotify",
+      "date": "2024-07-01",
+      "from_date": "2024-06-01",
+      "id": "spotify-privacy_policy-us-2024-06-01-2024-07-01",
+      "modified_count": 51,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 36,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "data-retention-change",
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-07-01",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
     },
     {
       "added_count": 12,
@@ -1571,6 +2318,29 @@
       "url": "https://www.adobe.com/privacy/policy.html"
     },
     {
+      "added_count": 38,
+      "company_name": "pinterest",
+      "company_slug": "pinterest",
+      "date": "2024-06-01",
+      "from_date": "2024-05-01",
+      "id": "pinterest-privacy_policy-2024-05-01-2024-06-01",
+      "modified_count": 10,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Pinterest Privacy Policy",
+      "removed_count": 100,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-06-01",
+      "url": "https://policy.pinterest.com/en/privacy-policy"
+    },
+    {
       "added_count": 49,
       "company_name": "Anthropic",
       "company_slug": "anthropic",
@@ -1629,12 +2399,34 @@
       "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
     },
     {
+      "added_count": 192,
+      "company_name": "netflix",
+      "company_slug": "netflix",
+      "date": "2024-05-01",
+      "from_date": "2024-04-08",
+      "id": "netflix-privacy_policy-2024-04-08-2024-05-01",
+      "modified_count": 18,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 156,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2024-05-01",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
       "added_count": 10,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
       "date": "2024-05-01",
-      "from_date": "2024-04-06",
-      "id": "microsoft-privacy_policy-2024-04-06-2024-05-01",
+      "from_date": "2024-04-08",
+      "id": "microsoft-privacy_policy-2024-04-08-2024-05-01",
       "modified_count": 11,
       "policy_kind": "privacy_policy",
       "policy_label": "Microsoft Privacy Statement",
@@ -1646,6 +2438,25 @@
       ],
       "to_date": "2024-05-01",
       "url": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
+      "added_count": 0,
+      "company_name": "discord",
+      "company_slug": "discord",
+      "date": "2024-05-01",
+      "from_date": "2024-04-08",
+      "id": "discord-privacy_policy-2024-04-08-2024-05-01",
+      "modified_count": 3,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Discord Privacy Policy",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2024-05-01",
+      "url": "https://discord.com/privacy"
     },
     {
       "added_count": 3,
@@ -1667,6 +2478,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-04-22T01:35:52.775621+00:00",
+  "generated_at": "2026-04-22T13:11:53.715881+00:00",
   "threshold": 4
 }

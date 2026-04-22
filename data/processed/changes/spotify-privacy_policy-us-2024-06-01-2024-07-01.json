@@ -1,0 +1,397 @@
+{
+  "added_paragraphs": [
+    "Your privacy is important. As of 27 June, we've updated our Privacy Policy to make it easier to read and include additional detail.",
+    "\u2022 through information provided to you as you use the Spotify Service",
+    "Request that we delete certain of your personal data.",
+    "\u2022 it\u2019s still necessary to process the data for the purpose we collected it for",
+    "\u2022 we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud",
+    "\u2022 Spotify has a legal obligation to keep the data, or",
+    "\u2022 Spotify needs the data to establish, exercise or defend legal claims. For example, if there\u2019s an unresolved issue relating to your account",
+    "\u2022 to remove audio content you have saved, select the relevant content and choose to remove it. For example you can remove a track from your playlist or remove an artist you\u2019ve saved to your Library",
+    "\u2022 to request deletion of your account data from Spotify and close your account, follow the steps on our support page. This data includes your User Data, Usage Data and other data listed in Section 3 \u2018Personal data we collect about you\u2019",
+    "Request to opt out of the processing of your personal data for tailored advertising.",
+    "For information about how to exercise the right to portability, see \u2018Know/Access\u2019 above.",
+    "Not be subject to automated decision making",
+    "Spotify does not carry out this type of automated decision making in the Spotify Service.",
+    "Withdraw your consent to us collecting or using your personal data.",
+    "\u2022 adjust the relevant control on Spotify",
+    "You may designate, in writing or through a power of attorney (in accordance with local law), an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us.",
+    "If your request is denied you may have the right to appeal the denial in accordance with the instructions provided to you when the denial was made.",
+    "- You can also visit our services via a browser with a recognized opt-out preference signal enabled, such as the Global Privacy Control (GPC). If you use a preference signal you may need to renew your preferences if you visit the Spotify Service with another device or browser, or if you clear your cookies.",
+    "Collected when you sign up for the Spotify Service",
+    "Characteristics of protected classifications under California or U.S. law (i.e., your age and gender)",
+    "Personal data that we need to create your Spotify account and that enables you to use the Spotify Service.",
+    "The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:",
+    "\u2022 street address (see further details below)",
+    "\u2022 university/college (for Spotify Premium Student)",
+    "We receive some of this data from you e.g. from the sign up form or account page.",
+    "We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see \u2018Your general (non-precise) location\u2019 in the Usage Data category.",
+    "We may ask for and process your street address for the following reasons:",
+    "\u2022 to check eligibility for a Service Option",
+    "\u2022 to deliver notices which are required by law",
+    "\u2022 to deliver physical goods or gifts which you have requested",
+    "In some cases, we may use a third party application to help you verify your address, such as Google Maps.",
+    "Collected through your use of the Spotify Service",
+    "Internet or other electronic network activity information;",
+    "Geolocation data (i.e.,your non-precise location as derived from your IP address);",
+    "Personal data collected and processed about you when you\u2019re accessing or using the Spotify Service.",
+    "There are a few types of information this includes, listed in the following sections.",
+    "\u2022 information about your Spotify Service Option",
+    "\u2022 your actions with the Spotify Service (including date and time), such as:",
+    "\u25e6 your use of third party services, devices and applications in connection with the Spotify Service",
+    "\u2022 inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service",
+    "\u2022 content you provide when participating in Spotify promotions, such as contests or sweepstakes",
+    "\u2022 content you post to any part of the Spotify Service. For example: images, audio, text, titles, descriptions, communications, and other types of content",
+    "\u2022 information about the devices you use such as:",
+    "\u25e6 network connection type (e.g. wifi, 4G, LTE, Bluetooth)",
+    "\u25e6 information enabling digital rights management",
+    "\u2022 information which enables us to discover and connect with third party devices and applications. Examples of this information are the device name, device identifiers, brand and version. Examples of third party devices and applications are:",
+    "\u25e6 devices on your wifi network (such as speakers) which can connect to the Spotify Service",
+    "\u25e6 devices your operating system makes available when connecting via Bluetooth, plugin, and installation",
+    "\u25e6 Spotify partner applications to determine whether the application is installed on your device",
+    "Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency.",
+    "\u2022 meet geographic requirements in our agreements with the owners of content on the Spotify Service",
+    "\u2022 deliver content and advertising that\u2019s relevant to you",
+    "Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device.",
+    "Additional data you may choose to give us",
+    "If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data.",
+    "The exact personal data collected and used will vary depending on the payment method. It will include information such as:",
+    "\u2022 payment method type (e.g. credit or debit card)",
+    "\u2022 if using a debit or credit card, the card type, expiration date, and certain digits of your card number",
+    "Note: For security, we never store your full card number",
+    "\u2022 details of your purchase and payment history",
+    "When you respond to a survey or take part in user research, we collect and use the personal data you provide as described in the survey or research.",
+    "Third party applications, services and devices you connect to your Spotify account",
+    "These third party apps, services or devices may include:",
+    "\u2022 services or platforms such as voice assistants or content platforms",
+    "We\u2019ll ask your permission before we collect your information from certain third parties.",
+    "This makes it possible for Spotify to provide the Spotify Service, content, and features.",
+    "We also work with security service providers who help us protect user accounts.",
+    "\u2022 analyze the effectiveness of our partnership with these merchant partners",
+    "This allows us to deliver more relevant ads and marketing.",
+    "Categories of personal data used for the purpose",
+    "For example, when we use your personal data to:",
+    "\u2022 provide the Spotify app when you download it onto your device,",
+    "\u2022 enable you to share a link to Spotify content with someone else, or",
+    "\u2022 provide various optional features of the Spotify Service",
+    "To diagnose, troubleshoot, and fix issues with the Spotify Service.",
+    "To evaluate and develop new features, technologies, and improvements to the Spotify Service.",
+    "\u2022 we use personal data to develop and improve our personalized recommendation algorithms",
+    "\u2022 we analyze how our users react to a particular new feature and see whether we should make any changes",
+    "\u2022 when we use your personal data to tailor advertising to your interests, or",
+    "To comply with a legal obligation that we are subject to.",
+    "\u2022 an obligation under the law of the country / region you are in",
+    "\u2022 Swedish law (because of our headquarters in Sweden), or",
+    "For example, when we use your date of birth when required for age verification purposes.",
+    "To comply with a request from law enforcement, courts, or other competent authorities.",
+    "To fulfill contractual obligations with third parties.",
+    "For example, when we provide pseudonymized data about our users\u2019 listening because we have an agreement with a Spotify rightsholder to do so.",
+    "Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information.",
+    "To take appropriate action with reports of intellectual property infringement and inappropriate content.",
+    "To establish, exercise, or defend legal claims.",
+    "For example, if we are involved in litigation, we need to provide information to our lawyers in relation to that legal case.",
+    "To conduct business planning, reporting, and forecasting.",
+    "For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in.",
+    "For example, when we use your personal data to let you purchase a Spotify subscription.",
+    "To keep the Spotify Service secure and to detect and prevent fraud.",
+    "For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service.",
+    "For example, when we contact our users to ask for your feedback.",
+    "Examples of such third party applications, services and devices include:",
+    "To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify.",
+    "So they can provide their services to Spotify.",
+    "\u2022 operate the technical infrastructure we need to provide the Spotify Service",
+    "\u2022 assist in protecting and securing our systems and services (e.g. Google\u2019s reCAPTCHA)",
+    "\u2022 help market Spotify\u2019s (and our partners\u2019) products, services, events and promotions",
+    "\u2022 verify your eligibility for certain types of Service Options (e.g., Spotify Premium Student)",
+    "For example, our ad partners help us facilitate tailored advertising.",
+    "With respect to Spotify Service users under the age of 16, we do not disclose personal data to advertising partners by default.",
+    "\u2022 enable you to participate in Spotify promotions, including trials or other bundled offers",
+    "\u2022 to promote Spotify in media and advertising published on other online services",
+    "\u2022 help us and our partners to measure the effectiveness of Spotify promotions",
+    "\u2022 websites and mobile apps who sell us advertising space on their services",
+    "\u2022 device, app and mobile partners who also offer Spotify promotions",
+    "With respect to Spotify Service users under the age of 16, we do not disclose personal data to marketing partners by default.",
+    "Podcast providers should explain in the show or episode description which platform is hosting the podcast. See the hosting platform\u2019s own privacy policy for how they use data disclosed to them.",
+    "\u2022 enabling our employees who work for different group companies to develop and improve features for the Spotify Service",
+    "\u2022 disclosing data to our measurement companies to measure the effectiveness of ad campaigns that run on the Spotify Service",
+    "\u2022 disclosing data to our podcast companies to better understand user listening trends",
+    "\u2022 to respond to a valid legal process (such as a search warrant, court order, or subpoena)",
+    "\u2022 for our own or a third party\u2019s justifiable interest, relating to:",
+    "\u25e6 preventing death or imminent bodily harm",
+    "If we were to sell or negotiate to sell our business to a buyer or possible buyer.",
+    "- *Data that expires after a specific period of time",
+    "- *Data retained until your Spotify account is deleted",
+    "- *Data retained for extended time periods for limited purposes",
+    "The following chart contains statistics about global requests we received from users between 1 January and 31 December 2023:",
+    "Request to Opt-Out of Data Sharing for Tailored Ads",
+    "*Adjustments in the user account within the Service made either by the user themselves or aided by customer services are not counted as correction requests (e.g., user updated their display name)"
+  ],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2024-07-01",
+  "from_date": "2024-06-01",
+  "id": "spotify-privacy_policy-us-2024-06-01-2024-07-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "- the personalization of your user experience. Watch our personalization explainer video to learn more about this.",
+      "before": "- the personalization of your user experience. Watch our personalization explainer video to learn more about this"
+    },
+    {
+      "after": "From time to time, we may develop new or offer additional services. They'll also be subject to this Policy, unless stated otherwise when we introduce them. IIf you reside in California, our supplemental California Notice at Collection, applies in addition to this Policy.",
+      "before": "From time to time, we may develop new or offer additional services. They'll also be subject to this Policy, unless stated otherwise when we introduce them. In some cases, we may provide different or additional policies or notices about our information practices. For example, if you reside in California, Colorado, Connecticut, Utah or Virginia, our Supplemental U.S. State Privacy Notice applies in addition to this Policy."
+    },
+    {
+      "after": "- about your use of other Spotify services which have their own privacy policy, such as Megaphone.",
+      "before": "- about your use of other Spotify services which have their own privacy policy. Other Spotify services include Anchor and Megaphone."
+    },
+    {
+      "after": "- Safety & Privacy Center: A user-friendly hub with summaries of key topics and helpful videos. It includes the 'Your Privacy Controls' video which shows you how to exercise your user rights and make choices about the way we process your data. See Section 2 'Your personal data rights and controls' for more on user rights.",
+      "before": "- Privacy Center: A user-friendly hub with summaries of key topics and helpful videos. It includes the 'Your Privacy Controls' video which shows you how to exercise your user rights and make choices about the way we process your data. See Section 2 'Your personal data rights and controls' for more on user rights."
+    },
+    {
+      "after": "You can also watch our video about Your Privacy Controls. You will not receive discriminatory treatment for exercising any of your privacy rights.",
+      "before": "You can also watch our video about Your Privacy Controls."
+    },
+    {
+      "after": "Be informed of the personal data we process about you and how we process it.",
+      "before": "| Be informed | Be informed of the personal data we process about you and how we process it. | We inform you:"
+    },
+    {
+      "after": "Request to know and access the personal data we process about you.",
+      "before": "| Know/Access | Request to know and access the personal data we process about you. |"
+    },
+    {
+      "after": "When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more information about how we process your personal data, you can contact us.",
+      "before": "When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more information about how we process your personal data, you can contact us. |"
+    },
+    {
+      "after": "Request that we amend or update your personal data where it\u2019s inaccurate.",
+      "before": "| Correction | Request that we amend or update your personal data where it\u2019s inaccurate. | You can edit your User Data under \u2018Edit profile\u2019 in your account or by contacting us. |"
+    },
+    {
+      "after": "Please note there are situations where Spotify is unable to delete your data, for example when:",
+      "before": "| Deletion | Request that we delete certain of your personal data. Please note there are situations where Spotify is unable to delete your data, for example when:"
+    },
+    {
+      "after": "For more information about our processing for these purposes, see the section \u2018Tailored advertising controls\u2019 below.",
+      "before": "| Right to Opt-Out | Request to opt out of the processing of your personal data for \u2018sharing\u2019 or \u2018targeted advertising\u2019 purposes, as defined under certain privacy laws. For more information about our processing for these purposes, see the section \u2018Tailored advertising controls\u2019 below. |"
+    },
+    {
+      "after": "Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party\u2019s service.",
+      "before": "| Data portability | Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party\u2019s service. | For information about how to exercise the right to portability, see \u2018Know/Access\u2019 above. |"
+    },
+    {
+      "after": "Not be subject to a decision based solely on automated decision making (decisions without human involvement), including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.",
+      "before": "| Not be subject to automated decision making | Not be subject to a decision based solely on automated decision making (decisions without human involvement), including profiling, where the decision would have a legal effect on you or produce a similarly significant effect. | Spotify does not carry out this type of automated decision making in the Spotify Service. |"
+    },
+    {
+      "after": "You can do this if Spotify is processing your personal data solely based on your consent.",
+      "before": "| Withdrawal of consent | Withdraw your consent to us collecting or using your personal data. You can do this if Spotify is processing your personal data solely based on your consent. |"
+    },
+    {
+      "after": "To verify a request to know, request to delete, and request to correct, we ask you to provide certain details related to your Spotify account. Please note, if you do not have a Spotify account we will not have enough information about you to verify your identity and respond to your requests, as we do not keep sufficient information necessary to re-identify and link you to a prior visit to the Spotify Service where data may have been collected. As such, we will be unable to verify and honor your requests.",
+      "before": "To verify a consumer request to know, request to delete, and request to correct, we ask you to provide certain details related to your Spotify account. Please note, if you do not have a Spotify account we will not have enough information about you to verify your identity and respond to your requests, as we do not keep sufficient information necessary to re-identify and link you to a prior visit to the Spotify Service where data may have been collected. As such, we will be unable to verify and honor your requests."
+    },
+    {
+      "after": "- This is when we use information about your use of our services and other websites and mobile apps to tailor ads to be more relevant to you. This is also known as interest based advertising, targeted advertising, or 'sharing' for purposes of cross-context behavioral advertising.",
+      "before": "- This is when we use information about your use of our Services and other websites and mobile apps to tailor ads to be more relevant to you. This is also known as interest based advertising, targeted advertising, or 'sharing' for purposes of cross-context behavioral advertising."
+    },
+    {
+      "after": "- An example of tailored advertising is when an advertising partner provides us with information indicating that you may be interested in cars. This could enable us to show you ads about cars.",
+      "before": "- An example of tailored advertising is when an advertising partner has information suggesting you like cars. This could enable us to show you ads about cars."
+    },
+    {
+      "after": "- If you do not have an account or are not logged in, you can also opt-out by clicking the 'Your Privacy Choices' link at the footer of our website.",
+      "before": "- If you do not have an account or are not logged in, you can also opt-out by clicking the 'Your Privacy Choices' link at the footer of our website"
+    },
+    {
+      "after": "If you are 'opted out' of tailored advertising in your Privacy Settings, you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.",
+      "before": "If you are 'opted out' of Tailored Ads in your Privacy Settings, you may still get advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor."
+    },
+    {
+      "after": "- Younger users may have tailored advertising turned off by default. When you reach the appropriate age, you will start to receive tailored advertising . When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the Privacy Settings where you can change your preferences or 'opt-out' of tailored advertising at any time under Tailored Ads.",
+      "before": "- You will start to receive Tailored Ads once you reach the appropriate age for your country. When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the Privacy Settings where you can change your preferences or 'opt-out' of Tailored Ads at any time."
+    },
+    {
+      "after": "Third party sources that we receive your data from",
+      "before": "| Third party sources that we receive your data from | ||"
+    },
+    {
+      "after": "If you register for or log into the Spotify Service using another service, that service will send your information to us. This information helps create your account with us.",
+      "before": "| Authentication partners | If you register for or log into the Spotify Service using another service, that service will send your information to us. This information helps create your account with us. | User Data |"
+    },
+    {
+      "after": "If you connect your Spotify account to a third party application, service or device, we may collect and use information from them. This collection is to make the integration possible.",
+      "before": "| Third party applications, services and devices you connect to your Spotify account | If you connect your Spotify account to a third party application, service or device, we may collect and use information from them. This collection is to make the integration possible. These third party apps, services or devices may include:"
+    },
+    {
+      "after": "We work with technical service partners that give us certain data. This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state).",
+      "before": "| Technical service partners | We work with technical service partners that give us certain data. This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state). This makes it possible for Spotify to provide the Spotify Service, content, and features. We also work with security service providers who help us protect user accounts. |"
+    },
+    {
+      "after": "If you choose to pay through third parties (e.g. telco carriers) or by invoice, we may get data from our payment partners.",
+      "before": "| Payment partners and Merchants | If you choose to pay through third parties (e.g. telco carriers) or by invoice, we may get data from our payment partners. This allows us to:"
+    },
+    {
+      "after": "If we direct you to a merchant, we receive data from the merchant that is related to your purchase. For example, we might direct you to an artist\u2019s merchandise store on a third party platform or to a third party ticketing website.",
+      "before": "If we direct you to a merchant, we receive data from the merchant that is related to your purchase. For example, we might direct you to an artist\u2019s merchandise store on a third party platform or to a third party ticketing website. Receiving this data allows us to:"
+    },
+    {
+      "after": "We receive inferences from certain advertising or marketing partners. These inferences are the partners\u2019 understanding of your interests and preferences.",
+      "before": "| Advertising and marketing partners | We receive inferences from certain advertising or marketing partners. These inferences are the partners\u2019 understanding of your interests and preferences. This allows us to deliver more relevant ads and marketing. |"
+    },
+    {
+      "after": "We may receive data about you from companies we acquire. This is to enhance our services, products, and offerings.",
+      "before": "| Acquired companies | We may receive data about you from companies we acquire. This is to enhance our services, products, and offerings. | User DataUsage Data |"
+    },
+    {
+      "after": "Categories of data you can choose to share",
+      "before": "Categories of data you can choose to share | Reason for choosing to share |"
+    },
+    {
+      "after": "Third party applications, services and devices you connect to your Spotify account",
+      "before": "| Third party applications, services and devices you connect to your Spotify account |"
+    },
+    {
+      "after": "To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.",
+      "before": "To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices. Examples of such third party applications, services and devices include:"
+    },
+    {
+      "after": "When you register for an account on the Spotify Support Community, we\u2019ll ask you to create a profile name. This will be publicly displayed to anyone who uses the Spotify Support Community. We\u2019ll also display any questions or comments you post.",
+      "before": "To enable you to use the Spotify Support Community service. When you register for an account on the Spotify Support Community, we\u2019ll ask you to create a profile name. This will be publicly displayed to anyone who uses the Spotify Support Community. We\u2019ll also display any questions or comments you post. |"
+    },
+    {
+      "after": "For example, under \u2018Social\u2019 settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity.",
+      "before": "To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify. For example, under \u2018Social\u2019 settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity. |"
+    },
+    {
+      "after": "To receive news or promotional offers from artists, record labels or other partners.",
+      "before": "To receive news or promotional offers from artists, record labels or other partners. You may choose to share your User Data for this purpose. You\u2019ll always have the option to change your mind and withdraw your consent at any time. |"
+    },
+    {
+      "after": "These service providers include those we hire to:",
+      "before": "So they can provide their services to Spotify. These service providers include those we hire to:"
+    },
+    {
+      "after": "So they can process your payments, and for anti-fraud purposes.",
+      "before": "So they can process your payments, and for anti-fraud purposes. |"
+    },
+    {
+      "after": "So they can help us deliver more relevant advertising to you on the Spotify Service, and help measure the effectiveness of ads.",
+      "before": "So they can help us deliver more relevant advertising to you on the Spotify Service, and help measure the effectiveness of ads. For example, our ad partners help us facilitate tailored advertising. With respect to Spotify Service users under the age of 16, we do not disclose personal data to advertising partners by default. |"
+    },
+    {
+      "after": "Our partners may also combine the personal data we disclose to them with other data they collect about you, e.g. your use of their services. We and our partners may use this information to present you with offers, promotions, or other marketing that we think you\u2019ll find relevant.",
+      "before": "Our partners may also combine the personal data we disclose to them with other data they collect about you, e.g. your use of their services. We and our partners may use this information to present you with offers, promotions, or other marketing that we think you\u2019ll find relevant. With respect to Spotify Service users under the age of 16, we do not disclose personal data to marketing partners by default. |"
+    },
+    {
+      "after": "For every event for which we sell tickets, we will need to disclose your name, email or other order details to our event partners such as ticketing agent or venue box office where the event is taking place so that you can check-in as a verifiable guest who purchased tickets through Spotify\u2019s ticketing platform.",
+      "before": "For every event for which we sell tickets, we will need to disclose your name, email or other order details to our event partners such as ticketing agent or venue box office where the event is taking place so that you can check-in as a verifiable guest who purchased tickets through Spotify\u2019s ticketing platform. |"
+    },
+    {
+      "after": "Hosting platforms host podcasts so that they can deliver them to you. We disclose certain data, such as your IP address, to the podcast hosting platforms when you play a podcast. We also allow you to stream podcasts available from other hosting platforms not owned by Spotify.",
+      "before": "Hosting platforms host podcasts so that they can deliver them to you. We disclose certain data, such as your IP address, to the hosting platforms when you play a podcast. We also allow you to stream podcasts available from other hosting platforms not owned by Spotify. Podcast providers should explain in the show or episode description which platform is hosting the podcast. See the hosting platform\u2019s own privacy policy for how they use data disclosed to them. |"
+    },
+    {
+      "after": "For activities such as statistical analysis and academic study, but only in a pseudonymized format.",
+      "before": "For activities such as statistical analysis and academic study, but only in a pseudonymized format. |"
+    },
+    {
+      "after": "Other Spotify group companies, including companies that Spotify acquires",
+      "before": "| Other Spotify group companies, including companies that Spotify acquires |"
+    },
+    {
+      "after": "To carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies\u2019 services to you.",
+      "before": "To carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies\u2019 services to you. For example:"
+    },
+    {
+      "after": "Law enforcement and other authorities, or other parties to litigation",
+      "before": "| Law enforcement and other authorities, or other parties to litigation |"
+    },
+    {
+      "after": "In this case, we may transfer your personal data to a successor or affiliate as part of that transaction.",
+      "before": "If we were to sell or negotiate to sell our business to a buyer or possible buyer. In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |"
+    },
+    {
+      "after": "You can also delete certain personal data directly from the Spotify Service: for example, you can edit or delete your profile picture. Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses unless one of the limited purposes described below applies.",
+      "before": "You can also delete certain personal data directly from the Spotify Service: for example, you can edit or delete your profile picture. Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses unless one of the limited purposes described below applies. - Data that expires after a specific period of time"
+    },
+    {
+      "after": "We have set certain retention periods so that some data expires after a specific period of time. For example, personal data you may input as part of search queries is generally deleted after 90 days.",
+      "before": "We have set certain retention periods so that some data expires after a specific period of time. For example, personal data you may input as part of search queries is generally deleted after 90 days. - Data retained until your Spotify account is deleted"
+    },
+    {
+      "after": "We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalized recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of data is deleted or de-identified.",
+      "before": "We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalized recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of data is deleted or de-identified. - Data retained for extended time periods for limited purposes"
+    },
+    {
+      "after": "After your account is deleted, we keep some data for a longer time period but for very limited purposes. For example, we may be subject to legal or contractual obligations that require this. These may include mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation. We may also keep data that has been removed from the Spotify Service for a limited period of time. This could be:",
+      "before": "After your account is deleted, we keep some data for a longer time period but for very limited purposes. For example, we may be subject to legal or contractual obligations that require this. These may include mandatory data retention laws, government orders to preserve data relevant to an investigation, or data kept for the purposes of litigation. We may also keep data that has been removed from the Spotify Service for a limited period of time. This could be:- to help ensure user safety, or"
+    },
+    {
+      "after": "It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them. Anyone else's use of your Spotify account may impact your personalized recommendations.",
+      "before": "It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them. Anyone else's use of your Spotify account may impact your personalized recommendations and be included in your data download."
+    },
+    {
+      "after": "Note: This Policy doesn't apply to Spotify Kids except where the Spotify Kids Privacy Policy says so. Spotify Kids is a separate Spotify application.",
+      "before": "Note: This Policy doesn't apply to Spotify Kids unless the Spotify Kids Privacy Policy says so. Spotify Kids is a separate Spotify application."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [
+    "You can exercise your right to opt out in your account Privacy Settings under \u2018Tailored Ads\u2019. If you do not have an account or are not logged in, you can also opt-out by clicking the 'Your Privacy Choices' link at the footer of our website. |",
+    "- The appropriate age for tailored advertising is determined by the country you are in and what rules apply to tailored advertising in that country. You will not receive Tailored Ads unless you have reached the appropriate age.",
+    "- You will not be able to 'opt-in' to Tailored Ads if you are under the appropriate age.",
+    "| Collected when you sign up for the Spotify Service or when you update your account | |",
+    "| User Data | Personal data that we need to create your Spotify account and that enables you to use the Spotify Service. The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:",
+    "We receive some of this data from you e.g. from the sign up form or account page. We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see \u2018Your general (non-precise) location\u2019 in the Usage Data category. |",
+    "| Street Address Data | We may ask for and process your street address for the following reasons:",
+    "In some cases, we may use a third party application to help you verify your address, such as Google Maps. |",
+    "| Collected through your use of the Spotify Service | |",
+    "Personal data collected and processed about you when you\u2019re accessing or using the Spotify Service. There are a few types of information this includes, listed in the following sections. Information about how you use Spotify Examples include:",
+    "Your general (non-precise) location Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency. We need this to:",
+    "Your device sensor data Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device. |",
+    "| Additional data you may choose to give us | |",
+    "| Payment and Purchase Data | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data. The exact personal data collected and used will vary depending on the payment method. It will include information such as:",
+    "| Survey and Research Data | When you respond to a survey or take part in user research, we collect and use the personal data you provide as described in the survey or research. |",
+    "| Categories of third parties | Description | Data categories |",
+    "| Purpose for processing your data | Categories of personal data used for the purpose |",
+    "| To provide the Spotify Service in accordance with our contract with you. For example, when we use your personal data to:",
+    "| To provide further parts of the Spotify Service. For example, when we use your personal data to enable you to share a link to Spotify content with someone else. |",
+    "| To provide certain additional voluntary features of the Spotify Service. When this is the case, we will clearly ask for your consent. |",
+    "| To diagnose, troubleshoot, and fix issues with the Spotify Service. |",
+    "| To evaluate and develop new features, technologies, and improvements to the Spotify Service. For example:",
+    "| For marketing or advertising where the law requires us to collect your consent. For example, when we use cookies to understand your interests or the law requires consent for email marketing. |",
+    "| For other marketing, promotion and advertising purposes where the law does not require consent. For example, when we use your personal data to tailor advertising to your interests. |",
+    "| To comply with a legal obligation that we are subject to. This might be:",
+    "For example, when we use your date of birth when required for age verification purposes. |",
+    "| To comply with a request from law enforcement, courts, or other competent authorities. |",
+    "| To fulfill contractual obligations with third parties. For example, when we provide pseudonymized data about our users\u2019 listening because we have an agreement with a Spotify rightsholder to do so. Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information. |",
+    "| To take appropriate action with reports of intellectual property infringement and inappropriate content. |",
+    "| To establish, exercise, or defend legal claims. For example, if we are involved in litigation and we need to provide information to our lawyers in relation to that legal case. |",
+    "| To conduct business planning, reporting, and forecasting. For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in. |",
+    "| To process your payment. For example, when we use your personal data to let you purchase a Spotify subscription. |",
+    "| To keep the Spotify Service secure and to detect and prevent fraud. For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. |",
+    "| To conduct research and surveys. For example, when we contact our users to ask for your feedback. |",
+    "You can see and remove many third party connections under \u2018Apps\u2019 in your account. |",
+    "| Categories of recipients | Categories of data | Reason for disclosing |"
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 6,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "data-retention-change",
+    "third-party-sharing",
+    "opt-out-mechanism"
+  ],
+  "to_date": "2024-07-01",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Apple",
+  "company_slug": "apple",
+  "date": "2025-08-01",
+  "from_date": "2025-07-01",
+  "id": "apple-privacy_policy-2025-07-01-2025-08-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Apple\u2019s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPR) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit Global CBPR Forum. To view our certifications, visit Global CBPR System Directory. For more information about the scope of our participation, or to submit a privacy inquiry through BBB National Programs, our Accountability Agent, click the official seals below.",
+      "before": "Apple\u2019s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPRs) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit Global CBPR Forum. To view our certifications, visit CBPR System Compliance Directory. For more information about the scope of our participation, or to submit a privacy inquiry through BBB National Programs, our Accountability Agent, visit:"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Apple Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-08-01",
+  "url": "https://www.apple.com/legal/privacy/en-ww/"
+}

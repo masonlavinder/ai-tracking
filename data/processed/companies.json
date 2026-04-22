@@ -74,18 +74,18 @@
     },
     {
       "homepage_url": "https://www.anthropic.com/",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Anthropic",
       "policies": [
         {
           "label": "Anthropic Privacy Policy",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy",
           "url": "https://www.anthropic.com/legal/privacy"
         },
         {
           "label": "Anthropic Consumer Terms",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "terms_of_service",
           "url": "https://www.anthropic.com/legal/consumer-terms"
         }
@@ -110,18 +110,18 @@
     },
     {
       "homepage_url": "https://about.google/",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Google",
       "policies": [
         {
           "label": "Google Generative AI Additional Terms",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "ai_terms",
           "url": "https://policies.google.com/terms/generative-ai"
         },
         {
           "label": "Google Privacy Policy",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy",
           "url": "https://policies.google.com/privacy"
         }
@@ -146,23 +146,24 @@
     },
     {
       "homepage_url": "https://www.microsoft.com/about",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Microsoft",
       "policies": [
         {
           "label": "Microsoft Privacy Statement",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy",
           "url": "https://privacy.microsoft.com/en-us/privacystatement"
         },
         {
           "label": "Microsoft Services Agreement",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "terms_of_service",
           "url": "https://www.microsoft.com/en-us/servicesagreement"
         }
       ],
       "recent_change_ids": [
+        "microsoft-terms_of_service-2026-04-21-2026-04-22",
         "microsoft-terms_of_service-2026-04-20-2026-04-21",
         "microsoft-terms_of_service-2026-04-19-2026-04-20",
         "microsoft-terms_of_service-2026-04-01-2026-04-19",
@@ -171,37 +172,40 @@
         "microsoft-terms_of_service-2026-02-01-2026-03-01",
         "microsoft-terms_of_service-2026-01-01-2026-02-01",
         "microsoft-terms_of_service-2025-12-01-2026-01-01",
-        "microsoft-terms_of_service-2025-11-01-2025-12-01",
-        "microsoft-terms_of_service-2025-10-01-2025-11-01"
+        "microsoft-terms_of_service-2025-11-01-2025-12-01"
       ],
       "sec_cik": "0000789019",
       "slug": "microsoft",
       "stock_url": "https://finance.yahoo.com/quote/MSFT",
       "ticker": "MSFT",
-      "total_changes": 18
+      "total_changes": 19
     },
     {
       "homepage_url": "https://www.apple.com/",
-      "latest_snapshot_date": "2026-04-20",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Apple",
       "policies": [
         {
           "label": "Apple Privacy Policy",
-          "latest_snapshot_date": "2026-04-20",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy",
           "url": "https://www.apple.com/legal/privacy/en-ww/"
         }
       ],
-      "recent_change_ids": [],
+      "recent_change_ids": [
+        "apple-privacy_policy-2025-07-01-2025-08-01",
+        "apple-privacy_policy-2025-01-01-2025-02-01",
+        "apple-privacy_policy-2024-09-01-2024-10-01"
+      ],
       "sec_cik": "0000320193",
       "slug": "apple",
       "stock_url": "https://finance.yahoo.com/quote/AAPL",
       "ticker": "AAPL",
-      "total_changes": 0
+      "total_changes": 3
     },
     {
       "homepage_url": "https://www.aboutamazon.com/",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Amazon",
       "policies": [
         {
@@ -212,7 +216,7 @@
         },
         {
           "label": "AWS Privacy Notice",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy-aws",
           "url": "https://aws.amazon.com/privacy/"
         }
@@ -237,18 +241,18 @@
     },
     {
       "homepage_url": "https://redditinc.com/",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Reddit",
       "policies": [
         {
           "label": "Reddit Privacy Policy",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy",
           "url": "https://www.redditinc.com/policies/privacy-policy"
         },
         {
           "label": "Reddit User Agreement",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "terms_of_service",
           "url": "https://www.redditinc.com/policies/user-agreement"
         }
@@ -269,18 +273,18 @@
     },
     {
       "homepage_url": "https://www.adobe.com/",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "Adobe",
       "policies": [
         {
           "label": "Adobe Generative AI User Guidelines",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "ai_terms",
           "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
         },
         {
           "label": "Adobe Privacy Policy",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy",
           "url": "https://www.adobe.com/privacy/policy.html"
         }
@@ -364,38 +368,40 @@
     },
     {
       "homepage_url": "https://www.tiktok.com/",
-      "latest_snapshot_date": "2026-04-21",
+      "latest_snapshot_date": "2026-04-22",
       "name": "TikTok",
       "policies": [
         {
           "label": "TikTok Privacy Policy (ROW)",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy-row",
           "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
         },
         {
           "label": "TikTok Privacy Policy (US)",
-          "latest_snapshot_date": "2026-04-21",
+          "latest_snapshot_date": "2026-04-22",
           "policy_id": "privacy_policy-us",
           "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
         }
       ],
       "recent_change_ids": [
         "tiktok-privacy_policy-row-2026-02-06-2026-03-12",
+        "tiktok-privacy_policy-us-2026-02-01-2026-03-01",
         "tiktok-privacy_policy-row-2025-12-04-2026-02-06",
+        "tiktok-privacy_policy-us-2026-01-01-2026-02-01",
         "tiktok-privacy_policy-row-2025-10-02-2025-11-21",
+        "tiktok-privacy_policy-us-2025-08-01-2025-09-01",
         "tiktok-privacy_policy-row-2025-06-13-2025-07-26",
         "tiktok-privacy_policy-row-2025-05-06-2025-06-13",
         "tiktok-privacy_policy-row-2024-10-01-2024-11-01",
-        "tiktok-privacy_policy-row-2024-09-01-2024-10-01",
-        "tiktok-privacy_policy-row-2024-06-02-2024-07-01"
+        "tiktok-privacy_policy-row-2024-09-01-2024-10-01"
       ],
       "sec_cik": null,
       "slug": "tiktok",
       "stock_url": null,
       "ticker": null,
-      "total_changes": 8
+      "total_changes": 13
     }
   ],
-  "generated_at": "2026-04-22T01:35:52.775621+00:00"
+  "generated_at": "2026-04-22T13:11:53.715881+00:00"
 }

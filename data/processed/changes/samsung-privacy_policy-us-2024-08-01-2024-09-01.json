@@ -1,0 +1,36 @@
+{
+  "added_paragraphs": [],
+  "company_name": "samsung",
+  "company_slug": "samsung",
+  "date": "2024-09-01",
+  "from_date": "2024-08-01",
+  "id": "samsung-privacy_policy-us-2024-08-01-2024-09-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "It is important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Services or changes in applicable law. We will post a notice on our website or on your device to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: https://www.samsung.com/us/account/privacy-policy.",
+      "before": "It is important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Services or changes in applicable law. We will post a notice on our website or on your device to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: https://account.samsung.com/membership/terms/privacypolicy."
+    },
+    {
+      "after": "California ResidentsIf you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at https://www.samsung.com/us/account/privacy-policy/california/.",
+      "before": "California ResidentsIf you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at www.samsung.com/us/account/privacy-policy/california."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Samsung Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2024-09-01",
+  "url": "https://www.samsung.com/us/account/privacy-policy/"
+}

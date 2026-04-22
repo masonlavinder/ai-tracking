@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [],
+  "company_name": "pinterest",
+  "company_slug": "pinterest",
+  "date": "2025-06-04",
+  "from_date": "2025-05-01",
+  "id": "pinterest-privacy_policy-2025-05-01-2025-06-04",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Pinterest Privacy Policy",
+  "removed_paragraphs": [
+    "If you live in the EEA, the UK, or Switzerland, here is some further information on our retention practices: We keep your information only so long as necessary for the purposes identified in this Privacy Policy, which include providing our Service, or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our Terms, to fight spam, or protecting or defending our rights, property and users. The storage periods are determined on a case-by-case basis. We keep account information, like your name, email address, and password, for as long as your account is in existence because we need it to operate your account."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-06-04",
+  "url": "https://policy.pinterest.com/en/privacy-policy"
+}

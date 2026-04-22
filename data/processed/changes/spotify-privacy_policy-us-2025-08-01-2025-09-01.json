@@ -1,0 +1,51 @@
+{
+  "added_paragraphs": [
+    "Your privacy is important. As of 27 August 2025 we\u2019ve updated our Privacy Policy to include additional detail about our data processing.",
+    "- turn off messaging with other users (if messaging is available in your market)",
+    "If messaging is available in your market and where you\u2019ve chosen to use messaging, we collect and process message data. Message data means text or other content you send directly to another user.",
+    "Age Check Data is the data you provide if you use an Age Check powered by a third party provider on Spotify (\u201cAge Check\u201d). This includes:",
+    "Where Age Check Data is collected, we will obtain your consent and provide notice of the third party policies that apply to the processing of such data. All Age Check Data is deleted immediately after the Age Check.",
+    "We receive some of the data mentioned above from third parties. The below table describes the categories of those third parties.",
+    "\u2022 provide an age-appropriate experience, or",
+    "- Age Check Data is deleted immediately after your Age Check is complete."
+  ],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2025-09-01",
+  "from_date": "2025-08-01",
+  "id": "spotify-privacy_policy-us-2025-08-01-2025-09-01",
+  "llm_summary": "Spotify's Privacy Policy has been updated to provide more details about data processing, particularly regarding messaging features and age verification. Users can now choose to turn off messaging with other users, and if messaging is used, Spotify will collect and process message data. Additionally, the policy clarifies that Age Check Data will be deleted immediately after use and that consent will be obtained for its collection.",
+  "modified_paragraphs": [
+    {
+      "after": "Collected when you sign up for the Spotify Service or when you update your account",
+      "before": "| Collected when you sign up for the Spotify Service or when you update your account | |"
+    },
+    {
+      "after": "Additional data you may choose to give us",
+      "before": "| Additional data you may choose to give us | |"
+    },
+    {
+      "after": "Categories of personal data used for the purpose |",
+      "before": "Categories of personal data used for the purpose"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [
+    "You can also watch our video about Personal Data at Spotify."
+  ],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2025-09-01",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

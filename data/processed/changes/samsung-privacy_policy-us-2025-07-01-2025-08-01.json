@@ -1,0 +1,34 @@
+{
+  "added_paragraphs": [
+    "Privacy OfficeSamsung Electronics America, Inc."
+  ],
+  "company_name": "samsung",
+  "company_slug": "samsung",
+  "date": "2025-08-01",
+  "from_date": "2025-07-01",
+  "id": "samsung-privacy_policy-us-2025-07-01-2025-08-01",
+  "llm_summary": "Samsung updated its Privacy Policy by adding a specific mention of the Privacy Office for Samsung Electronics America, Inc. Additionally, the address for privacy inquiries was modified to include a URL without changing the content. There were no removals or other substantive changes noted in the document.",
+  "modified_paragraphs": [
+    {
+      "after": "https://privacypost.sea.samsung.com/ccpa/privacy-inquiries",
+      "before": "Ridgefield Park, NJ 07660 https://privacypost.sea.samsung.com/ccpa/privacy-inquiries"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Samsung Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2025-08-01",
+  "url": "https://www.samsung.com/us/account/privacy-policy/"
+}

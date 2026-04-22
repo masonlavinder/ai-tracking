@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [],
+  "company_name": "spotify",
+  "company_slug": "spotify",
+  "date": "2025-11-01",
+  "from_date": "2025-10-01",
+  "id": "spotify-privacy_policy-us-2025-10-01-2025-11-01",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "removed_paragraphs": [
+    "Your privacy is important. As of 27 August 2025 we\u2019ve updated our Privacy Policy to include additional detail about our data processing."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2025-11-01",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

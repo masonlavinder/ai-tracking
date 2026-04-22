@@ -1,0 +1,52 @@
+{
+  "added_paragraphs": [
+    "Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)"
+  ],
+  "company_name": "snap",
+  "company_slug": "snap",
+  "date": "2024-06-01",
+  "from_date": "2024-05-01",
+  "id": "snap-privacy_policy-2024-05-01-2024-06-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "This section explains how we use the information we collect. Among other things, we use the information we collect to provide you with personalized products and Services that we work hard to build and improve. Below, we walk through each purpose for which we use information in detail. If you\u2019d like to see a mapping of the data we collect with the purposes for which we collect it, we have a table here.",
+      "before": "This section explains how we use the information we collect. Among other things, we use the information we collect to provide you with personalized products and Services that we work hard to build and improve. Below, we walk through each purpose for which we use information in detail. If you\u2019d like to see a mapping of the data we collect with the purposes for which we collect it, we have a table here. Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)"
+    },
+    {
+      "after": "For example, if you watch a lot of sports content, but skip content with hair and makeup tips, our recommendation algorithms will prioritize sports, but not those makeup tips. You can learn more about how we understand Snapchatter preferences and rank and moderate content here.",
+      "before": "For example, if you watch a lot of sports content, but skip content with hair and makeup tips, our recommendation algorithms will prioritize sports, but not those makeup tips. You can learn more about how we understand Snapchatter preferences and rank and moderate content"
+    },
+    {
+      "after": "Another way we provide a personalized Service is through the ads we show. We use your interests and preferences from the information we\u2019ve collected to personalize, target, and measure ads. We think ads are best when they\u2019re relevant. That\u2019s why we try to select the right ads and show them to you at the right time. For example, if you\u2019ve interacted with ads for video games, we will infer that you like video games, and show you similar ads, but those won\u2019t be the only ads you see. Similar to our content strategy, we try to ensure you receive a variety of ads. We also use your information to avoid showing you ads you probably won\u2019t be interested in. For example, if a ticketing site tells us you\u2019ve previously bought tickets for a movie \u2014 we can stop showing you ads for it. You can learn about the different types of advertising and your choices about which ads you receive here.",
+      "before": "Another way we provide a personalized Service is through the ads we show. We use your interests and preferences from the information we\u2019ve collected to personalize, target, and measure ads. We think ads are best when they\u2019re relevant. That\u2019s why we try to select the right ads and show them to you at the right time. For example, if you\u2019ve interacted with ads for video games, we will infer that you like video games, and show you similar ads, but those won\u2019t be the only ads you see. Similar to our content strategy, we try to ensure you receive a variety of ads. We also use your information to avoid showing you ads you probably won\u2019t be interested in. For example, if a ticketing site tells us you\u2019ve previously bought tickets for a movie \u2014 we can stop showing you ads for it. You can learn about the different types of advertising and your choices about which ads you receive"
+    },
+    {
+      "after": "You can learn more about how we collect, use, and share your information for advertising purposes here.",
+      "before": "You can learn more about how we collect, use, and share your information for advertising purposes"
+    },
+    {
+      "after": "A note about information collected by cookies and other technologies: we may use these technologies to collect information when you interact with Services we offer through one of our partners. For example, we may use information collected on an advertiser\u2019s website to show you more relevant ads. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our Services. To learn more about how we and our partners use cookies on our Services and your choices, please check out our Cookie Policy.",
+      "before": "information collected by cookies and other technologies: we may use these technologies to collect information when you interact with Services we offer through one of our partners. For example, we may use information collected on an advertiser\u2019s website to show you more relevant ads. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our Services. To learn more about how we and our partners use cookies on our Services and your choices, please check out our"
+    },
+    {
+      "after": "We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our Transparency Report to learn more.",
+      "before": "We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Snap Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2024-06-01",
+  "url": "https://values.snap.com/privacy/privacy-policy"
+}
