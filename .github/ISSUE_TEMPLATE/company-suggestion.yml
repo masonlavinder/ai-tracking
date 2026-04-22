@@ -1,0 +1,64 @@
+name: Suggest a company to track
+description: Propose a company whose privacy or AI-data policies should be monitored on Nazar Watch.
+title: "Suggest: <company name>"
+labels: ["company-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a company. Nazar Watch focuses on firms whose
+        privacy and AI-data policies materially affect large numbers of
+        everyday users. Before filing, please scroll the home page to
+        confirm the company isn't already tracked.
+
+  - type: input
+    id: company-name
+    attributes:
+      label: Company name
+      placeholder: e.g. DoorDash
+    validations:
+      required: true
+
+  - type: input
+    id: privacy-url
+    attributes:
+      label: Canonical privacy policy URL
+      description: The stable, public URL of the company's primary privacy policy.
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: secondary-url
+    attributes:
+      label: Additional policy URL (optional)
+      description: Terms of service, AI-specific terms, or a regional variant — whichever is most relevant.
+      placeholder: https://...
+
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker / jurisdiction (optional)
+      description: Stock ticker if public, or country if it's a foreign issuer / private company.
+      placeholder: e.g. DASH, or "private (US)"
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why this company affects average people
+      description: |
+        One paragraph is fine. Mention scale (users / accounts) and the
+        nature of the data or AI feature involved.
+      placeholder: e.g. ~40M monthly active users; processes payment data and uses ML-driven risk scoring.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission checks
+      options:
+        - label: I checked the home page and the company isn't already tracked.
+          required: true
+        - label: The privacy policy URL I provided resolves to a public page (no login / paywall).
+          required: true

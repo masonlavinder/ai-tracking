@@ -172,17 +172,42 @@ export function Home() {
           <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
             Companies
           </h2>
-          <input
-            type="search"
-            value={companyQuery}
-            onChange={(e) => setCompanyQuery(e.target.value)}
-            placeholder="Search companies…"
-            className="w-full rounded-md border border-slate-300 bg-white px-3 py-1.5 text-sm sm:w-64"
-          />
+          <div className="flex items-center gap-3">
+            <input
+              type="search"
+              value={companyQuery}
+              onChange={(e) => setCompanyQuery(e.target.value)}
+              placeholder="Search companies…"
+              className="w-full rounded-md border border-slate-300 bg-white px-3 py-1.5 text-sm sm:w-64"
+            />
+            <a
+              href={`https://github.com/masonlavinder/ai-tracking/issues/new?template=company-suggestion.yml${
+                companyQuery.trim()
+                  ? `&title=${encodeURIComponent(`Suggest: ${companyQuery.trim()}`)}`
+                  : ""
+              }`}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="shrink-0 whitespace-nowrap text-xs font-medium text-brand-700 hover:text-brand-800 underline"
+            >
+              Suggest a company
+            </a>
+          </div>
         </div>
         {visibleCompanies.length === 0 ? (
           <div className="mt-3 rounded-md border border-dashed border-slate-300 bg-white p-4 text-center text-xs text-slate-500">
-            No companies match &ldquo;{companyQuery}&rdquo;.
+            No companies match &ldquo;{companyQuery}&rdquo;.{" "}
+            <a
+              href={`https://github.com/masonlavinder/ai-tracking/issues/new?template=company-suggestion.yml&title=${encodeURIComponent(
+                `Suggest: ${companyQuery.trim()}`,
+              )}`}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="font-medium text-brand-700 hover:text-brand-800 underline"
+            >
+              Suggest it as an addition
+            </a>
+            .
           </div>
         ) : (
           <div className="mt-3 grid gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
