@@ -3,10 +3,10 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import { CompanyCard } from "../components/CompanyCard";
-import { loadCompanies, loadTimeline } from "../lib/data";
-import type { CompanySummary, TimelineFile } from "../lib/types";
-import Logo from "../components/Logo";
+import { CompanyCard } from "../../components/CompanyCard";
+import { loadCompanies, loadTimeline } from "../../lib/data";
+import type { CompanySummary, TimelineFile } from "../../lib/types";
+import Logo from "../../components/Logo";
 
 function formatDate(iso: string | null | undefined): string {
   if (!iso) return "—";

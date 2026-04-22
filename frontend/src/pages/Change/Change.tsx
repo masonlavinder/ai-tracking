@@ -2,11 +2,11 @@
 
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { DiffViewer } from "../components/DiffViewer";
-import { ScoreBadge } from "../components/ScoreBadge";
-import { TagBadge } from "../components/TagBadge";
-import { loadChangeDetail } from "../lib/data";
-import type { ChangeDetail } from "../lib/types";
+import { DiffViewer } from "../../components/DiffViewer";
+import { ScoreBadge } from "../../components/ScoreBadge";
+import { TagBadge } from "../../components/TagBadge";
+import { loadChangeDetail } from "../../lib/data";
+import type { ChangeDetail } from "../../lib/types";
 
 const SCORE_ROW_LABELS: Record<string, string> = {
   content: "Real content (not boilerplate)",

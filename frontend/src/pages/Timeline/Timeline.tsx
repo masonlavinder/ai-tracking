@@ -2,13 +2,13 @@
 // filterable by company and tag.
 
 import { useEffect, useMemo, useState } from "react";
-import { Timeline as TimelineList } from "../components/Timeline";
-import { loadCompanies, loadTimeline } from "../lib/data";
+import { Timeline as TimelineList } from "../../components/Timeline";
+import { loadCompanies, loadTimeline } from "../../lib/data";
 import type {
   ChangeSummary,
   CompanySummary,
   TimelineFile,
-} from "../lib/types";
+} from "../../lib/types";
 
 export function TimelinePage() {
   const [timeline, setTimeline] = useState<TimelineFile | null>(null);

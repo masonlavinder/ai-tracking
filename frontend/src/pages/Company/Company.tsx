@@ -4,9 +4,9 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { Timeline } from "../components/Timeline";
-import { loadChanges, loadCompanies } from "../lib/data";
-import type { ChangeSummary, CompanySummary } from "../lib/types";
+import { Timeline } from "../../components/Timeline";
+import { loadChanges, loadCompanies } from "../../lib/data";
+import type { ChangeSummary, CompanySummary } from "../../lib/types";
 
 export function Company() {
   const { slug = "" } = useParams<{ slug: string }>();

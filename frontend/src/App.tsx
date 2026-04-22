@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes } from "react-router-dom";
 import { loadCompanies } from "./lib/data";
-import { Home } from "./routes/Home";
-import { TimelinePage } from "./routes/Timeline";
-import { Company } from "./routes/Company";
-import { Change } from "./routes/Change";
-import { About } from "./routes/About";
+import { Home } from "./pages/Home/Home";
+import { TimelinePage } from "./pages/Timeline/Timeline";
+import { Company } from "./pages/Company/Company";
+import { Change } from "./pages/Change/Change";
+import { About } from "./pages/About/About";
 
 function useLastUpdated(): string | null {
   const [value, setValue] = useState<string | null>(null);
