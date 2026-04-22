@@ -100,6 +100,58 @@ COMPANIES: list[AnalysisCompany] = [
         name="TikTok",
         homepage_url="https://www.tiktok.com/",
     ),
+    AnalysisCompany(
+        slug="snap",
+        name="Snap",
+        ticker="SNAP",
+        sec_cik="0001564408",
+        homepage_url="https://snap.com/",
+    ),
+    AnalysisCompany(
+        slug="spotify",
+        name="Spotify",
+        ticker="SPOT",
+        sec_cik="0001639920",
+        homepage_url="https://www.spotify.com/",
+    ),
+    AnalysisCompany(
+        slug="netflix",
+        name="Netflix",
+        ticker="NFLX",
+        sec_cik="0001065280",
+        homepage_url="https://www.netflix.com/",
+    ),
+    AnalysisCompany(
+        slug="pinterest",
+        name="Pinterest",
+        ticker="PINS",
+        sec_cik="0001506293",
+        homepage_url="https://www.pinterest.com/",
+    ),
+    AnalysisCompany(
+        slug="samsung",
+        name="Samsung",
+        homepage_url="https://www.samsung.com/",
+    ),
+    AnalysisCompany(
+        slug="discord",
+        name="Discord",
+        homepage_url="https://discord.com/",
+    ),
+    AnalysisCompany(
+        slug="uber",
+        name="Uber",
+        ticker="UBER",
+        sec_cik="0001543151",
+        homepage_url="https://www.uber.com/",
+    ),
+    AnalysisCompany(
+        slug="paypal",
+        name="PayPal",
+        ticker="PYPL",
+        sec_cik="0001633917",
+        homepage_url="https://www.paypal.com/",
+    ),
 ]
 
 

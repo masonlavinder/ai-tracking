@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 import { CompanyCard } from "../components/CompanyCard";
 import { loadCompanies, loadTimeline } from "../lib/data";
 import type { CompanySummary, TimelineFile } from "../lib/types";
+import Logo from "../components/Logo";
 
 function formatDate(iso: string | null | undefined): string {
   if (!iso) return "—";
@@ -75,21 +76,7 @@ export function Home() {
     <div className="flex flex-col gap-8">
       <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-50 via-white to-white px-6 py-10 sm:px-10 sm:py-14">
         <div className="flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-8">
-          <svg
-            width="96"
-            height="96"
-            viewBox="0 0 64 64"
-            xmlns="http://www.w3.org/2000/svg"
-            aria-hidden
-            className="shrink-0 drop-shadow-sm"
-          >
-            <rect width="64" height="64" rx="12" fill="#022c22" />
-            <circle cx="32" cy="32" r="24" fill="#065f46" />
-            <circle cx="32" cy="32" r="18" fill="#ecfdf5" />
-            <circle cx="32" cy="32" r="12" fill="#0b6e4f" />
-            <circle cx="32" cy="32" r="5" fill="#022c22" />
-            <circle cx="34" cy="30" r="1.4" fill="#ecfdf5" />
-          </svg>
+          <Logo/>
           <div>
             <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
               Nazar Watch
@@ -102,10 +89,6 @@ export function Home() {
               largest AI companies. Every material change is detected,
               classified, scored, and dated — so you can see exactly how
               AI data-use language shifts over time.
-            </p>
-            <p className="mt-3 max-w-2xl text-xs italic text-slate-500">
-              Named for the <Link to="/about" className="underline decoration-slate-300 hover:text-brand-700">nazar</Link>
-              , the eye-shaped amulet kept as a ward against what you can't see.
             </p>
           </div>
         </div>
