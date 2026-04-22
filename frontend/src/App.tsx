@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes } from "react-router-dom";
 import { loadCompanies } from "./lib/data";
 import { Home } from "./routes/Home";
+import { TimelinePage } from "./routes/Timeline";
 import { Company } from "./routes/Company";
 import { Change } from "./routes/Change";
 import { About } from "./routes/About";
@@ -64,6 +65,9 @@ export function App() {
         </Link>
         <nav className="flex gap-1">
           <NavLink to="/" end className={navItemClass}>
+            Home
+          </NavLink>
+          <NavLink to="/timeline" className={navItemClass}>
             Timeline
           </NavLink>
           <NavLink to="/about" className={navItemClass}>
@@ -75,6 +79,7 @@ export function App() {
       <main className="flex-1 py-6">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/timeline" element={<TimelinePage />} />
           <Route path="/companies/:slug" element={<Company />} />
           <Route path="/changes/:id" element={<Change />} />
           <Route path="/about" element={<About />} />
@@ -82,7 +87,7 @@ export function App() {
             path="*"
             element={
               <div className="rounded-md border border-dashed border-slate-300 bg-white p-6 text-sm text-slate-500">
-                Not found. <Link to="/" className="underline">Back to timeline</Link>.
+                Not found. <Link to="/" className="underline">Back home</Link>.
               </div>
             }
           />

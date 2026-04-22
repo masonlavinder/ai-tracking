@@ -294,6 +294,121 @@ COMPANIES: list[Company] = [
         ],
         news_query_terms=["TikTok", "ByteDance"],
     ),
+    Company(
+        name="Snap",
+        slug="snap",
+        ticker="SNAP",
+        sec_cik="0001564408",
+        policy_urls=[
+            PolicyURL(
+                url="https://values.snap.com/privacy/privacy-policy",
+                kind="privacy_policy",
+                label="Snap Privacy Policy",
+            ),
+        ],
+        news_query_terms=["Snapchat", "Snap Inc", "My AI"],
+    ),
+    Company(
+        name="Spotify",
+        slug="spotify",
+        ticker="SPOT",
+        sec_cik="0001639920",
+        policy_urls=[
+            PolicyURL(
+                url="https://www.spotify.com/us/legal/privacy-policy/",
+                kind="privacy_policy",
+                label="Spotify Privacy Policy",
+                region="US",
+            ),
+        ],
+        news_query_terms=["Spotify"],
+    ),
+    Company(
+        name="Netflix",
+        slug="netflix",
+        ticker="NFLX",
+        sec_cik="0001065280",
+        policy_urls=[
+            PolicyURL(
+                url="https://help.netflix.com/legal/privacy",
+                kind="privacy_policy",
+                label="Netflix Privacy Statement",
+            ),
+        ],
+        news_query_terms=["Netflix"],
+    ),
+    Company(
+        name="Pinterest",
+        slug="pinterest",
+        ticker="PINS",
+        sec_cik="0001506293",
+        policy_urls=[
+            PolicyURL(
+                url="https://policy.pinterest.com/en/privacy-policy",
+                kind="privacy_policy",
+                label="Pinterest Privacy Policy",
+            ),
+        ],
+        news_query_terms=["Pinterest"],
+    ),
+    Company(
+        name="Samsung",
+        slug="samsung",
+        ticker=None,
+        sec_cik=None,
+        policy_urls=[
+            PolicyURL(
+                url="https://www.samsung.com/us/account/privacy-policy/",
+                kind="privacy_policy",
+                label="Samsung Privacy Policy (US)",
+                region="US",
+            ),
+        ],
+        news_query_terms=["Samsung", "Galaxy AI", "Bixby"],
+    ),
+    Company(
+        name="Discord",
+        slug="discord",
+        ticker=None,
+        sec_cik=None,
+        policy_urls=[
+            PolicyURL(
+                url="https://discord.com/privacy",
+                kind="privacy_policy",
+                label="Discord Privacy Policy",
+            ),
+        ],
+        news_query_terms=["Discord"],
+    ),
+    Company(
+        name="Uber",
+        slug="uber",
+        ticker="UBER",
+        sec_cik="0001543151",
+        policy_urls=[
+            PolicyURL(
+                url="https://privacy.uber.com/policy/",
+                kind="privacy_policy",
+                label="Uber Privacy Notice",
+            ),
+        ],
+        news_query_terms=["Uber"],
+    ),
+    Company(
+        name="PayPal",
+        slug="paypal",
+        ticker="PYPL",
+        sec_cik="0001633917",
+        policy_urls=[
+            PolicyURL(
+                url="https://www.paypal.com/us/legalhub/privacy-full",
+                kind="privacy_policy",
+                label="PayPal Privacy Statement (US)",
+                region="US",
+            ),
+        ],
+        news_query_terms=["PayPal", "Venmo"],
+    ),
 ]
 
 

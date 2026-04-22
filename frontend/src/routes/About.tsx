@@ -4,13 +4,21 @@
 export function About() {
   return (
     <div className="prose prose-slate max-w-none">
-      <h1 className="text-2xl font-semibold text-slate-900">About</h1>
+      <h1 className="text-2xl font-semibold text-slate-900">About Nazar Watch</h1>
 
       <p className="text-sm text-slate-700">
-        AI Privacy Tracker is an open-source project that monitors how Meta,
-        OpenAI, Anthropic, Google, and Microsoft change their privacy
-        policies, terms, and related disclosures over time, with a focus on
-        language relevant to AI data use.
+        Nazar Watch is an open-source project that tracks how Meta, OpenAI,
+        Anthropic, Google, and Microsoft revise their privacy policies, terms,
+        and related disclosures over time, with a focus on language relevant
+        to AI data use.
+      </p>
+
+      <p className="text-sm text-slate-700">
+        The name is a nod to the <em>nazar</em> — the concentric-eye amulet
+        common across the Mediterranean and Middle East, traditionally hung
+        to watch for and ward off harm. Fitting, we thought, for a site
+        whose job is to keep an eye on the companies quietly rewriting the
+        rules for what they can do with your data.
       </p>
 
       <h2 className="mt-6 text-lg font-semibold text-slate-900">

@@ -1,16 +1,11 @@
-// Home: timeline of significant changes with company + tag filters, plus a
-// row of company summary cards so visitors can jump straight to a company.
+// Home: hero + live stats + how-it-works blurb + companies grid.
+// The full chronological change list lives on /timeline.
 
 import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { CompanyCard } from "../components/CompanyCard";
-import { Timeline } from "../components/Timeline";
 import { loadCompanies, loadTimeline } from "../lib/data";
-import type {
-  ChangeSummary,
-  CompanySummary,
-  TimelineFile,
-} from "../lib/types";
+import type { CompanySummary, TimelineFile } from "../lib/types";
 
 function formatDate(iso: string | null | undefined): string {
   if (!iso) return "—";
@@ -25,8 +20,6 @@ export function Home() {
   const [timeline, setTimeline] = useState<TimelineFile | null>(null);
   const [companies, setCompanies] = useState<CompanySummary[]>([]);
   const [error, setError] = useState<string | null>(null);
-  const [companyFilter, setCompanyFilter] = useState<string>("all");
-  const [tagFilter, setTagFilter] = useState<string>("all");
   const [companyQuery, setCompanyQuery] = useState<string>("");
   const [companiesExpanded, setCompaniesExpanded] = useState<boolean>(false);
 
@@ -45,13 +38,6 @@ export function Home() {
       cancelled = true;
     };
   }, []);
-
-  const allTags = useMemo(() => {
-    if (!timeline) return [] as string[];
-    const set = new Set<string>();
-    for (const c of timeline.changes) c.tags.forEach((t) => set.add(t));
-    return Array.from(set).sort();
-  }, [timeline]);
 
   const matchedCompanies = useMemo(() => {
     const query = companyQuery.trim().toLowerCase();
@@ -72,16 +58,6 @@ export function Home() {
     !isSearching &&
     !companiesExpanded &&
     matchedCompanies.length > COMPANY_PREVIEW_LIMIT;
-
-  const filtered: ChangeSummary[] = useMemo(() => {
-    if (!timeline) return [];
-    return timeline.changes.filter((c) => {
-      if (companyFilter !== "all" && c.company_slug !== companyFilter)
-        return false;
-      if (tagFilter !== "all" && !c.tags.includes(tagFilter)) return false;
-      return true;
-    });
-  }, [timeline, companyFilter, tagFilter]);
 
   if (error) {
     return (
@@ -166,9 +142,18 @@ export function Home() {
           Every day we scrape the published privacy and AI-data policies of
           each tracked company. When the text changes, a rule-based
           classifier compares paragraphs, tags the topics involved, and
-          assigns a significance score. The timeline below lists every
-          change rated ≥ {threshold}.{" "}
-          <Link to="/about" className="font-medium text-brand-700 hover:text-brand-800 underline">
+          assigns a significance score. The{" "}
+          <Link
+            to="/timeline"
+            className="font-medium text-brand-700 hover:text-brand-800 underline"
+          >
+            timeline
+          </Link>{" "}
+          lists every change rated ≥ {threshold}.{" "}
+          <Link
+            to="/about"
+            className="font-medium text-brand-700 hover:text-brand-800 underline"
+          >
             Read the methodology
           </Link>{" "}
           or subscribe to the{" "}
@@ -230,53 +215,23 @@ export function Home() {
         )}
       </section>
 
-      <section>
+      <section className="rounded-lg border border-slate-200 bg-white p-5 text-sm text-slate-700">
         <div className="flex flex-wrap items-center justify-between gap-3">
-          <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
-            Significant changes
-          </h2>
-          <div className="flex flex-wrap gap-2">
-            <label className="flex items-center gap-1 text-xs text-slate-600">
-              Company
-              <select
-                value={companyFilter}
-                onChange={(e) => setCompanyFilter(e.target.value)}
-                className="rounded-md border border-slate-300 bg-white px-2 py-1 text-sm"
-              >
-                <option value="all">All</option>
-                {companies.map((c) => (
-                  <option key={c.slug} value={c.slug}>
-                    {c.name}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="flex items-center gap-1 text-xs text-slate-600">
-              Tag
-              <select
-                value={tagFilter}
-                onChange={(e) => setTagFilter(e.target.value)}
-                className="rounded-md border border-slate-300 bg-white px-2 py-1 text-sm"
-              >
-                <option value="all">All</option>
-                {allTags.map((t) => (
-                  <option key={t} value={t}>
-                    {t}
-                  </option>
-                ))}
-              </select>
-            </label>
+          <div>
+            <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
+              Full change history
+            </h2>
+            <p className="mt-1">
+              See every significant change, newest first, with company and
+              tag filters.
+            </p>
           </div>
-        </div>
-        <div className="mt-3">
-          <Timeline
-            changes={filtered}
-            emptyMessage={
-              timeline && timeline.changes.length === 0
-                ? "No significant changes have been detected yet. Check back after the daily scrape runs."
-                : "No changes match the current filters."
-            }
-          />
+          <Link
+            to="/timeline"
+            className="inline-flex items-center rounded-md bg-brand-600 px-4 py-2 text-sm font-medium text-white shadow-sm transition hover:bg-brand-700"
+          >
+            Open the timeline →
+          </Link>
         </div>
       </section>
     </div>

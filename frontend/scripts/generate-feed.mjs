@@ -62,7 +62,7 @@ async function main() {
     "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
     "<rss version=\"2.0\">",
     "<channel>",
-    "<title>AI Privacy Tracker — significant changes</title>",
+    "<title>Nazar Watch — significant changes</title>",
     `<link>${SITE_BASE}/</link>`,
     "<description>Changes with score &gt;= 4 across tracked companies.</description>",
     `<lastBuildDate>${new Date().toUTCString()}</lastBuildDate>`,

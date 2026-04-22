@@ -16,13 +16,32 @@ The site detects policy changes, classifies them with rule-based heuristics,
 and publishes a public dashboard. Fully automated via GitHub Actions and
 hosted on GitHub Pages.
 
-## Companies tracked (v1)
+## Companies tracked
 
 - Meta
 - OpenAI
 - Anthropic
 - Google
 - Microsoft
+- Apple
+- Amazon
+- Reddit
+- Adobe
+- X (and xAI)
+- LinkedIn
+- TikTok
+- Snap
+- Spotify
+- Netflix
+- Pinterest
+- Samsung
+- Discord
+- Uber
+- PayPal
+
+New additions show `0 changes` until the daily scrape has produced at
+least two snapshots. Run `backfill.yml` manually to seed history from
+the Wayback Machine.
 
 ## Repository layout
 
