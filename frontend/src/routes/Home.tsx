@@ -103,6 +103,10 @@ export function Home() {
               classified, scored, and dated — so you can see exactly how
               AI data-use language shifts over time.
             </p>
+            <p className="mt-3 max-w-2xl text-xs italic text-slate-500">
+              Named for the <Link to="/about" className="underline decoration-slate-300 hover:text-brand-700">nazar</Link>
+              , the eye-shaped amulet kept as a ward against what you can't see.
+            </p>
           </div>
         </div>
       </section>

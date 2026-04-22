@@ -2,6 +2,8 @@
 
 > *Watching what watches you.* Daily diffs of how major AI companies change their privacy and data-use policies.
 
+*Named for the [nazar](https://en.wikipedia.org/wiki/Nazar_(amulet)) — the eye-shaped amulet kept as a ward against what you can't see.*
+
 **Live site:** <https://masonlavinder.github.io/ai-tracking/>
 
 [![scrape](https://github.com/masonlavinder/ai-tracking/actions/workflows/scrape.yml/badge.svg)](https://github.com/masonlavinder/ai-tracking/actions/workflows/scrape.yml)
