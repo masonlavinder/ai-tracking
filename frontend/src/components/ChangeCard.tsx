@@ -1,7 +1,7 @@
 // Summary tile used on the home timeline and company pages.
 
 import { Link } from "react-router-dom";
-import type { ChangeSummary } from "../lib/types";
+import type { ChangeSummary } from "@types";
 import { ScoreBadge } from "./ScoreBadge";
 import { TagBadge } from "./TagBadge";
 

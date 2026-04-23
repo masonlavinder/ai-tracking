@@ -5,7 +5,7 @@
 // (before, after) modification pairs. A semantic green/red presentation
 // is more readable for policy language than line-numbered hunks.
 
-import type { ChangeDetail } from "../lib/types";
+import type { ChangeDetail } from "@types";
 
 function Block({
   kind,

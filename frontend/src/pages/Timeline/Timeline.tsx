@@ -2,13 +2,14 @@
 // filterable by company and tag.
 
 import { useEffect, useMemo, useState } from "react";
-import { Timeline as TimelineList } from "../../components/Timeline";
-import { loadCompanies, loadTimeline } from "../../lib/data";
+import { Timeline as TimelineList } from "@components/Timeline";
+import { loadCompanies, loadTimeline } from "@api";
 import type {
   ChangeSummary,
   CompanySummary,
   TimelineFile,
-} from "../../lib/types";
+} from "@types";
+import { FiltersBar } from "./components/FiltersBar";
 
 export function TimelinePage() {
   const [timeline, setTimeline] = useState<TimelineFile | null>(null);
@@ -76,38 +77,14 @@ export function TimelinePage() {
           <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
             Significant changes
           </h2>
-          <div className="flex flex-wrap gap-2">
-            <label className="flex items-center gap-1 text-xs text-slate-600">
-              Company
-              <select
-                value={companyFilter}
-                onChange={(e) => setCompanyFilter(e.target.value)}
-                className="rounded-md border border-slate-300 bg-white px-2 py-1 text-sm"
-              >
-                <option value="all">All</option>
-                {companies.map((c) => (
-                  <option key={c.slug} value={c.slug}>
-                    {c.name}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label className="flex items-center gap-1 text-xs text-slate-600">
-              Tag
-              <select
-                value={tagFilter}
-                onChange={(e) => setTagFilter(e.target.value)}
-                className="rounded-md border border-slate-300 bg-white px-2 py-1 text-sm"
-              >
-                <option value="all">All</option>
-                {allTags.map((t) => (
-                  <option key={t} value={t}>
-                    {t}
-                  </option>
-                ))}
-              </select>
-            </label>
-          </div>
+          <FiltersBar
+            companies={companies}
+            allTags={allTags}
+            companyFilter={companyFilter}
+            setCompanyFilter={setCompanyFilter}
+            tagFilter={tagFilter}
+            setTagFilter={setTagFilter}
+          />
         </div>
         <div className="mt-3">
           <TimelineList

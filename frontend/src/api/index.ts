@@ -9,7 +9,7 @@ import type {
   ChangesFile,
   CompaniesFile,
   TimelineFile,
-} from "./types";
+} from "@types";
 
 const base = import.meta.env.BASE_URL; // e.g. "/ai-tracking/"
 

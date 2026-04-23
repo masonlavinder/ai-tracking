@@ -1,7 +1,7 @@
 // Company summary tile shown on the home page.
 
 import { Link } from "react-router-dom";
-import type { CompanySummary } from "../lib/types";
+import type { CompanySummary } from "@types";
 
 export function CompanyCard({ company }: { company: CompanySummary }) {
   return (

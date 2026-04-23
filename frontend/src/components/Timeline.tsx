@@ -1,6 +1,6 @@
 // Vertical stacked list of ChangeCards used on home and company pages.
 
-import type { ChangeSummary } from "../lib/types";
+import type { ChangeSummary } from "@types";
 import { ChangeCard } from "./ChangeCard";
 
 interface Props {

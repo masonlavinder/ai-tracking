@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes } from "react-router-dom";
-import { loadCompanies } from "./lib/data";
-import { Home } from "./pages/Home/Home";
-import { TimelinePage } from "./pages/Timeline/Timeline";
-import { Company } from "./pages/Company/Company";
-import { Change } from "./pages/Change/Change";
-import { About } from "./pages/About/About";
+import { loadCompanies } from "@api";
+import Logo from "@components/Logo";
+import { Home } from "@pages/Home/Home";
+import { TimelinePage } from "@pages/Timeline/Timeline";
+import { Company } from "@pages/Company/Company";
+import { Change } from "@pages/Change/Change";
+import { About } from "@pages/About/About";
 
 function useLastUpdated(): string | null {
   const [value, setValue] = useState<string | null>(null);
@@ -45,20 +46,7 @@ export function App() {
     <div className="mx-auto flex min-h-full max-w-5xl flex-col px-4 py-6">
       <header className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 pb-4">
         <Link to="/" className="flex items-center gap-2">
-          <svg
-            width="28"
-            height="28"
-            viewBox="0 0 64 64"
-            xmlns="http://www.w3.org/2000/svg"
-            aria-hidden
-          >
-            <rect width="64" height="64" rx="12" fill="#022c22" />
-            <circle cx="32" cy="32" r="24" fill="#065f46" />
-            <circle cx="32" cy="32" r="18" fill="#ecfdf5" />
-            <circle cx="32" cy="32" r="12" fill="#0b6e4f" />
-            <circle cx="32" cy="32" r="5" fill="#022c22" />
-            <circle cx="34" cy="30" r="1.4" fill="#ecfdf5" />
-          </svg>
+          <Logo size="sm" />
           <span className="text-lg font-semibold text-slate-900">
             Nazar Watch
           </span>
