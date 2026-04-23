@@ -44,6 +44,11 @@ def _write_json(path: Path, payload: object) -> None:
         fh.write("\n")
 
 
+def _snapshot_dates_in(policy_dir: Path) -> list[str]:
+    """YYYY-MM-DD stems of every .txt snapshot in one policy directory."""
+    return [txt.stem for txt in policy_dir.glob("*.txt")]
+
+
 def _latest_snapshot_date(policies_root: Path, slug: str) -> str | None:
     """Most recent YYYY-MM-DD across any policy stream for one company."""
     company_root = policies_root / slug
@@ -53,11 +58,46 @@ def _latest_snapshot_date(policies_root: Path, slug: str) -> str | None:
     for policy_dir in company_root.iterdir():
         if not policy_dir.is_dir():
             continue
-        for txt in policy_dir.glob("*.txt"):
-            dates.append(txt.stem)
+        dates.extend(_snapshot_dates_in(policy_dir))
     if not dates:
         return None
     return max(dates)
+
+
+def _policy_entry(policy_dir: Path) -> dict[str, str]:
+    """Describe one policy directory: id, label, canonical URL, latest date."""
+    latest_txt = max(
+        policy_dir.glob("*.txt"),
+        default=None,
+        key=lambda p: p.stem,
+    )
+    label = policy_dir.name
+    url = ""
+    if latest_txt is not None:
+        meta_path = latest_txt.with_suffix(".meta.json")
+        if meta_path.exists():
+            try:
+                meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                label = str(meta.get("policy_label") or label)
+                url = str(meta.get("url") or "")
+            except (OSError, json.JSONDecodeError):
+                pass
+    return {
+        "policy_id": policy_dir.name,
+        "label": label,
+        "url": url,
+        "latest_snapshot_date": latest_txt.stem if latest_txt else "",
+    }
+
+
+def _policy_entries(company_root: Path) -> list[dict[str, str]]:
+    """All policy entries for one company, ordered by policy_id."""
+    if not company_root.is_dir():
+        return []
+    return [
+        _policy_entry(policy_dir)
+        for policy_dir in sorted(p for p in company_root.iterdir() if p.is_dir())
+    ]
 
 
 def _build_company_summaries(
@@ -74,34 +114,6 @@ def _build_company_summaries(
             key=lambda c: (c.date, c.id),
             reverse=True,
         )
-        policies: list[dict[str, str]] = []
-        company_root = policies_root / company.slug
-        if company_root.is_dir():
-            for policy_dir in sorted(p for p in company_root.iterdir() if p.is_dir()):
-                latest_txt = max(
-                    policy_dir.glob("*.txt"),
-                    default=None,
-                    key=lambda p: p.stem,
-                )
-                label = policy_dir.name
-                url = ""
-                if latest_txt is not None:
-                    meta_path = latest_txt.with_suffix(".meta.json")
-                    if meta_path.exists():
-                        try:
-                            meta = json.loads(meta_path.read_text(encoding="utf-8"))
-                            label = str(meta.get("policy_label") or label)
-                            url = str(meta.get("url") or "")
-                        except (OSError, json.JSONDecodeError):
-                            pass
-                policies.append(
-                    {
-                        "policy_id": policy_dir.name,
-                        "label": label,
-                        "url": url,
-                        "latest_snapshot_date": latest_txt.stem if latest_txt else "",
-                    }
-                )
         summaries.append(
             CompanySummary(
                 slug=company.slug,
@@ -115,7 +127,7 @@ def _build_company_summaries(
                 recent_change_ids=[
                     c.id for c in company_changes[:RECENT_CHANGES_PER_COMPANY]
                 ],
-                policies=policies,
+                policies=_policy_entries(policies_root / company.slug),
             )
         )
     return summaries

@@ -43,13 +43,17 @@ class SnapshotPair:
         return self.from_text_path.parent
 
 
+def _policy_dirs_in(company_dir: Path) -> Iterator[Path]:
+    """Yield the policy-id subdirectories of one company directory."""
+    yield from sorted(p for p in company_dir.iterdir() if p.is_dir())
+
+
 def iter_policy_dirs(policies_root: Path) -> Iterator[Path]:
     """Yield each <policies_root>/<slug>/<policy_id> directory."""
     if not policies_root.is_dir():
         return
     for company_dir in sorted(p for p in policies_root.iterdir() if p.is_dir()):
-        for policy_dir in sorted(p for p in company_dir.iterdir() if p.is_dir()):
-            yield policy_dir
+        yield from _policy_dirs_in(company_dir)
 
 
 def _english_snapshots(policy_dir: Path) -> list[Path]:
@@ -74,23 +78,28 @@ def _english_snapshots(policy_dir: Path) -> list[Path]:
     return kept
 
 
+def _pairs_for_policy(policy_dir: Path) -> Iterator[SnapshotPair]:
+    """Consecutive English snapshot pairs within one policy directory."""
+    txt_files = _english_snapshots(policy_dir)
+    if len(txt_files) < 2:
+        return
+    slug = policy_dir.parent.name
+    policy_id = policy_dir.name
+    for prev, curr in zip(txt_files, txt_files[1:]):
+        yield SnapshotPair(
+            company_slug=slug,
+            policy_id=policy_id,
+            from_text_path=prev,
+            to_text_path=curr,
+            from_date=prev.stem,
+            to_date=curr.stem,
+        )
+
+
 def iter_snapshot_pairs(policies_root: Path) -> Iterator[SnapshotPair]:
     """Yield consecutive English snapshot pairs across all policy directories."""
     for policy_dir in iter_policy_dirs(policies_root):
-        txt_files = _english_snapshots(policy_dir)
-        if len(txt_files) < 2:
-            continue
-        slug = policy_dir.parent.name
-        policy_id = policy_dir.name
-        for prev, curr in zip(txt_files, txt_files[1:]):
-            yield SnapshotPair(
-                company_slug=slug,
-                policy_id=policy_id,
-                from_text_path=prev,
-                to_text_path=curr,
-                from_date=prev.stem,
-                to_date=curr.stem,
-            )
+        yield from _pairs_for_policy(policy_dir)
 
 
 def _load_meta(policy_dir: Path, date_str: str) -> dict[str, object]:
@@ -130,6 +139,20 @@ def _paragraph_similarity(a: str, b: str) -> float:
     return matcher.ratio()
 
 
+def _best_match_index(
+    old: str, remaining: list[tuple[int, str]]
+) -> tuple[int, float]:
+    """Position in `remaining` most similar to `old`, with its similarity ratio."""
+    best_idx = -1
+    best_ratio = 0.0
+    for pos, (_, candidate) in enumerate(remaining):
+        ratio = _paragraph_similarity(old, candidate)
+        if ratio > best_ratio:
+            best_ratio = ratio
+            best_idx = pos
+    return best_idx, best_ratio
+
+
 def _pair_replacements(
     olds: list[str], news: list[str]
 ) -> tuple[list[str], list[str], list[ParagraphChange]]:
@@ -152,13 +175,7 @@ def _pair_replacements(
         if not remaining_news:
             removed.append(old)
             continue
-        best_idx = -1
-        best_ratio = 0.0
-        for pos, (_, candidate) in enumerate(remaining_news):
-            ratio = _paragraph_similarity(old, candidate)
-            if ratio > best_ratio:
-                best_ratio = ratio
-                best_idx = pos
+        best_idx, best_ratio = _best_match_index(old, remaining_news)
         if best_ratio >= MODIFICATION_SIMILARITY_THRESHOLD and best_idx >= 0:
             _, match = remaining_news.pop(best_idx)
             modified.append(ParagraphChange(before=old, after=match))
