@@ -29,7 +29,7 @@
   "date": "2024-08-01",
   "from_date": "2024-07-01",
   "id": "x-privacy_policy-2024-07-01-2024-08-01",
-  "llm_summary": null,
+  "llm_summary": "The updated privacy policy for Company X adds new sections detailing the types of information collected when users interact with its services, including usage, device, and location information. Additionally, several paragraphs regarding third-party sharing and integrations have been removed, which may affect how user information is shared with advertisers and service providers. Overall, the changes provide more clarity on data collection practices while reducing information about third-party sharing.",
   "modified_paragraphs": [],
   "policy_kind": "privacy_policy",
   "policy_label": "X Privacy Policy",

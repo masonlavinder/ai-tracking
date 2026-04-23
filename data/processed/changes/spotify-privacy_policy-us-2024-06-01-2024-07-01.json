@@ -131,7 +131,7 @@
   "date": "2024-07-01",
   "from_date": "2024-06-01",
   "id": "spotify-privacy_policy-us-2024-06-01-2024-07-01",
-  "llm_summary": null,
+  "llm_summary": "Spotify updated its Privacy Policy to improve readability and provide more details about user rights, including the ability to request data deletion and opt out of tailored advertising. The policy now specifies that users can designate an authorized agent to make requests on their behalf and outlines conditions under which data may not be deleted. Additionally, references to the Privacy Center have been changed to the Safety & Privacy Center, and some sections have been streamlined or clarified.",
   "modified_paragraphs": [
     {
       "after": "- the personalization of your user experience. Watch our personalization explainer video to learn more about this.",
