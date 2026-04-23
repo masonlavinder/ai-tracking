@@ -68,7 +68,7 @@ export function TimelinePage() {
         <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-6">
           <Logo size="lg" className="shrink-0 drop-shadow-sm" />
           <div>
-            <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
+            <h1 className="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">
               Timeline
             </h1>
             <p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-700">

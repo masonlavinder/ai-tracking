@@ -6,7 +6,7 @@ export function Hero() {
       <div className="flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-8">
         <Logo size="xl" className="shrink-0 drop-shadow-sm" />
         <div>
-          <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
+          <h1 className="text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl">
             Nazar Watch
           </h1>
           <p className="mt-2 text-lg font-medium text-brand-700">

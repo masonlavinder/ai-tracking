@@ -27,4 +27,14 @@
   --size-container-sm: 42rem;
   --size-container-md: 64rem;
   --size-container-lg: 80rem;
+
+  --font-sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+html {
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "ss03", "cv11";
 }
