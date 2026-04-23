@@ -47,4 +47,32 @@ describe("buildChangesCsv", () => {
     const csv = buildChangesCsv([]);
     expect(csv.charCodeAt(0)).toBe(0xfeff);
   });
+
+  it("emits only a header when given zero changes", () => {
+    const csv = buildChangesCsv([]).replace(/^﻿/, "");
+    expect(csv.split("\r\n")).toHaveLength(1);
+  });
+
+  it("preserves zero-valued numeric columns rather than dropping them", () => {
+    const zeros: ChangeSummary = {
+      ...BASE,
+      score: 0,
+      added_count: 0,
+      removed_count: 0,
+      modified_count: 0,
+    };
+    const csv = buildChangesCsv([zeros]);
+    const row = csv.split("\r\n")[1];
+    // score,added,removed,modified are columns 9–12; all four should be literal "0"
+    const cols = row.split(",");
+    expect(cols.slice(8, 12)).toEqual(["0", "0", "0", "0"]);
+  });
+
+  it("emits an empty cell for a change with no tags", () => {
+    const noTags: ChangeSummary = { ...BASE, tags: [] };
+    const csv = buildChangesCsv([noTags]);
+    // The `tags` column is position 13 (0-indexed 12).
+    const cols = csv.split("\r\n")[1].split(",");
+    expect(cols[12]).toBe("");
+  });
 });
