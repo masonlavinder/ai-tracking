@@ -25,14 +25,17 @@ function escapeCell(value: unknown): string {
   return str;
 }
 
-export function downloadChangesCsv(changes: ChangeSummary[], filename: string): void {
+export function buildChangesCsv(changes: ChangeSummary[]): string {
   const header = COLUMNS.map((c) => c.label).join(",");
   const rows = changes.map((c) =>
     COLUMNS.map((col) => escapeCell((c as unknown as Record<string, unknown>)[col.key])).join(","),
   );
   // BOM so Excel reads UTF-8 correctly.
-  const csv = "﻿" + [header, ...rows].join("\r\n");
-  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  return "﻿" + [header, ...rows].join("\r\n");
+}
+
+export function downloadChangesCsv(changes: ChangeSummary[], filename: string): void {
+  const blob = new Blob([buildChangesCsv(changes)], { type: "text/csv;charset=utf-8" });
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;

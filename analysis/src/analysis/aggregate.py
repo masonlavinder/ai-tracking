@@ -21,7 +21,7 @@ from pathlib import Path
 
 from .classify import classify_all, load_rules
 from .companies import COMPANIES, _stock_url
-from .diff import diff_all, iter_policy_dirs
+from .diff import diff_all
 from .llm import generate_summary
 from .models import ChangeRecord, ChangeSummary, CompanySummary
 from .score import ScoreBreakdown, score_all

@@ -1,0 +1,75 @@
+name: ci
+
+# Lint + test on every push to main and every pull request.
+# Separate from build.yml so failures here do not block data refresh
+# or site deploys, and so CI runs on PRs that never merge.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  python:
+    name: ${{ matrix.package }} (ruff + pytest)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        package: [analysis, scrapers]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+          cache-dependency-glob: ${{ matrix.package }}/uv.lock
+
+      - name: Ruff
+        working-directory: ${{ matrix.package }}
+        run: uvx ruff check src tests
+
+      - name: Install deps
+        working-directory: ${{ matrix.package }}
+        run: uv sync --frozen --extra dev
+
+      - name: Pytest
+        working-directory: ${{ matrix.package }}
+        run: uv run pytest
+
+  frontend:
+    name: frontend (typecheck + vitest)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend deps
+        working-directory: frontend
+        run: npm ci
+
+      - name: Typecheck
+        working-directory: frontend
+        run: npm run typecheck
+
+      - name: Vitest
+        working-directory: frontend
+        run: npm test

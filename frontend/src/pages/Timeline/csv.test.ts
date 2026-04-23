@@ -1,0 +1,50 @@
+import { describe, expect, it } from "vitest";
+import type { ChangeSummary } from "@types";
+import { buildChangesCsv } from "./csv";
+
+const BASE: ChangeSummary = {
+  id: "acme-privacy_policy-us-2026-04-01-2026-04-15",
+  company_slug: "acme",
+  company_name: "Acme",
+  source_type: "policy",
+  policy_kind: "privacy_policy",
+  policy_label: "Acme Privacy Policy",
+  url: "https://acme.example/privacy",
+  from_date: "2026-04-01",
+  to_date: "2026-04-15",
+  date: "2026-04-15",
+  tags: ["ai-training-expansion", "third-party-sharing"],
+  score: 7,
+  added_count: 3,
+  removed_count: 1,
+  modified_count: 2,
+};
+
+describe("buildChangesCsv", () => {
+  it("emits header + one row per change", () => {
+    const csv = buildChangesCsv([BASE]);
+    const lines = csv.replace(/^﻿/, "").split("\r\n");
+    expect(lines).toHaveLength(2);
+    expect(lines[0]).toMatch(/^date,from_date,to_date,company,/);
+    expect(lines[1]).toContain("Acme");
+  });
+
+  it("joins tag arrays with a semicolon so Excel shows them in one cell", () => {
+    const csv = buildChangesCsv([BASE]);
+    expect(csv).toContain("ai-training-expansion; third-party-sharing");
+  });
+
+  it("quotes cells containing commas, quotes, or newlines", () => {
+    const tricky: ChangeSummary = {
+      ...BASE,
+      policy_label: 'Acme, Inc. "Privacy"\nPolicy',
+    };
+    const csv = buildChangesCsv([tricky]);
+    expect(csv).toContain('"Acme, Inc. ""Privacy""\nPolicy"');
+  });
+
+  it("prepends a UTF-8 BOM so Excel reads it as UTF-8", () => {
+    const csv = buildChangesCsv([]);
+    expect(csv.charCodeAt(0)).toBe(0xfeff);
+  });
+});
