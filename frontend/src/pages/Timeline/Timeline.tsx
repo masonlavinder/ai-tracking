@@ -11,6 +11,7 @@ import type {
   TimelineFile,
 } from "@types";
 import { FiltersBar } from "./components/FiltersBar";
+import { downloadChangesCsv } from "./csv";
 
 export function TimelinePage() {
   const [timeline, setTimeline] = useState<TimelineFile | null>(null);
@@ -85,14 +86,30 @@ export function TimelinePage() {
           <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
             Significant changes
           </h2>
-          <FiltersBar
-            companies={companies}
-            allTags={allTags}
-            companyFilter={companyFilter}
-            setCompanyFilter={setCompanyFilter}
-            tagFilter={tagFilter}
-            setTagFilter={setTagFilter}
-          />
+          <div className="flex flex-wrap items-center gap-3">
+            <FiltersBar
+              companies={companies}
+              allTags={allTags}
+              companyFilter={companyFilter}
+              setCompanyFilter={setCompanyFilter}
+              tagFilter={tagFilter}
+              setTagFilter={setTagFilter}
+            />
+            <button
+              type="button"
+              onClick={() =>
+                downloadChangesCsv(
+                  filtered,
+                  `nazar-watch-timeline-${new Date().toISOString().slice(0, 10)}.csv`,
+                )
+              }
+              disabled={filtered.length === 0}
+              className="rounded-md border border-slate-300 bg-white px-3 py-1 text-xs font-medium text-slate-700 hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-50"
+              title="Download the currently filtered changes as a CSV (opens in Excel)"
+            >
+              Download CSV
+            </button>
+          </div>
         </div>
         <div className="mt-3">
           <TimelineList
