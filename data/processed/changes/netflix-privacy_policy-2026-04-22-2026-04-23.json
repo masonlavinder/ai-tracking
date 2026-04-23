@@ -1,0 +1,36 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Netflix",
+  "company_slug": "netflix",
+  "date": "2026-04-23",
+  "from_date": "2026-04-22",
+  "id": "netflix-privacy_policy-2026-04-22-2026-04-23",
+  "llm_summary": "The Netflix Privacy Statement was updated to include additional details about how cookies and similar technologies are used, specifically mentioning the tracking of items in shopping carts and sending cart reminder messages via SMS. There were no changes to the sections regarding third-party sharing or the overall use of personal information.",
+  "modified_paragraphs": [
+    {
+      "after": "Cookies and Similar Technologies, Pixel Tags and other Identifiers",
+      "before": "Cookies and Similar Technologies, Pixel Tags, and other Identifiers"
+    },
+    {
+      "after": "We use these types of technologies for various reasons, including to provide our service (for example, by making it easy to access our service by remembering you when you return); to administer and operate our business, to research, analyze and improve our services (for example, to improve site performance, monitor visitor traffic and actions on our site, and to test the effectiveness of our user interface); to send marketing and informational messages (for example, to deliver and tailor our marketing, to understand interactions with our emails, marketing, and marketing on third party services, and to help keep track of items you put into your shopping cart, including when you have abandoned your cart, and to determine when to send cart reminder messages via SMS); to support advertisements; for safety, security and fraud prevention; and to comply with law and enforce the Netflix Terms of Use. These technologies enable Netflix, Netflix Marketing Providers, and Advertising Companies to collect personal information (such as the pages you visit and device and network information) when you use our services, and about your online activities over time across different websites.",
+      "before": "We use these types of technologies for various reasons, including to provide our service (for example, by making it easy to access our service by remembering you when you return); to administer and operate our business, to research, analyze and improve our services (for example, to improve site performance, monitor visitor traffic and actions on our site, and to test the effectiveness of our user interface); to send marketing and informational messages (for example, to deliver and tailor our marketing, and to understand interactions with our emails, marketing, and marketing on third party services); to support advertisements; for safety, security and fraud prevention; and to comply with law and enforce the Netflix Terms of Use. These technologies enable Netflix, Netflix Marketing Providers, and Advertising Companies to collect personal information (such as the pages you visit and device and network information) when you use our services, and about your online activities over time across different websites."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Netflix Privacy Statement",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2026-04-23",
+  "url": "https://help.netflix.com/legal/privacy"
+}

@@ -1,6 +1,25 @@
 {
   "changes": [
     {
+      "added_count": 0,
+      "company_name": "Netflix",
+      "company_slug": "netflix",
+      "date": "2026-04-23",
+      "from_date": "2026-04-22",
+      "id": "netflix-privacy_policy-2026-04-22-2026-04-23",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Netflix Privacy Statement",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2026-04-23",
+      "url": "https://help.netflix.com/legal/privacy"
+    },
+    {
       "added_count": 15,
       "company_name": "Spotify",
       "company_slug": "spotify",
@@ -2478,6 +2497,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-04-23T01:37:31.161916+00:00",
+  "generated_at": "2026-04-23T07:37:33.966486+00:00",
   "threshold": 4
 }
