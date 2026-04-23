@@ -2,7 +2,7 @@ import Logo from "@components/Logo";
 
 export function Hero() {
   return (
-    <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-50 via-white to-white px-6 py-10 sm:px-10 sm:py-14">
+    <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-100 via-white to-white px-6 py-10 sm:px-10 sm:py-14">
       <div className="flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-8">
         <Logo size="xl" className="shrink-0 drop-shadow-sm" />
         <div>

@@ -1,23 +1,34 @@
 // Methodology + disclaimer page. Must make the heuristic nature of the
 // classifier extremely clear — this is not legal advice.
 
+import Logo from "@components/Logo";
+
 export function About() {
   return (
-    <div className="prose prose-slate max-w-none">
-      <h1 className="text-2xl font-semibold text-slate-900">About Nazar Watch</h1>
+    <div className="flex flex-col gap-6">
+      <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-100 via-white to-white px-6 py-8 sm:px-10 sm:py-10">
+        <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-6">
+          <Logo size="lg" className="shrink-0 drop-shadow-sm" />
+          <div>
+            <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
+              About Nazar Watch
+            </h1>
+            <p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-700">
+              Nazar Watch is an open-source project that tracks how Meta,
+              OpenAI, Anthropic, Google, Microsoft, and more revise their
+              privacy policies, terms, and related disclosures over time,
+              with a focus on language relevant to AI data use.
+            </p>
+          </div>
+        </div>
+      </section>
 
-      <p className="text-sm text-slate-700">
-        Nazar Watch is an open-source project that tracks how Meta, OpenAI,
-        Anthropic, Google, Microsoft, and more revise their privacy policies, terms,
-        and related disclosures over time, with a focus on language relevant
-        to AI data use.
-      </p>
-
+      <div className="prose prose-slate max-w-none">
       <p className="text-sm text-slate-700">
         The name is a nod to the <em>nazar</em> — the concentric-eye amulet
         common across the Mediterranean and Middle East, traditionally hung
-        to watch for and ward off harm. Fitting, for a site whose job is to 
-        keep an eye on the companies quietly rewriting the rules for what they 
+        to watch for and ward off harm. Fitting, for a site whose job is to
+        keep an eye on the companies quietly rewriting the rules for what they
         can do with your data.
       </p>
 
@@ -105,6 +116,7 @@ export function About() {
         paraphrases will be missed. Contributions to the rule dictionary
         are welcome via pull request.
       </p>
+      </div>
     </div>
   );
 }

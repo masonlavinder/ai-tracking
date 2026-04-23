@@ -3,6 +3,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { Timeline as TimelineList } from "@components/Timeline";
+import Logo from "@components/Logo";
 import { loadCompanies, loadTimeline } from "@api";
 import type {
   ChangeSummary,
@@ -63,13 +64,20 @@ export function TimelinePage() {
 
   return (
     <div className="flex flex-col gap-6">
-      <section>
-        <h1 className="text-2xl font-semibold text-slate-900">Timeline</h1>
-        <p className="mt-2 max-w-2xl text-sm text-slate-600">
-          Every policy change our rule-based classifier rated significance
-          ≥ {threshold}, newest first. Filter by company or by tag to narrow
-          in on a specific topic.
-        </p>
+      <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-100 via-white to-white px-6 py-8 sm:px-10 sm:py-10">
+        <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-6">
+          <Logo size="lg" className="shrink-0 drop-shadow-sm" />
+          <div>
+            <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
+              Timeline
+            </h1>
+            <p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-700">
+              Every policy change our rule-based classifier rated significance
+              ≥ {threshold}, newest first. Filter by company or by tag to narrow
+              in on a specific topic.
+            </p>
+          </div>
+        </div>
       </section>
 
       <section>

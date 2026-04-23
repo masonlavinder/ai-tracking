@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import type { CompanySummary } from "@types";
 import { CompanyCard } from "./CompanyCard";
 
-const COMPANY_PREVIEW_LIMIT = 6;
+const COMPANY_PREVIEW_LIMIT = 8;
 
 export function CompaniesSection({ companies }: { companies: CompanySummary[] }) {
   const [companyQuery, setCompanyQuery] = useState<string>("");
@@ -42,18 +42,20 @@ export function CompaniesSection({ companies }: { companies: CompanySummary[] })
             placeholder="Search companies…"
             className="w-full rounded-md border border-slate-300 bg-white px-3 py-1.5 text-sm sm:w-64"
           />
-          <a
-            href={`https://github.com/masonlavinder/ai-tracking/issues/new?template=company-suggestion.yml${
-              companyQuery.trim()
-                ? `&title=${encodeURIComponent(`Suggest: ${companyQuery.trim()}`)}`
-                : ""
-            }`}
-            target="_blank"
-            rel="noreferrer noopener"
-            className="shrink-0 whitespace-nowrap text-xs font-medium text-brand-700 hover:text-brand-800 underline"
-          >
-            Suggest a company
-          </a>
+          <span className="shrink-0 whitespace-nowrap text-xs text-slate-500">
+            <a
+              href={`https://github.com/masonlavinder/ai-tracking/issues/new?template=company-suggestion.yml${
+                companyQuery.trim()
+                  ? `&title=${encodeURIComponent(`Suggest: ${companyQuery.trim()}`)}`
+                  : ""
+              }`}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="font-medium text-brand-700 hover:text-brand-800 underline"
+            >
+              Suggest a company
+            </a>
+          </span>
         </div>
       </div>
       {visibleCompanies.length === 0 ? (
@@ -68,8 +70,8 @@ export function CompaniesSection({ companies }: { companies: CompanySummary[] })
             className="font-medium text-brand-700 hover:text-brand-800 underline"
           >
             Suggest it as an addition
-          </a>
-          .
+          </a>{" "}
+          (requires GitHub).
         </div>
       ) : (
         <div className="mt-3 grid gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
