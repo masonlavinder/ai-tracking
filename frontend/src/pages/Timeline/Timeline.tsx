@@ -10,6 +10,7 @@ import type {
   CompanySummary,
   TimelineFile,
 } from "@types";
+import { formatLocalDate } from "../../utils/date";
 import { FiltersBar } from "./components/FiltersBar";
 import { downloadChangesCsv } from "./csv";
 
@@ -100,7 +101,7 @@ export function TimelinePage() {
               onClick={() =>
                 downloadChangesCsv(
                   filtered,
-                  `nazar-watch-timeline-${new Date().toISOString().slice(0, 10)}.csv`,
+                  `nazar-watch-timeline-${formatLocalDate(new Date())}.csv`,
                 )
               }
               disabled={filtered.length === 0}

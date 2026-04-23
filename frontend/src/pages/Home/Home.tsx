@@ -4,6 +4,7 @@
 import { useEffect, useState } from "react";
 import { loadCompanies, loadTimeline } from "@api";
 import type { CompanySummary, TimelineFile } from "@types";
+import { formatLocalDate } from "../../utils/date";
 import { Hero } from "./components/Hero";
 import { StatsBar } from "./components/StatsBar";
 import { HowItWorks } from "./components/HowItWorks";
@@ -14,7 +15,7 @@ function formatDate(iso: string | null | undefined): string {
   if (!iso) return "—";
   const d = new Date(iso);
   if (Number.isNaN(d.getTime())) return iso;
-  return d.toISOString().slice(0, 10);
+  return formatLocalDate(d);
 }
 
 export function Home() {
