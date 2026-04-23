@@ -16,6 +16,12 @@ on:
       - "analysis/**"
       - "frontend/**"
       - ".github/workflows/build.yml"
+  # scrape.yml and backfill.yml push with the default GITHUB_TOKEN, which
+  # does not trigger downstream push events — so chain them explicitly.
+  workflow_run:
+    workflows: [scrape, backfill]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
     inputs:
       force_reenrich:
@@ -41,6 +47,8 @@ concurrency:
 
 jobs:
   build:
+    # Skip if the upstream workflow_run failed; push/dispatch always run.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
