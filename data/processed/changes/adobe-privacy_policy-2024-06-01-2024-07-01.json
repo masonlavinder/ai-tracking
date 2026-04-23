@@ -21,7 +21,7 @@
   "date": "2024-07-01",
   "from_date": "2024-06-01",
   "id": "adobe-privacy_policy-2024-06-01-2024-07-01",
-  "llm_summary": null,
+  "llm_summary": "Adobe's updated privacy policy emphasizes user control over data and outlines specific circumstances under which they will analyze user content, including for operational purposes and to ensure compliance with legal standards. The policy also clarifies that consent will be obtained before processing personal information in certain situations, while removing previous language about requiring consent for promotional communications and content analysis. Overall, the changes provide more detail on data handling practices and user rights regarding opt-out mechanisms.",
   "modified_paragraphs": [
     {
       "after": "- Analysis of your use and navigation of the Services and Software;",

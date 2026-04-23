@@ -7,7 +7,7 @@
   "date": "2024-05-13",
   "from_date": "2024-04-11",
   "id": "adobe-ai_terms-2024-04-11-2024-05-13",
-  "llm_summary": null,
+  "llm_summary": "The Adobe Generative AI User Guidelines now specify that outputs from generative AI features may include non-generative content, like Adobe Stock assets, which are governed by the user's agreement with Adobe. This non-generative content will be indicated in the user interface or related documentation. No other changes were made to the document.",
   "modified_paragraphs": [],
   "policy_kind": "ai_terms",
   "policy_label": "Adobe Generative AI User Guidelines",

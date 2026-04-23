@@ -9,7 +9,7 @@
   "date": "2024-05-01",
   "from_date": "2024-04-10",
   "id": "anthropic-terms_of_service-2024-04-10-2024-05-01",
-  "llm_summary": null,
+  "llm_summary": "The Anthropic Consumer Terms have been updated to clarify that the contract is between users and Anthropic, not its providers, and to specify that providers are intended third-party beneficiaries of certain warranty disclaimers. Additionally, the terms now allow for manual or automatic updates to Anthropic Software without prior notice. There were also minor adjustments in language regarding user conduct and the ownership of services.",
   "modified_paragraphs": [
     {
       "after": "These Terms of Service (\u201cTerms\u201d) govern your use of Claude.ai, Claude Pro, and other products and services that we may offer for individuals (including any Anthropic API key and the Anthropic Console, when used by individuals), along with any associated apps, software, and websites (together, our \u201cServices\u201d). These Terms are a contract between you and Anthropic, PBC (and not our Providers), and they include our Acceptable Use Policy. By accessing our Services, you agree to these Terms.",

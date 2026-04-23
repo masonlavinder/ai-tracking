@@ -10,7 +10,7 @@
   "date": "2024-07-01",
   "from_date": "2024-06-01",
   "id": "amazon-privacy_policy-aws-2024-06-01-2024-07-01",
-  "llm_summary": null,
+  "llm_summary": "The AWS Privacy Notice has been updated to include additional disclosures required by various state privacy laws, specifically mentioning the California Privacy Rights Act. The categories of personal information collected and disclosed have been expanded to include gender identity, and some language has been clarified for consistency. Additionally, a paragraph regarding de-identified data has been removed, although the overall policy on de-identified data remains unchanged.",
   "modified_paragraphs": [
     {
       "after": "Categories of personal information collected. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:",

@@ -17,7 +17,7 @@
   "date": "2024-07-01",
   "from_date": "2024-06-01",
   "id": "anthropic-privacy_policy-2024-06-01-2024-07-01",
-  "llm_summary": null,
+  "llm_summary": "The updated privacy policy for Anthropic includes specific provisions for Canadian residents and clarifies the sources of personal data used for training models, which now explicitly mentions third-party data. Additionally, there are minor wording changes for clarity, such as the distinction between \"indirect identifiers\" and \"generated indirect identifiers,\" and an emphasis on user consent for data collection and processing. The policy also notes that personal data may be transferred outside Canada, including to the U.S.",
   "modified_paragraphs": [
     {
       "after": "- Identity and Contact Data: Anthropic collects identifiers, such as your name, email address, and phone number when you sign up for an Anthropic account, or to receive information on our Services. We may also collect or generate indirect identifiers (e.g., \u201cUSER12345\u201d).",

@@ -9,7 +9,7 @@
   "date": "2024-06-01",
   "from_date": "2024-05-01",
   "id": "anthropic-privacy_policy-2024-05-01-2024-06-01",
-  "llm_summary": null,
+  "llm_summary": "The updated privacy policy clarifies that it does not apply when Anthropic acts as a data processor for commercial customers, specifying that those customers are the data controllers. It also updates the contact information for the data controller, now listing Anthropic Ireland, Limited for users in the European Economic Area, UK, or Switzerland, and adds a contact for the Data Protection Officer. Additionally, the policy now states that legitimate interests may be relied upon for processing personal data when there is no direct contract with the user.",
   "modified_paragraphs": [
     {
       "after": "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic may act as a data controller and link to this Privacy Policy\u2014for example, when you interact with Claude.ai or other products as a consumer for personal use (\"Services\") or when Anthropic operates and provides our commercial customers and their end users with access to our commercial products, such as the Claude Team plan (\u201cCommercial Services\u201d).",
