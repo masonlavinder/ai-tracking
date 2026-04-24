@@ -2,6 +2,23 @@
   "changes": [
     {
       "added_count": 0,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
+      "date": "2026-04-24",
+      "from_date": "2026-04-23",
+      "id": "microsoft-terms_of_service-2026-04-23-2026-04-24",
+      "modified_count": 1,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Microsoft Services Agreement",
+      "removed_count": 0,
+      "score": 0,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-04-24",
+      "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 0,
       "company_name": "Netflix",
       "company_slug": "netflix",
       "date": "2026-04-23",
@@ -3398,5 +3415,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-04-23T07:37:33.966486+00:00"
+  "generated_at": "2026-04-24T08:05:14.903856+00:00"
 }
