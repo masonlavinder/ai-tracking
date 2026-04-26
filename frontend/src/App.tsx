@@ -7,6 +7,7 @@ import { TimelinePage } from "@pages/Timeline/Timeline";
 import { Company } from "@pages/Company/Company";
 import { Change } from "@pages/Change/Change";
 import { About } from "@pages/About/About";
+import { Learn } from "@pages/Learn/Learn";
 
 function useLastUpdated(): string | null {
   const [value, setValue] = useState<string | null>(null);
@@ -58,6 +59,9 @@ export function App() {
           <NavLink to="/timeline" className={navItemClass}>
             Timeline
           </NavLink>
+          <NavLink to="/learn" className={navItemClass}>
+            Learn
+          </NavLink>
           <NavLink to="/about" className={navItemClass}>
             About
           </NavLink>
@@ -70,6 +74,7 @@ export function App() {
           <Route path="/timeline" element={<TimelinePage />} />
           <Route path="/companies/:slug" element={<Company />} />
           <Route path="/changes/:id" element={<Change />} />
+          <Route path="/learn" element={<Learn />} />
           <Route path="/about" element={<About />} />
           <Route
             path="*"
