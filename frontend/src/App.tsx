@@ -48,7 +48,7 @@ export function App() {
         <Link to="/" className="flex items-center gap-2">
           <Logo size="sm" />
           <span className="text-lg font-semibold text-slate-900">
-            Nazar Watch
+            Watch the Diff
           </span>
         </Link>
         <nav className="flex gap-1">

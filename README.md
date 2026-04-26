@@ -1,8 +1,8 @@
-# Nazar Watch
+# Watch the Diff
 
-> *Watching what watches you.* Daily diffs of how major AI companies change their privacy and data-use policies.
+> *Track the trackers.* Daily diffs of how major AI companies change their privacy and data-use policies.
 
-*Named for the [nazar](https://en.wikipedia.org/wiki/Nazar_(amulet)) — the eye-shaped amulet kept as a ward against what you can't see.*
+*Named for the diff — the line-by-line view of what changed between two versions of a document. Companies quietly rewrite their policies all the time; this site keeps the receipts.*
 
 **Live site:** <https://masonlavinder.github.io/ai-tracking/>
 

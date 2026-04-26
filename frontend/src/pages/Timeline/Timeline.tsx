@@ -101,7 +101,7 @@ export function TimelinePage() {
               onClick={() =>
                 downloadChangesCsv(
                   filtered,
-                  `nazar-watch-timeline-${formatLocalDate(new Date())}.csv`,
+                  `watch-the-diff-timeline-${formatLocalDate(new Date())}.csv`,
                 )
               }
               disabled={filtered.length === 0}

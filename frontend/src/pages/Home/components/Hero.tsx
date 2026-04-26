@@ -7,10 +7,10 @@ export function Hero() {
         <Logo size="xl" className="shrink-0 drop-shadow-sm" />
         <div>
           <h1 className="text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl">
-            Nazar Watch
+            Watch the Diff
           </h1>
           <p className="mt-2 text-lg font-medium text-brand-700">
-            Watching what watches you.
+            Track the trackers.
           </p>
           <p className="mt-4 max-w-2xl text-base leading-relaxed text-slate-700">
             Daily, automated diffs of privacy policies and terms from the

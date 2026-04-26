@@ -1,12 +1,12 @@
 name: Suggest a company to track
-description: Propose a company whose privacy or AI-data policies should be monitored on Nazar Watch.
+description: Propose a company whose privacy or AI-data policies should be monitored on Watch the Diff.
 title: "Suggest: <company name>"
 labels: ["company-suggestion"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for suggesting a company. Nazar Watch focuses on firms whose
+        Thanks for suggesting a company. Watch the Diff focuses on firms whose
         privacy and AI-data policies materially affect large numbers of
         everyday users. Before filing, please scroll the home page to
         confirm the company isn't already tracked.

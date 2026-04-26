@@ -11,10 +11,10 @@ export function About() {
           <Logo size="lg" className="shrink-0 drop-shadow-sm" />
           <div>
             <h1 className="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">
-              About Nazar Watch
+              About Watch the Diff
             </h1>
             <p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-700">
-              Nazar Watch is an open-source project that tracks how Meta,
+              Watch the Diff is an open-source project that tracks how Meta,
               OpenAI, Anthropic, Google, Microsoft, and more revise their
               privacy policies, terms, and related disclosures over time,
               with a focus on language relevant to AI data use.
@@ -25,11 +25,10 @@ export function About() {
 
       <div className="prose prose-slate max-w-none">
       <p className="text-sm text-slate-700">
-        The name is a nod to the <em>nazar</em> — the concentric-eye amulet
-        common across the Mediterranean and Middle East, traditionally hung
-        to watch for and ward off harm. Fitting, for a site whose job is to
-        keep an eye on the companies quietly rewriting the rules for what they
-        can do with your data.
+        The name comes from the <em>diff</em> — the line-by-line view of
+        what changed between two versions of a document. Companies quietly
+        rewrite their privacy policies all the time, hoping no one notices.
+        This site keeps the receipts.
       </p>
 
       <h2 className="mt-6 text-lg font-semibold text-slate-900">
