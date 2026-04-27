@@ -1,14 +1,9 @@
-// Per-company page: corporate + stock links, policy index, change history
-// filterable by policy type, and the tag summary we can derive without
-// editorializing.
-
 import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { loadChanges, loadCompanies } from "@api";
 import type { ChangeSummary, CompanySummary } from "@types";
+import { companyContent } from "@data/companyContent";
 import { CompanyHeader } from "./components/CompanyHeader";
-import { PoliciesGrid } from "./components/PoliciesGrid";
-import { TagSummary } from "./components/TagSummary";
 import { ChangeHistorySection } from "./components/ChangeHistorySection";
 
 export function Company() {
@@ -42,12 +37,6 @@ export function Company() {
     };
   }, [slug]);
 
-  const tagsAcrossHistory = useMemo(() => {
-    const set = new Set<string>();
-    for (const c of changes) c.tags.forEach((t) => set.add(t));
-    return Array.from(set).sort();
-  }, [changes]);
-
   const policyKindOptions = useMemo<[string, string][]>(() => {
     const seen = new Map<string, string>();
     for (const c of changes) {
@@ -79,11 +68,21 @@ export function Company() {
     );
   }
 
+  const content = companyContent[slug];
+
   return (
     <div className="flex flex-col gap-8">
       <CompanyHeader company={company} />
-      <PoliciesGrid policies={company.policies} />
-      <TagSummary companyName={company.name} tags={tagsAcrossHistory} />
+      {content?.explainer && (
+        <section>
+          <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
+            About
+          </h2>
+          <p className="mt-2 text-sm leading-relaxed text-slate-700">
+            {content.explainer}
+          </p>
+        </section>
+      )}
       <ChangeHistorySection
         allChanges={changes}
         filteredChanges={filteredChanges}

@@ -22,7 +22,8 @@
       "@api/*": ["./src/api/*"],
       "@types": ["./src/types"],
       "@types/*": ["./src/types/*"],
-      "@pages/*": ["./src/pages/*"]
+      "@pages/*": ["./src/pages/*"],
+      "@data/*": ["./src/data/*"]
     }
   },
   "include": ["src", "vite.config.ts", "scripts"]

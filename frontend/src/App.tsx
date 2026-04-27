@@ -8,6 +8,8 @@ import { Company } from "@pages/Company/Company";
 import { Change } from "@pages/Change/Change";
 import { About } from "@pages/About/About";
 import { Learn } from "@pages/Learn/Learn";
+import { OptOut } from "@pages/OptOut/OptOut";
+import { NotFound } from "@pages/NotFound/NotFound";
 
 function useLastUpdated(): string | null {
   const [value, setValue] = useState<string | null>(null);
@@ -75,15 +77,9 @@ export function App() {
           <Route path="/companies/:slug" element={<Company />} />
           <Route path="/changes/:id" element={<Change />} />
           <Route path="/learn" element={<Learn />} />
+          <Route path="/opt-out" element={<OptOut />} />
           <Route path="/about" element={<About />} />
-          <Route
-            path="*"
-            element={
-              <div className="rounded-md border border-dashed border-slate-300 bg-white p-6 text-sm text-slate-500">
-                Not found. <Link to="/" className="underline">Back home</Link>.
-              </div>
-            }
-          />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
 
