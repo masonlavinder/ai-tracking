@@ -3,7 +3,7 @@
 import { Link } from "react-router-dom";
 import type { CompanySummary } from "@types";
 
-export function CompanyCard({ company }: { company: CompanySummary }) {
+export const CompanyCard = ({ company }: { company: CompanySummary }) => {
   return (
     <Link
       to={`/companies/${company.slug}`}

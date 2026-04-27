@@ -18,7 +18,7 @@ function formatDate(iso: string | null | undefined): string {
   return formatLocalDate(d);
 }
 
-export function Home() {
+export const Home = () => {
   const [timeline, setTimeline] = useState<TimelineFile | null>(null);
   const [companies, setCompanies] = useState<CompanySummary[]>([]);
   const [error, setError] = useState<string | null>(null);

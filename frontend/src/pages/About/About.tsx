@@ -3,7 +3,7 @@
 
 import Logo from "@components/Logo";
 
-export function About() {
+export const About = () => {
   return (
     <div className="flex flex-col gap-6">
       <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-100 via-white to-white px-6 py-8 sm:px-10 sm:py-10">

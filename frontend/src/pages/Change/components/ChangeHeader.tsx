@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { TagBadge } from "@components/TagBadge";
 import type { ChangeDetail } from "@types";
 
-export function ChangeHeader({ change }: { change: ChangeDetail }) {
+export const ChangeHeader = ({ change }: { change: ChangeDetail }) => {
   return (
     <header>
       <Link

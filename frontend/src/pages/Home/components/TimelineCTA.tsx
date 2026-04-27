@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export function TimelineCTA() {
+export const TimelineCTA = () => {
   return (
     <section className="rounded-lg border border-slate-200 bg-white p-5 text-sm text-slate-700">
       <div className="flex flex-wrap items-center justify-between gap-3">

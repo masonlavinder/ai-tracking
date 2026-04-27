@@ -4,7 +4,7 @@ import { CompanyCard } from "./CompanyCard";
 
 const COMPANY_PREVIEW_LIMIT = 8;
 
-export function CompaniesSection({ companies }: { companies: CompanySummary[] }) {
+export const CompaniesSection = ({ companies }: { companies: CompanySummary[] }) => {
   const [companyQuery, setCompanyQuery] = useState<string>("");
   const [companiesExpanded, setCompaniesExpanded] = useState<boolean>(false);
 

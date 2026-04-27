@@ -9,11 +9,11 @@ interface Props {
   emptyMessage?: string;
 }
 
-export function Timeline({
+export const Timeline = ({
   changes,
   hideCompany = false,
   emptyMessage = "No changes detected yet.",
-}: Props) {
+}: Props) => {
   if (changes.length === 0) {
     return (
       <div className="rounded-lg border border-dashed border-slate-300 bg-white p-8 text-center text-sm text-slate-500">

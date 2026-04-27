@@ -8,7 +8,7 @@ const SCORE_ROW_LABELS: Record<string, string> = {
   heading_keyword: "Keyword in a nearby heading",
 };
 
-export function ScoreBreakdown({ change }: { change: ChangeDetail }) {
+export const ScoreBreakdown = ({ change }: { change: ChangeDetail }) => {
   const breakdown = change.score_breakdown as unknown as Record<string, number>;
   return (
     <section>

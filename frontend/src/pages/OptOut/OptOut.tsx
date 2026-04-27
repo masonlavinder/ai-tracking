@@ -11,7 +11,7 @@ interface CompanyEntry {
   optOut: OptOutInfo;
 }
 
-function ExternalLink({ link }: { link: OptOutLink }) {
+const ExternalLink = ({ link }: { link: OptOutLink }) => {
   return (
     <div>
       <a
@@ -33,7 +33,7 @@ interface CardProps extends CompanyEntry {
   isHighlighted: boolean;
 }
 
-function CompanyOptOutCard({ company, optOut, isHighlighted }: CardProps) {
+const CompanyOptOutCard = ({ company, optOut, isHighlighted }: CardProps) => {
   return (
     <section
       id={`company-${company.slug}`}
@@ -121,7 +121,7 @@ function scrollToCompany(slug: string) {
   if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
-export function OptOut() {
+export const OptOut = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const targetSlug = searchParams.get("company");
   const [companies, setCompanies] = useState<CompanySummary[]>([]);

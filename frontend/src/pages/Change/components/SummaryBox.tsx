@@ -1,4 +1,4 @@
-export function SummaryBox({ summary }: { summary: string }) {
+export const SummaryBox = ({ summary }: { summary: string }) => {
   return (
     <section>
       <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">

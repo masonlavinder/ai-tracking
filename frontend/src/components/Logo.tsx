@@ -10,7 +10,7 @@ interface Props {
   className?: string;
 }
 
-export default function Logo({ size = "md", className }: Props) {
+const Logo = ({ size = "md", className }: Props) => {
   const px = SIZES[size];
   return (
     <svg
@@ -29,4 +29,6 @@ export default function Logo({ size = "md", className }: Props) {
       <circle cx="34" cy="30" r="1.4" fill="#ecfdf5" />
     </svg>
   );
-}
+};
+
+export default Logo;

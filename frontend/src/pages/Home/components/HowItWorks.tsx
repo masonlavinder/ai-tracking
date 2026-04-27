@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export function HowItWorks({ threshold }: { threshold: number }) {
+export const HowItWorks = ({ threshold }: { threshold: number }) => {
   return (
     <section className="rounded-lg border border-slate-200 bg-white p-5 text-sm leading-relaxed text-slate-700">
       <h2 className="text-xs font-semibold uppercase tracking-wide text-slate-500">

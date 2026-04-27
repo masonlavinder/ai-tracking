@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import type { CompanySummary } from "@types";
 import { companyContent } from "@data/companyContent";
 
-export function CompanyHeader({ company }: { company: CompanySummary }) {
+export const CompanyHeader = ({ company }: { company: CompanySummary }) => {
   const hasOptOut = Boolean(companyContent[company.slug]?.optOut);
   return (
     <header>

@@ -7,13 +7,13 @@
 
 import type { ChangeDetail } from "@types";
 
-function Block({
+const Block = ({
   kind,
   text,
 }: {
   kind: "added" | "removed" | "before" | "after";
   text: string;
-}) {
+}) => {
   const styles: Record<typeof kind, string> = {
     added: "border-emerald-300 bg-emerald-50 text-emerald-700",
     removed: "border-rose-300 bg-rose-50 text-rose-700 line-through decoration-rose-400/60",
@@ -29,7 +29,7 @@ function Block({
   );
 }
 
-function SectionLabel({ label, count }: { label: string; count: number }) {
+const SectionLabel = ({ label, count }: { label: string; count: number }) => {
   return (
     <h3 className="mt-6 flex items-baseline gap-2 text-sm font-semibold uppercase tracking-wide text-slate-700">
       {label}
@@ -38,7 +38,7 @@ function SectionLabel({ label, count }: { label: string; count: number }) {
   );
 }
 
-export function DiffViewer({ change }: { change: ChangeDetail }) {
+export const DiffViewer = ({ change }: { change: ChangeDetail }) => {
   const hasAnyContent =
     change.added_paragraphs.length +
       change.removed_paragraphs.length +

@@ -9,14 +9,14 @@ interface Props {
   setTagFilter: (value: string) => void;
 }
 
-export function FiltersBar({
+export const FiltersBar = ({
   companies,
   allTags,
   companyFilter,
   setCompanyFilter,
   tagFilter,
   setTagFilter,
-}: Props) {
+}: Props) => {
   return (
     <div className="flex flex-wrap gap-2">
       <label className="flex items-center gap-1 text-xs text-slate-600">

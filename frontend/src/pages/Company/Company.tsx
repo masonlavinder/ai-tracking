@@ -6,7 +6,7 @@ import { companyContent } from "@data/companyContent";
 import { CompanyHeader } from "./components/CompanyHeader";
 import { ChangeHistorySection } from "./components/ChangeHistorySection";
 
-export function Company() {
+export const Company = () => {
   const { slug = "" } = useParams<{ slug: string }>();
   const [company, setCompany] = useState<CompanySummary | null>(null);
   const [changes, setChanges] = useState<ChangeSummary[]>([]);

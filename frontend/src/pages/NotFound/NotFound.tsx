@@ -24,7 +24,7 @@ const destinations: { to: string; label: string; description: string }[] = [
   },
 ];
 
-export function NotFound() {
+export const NotFound = () => {
   return (
     <div className="flex flex-col gap-6">
       <section className="overflow-hidden rounded-xl border border-slate-200 bg-gradient-to-br from-brand-100 via-white to-white px-6 py-10 sm:px-10 sm:py-14">

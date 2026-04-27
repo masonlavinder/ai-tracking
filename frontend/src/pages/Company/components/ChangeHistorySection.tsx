@@ -9,13 +9,13 @@ interface Props {
   setPolicyFilter: (value: string) => void;
 }
 
-export function ChangeHistorySection({
+export const ChangeHistorySection = ({
   allChanges,
   filteredChanges,
   policyKindOptions,
   policyFilter,
   setPolicyFilter,
-}: Props) {
+}: Props) => {
   return (
     <section>
       <div className="flex flex-wrap items-center justify-between gap-3">

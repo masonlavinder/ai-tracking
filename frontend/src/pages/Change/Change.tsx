@@ -9,7 +9,7 @@ import { SummaryBox } from "./components/SummaryBox";
 import { ScoreBreakdown } from "./components/ScoreBreakdown";
 import { DiffViewer } from "./components/DiffViewer";
 
-export function Change() {
+export const Change = () => {
   const { id = "" } = useParams<{ id: string }>();
   const [change, setChange] = useState<ChangeDetail | null>(null);
   const [error, setError] = useState<string | null>(null);

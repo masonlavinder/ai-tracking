@@ -43,7 +43,7 @@ const navItemClass = ({ isActive }: { isActive: boolean }) =>
       : "text-slate-600 hover:bg-slate-200 hover:text-slate-900"
   }`;
 
-export function App() {
+export const App = () => {
   const lastUpdated = useLastUpdated();
   return (
     <div className="mx-auto flex min-h-full max-w-5xl flex-col px-4 py-6">

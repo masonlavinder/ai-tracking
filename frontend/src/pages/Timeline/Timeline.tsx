@@ -14,7 +14,7 @@ import { formatLocalDate } from "../../utils/date";
 import { FiltersBar } from "./components/FiltersBar";
 import { downloadChangesCsv } from "./csv";
 
-export function TimelinePage() {
+export const TimelinePage = () => {
   const [timeline, setTimeline] = useState<TimelineFile | null>(null);
   const [companies, setCompanies] = useState<CompanySummary[]>([]);
   const [error, setError] = useState<string | null>(null);

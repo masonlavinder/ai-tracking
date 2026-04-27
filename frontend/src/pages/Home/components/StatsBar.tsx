@@ -4,7 +4,7 @@ interface Props {
   lastUpdated: string;
 }
 
-export function StatsBar({ companyCount, totalChanges, lastUpdated }: Props) {
+export const StatsBar = ({ companyCount, totalChanges, lastUpdated }: Props) => {
   return (
     <section>
       <dl className="flex flex-wrap items-baseline gap-x-10 gap-y-3 rounded-lg border border-slate-200 bg-white px-5 py-4 text-sm">

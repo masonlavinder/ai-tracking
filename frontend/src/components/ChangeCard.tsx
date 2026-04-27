@@ -10,7 +10,7 @@ interface Props {
   hideCompany?: boolean;
 }
 
-export function ChangeCard({ change, hideCompany = false }: Props) {
+export const ChangeCard = ({ change, hideCompany = false }: Props) => {
   return (
     <Link
       to={`/changes/${encodeURIComponent(change.id)}`}

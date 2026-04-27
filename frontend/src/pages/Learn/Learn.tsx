@@ -185,7 +185,7 @@ const sections: Section[] = [
   },
 ];
 
-function ArticleCard({ article }: { article: Article }) {
+const ArticleCard = ({ article }: { article: Article }) => {
   return (
     <a
       href={article.href}
@@ -216,7 +216,7 @@ function ArticleCard({ article }: { article: Article }) {
   );
 }
 
-export function Learn() {
+export const Learn = () => {
   const [query, setQuery] = useState("");
   const [articlesExpanded, setArticlesExpanded] = useState(false);
 
