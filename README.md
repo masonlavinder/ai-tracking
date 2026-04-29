@@ -4,7 +4,7 @@
 
 *Named for the diff — the line-by-line view of what changed between two versions of a document. Companies quietly rewrite their policies all the time; this site keeps the receipts.*
 
-**Live site:** <https://masonlavinder.github.io/ai-tracking/>
+**Live site:** <https://watchthediff.knurled.studio/>
 
 [![scrape](https://github.com/masonlavinder/ai-tracking/actions/workflows/scrape.yml/badge.svg)](https://github.com/masonlavinder/ai-tracking/actions/workflows/scrape.yml)
 [![build](https://github.com/masonlavinder/ai-tracking/actions/workflows/build.yml/badge.svg)](https://github.com/masonlavinder/ai-tracking/actions/workflows/build.yml)

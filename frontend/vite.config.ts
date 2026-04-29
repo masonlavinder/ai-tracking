@@ -1,10 +1,10 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// GitHub Pages serves the site from https://<user>.github.io/ai-tracking/,
-// so assets must be prefixed with the repo name.
+// Served from the custom domain watchthediff.knurled.studio at the root,
+// so no path prefix is needed.
 export default defineConfig({
-  base: "/ai-tracking/",
+  base: "/",
   plugins: [react()],
   resolve: {
     alias: {

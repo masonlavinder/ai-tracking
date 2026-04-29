@@ -11,7 +11,7 @@ import type {
   TimelineFile,
 } from "@types";
 
-const base = import.meta.env.BASE_URL; // e.g. "/ai-tracking/"
+const base = import.meta.env.BASE_URL; // "/" in production, configured in vite.config.ts
 
 function url(path: string): string {
   const trimmedBase = base.endsWith("/") ? base.slice(0, -1) : base;

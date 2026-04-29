@@ -77,7 +77,7 @@ Guidelines:
 ## Releasing
 
 There is no release process. `main` deploys to
-[masonlavinder.github.io/ai-tracking](https://masonlavinder.github.io/ai-tracking/)
+[watchthediff.knurled.studio](https://watchthediff.knurled.studio/)
 via `.github/workflows/build.yml`.
 
 ## Reporting issues
