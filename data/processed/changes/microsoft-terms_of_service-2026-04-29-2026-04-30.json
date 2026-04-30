@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Microsoft",
+  "company_slug": "microsoft",
+  "date": "2026-04-30",
+  "from_date": "2026-04-29",
+  "id": "microsoft-terms_of_service-2026-04-29-2026-04-30",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "This is the Trace Id: 924b185ae49d6be631c3192b7c5c1af3",
+      "before": "This is the Trace Id: 14332d3f70a69e3ce3a19291a747f0fa"
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Microsoft Services Agreement",
+  "removed_paragraphs": [],
+  "score": 0,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 0,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 0
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-04-30",
+  "url": "https://www.microsoft.com/en-us/servicesagreement"
+}
