@@ -4,6 +4,23 @@
       "added_count": 0,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
+      "date": "2026-05-01",
+      "from_date": "2026-04-30",
+      "id": "microsoft-terms_of_service-2026-04-30-2026-05-01",
+      "modified_count": 1,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Microsoft Services Agreement",
+      "removed_count": 0,
+      "score": 0,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-05-01",
+      "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
       "date": "2026-04-30",
       "from_date": "2026-04-29",
       "id": "microsoft-terms_of_service-2026-04-29-2026-04-30",
@@ -3517,5 +3534,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-04-30T16:57:34.538209+00:00"
+  "generated_at": "2026-05-01T08:14:58.146544+00:00"
 }
