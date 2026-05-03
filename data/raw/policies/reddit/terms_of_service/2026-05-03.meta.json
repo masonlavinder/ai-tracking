@@ -1,0 +1,15 @@
+{
+  "byte_length": 39126,
+  "company_slug": "reddit",
+  "content_type": "text/html; charset=UTF-8",
+  "fetched_at": "2026-05-03T07:54:04.597947+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "policy_region": null,
+  "sha256": "f8aa7b3ecb72d3d91db84daabfff731b7a93c5b4ead9f0212dfabf465ec0343f",
+  "snapshot_date": "2026-05-03",
+  "source": "live",
+  "text_length": 30895,
+  "url": "https://www.redditinc.com/policies/user-agreement"
+}
