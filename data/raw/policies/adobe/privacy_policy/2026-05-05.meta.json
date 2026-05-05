@@ -1,0 +1,15 @@
+{
+  "byte_length": 16857,
+  "company_slug": "adobe",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-05-05T08:01:18.555576+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Adobe Privacy Policy",
+  "policy_region": null,
+  "sha256": "a71f009249ea81f31155e62e4e44b1ed8056b0a36c6b6ab5f6626e38635d7fd9",
+  "snapshot_date": "2026-05-05",
+  "source": "live",
+  "text_length": 12035,
+  "url": "https://www.adobe.com/privacy/policy.html"
+}
