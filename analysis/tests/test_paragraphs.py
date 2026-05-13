@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from analysis.paragraphs import is_heading, split_paragraphs
+from analysis.paragraphs import is_heading, split_paragraphs, strip_noise
 
 
 def test_split_paragraphs_separates_on_blank_lines() -> None:
@@ -39,6 +39,32 @@ def test_is_heading_positive_cases() -> None:
 def test_is_heading_negative_cases() -> None:
     assert not is_heading("we may use your content to train our models.")
     assert not is_heading("A" * 200)  # too long
+
+
+def test_strip_noise_removes_microsoft_trace_id() -> None:
+    text = (
+        "Microsoft Services Agreement\n"
+        "This is the Trace Id: 41db0ee6d8ebcac58dea80b553484fac\n"
+        "Skip to main content\n"
+    )
+    cleaned = strip_noise(text)
+    assert "Trace Id" not in cleaned
+    assert "Microsoft Services Agreement" in cleaned
+
+
+def test_split_paragraphs_ignores_microsoft_trace_id_changes() -> None:
+    """Two snapshots that differ only in the per-fetch Trace Id must
+    produce identical paragraph lists, so diff_pair yields no change."""
+    body = (
+        "Microsoft Services Agreement is a contract between you and Microsoft "
+        "that governs your use of Microsoft consumer products and services.\n"
+        "\n"
+        "Your privacy is important to us; please read the Microsoft Privacy "
+        "Statement for details about how we collect and process your data.\n"
+    )
+    a = f"This is the Trace Id: 41db0ee6d8ebcac58dea80b553484fac\n\n{body}"
+    b = f"This is the Trace Id: 10a770ce80c59615e10caa2a5cd13c21\n\n{body}"
+    assert split_paragraphs(a) == split_paragraphs(b)
 
 
 def test_split_paragraphs_fallback_when_no_blank_lines() -> None:

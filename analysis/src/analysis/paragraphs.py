@@ -18,6 +18,21 @@ _WHITESPACE_RE = re.compile(r"\s+")
 # and get dropped before diffing.
 MIN_PARAGRAPH_CHARS = 40
 
+# Per-fetch identifiers and similar boilerplate that change on every
+# render. Without stripping these first, paragraph diffing surfaces a
+# spurious "modification" for the same page on every daily scrape.
+_NOISE_PATTERNS = (
+    # Microsoft embeds a random trace id at the top of its ToS page.
+    re.compile(r"^This is the Trace Id:\s*[0-9a-fA-F]{8,}\s*$", re.MULTILINE),
+)
+
+
+def strip_noise(text: str) -> str:
+    """Remove per-render noise lines before paragraph splitting."""
+    for pattern in _NOISE_PATTERNS:
+        text = pattern.sub("", text)
+    return text
+
 
 def split_paragraphs(text: str, *, min_chars: int = MIN_PARAGRAPH_CHARS) -> list[str]:
     """Split plain text into normalized paragraphs.
@@ -36,6 +51,7 @@ def split_paragraphs(text: str, *, min_chars: int = MIN_PARAGRAPH_CHARS) -> list
     """
     if not text:
         return []
+    text = strip_noise(text)
 
     primary: list[str] = []
     for block in _BLANK_LINE_RE.split(text):

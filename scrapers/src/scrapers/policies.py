@@ -32,6 +32,17 @@ log = logging.getLogger(__name__)
 
 POLICIES_ROOT = RAW_ROOT / "policies"
 
+# Some target pages are JS-rendered SPAs that occasionally respond with an
+# unhydrated shell or a consent-wall stub. When that happens the extracted
+# text drops from ~hundreds of KB to a few KB, which would otherwise be
+# committed as today's "current" version and surface as a huge bogus diff.
+# Skip the snapshot when the extracted text is substantially smaller than
+# the recent median — the prior good snapshot stays in place until the
+# next clean fetch.
+SIZE_SANITY_RATIO = 0.5
+SIZE_SANITY_WINDOW = 10
+SIZE_SANITY_MIN_SAMPLES = 3
+
 
 @dataclass
 class SnapshotResult:
@@ -86,6 +97,60 @@ def _extract_text(html: str) -> str:
     lines = [line.strip() for line in text.splitlines()]
     cleaned = "\n".join(line for line in lines if line)
     return cleaned + "\n" if cleaned else ""
+
+
+def _looks_like_prose(text_path: Path) -> bool:
+    """Quick sanity check: does this `.txt` file contain readable text?
+
+    Trafilatura always produces "some" text — even when fed binary
+    nonsense (e.g., a brotli-encoded response we failed to decompress).
+    The result is mostly Unicode replacement characters. Counting their
+    density catches that case cheaply, without needing a real language
+    detector here.
+    """
+    try:
+        sample = text_path.read_text(encoding="utf-8", errors="strict")[:2000]
+    except (OSError, UnicodeDecodeError):
+        return False
+    if not sample:
+        return False
+    return sample.count("�") / len(sample) < 0.05
+
+
+def _recent_text_lengths(policy_dir: Path, *, window: int) -> list[int]:
+    """`text_length` from the most recent prior `.meta.json` files.
+
+    Skips snapshots whose `.txt` looks like binary garbage so a stretch
+    of bad fetches (undecoded brotli, JS-render misses, etc.) can't
+    poison the median used by the stub-detection check.
+    """
+    if not policy_dir.is_dir():
+        return []
+    lengths: list[int] = []
+    for path in reversed(sorted(policy_dir.glob("*.meta.json"))):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as err:
+            log.warning("Could not read %s: %s", path, err)
+            continue
+        value = data.get("text_length")
+        if not (isinstance(value, int) and value > 0):
+            continue
+        text_path = path.with_name(path.name.replace(".meta.json", ".txt"))
+        if not _looks_like_prose(text_path):
+            continue
+        lengths.append(value)
+        if len(lengths) >= window:
+            break
+    return lengths
+
+
+def _is_stub_fetch(text_length: int, priors: list[int]) -> tuple[bool, int | None]:
+    """Whether `text_length` looks like a truncated fetch given recent priors."""
+    if len(priors) < SIZE_SANITY_MIN_SAMPLES:
+        return False, None
+    median = sorted(priors)[len(priors) // 2]
+    return text_length < median * SIZE_SANITY_RATIO, median
 
 
 def _latest_prior_hash(policy_dir: Path) -> str | None:
@@ -168,6 +233,29 @@ def save_snapshot_if_changed(
 
     html = html_bytes.decode("utf-8", errors="replace")
     text = _extract_text(html)
+
+    priors = _recent_text_lengths(policy_dir, window=SIZE_SANITY_WINDOW)
+    is_stub, median = _is_stub_fetch(len(text), priors)
+    if is_stub:
+        log.warning(
+            "Refusing %s snapshot: text length %d below %.0f%% of median %d",
+            policy_dir,
+            len(text),
+            SIZE_SANITY_RATIO * 100,
+            median,
+        )
+        return SnapshotResult(
+            company_slug=company.slug,
+            policy_kind=policy.kind,
+            url=url,
+            snapshot_path=None,
+            status="skipped",
+            detail=(
+                f"stub fetch: text length {len(text)} below "
+                f"{SIZE_SANITY_RATIO:.0%} of recent median {median}"
+            ),
+        )
+
     meta: dict[str, object] = {
         "company_slug": company.slug,
         "policy_kind": policy.kind,

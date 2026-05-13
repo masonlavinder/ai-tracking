@@ -39,6 +39,36 @@ BROWSER_USER_AGENT: Final = (
     "Chrome/129.0.0.0 Safari/537.36"
 )
 
+def _supported_accept_encoding() -> str:
+    """Advertise only the content-encodings we can actually decode.
+
+    httpx delegates decompression to optional packages — brotli for `br`,
+    zstandard for `zstd`. If we advertise an encoding without the
+    corresponding decoder installed, the server may pick it and httpx
+    silently hands us the compressed bytes, which then get saved to disk
+    as garbage. Build the header from what we can prove we can decode.
+    """
+    encodings = ["gzip", "deflate"]
+    try:
+        import brotli  # type: ignore[import-not-found]  # noqa: F401
+    except ImportError:
+        try:
+            import brotlicffi  # type: ignore[import-not-found]  # noqa: F401
+        except ImportError:
+            pass
+        else:
+            encodings.append("br")
+    else:
+        encodings.append("br")
+    try:
+        import zstandard  # type: ignore[import-not-found]  # noqa: F401
+    except ImportError:
+        pass
+    else:
+        encodings.append("zstd")
+    return ", ".join(encodings)
+
+
 # Headers real browsers send that also help get through naive WAF rules.
 BROWSER_HEADERS: Final[dict[str, str]] = {
     "Accept": (
@@ -46,7 +76,7 @@ BROWSER_HEADERS: Final[dict[str, str]] = {
         "image/avif,image/webp,*/*;q=0.8"
     ),
     "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Encoding": _supported_accept_encoding(),
     "Upgrade-Insecure-Requests": "1",
     "Sec-Fetch-Dest": "document",
     "Sec-Fetch-Mode": "navigate",

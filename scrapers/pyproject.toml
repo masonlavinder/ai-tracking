@@ -10,6 +10,11 @@ dependencies = [
     "pyyaml>=6.0",
     "pydantic>=2.7",
     "trafilatura>=1.12",
+    # Required so httpx can decode brotli-encoded responses. Some target
+    # CDNs (notably PayPal) serve `Content-Encoding: br` based on
+    # opaque routing rules; without this, httpx writes the compressed
+    # bytes straight to disk and trafilatura then extracts garbage.
+    "brotli>=1.1",
 ]
 
 [project.optional-dependencies]

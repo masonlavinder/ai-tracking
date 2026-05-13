@@ -158,6 +158,96 @@ def test_fetch_policy_writes_new_snapshot_when_content_changes(
     assert htmls == ["2026-04-18.html", "2026-04-19.html"]
 
 
+def test_fetch_policy_skips_stub_response(
+    tmp_path: Path, sample_html: bytes, company: Company
+) -> None:
+    """A response whose extracted text is far smaller than recent priors
+    (JS-rendered SPA caught pre-hydration, consent-wall stub) should be
+    refused so the prior good snapshot stays current."""
+    # Seed a few full-sized prior snapshots so the median is defined.
+    for date in ("2026-04-16", "2026-04-17", "2026-04-18"):
+        client = _FakeClient(
+            {"https://example.com/privacy": _FakeResponse(sample_html)}
+        )
+        # Each prior fetch needs unique content to avoid the unchanged-hash
+        # short-circuit; tweak a benign substring per day.
+        tweaked = sample_html.replace(b"24 months", f"{date}-months".encode())
+        client = _FakeClient(
+            {"https://example.com/privacy": _FakeResponse(tweaked)}
+        )
+        policies.fetch_policy(
+            client,  # type: ignore[arg-type]
+            company,
+            company.policy_urls[0],
+            root=tmp_path,
+            now=datetime.fromisoformat(date).replace(tzinfo=UTC),
+        )
+
+    stub_html = b"<html><body><p>Loading...</p></body></html>"
+    client = _FakeClient({"https://example.com/privacy": _FakeResponse(stub_html)})
+    result = policies.fetch_policy(
+        client,  # type: ignore[arg-type]
+        company,
+        company.policy_urls[0],
+        root=tmp_path,
+        now=datetime(2026, 4, 19, tzinfo=UTC),
+    )
+
+    assert result.status == "skipped"
+    assert "stub fetch" in result.detail
+    # No 04-19 snapshot was written.
+    htmls = sorted(
+        p.name for p in (tmp_path / "example" / "privacy_policy").glob("*.html")
+    )
+    assert "2026-04-19.html" not in htmls
+
+
+def test_size_check_ignores_binary_garbage_priors(
+    tmp_path: Path, sample_html: bytes, company: Company
+) -> None:
+    """Priors whose `.txt` file is binary noise (e.g., undecoded brotli we
+    used to save before the encoding fix) must not skew the median, or
+    the first clean fetch after the fix would itself be rejected."""
+    policy_dir = tmp_path / "example" / "privacy_policy"
+    policy_dir.mkdir(parents=True)
+    # Plant three "prior" snapshots that look superficially large (high
+    # text_length in meta) but whose .txt is replacement-char garbage.
+    for date in ("2026-04-16", "2026-04-17", "2026-04-18"):
+        (policy_dir / f"{date}.txt").write_text("�" * 50000, encoding="utf-8")
+        (policy_dir / f"{date}.meta.json").write_text(
+            json.dumps({"text_length": 50000, "sha256": "deadbeef" * 8})
+        )
+        (policy_dir / f"{date}.html").write_bytes(b"\x8b\xff\x0f\x00" * 1000)
+
+    # Now a fetch returning real, clean policy text — much shorter than
+    # the garbage priors' nominal length.
+    client = _FakeClient({"https://example.com/privacy": _FakeResponse(sample_html)})
+    result = policies.fetch_policy(
+        client,  # type: ignore[arg-type]
+        company,
+        company.policy_urls[0],
+        root=tmp_path,
+        now=datetime(2026, 4, 19, tzinfo=UTC),
+    )
+    assert result.status == "written"
+
+
+def test_fetch_policy_no_stub_check_without_enough_priors(
+    tmp_path: Path, company: Company
+) -> None:
+    """First few fetches must not be gated — the median is not yet defined."""
+    tiny_html = b"<html><body><p>Initial policy text just getting started.</p></body></html>"
+    client = _FakeClient({"https://example.com/privacy": _FakeResponse(tiny_html)})
+    result = policies.fetch_policy(
+        client,  # type: ignore[arg-type]
+        company,
+        company.policy_urls[0],
+        root=tmp_path,
+        now=datetime(2026, 4, 19, tzinfo=UTC),
+    )
+    assert result.status == "written"
+
+
 def test_extract_text_strips_scripts_and_returns_body_text() -> None:
     html = (
         "<html><body><p>Hello world, this is body content.</p>"
