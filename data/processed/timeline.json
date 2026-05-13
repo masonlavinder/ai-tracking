@@ -600,7 +600,7 @@
       "date": "2025-10-01",
       "from_date": "2025-09-01",
       "id": "microsoft-terms_of_service-2025-09-01-2025-10-01",
-      "modified_count": 41,
+      "modified_count": 40,
       "policy_kind": "terms_of_service",
       "policy_label": "Microsoft Services Agreement",
       "removed_count": 119,
@@ -2497,6 +2497,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-05-12T08:43:59.100289+00:00",
+  "generated_at": "2026-05-13T00:45:54.882757+00:00",
   "threshold": 4
 }

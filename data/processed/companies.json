@@ -163,22 +163,22 @@
         }
       ],
       "recent_change_ids": [
-        "microsoft-terms_of_service-2026-05-11-2026-05-12",
-        "microsoft-terms_of_service-2026-05-10-2026-05-11",
-        "microsoft-terms_of_service-2026-05-09-2026-05-10",
-        "microsoft-terms_of_service-2026-05-08-2026-05-09",
-        "microsoft-terms_of_service-2026-05-07-2026-05-08",
-        "microsoft-terms_of_service-2026-05-06-2026-05-07",
-        "microsoft-terms_of_service-2026-05-05-2026-05-06",
-        "microsoft-terms_of_service-2026-05-04-2026-05-05",
-        "microsoft-terms_of_service-2026-05-03-2026-05-04",
-        "microsoft-terms_of_service-2026-05-02-2026-05-03"
+        "microsoft-privacy_policy-2024-10-01-2026-04-19",
+        "microsoft-terms_of_service-2026-01-01-2026-02-01",
+        "microsoft-terms_of_service-2025-10-01-2025-11-01",
+        "microsoft-terms_of_service-2025-09-01-2025-10-01",
+        "microsoft-terms_of_service-2025-05-01-2025-06-01",
+        "microsoft-terms_of_service-2025-01-01-2025-02-01",
+        "microsoft-terms_of_service-2024-09-01-2024-10-01",
+        "microsoft-privacy_policy-2024-08-01-2024-09-01",
+        "microsoft-privacy_policy-2024-06-01-2024-07-01",
+        "microsoft-privacy_policy-2024-04-08-2024-05-01"
       ],
       "sec_cik": "0000789019",
       "slug": "microsoft",
       "stock_url": "https://finance.yahoo.com/quote/MSFT",
       "ticker": "MSFT",
-      "total_changes": 39
+      "total_changes": 10
     },
     {
       "homepage_url": "https://www.apple.com/",
@@ -600,5 +600,5 @@
       "total_changes": 1
     }
   ],
-  "generated_at": "2026-05-12T08:43:59.100289+00:00"
+  "generated_at": "2026-05-13T00:45:54.882757+00:00"
 }

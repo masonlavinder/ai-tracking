@@ -8,10 +8,6 @@
   "llm_summary": null,
   "modified_paragraphs": [
     {
-      "after": "This is the Trace Id: 7ea726ca6ab5c03bc8f9903c1cdc6f74",
-      "before": "This is the Trace Id: ed4d380d0ad8231c37727f8627534cf1"
-    },
-    {
       "after": "The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services (including related support).",
       "before": "The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services."
     }

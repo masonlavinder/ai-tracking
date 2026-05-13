@@ -8,10 +8,6 @@
   "llm_summary": null,
   "modified_paragraphs": [
     {
-      "after": "This is the Trace Id: 392cbf1427c8cbd57e84dcdbe0247739",
-      "before": "This is the Trace Id: 804a5512a254aa30fde273910c57ba39"
-    },
-    {
       "after": "(https://www.microsoft.com/en-us/power-platform/business-applications/legal).",
       "before": "(https://powerplatform.microsoft.com/en-us/business-applications/legal/)."
     },
