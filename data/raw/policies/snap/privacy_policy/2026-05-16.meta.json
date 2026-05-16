@@ -1,0 +1,15 @@
+{
+  "byte_length": 893313,
+  "company_slug": "snap",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-05-16T07:56:21.992753+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Snap Privacy Policy",
+  "policy_region": null,
+  "sha256": "12171e5449edf312c8e0686f7da9fedde3cf50b73377e3f719ed903eb8106a61",
+  "snapshot_date": "2026-05-16",
+  "source": "live",
+  "text_length": 31089,
+  "url": "https://values.snap.com/privacy/privacy-policy"
+}

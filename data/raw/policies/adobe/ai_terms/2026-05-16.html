@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Adobe Generative AI User Guidelines | Adobe Legal</title>
+    <link rel="canonical" href="https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html">
+    <meta name="description" content="Learn about Adobe&#x27;s Generative AI User Guidelines, including licensing terms, usage policies, and best practices for responsible AI-generated content.">
+    <meta property="og:title" content="Adobe Generative AI User Guidelines | Adobe Legal">
+    <meta property="og:description" content="Learn about Adobe&#x27;s Generative AI User Guidelines, including licensing terms, usage policies, and best practices for responsible AI-generated content.">
+    <meta property="og:image" content="">
+    <meta property="og:image:secure_url" content="">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Adobe Generative AI User Guidelines | Adobe Legal">
+    <meta name="twitter:description" content="Learn about Adobe&#x27;s Generative AI User Guidelines, including licensing terms, usage policies, and best practices for responsible AI-generated content.">
+    <meta name="twitter:image" content="">
+    <meta name="personalization-v2" content="#VALUE!">
+    <meta name="hreflinksuseragents" content="Googlebot, Tokowaka, ChatGPT-User, Google-InspectionTool">
+    <meta name="mobile-gnav-v2" content="on">
+    <meta name="footer" content="global-footer">
+    <meta name="header" content="global-navigation">
+    <meta name="universal-nav" content="profile, appswitcher, notifications, cart">
+    <meta name="adobe-home-redirect" content="on">
+    <meta name="m7-pa-code" content="ccsn_direct_individual">
+    <meta name="m7-checkout-client-id" content="acom_biz">
+    <meta name="gnav-source" content="/cc-shared/gnav/localnav-legal">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="head-loaded" content="false">
+    <style>
+  body {
+    display: none;
+  }
+  .reading-width {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  .reading-width-footer-tag {
+    max-width: 800px;
+    margin: -20px auto;
+    padding: 0 20px 20px;
+  }
+
+  .reading-width-footer-tag > .content {
+    max-width: var(--grid-container-width);
+    margin: 0 auto;
+  }
+  /* TODO: Remove once style is handled in merch */
+  :root:has(meta[name='theme'][content='max25']) {
+    @media screen and (max-width: 767px) {
+      .two-merch-cards.mini-compare-chart,
+      .three-merch-cards.mini-compare-chart,
+      .four-merch-cards.mini-compare-chart {
+        grid-template-columns: 310px;
+      }
+    }
+
+    @media screen and (min-width: 768px) {
+      .three-merch-cards.mini-compare-chart,
+      .four-merch-cards.mini-compare-chart {
+        grid-template-columns: repeat(2, 310px);
+      }
+    }
+
+    @media screen and (min-width: 1200px) {
+      .three-merch-cards.mini-compare-chart,
+      .four-merch-cards.mini-compare-chart {
+        grid-template-columns: repeat(3, 310px);
+      }
+    }
+
+    @media screen and (min-width: 1600px) {
+      .four-merch-cards.mini-compare-chart {
+        grid-template-columns: repeat(4, 336px);
+      }
+    }
+  }
+</style>
+    <script src="/creativecloud/scripts/fallback.js" nomodule></script>
+    <script type="module">
+  const userAgentMeta = document.querySelector('meta[name="hreflinksuseragents"]');
+  const allowedAgents = userAgentMeta && userAgentMeta.content.split(',');
+  const userAgentString = window.navigator.userAgent;
+  const isAllowedAgent = allowedAgents && allowedAgents.some((agent) => userAgentString.includes(agent.trim()));
+
+  const flagMeta = document.querySelector('meta[name="head-loaded"]');
+  const headAlreadyLoaded = flagMeta.content === 'true';
+  const LOCALES = ['ae_ar', 'ae_en', 'africa', 'ar', 'at', 'au', 'be_en', 'be_fr', 'be_nl', 'bg', 'br', 'ca_fr', 'ca', 'ch_de', 'ch_fr', 'ch_it', 'cl', 'cn', 'co', 'cr', 'cy_en', 'cz', 'de', 'dk', 'ec', 'ee', 'eg_ar', 'eg_en', 'el', 'es', 'fi', 'fr', 'gr_el', 'gr_en', 'gt', 'hk_en', 'hk_zh', 'hu', 'id_en', 'id_id', 'ie', 'il_en', 'il_he', 'in_hi', 'in', 'it', 'jp', 'kr', 'kw_ar', 'kw_en', 'la', 'lt', 'lu_de', 'lu_en', 'lu_fr', 'lv', 'mena_ar', 'mena_en', 'mt', 'mx', 'my_en', 'my_ms', 'ng', 'nl', 'no', 'nz', 'pe', 'ph_en', 'ph_fil', 'pl', 'pr', 'pt', 'qa_ar', 'qa_en', 'ro', 'ru', 'sa_ar', 'sa_en', 'se', 'sg', 'si', 'sk', 'th_en', 'th_th', 'tr', 'tw', 'ua', 'uk', 'vn_en', 'vn_vi', 'za'];
+
+  (() => {
+    function buildLink(language, url) {
+      const link = document.createElement('link');
+      link.setAttribute('rel', 'alternate');
+      link.setAttribute('hreflang', language);
+      link.setAttribute('href', url);
+      return link;
+    }
+
+    async function fetchAndParseSitemap() {
+      const sitemapOrigin = 'https://www.adobe.com';
+      const { origin, pathname } = window.location;
+
+      let sitemapPath = '/cc-shared/assets/sitemap.xml';
+      const localeMatch = LOCALES.find(locale => pathname.startsWith(`/${locale}/`));
+
+      if (localeMatch) {
+        sitemapPath = `/${localeMatch}/cc-shared/assets/sitemap.xml`;
+      }
+      
+      try {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 5000);
+        let response;
+        try {
+          response = await fetch(`${origin}${sitemapPath}`, { signal: controller.signal });
+        } finally {
+          clearTimeout(timeoutId);
+        }
+        if (!response.ok) {
+          console.warn('Failed to fetch sitemap:', response.status);
+          return;
+        }
+        
+        const xmlText = await response.text();
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+        const parseError = xmlDoc.querySelector('parsererror');
+        if (parseError) {
+          return;
+        }
+        
+        const urlElements = xmlDoc.querySelectorAll('url');
+        let currentUrlElement = null;
+        const correctedPath = pathname.endsWith('.html') ? pathname : `${pathname}.html`;
+        const isLocalRoot = localeMatch && `${sitemapOrigin}/${localeMatch}/` === `${sitemapOrigin}${pathname}`;
+        const rootPage = isLocalRoot ? `${sitemapOrigin}/${localeMatch}/` : `${sitemapOrigin}/`; 
+        const currentPageUrl = pathname !== '/' && pathname !== `/${localeMatch}/` ? `${sitemapOrigin}${correctedPath}` : `${rootPage}`;
+
+        for (const urlElement of urlElements) {
+          const loc = urlElement.querySelector('loc')?.textContent;
+          if (loc === currentPageUrl || loc === currentPageUrl.replace(/\/$/, '')) {
+            currentUrlElement = urlElement;
+            break;
+          }
+        }
+        
+        if (!currentUrlElement) {
+          console.warn('Current page not found in sitemap');
+          return;
+        }
+        
+        const alternateLinks = currentUrlElement.querySelectorAll('link[rel="alternate"]');
+        const linkElements = [];
+
+        alternateLinks.forEach(altLink => {
+          const hreflang = altLink.getAttribute('hreflang');
+          const href = altLink.getAttribute('href');
+          
+          if (hreflang && href) {
+            linkElements.push(buildLink(hreflang, href));
+          }
+        });
+        
+        const titleElement = document.head.querySelector('title');
+        if (linkElements.length > 0 && titleElement) {
+          titleElement.after(...linkElements);
+        }
+      } catch (error) {
+        console.error('Error fetching or parsing sitemap:', error);
+      }
+    } 
+
+    if (isAllowedAgent && !headAlreadyLoaded) {
+      fetchAndParseSitemap();
+    }
+  })();
+
+  import { scriptInit } from '/creativecloud/scripts/utils.js';
+  scriptInit();
+
+  flagMeta.content = 'true';
+</script>
+    <link rel="icon" href="data:,">
+  <script >bazadebezolkohpepadr="1217866074"</script><script type="text/javascript" src="https://www.adobe.com/akam/13/48972958"  defer></script></head>
+  <body>
+    <header></header>
+    <main>
+      <div>
+        <div class="text xl-spacing xl-heading l-lockup">
+          <div>
+            <div><a href="/cc-shared/assets/img/product-icons/svg/adobe-corp-logo-2024.svg">https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/adobe-corp-logo-2024.svg</a></div>
+          </div>
+        </div>
+        <div class="text m-body l-spacing-bottom xl-heading">
+          <div>
+            <div>
+              <h1 id="adobe-generative-ai-user-guidelines">Adobe Generative AI User Guidelines</h1>
+              <p>Last Updated: May 15, 2026</p>
+              <p>These Generative AI User Guidelines (“<strong>Guidelines</strong>”) govern your use of Adobe’s generative AI features. We reserve the right to disable accounts for any violation of these Guidelines.</p>
+            </div>
+          </div>
+        </div>
+        <div class="text m-body l-spacing-bottom">
+          <div>
+            <div>
+              <h2 id="be-respectful-and-safe">1. Be Respectful and Safe</h2>
+              <p>Do not use Adobe’s generative AI features in a way that violates applicable laws or harms others. For example, you must not:</p>
+              <ul>
+                <li>Create pornographic material or explicit nudity</li>
+                <li>Create hateful or highly offensive content that attacks or dehumanizes a group based on race, ethnicity, national origin, religion, serious disease or disability, gender, age, or sexual orientation</li>
+                <li>Glorify graphic violence or gore</li>
+                <li>Promote self-harm</li>
+                <li>Depict nude minors or minors in a sexual manner</li>
+                <li>Promote terrorism or violent extremism</li>
+                <li>Disseminate misleading, fraudulent, or deceptive content that could lead to real-world harm</li>
+                <li>Violate others’ privacy rights</li>
+                <li>Engage in regulated activities without complying with applicable requirements</li>
+              </ul>
+              <p>You must not engage in behavior that is deceptive or harmful, including:</p>
+              <ul>
+                <li>Using fake, misleading, or inaccurate information in your profile</li>
+                <li>Impersonating other people or entities</li>
+                <li>Using unauthorized automated or scripting processes (such as bulk or automated uploading of content through a script)</li>
+                <li>Engaging in schemes or third-party services to boost account engagement (artificially increasing the number of appreciations, views, or other metrics)</li>
+              </ul>
+              <p>Your prompts and inputs to, and the results generated by, generative AI features in Adobe products may be reviewed through both automated (such as machine learning) and manual methods for abuse prevention and content filtering purposes.</p>
+              <p>If you believe there has been a violation, please report it by contacting us at <a href="mailto:abuse@adobe.com">abuse@adobe.com</a>. We may report any material exploiting minors to the National Center of Missing &#x26; Exploited Children (NCMEC).</p>
+              <h2 id="be-respectful-of-third-party-rights">2. Be Respectful of Third-Party Rights</h2>
+              <p>Using Adobe’s generative AI features to create, upload, or share content that violates third-party copyright, trademark, privacy, publicity, or other rights is prohibited. This may include entering text prompts designed to generate copyrighted, trademarked, or otherwise infringing content, uploading an input or reference image that includes a third party’s copyrighted content, generating text that plagiarizes third-party content, or using a third party’s personal information in violation of their privacy or data protection rights.</p>
+              <p>If you want to report the misuse of your own creative work or your own intellectual property by one of our users, you can do that by referencing our <a href="https://www.adobe.com/legal/dmca.html">Intellectual Property Removal Policy</a> and filling out this form: <a href="https://www.adobe.com/legal/dmca.html">https://www.adobe.com/legal/dmca.html</a>.</p>
+              <p>If you have a contract or other dispute with an Adobe user regarding content they have uploaded to our products and services, please resolve the issue directly with the user. We can’t moderate contract, employment, or other disputes between our users and the public.</p>
+              <h2 id="customized-generative-ai-features"><strong>3. Customized Generative AI Features</strong></h2>
+              <p>You may have the ability to customize and share generative AI features (such as AI assistants). If you choose to make a customized feature available to others, you are responsible for how it is configured, deployed, and used, including ensuring compliance with applicable laws and regulations. This includes making sure your customized feature is not configured to do any of the following:</p>
+              <ul>
+                <li>Simulate a human-like emotional relationship with a user</li>
+                <li>Cause or exacerbate a physical or psychological condition</li>
+                <li>Make decisions related to employment, education, access to essential benefits or services (such as housing), or the administration of justice</li>
+              </ul>
+              <h2 id="use-your-judgment"><strong>4. Use Your Judgment</strong></h2>
+              <p>Outputs from generative AI features may be inaccurate, misleading, customized by other users, or include content that does not represent Adobe’s views. Quality may be reduced for languages not explicitly supported by Adobe, and outputs in such languages may not meet our quality standards. Please use your judgment when reviewing and validating generated outputs.</p>
+              <p>Do not input sensitive personal information (such as health records, personal or governmental addresses, or precise location information) to our generative AI features, unless the product is designed to process that type of information.</p>
+              <h2 id="no-professional-advice"><strong>5. No Professional Advice</strong></h2>
+              <p>Outputs from generative AI features are for informational purposes only and do not constitute legal, medical, financial or other professional advice. Use of these features does not create a professional relationship (such as an attorney-client relationship).</p>
+              <h2 id="content-credentials">6. <strong>Content Credentials</strong></h2>
+              <p>Adobe may attach or publish Content Credentials for content created or modified with generative AI features to let people know it was generated with or modified by AI. You must not remove, alter, or disable any Content Credentials.  <a href="https://helpx.adobe.com/creative-cloud/help/content-credentials.html">Learn more about Content Credentials</a>.</p>
+            </div>
+          </div>
+        </div>
+        <div class="breadcrumbs">
+          <div>
+            <div>
+              <ul>
+                <li><a href="https://www.adobe.com/">Home</a></li>
+                <li><a href="https://www.adobe.com/legal.html">Legal</a></li>
+                <li>Product Licenses and Terms of Use</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer></footer>
+  <noscript><img src="https://www.adobe.com/akam/13/pixel_48972958?a=dD1jNGI2MTg3YWE1MGJkYzMyZDhmMGQxNDg1ZmMzN2ZlNTJlNDgyMGMzJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+</html>
