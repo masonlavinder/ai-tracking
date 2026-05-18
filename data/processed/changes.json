@@ -1,6 +1,43 @@
 {
   "changes": [
     {
+      "added_count": 0,
+      "company_name": "PayPal",
+      "company_slug": "paypal",
+      "date": "2026-05-18",
+      "from_date": "2026-05-17",
+      "id": "paypal-privacy_policy-us-2026-05-17-2026-05-18",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "PayPal Privacy Statement (US)",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-05-18",
+      "url": "https://www.paypal.com/us/legalhub/privacy-full"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2026-05-18",
+      "from_date": "2026-05-17",
+      "id": "amazon-privacy_policy-aws-2026-05-17-2026-05-18",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 1,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-05-18",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
       "added_count": 8,
       "company_name": "Adobe",
       "company_slug": "adobe",
@@ -3304,5 +3341,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-05-17T08:25:28.823734+00:00"
+  "generated_at": "2026-05-18T10:00:14.165921+00:00"
 }

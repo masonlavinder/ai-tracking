@@ -1,0 +1,36 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2026-05-18",
+  "from_date": "2026-05-17",
+  "id": "amazon-privacy_policy-aws-2026-05-17-2026-05-18",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 1-3-1 Azabudai, Minato-ku, Tokyo 106-0041 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc.",
+      "before": "Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc."
+    },
+    {
+      "after": "You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please contact us through your AWS Account (for AWS customers) or send us a letter at Amazon Web Services Japan G.K., 1-3-1 Azabudai, Minato-ku, Tokyo 106-0041 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan).",
+      "before": "You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please contact us through your AWS Account (for AWS customers) or send us a letter at Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan)."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "removed_paragraphs": [
+    "To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don\u2019t share your name or other information that directly identifies you when we do this. Instead, we use an identifier like a cookie or a unique code derived from your contact information (such as a hashed email address). If you want to adjust your personalized advertising preferences, refer to the \u201cAccess and Choice\u201d section below."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-05-18",
+  "url": "https://aws.amazon.com/privacy/"
+}
